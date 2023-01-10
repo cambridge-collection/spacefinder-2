@@ -1,0 +1,74 @@
+{
+    "id": 1,
+    "published": true,
+    "title": "Fox and Goose",
+    "slug": "",
+    "description": "",
+    "image": "",
+    "imagealt": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-2.0213368062208645,53.74200087545387]}",
+    "url": "http://www.foxandgoose.org/",
+    "url_text": "Visit the  web site",
+    "phone_number": "01422648052",
+    "phone_text": "",
+    "email": "info@foxandgoose.org",
+    "address": "Heptonstall Road, Hebden Bridge HX7 6AZ",
+    "facebook_url": "https://www.facebook.com/foxgoosehebden/",
+    "twitter_url": "https://twitter.com/foxgoosehebden",
+    "instagram_url": "https://www.instagram.com/p/B-U3IgKn6_H/?utm_source=ig_web_button_share_sheet",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "16:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "22:30"
+        }
+    },
+    "facilities": [
+        "food",
+        "garden",
+        "views",
+        "wifi",
+        "signal",
+        "toilets",
+        "wheelchair_accessible",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "baby_changing",
+        "accessible_toilets"
+    ],
+    "atmosphere": [
+        "friendly",
+        "social",
+        "relaxed"
+    ]
+}

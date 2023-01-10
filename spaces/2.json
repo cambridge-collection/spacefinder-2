@@ -1,0 +1,74 @@
+{
+    "id": 2,
+    "published": true,
+    "title": "Stubbing Wharf",
+    "slug": "",
+    "description": "",
+    "image": "",
+    "imagealt": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-2.027610493036814,53.74085395186616]}",
+    "url": "https://www.greatukpubs.co.uk/stubbing-wharf-hebden-bridge",
+    "url_text": "Visit the  web site",
+    "phone_number": "01422411384",
+    "phone_text": "",
+    "email": "StubbingWharf.HebdenBridge@stonegategroup.co.uk",
+    "address": "King St, Halifax Rd, Hebden Bridge HX7 6LU",
+    "facebook_url": "https://www.facebook.com//thestubbingwharf/",
+    "twitter_url": "",
+    "instagram_url": "",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "11:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        }
+    },
+    "facilities": [
+        "food",
+        "garden",
+        "views",
+        "wifi",
+        "signal",
+        "toilets",
+        "wheelchair_accessible",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "baby_changing",
+        "accessible_toilets"
+    ],
+    "atmosphere": [
+        "friendly",
+        "social",
+        "relaxed"
+    ]
+}

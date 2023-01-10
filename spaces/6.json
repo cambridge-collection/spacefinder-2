@@ -1,0 +1,74 @@
+{
+    "id": 6,
+    "published": true,
+    "title": "Vocation",
+    "slug": "",
+    "description": "",
+    "image": "",
+    "imagealt": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-2.011475415428787,53.74061153753663]}",
+    "url": "https://www.vocationbrewery.com/pages/vocation-co",
+    "url_text": "Visit the  web site",
+    "phone_number": "01422844838",
+    "phone_text": "",
+    "email": "hebden@vocationbrewery.com",
+    "address": "10 New Rd, Hebden Bridge HX7 8AD",
+    "facebook_url": "https://www.facebook.com/VocationandCo.HBD/",
+    "instagram_url": "https://www.instagram.com/vocationandcohebden/",
+    "twitter_url": "",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        }
+    },
+    "facilities": [
+        "food",
+        "garden",
+        "views",
+        "wifi",
+        "signal",
+        "toilets",
+        "wheelchair_accessible",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "baby_changing",
+        "accessible_toilets"
+    ],
+    "atmosphere": [
+        "friendly",
+        "social",
+        "relaxed"
+    ]
+}

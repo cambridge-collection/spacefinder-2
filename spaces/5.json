@@ -1,0 +1,74 @@
+{
+    "id": 5,
+    "published": true,
+    "title": "Nightjar",
+    "slug": "",
+    "description": "",
+    "image": "",
+    "imagealt": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-2.0125855716786347,53.740682869234156]}",
+    "url": "https://nightjarhebden.co.uk/",
+    "url_text": "Visit the  web site",
+    "phone_number": "01422713015",
+    "phone_text": "",
+    "email": "bar@nightjarhebden.co.uk",
+    "address": "Hebden Bridge Picture House, New Rd, Hebden Bridge HX7 8AD",
+    "facebook_url": "https://www.facebook.com/Nightjar-136472583560520/?fref=mentions",
+    "instagram_url": "",
+    "twitter_url": "https://twitter.com/nightjarhebden",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": true,
+            "from": "16:00",
+            "to": "22:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "16:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "13:00",
+            "to": "23:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "13:00",
+            "to": "23:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "13:00",
+            "to": "22:00"
+        }
+    },
+    "facilities": [
+        "food",
+        "garden",
+        "views",
+        "wifi",
+        "signal",
+        "toilets",
+        "wheelchair_accessible",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "baby_changing",
+        "accessible_toilets"
+    ],
+    "atmosphere": [
+        "friendly",
+        "social",
+        "relaxed"
+    ]
+}

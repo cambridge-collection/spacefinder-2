@@ -1,0 +1,74 @@
+{
+    "id": 3,
+    "published": true,
+    "title": "Drink",
+    "slug": "",
+    "description": "",
+    "image": "",
+    "imagealt": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-2.0154930863401628,53.741290443698595]}",
+    "url": "https://linktr.ee/drinkhebden",
+    "url_text": "Visit the  web site",
+    "phone_number": "01422844366",
+    "phone_text": "",
+    "email": "drinkhebden@gmail.com",
+    "address": "15 Market St, Hebden Bridge HX7 6EU",
+    "facebook_url": "https://www.facebook.com/drinkhbridge",
+    "twitter_url": "",
+    "instagram_url": "https://instagram.com/hebden_drinkers",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "22:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "22:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "14:00",
+            "to": "22:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "22:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "22:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "18:00"
+        }
+    },
+    "facilities": [
+        "food",
+        "garden",
+        "views",
+        "wifi",
+        "signal",
+        "toilets",
+        "wheelchair_accessible",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "baby_changing",
+        "accessible_toilets"
+    ],
+    "atmosphere": [
+        "friendly",
+        "social",
+        "relaxed"
+    ]
+}
