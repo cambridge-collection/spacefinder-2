@@ -10,7 +10,7 @@
     "url": "http://www.foxandgoose.org/",
     "url_text": "Visit the  web site",
     "phone_number": "01422648052",
-    "phone_text": "",
+    "phone_text": "Contact the pub by telephone",
     "email": "info@foxandgoose.org",
     "address": "Heptonstall Road, Hebden Bridge HX7 6AZ",
     "facebook_url": "https://www.facebook.com/foxgoosehebden/",
@@ -53,18 +53,17 @@
             "to": "22:30"
         }
     },
+    "ale": [
+
+    ],
     "facilities": [
-        "food",
+        "bar_snacks",
         "garden",
         "views",
         "wifi",
         "signal",
-        "toilets",
         "wheelchair_accessible",
-        "bike_racks",
         "gender_neutral_toilets",
-        "baby_changing",
-        "accessible_toilets"
     ],
     "atmosphere": [
         "friendly",
