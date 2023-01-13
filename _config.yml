@@ -28,6 +28,10 @@ terms:
 foi:
   url: ""
   text: ""
+accessibility_statement:
+  created: 
+  last_modified: 
+copyright: 
 sass:
   style: compressed
 plugins:
