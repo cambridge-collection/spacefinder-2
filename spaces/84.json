@@ -1,15 +1,13 @@
 {
-    "id": 4,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.559424814,53.80655803]}",
+    "id": 84,
+    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5505879998850083,53.805363612275706]}",
     "work": [
-        "private",
         "close",
         "friends",
         "group"
     ],
     "atmosphere": [
         "relaxed",
-        "modern",
         "cosy",
         "social",
         "friendly"
@@ -20,33 +18,33 @@
         "views",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
         "bike_racks",
         "gender_neutral_toilets",
         "wheelchair_accessible",
         "blue_badge_parking"
     ],
-    "title": "Esther Simpson Café",
-    "description": "Located in the new Esther Simpson building on the edge of Woodhouse Moor, the café is modern and relaxed, serving speciality coffee from Darkwoods.",
+    "title": "Affine Café",
+    "description": "Affine is more than just a place to grab a bite. A place to break away from the pressures of the working day and enjoy a breather, a change of scenery, or even a chat with fellow professionals. Located at the heart of the innovation hub, the contemporary space provides a welcoming environment to relax and unwind. The perfect place for casual meetings or laidback lunches.",
     "access": "Anyone (public)",
     "space_type": "Café",
     "address": "University of Leeds, LS2 9JT",
-    "building": "Esther Simpson Building",
+    "building": "Nexus building",
     "floor": "Ground floor",
     "restricted": false,
     "restriction": "",
     "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/esther-simpson-cafe",
+    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/affine/",
+    "booking_url": "https://gfal.leeds.ac.uk/club/",
     "phone_number": "",
     "twitter_screen_name": "GreatFoodLeeds",
     "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18484",
-    "campusmap_ref": "12",
-    "noise": "Whispers",
+    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18466",
+    "campusmap_ref": "66",
+    "noise": "Animated discussion",
     "tags": [],
     "opening_hours": {
         "monday": {
@@ -85,10 +83,10 @@
             "to": ""
         }
     },
-    "image": "/assets/photos/Esther-Simpson-Cafe.jpg",
-    "imagealt": "Interior photogra[ph of the Esther Simpson Café showing the service area, including a cake display cabinet, fruit bowls and drink making equipment",
-    "slug": "esther-simpson-cafe",
+    "image": "/assets/photos/Affine.jpg",
+    "imagealt": "Interior photograph of the Affine Café showing the service counter and seating, with multiple customers seated around tables  and two customers at the counter",
+    "slug": "affine-cafe",
     "published": true,
-    "url_text": "Visit the Esther Simpson Café web site",
+    "url_text": "Visit the Affine Café web site",
     "phone_text": ""
 }

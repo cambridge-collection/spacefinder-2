@@ -1,13 +1,13 @@
 {
-    "id": 4,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.559424814,53.80655803]}",
+    "id": 9,
+    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5559066355802778,53.80347902972122]}",
     "work": [
         "private",
         "close",
-        "friends",
-        "group"
+        "friends"
     ],
     "atmosphere": [
+        "disciplined",
         "relaxed",
         "modern",
         "cosy",
@@ -28,24 +28,24 @@
         "bike_racks",
         "gender_neutral_toilets",
         "wheelchair_accessible",
-        "blue_badge_parking"
+        "accessible_toilets"
     ],
-    "title": "Esther Simpson Café",
-    "description": "Located in the new Esther Simpson building on the edge of Woodhouse Moor, the café is modern and relaxed, serving speciality coffee from Darkwoods.",
+    "title": "Loma Café",
+    "description": "LOMA is a unique offering on campus serving up specially selected craft coffee, delicious drinks and handcrafted salads and sandwiches. With a focus on healthy, field-to-fork food options, LOMA stands apart from the other food outlets on campus with unique salad and sandwich combinations you will struggle to find elsewhere.",
     "access": "Anyone (public)",
     "space_type": "Café",
     "address": "University of Leeds, LS2 9JT",
-    "building": "Esther Simpson Building",
-    "floor": "Ground floor",
+    "building": "Worsley Building",
+    "floor": "Level 9",
     "restricted": false,
     "restriction": "",
     "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/esther-simpson-cafe",
+    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/loma-cafe/",
     "phone_number": "",
     "twitter_screen_name": "GreatFoodLeeds",
     "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18484",
-    "campusmap_ref": "12",
+    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
+    "campusmap_ref": "95",
     "noise": "Whispers",
     "tags": [],
     "opening_hours": {
@@ -85,10 +85,10 @@
             "to": ""
         }
     },
-    "image": "/assets/photos/Esther-Simpson-Cafe.jpg",
-    "imagealt": "Interior photogra[ph of the Esther Simpson Café showing the service area, including a cake display cabinet, fruit bowls and drink making equipment",
-    "slug": "esther-simpson-cafe",
+    "image": "/assets/photos/Loma-Cafe.jpg",
+    "imagealt": "Interior photograph of the Loma Café showing the overhead lighting rig for the main seating area with the service area in the background",
+    "slug": "loma-cafe",
     "published": true,
-    "url_text": "Visit the Esther Simpson Café web site",
+    "url_text": "Visit the Loma Café web site",
     "phone_text": ""
 }
