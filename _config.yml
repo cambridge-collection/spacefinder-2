@@ -6,7 +6,7 @@ description: >-
   via a map.
 environment: production
 baseurl: "/spacefinder"
-url: "https://uol-library.github.io/spacefinder"
+url: "https://uol-library.github.io"
 host: "localhost"
 google_analytics: ""
 photo_dir: "/assets/photos/"
