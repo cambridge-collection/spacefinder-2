@@ -1,8 +1,36 @@
+##########################################################################
+# Map starting location and zoom level
+##########################################################################
 map:
   startLat: 53.806529
   startLng: -1.555291
   startZoom: 16
+##########################################################################
+# Filter definitions
+#
+# Filters allow users to filter lists of spaces using checkbox controls in
+# the filters panel of the UI. They are defined here, then the keys are
+# used in the space metadata to enable them.
+#
+# Each filter has the following properties:
+#   key:       ID of the filter, used in classes and control atributes
+#   label:     Human readable description of the filter
+#   message:   Message to display when the filter is active
+#   exclusive: Whether the options are exclusive. If this is set to true,
+#              only one of the options will be selectable
+#   additive:  Whether the options are additive. In other words, if more
+#              than one option is selected, spaces will need to match all
+#              of them (rather than one).
+#   open:      Whether to start with the list of options open
+#   options:   An array of items with:
+#       key:   ID used in classes and control attributes)
+#       label: Human readable description of the option
+#       icon:  Class applied to the option to display a custom icon
+##########################################################################
 filters:
+##########################################################################
+# This filter works with the opening hours of each space
+##########################################################################
   - key: "open"
     label: "Spaces currently open"
     message: "Showing spaces which are currently open"
@@ -12,6 +40,10 @@ filters:
     options:
       - key: "show_open"
         label: "Only show spaces which are currently open"
+##########################################################################
+# Other filters can be defined according to the metadata schema for the 
+# spaces
+##########################################################################
   - key: "space_type"
     label: "Space type"
     message: "Filtering spaces by type: "

@@ -1,74 +1,94 @@
 {
     "id": 4,
-    "published": true,
-    "title": "Old Gate",
-    "slug": "",
-    "description": "",
-    "image": "",
-    "imagealt": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-2.0148681315881287,53.741536326427585]}",
-    "url": "http://oldgatehebden.co.uk/",
-    "url_text": "Visit the  web site",
-    "phone_number": "01422843993",
-    "phone_text": "",
-    "email": "oldgatehebden@live.co.uk", 
-    "address": "1-5 Old Gate, Halifax, Hebden Bridge HX7 8JP",
-    "facebook_url": "https://www.facebook.com/OldGateHB",
-    "instagram_url": "https://www.instagram.com/oldgatehb/",
-    "twitter_url": "https://twitter.com/oldgatehebden",
+    "location": "{\"type\":\"Point\",\"coordinates\":[-1.559424814,53.80655803]}",
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks",
+        "gender_neutral_toilets",
+        "wheelchair_accessible",
+        "blue_badge_parking"
+    ],
+    "title": "Esther Simpson Café",
+    "description": "Located in the new Esther Simpson building on the edge of Woodhouse Moor, the café is modern and relaxed, serving speciality coffee from Darkwoods.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "University of Leeds, LS2 9JT",
+    "building": "Esther Simpson Building",
+    "floor": "Ground floor",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/esther-simpson-cafe",
+    "phone_number": "",
+    "twitter_screen_name": "GreatFoodLeeds",
+    "facebook_url": "https://www.facebook.com/greatfoodleeds",
+    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18484",
+    "campusmap_ref": "12",
+    "noise": "Whispers",
+    "tags": [],
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "10:00",
-            "to": "23:30"
+            "from": "8:30",
+            "to": "15:00"
         },
         "tuesday": {
             "open": true,
-            "from": "10:00",
-            "to": "23:30"
+            "from": "8:30",
+            "to": "15:00"
         },
         "wednesday": {
             "open": true,
-            "from": "10:00",
-            "to": "23:30"
+            "from": "8:30",
+            "to": "15:00"
         },
         "thursday": {
             "open": true,
-            "from": "10:00",
-            "to": "23:30"
+            "from": "8:30",
+            "to": "15:00"
         },
         "friday": {
             "open": true,
-            "from": "10:00",
-            "to": "24:00"
+            "from": "8:30",
+            "to": "15:00"
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "24:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "10:00",
-            "to": "22:30"
+            "open": false,
+            "from": "",
+            "to": ""
         }
     },
-    "facilities": [
-        "food",
-        "garden",
-        "views",
-        "wifi",
-        "signal",
-        "toilets",
-        "wheelchair_accessible",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "baby_changing",
-        "accessible_toilets"
-    ],
-    "atmosphere": [
-        "friendly",
-        "social",
-        "relaxed"
-    ]
+    "image": "/assets/photos/Esther-Simpson-Cafe.jpg",
+    "imagealt": "Interior photogra[ph of the Esther Simpson Café showing the service area, including a cake display cabinet, fruit bowls and drink making equipment",
+    "slug": "esther-simpson-cafe",
+    "published": true,
+    "url_text": "Visit the Esther Simpson Café web site",
+    "phone_text": ""
 }
