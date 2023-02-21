@@ -25,12 +25,14 @@ dc:
 terms:
   url: ""
   text: ""
+  shorttext: ""
 foi:
   url: ""
   text: ""
+  shorttext: ""
 accessibility_statement:
-  created: 
-  last_modified: 
+  created: "12 June 2022"
+  last_modified: "14 January 2023"
 copyright: 
 sass:
   style: compressed
