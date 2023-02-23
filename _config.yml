@@ -5,8 +5,8 @@ description: >-
   filters based on space characteristics, and navigation
   via a map.
 environment: production
-baseurl: "/spacefinder"
-url: "https://uol-library.github.io"
+baseurl: "/spacefinder-2"
+url: "https://cambridge-collection.github.io"
 host: "localhost"
 google_analytics: ""
 photo_dir: "/assets/photos/"
