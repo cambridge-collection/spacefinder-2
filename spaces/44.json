@@ -1,89 +1,86 @@
 {
     "id": 44,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5529769303236765,53.8086589285449]}",
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
+    "title": "Caffe Nero (Kings Parade)",
+    "slug": "caffe-nero-kings-parade",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Cambridge Kings Parade, 17 Kings Parade Cambridge, CB2 1SP",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.caffenero.co.uk/default.aspx",
+    "phone_number": "01223 327 789",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/caffenero",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
-        "disciplined",
-        "modern",
+        "relaxed",
         "inspiring",
+        "cosy",
         "social",
         "friendly"
     ],
     "facilities": [
-        "daylight",
-        "large_desks",
+        "food_drink",
+        "views",
         "free_wifi",
-        "computers",
         "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "signal",
+        "outdoor_seating",
+        "toilets"
     ],
-    "title": "Chemistry and Chemistry West Block - 1.44A",
-    "description": "11 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Chemistry building",
-    "floor": "First Floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17382",
-    "campusmap_ref": "55",
-    "tags": [],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "people watching",
+        "tourists"
+    ],
+    "floor": "",
+    "image": "caffe_nero.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.117866\",\"52.204851\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "7:00",
+            "to": "19:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "7:00",
+            "to": "19:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "7:00",
+            "to": "19:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "7:00",
+            "to": "19:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "7:00",
+            "to": "19:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "7:00",
+            "to": "19:30"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "7:30",
+            "to": "19:30"
         }
-    },
-    "image": "",
-    "imagealt": "Chemistry and Chemistry West Block - 1.44A",
-    "slug": "chemistry-and-chemistry-west-block-144a",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

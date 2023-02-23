@@ -1,0 +1,82 @@
+{
+    "id": 176,
+    "title": "The Edge Cafe",
+    "slug": "the-edge-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "351 Mill Road, Cambridge,\r\nCB1 3DF",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://theedgecafecambridge.org/",
+    "phone_number": "01223 212 478",
+    "twitter_screen_name": "theEDGEcafe",
+    "facebook_url": "https://www.facebook.com/theedgecafecambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "toilets",
+        "refreshments",
+        "wheelchair_accessible",
+        "accessible_toilets"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "social",
+        "community"
+    ],
+    "floor": "",
+    "image": "14907002_445035005666688_5138173727821744253_n.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.153497\",\"52.197569\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

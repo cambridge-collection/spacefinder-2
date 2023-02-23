@@ -1,0 +1,88 @@
+{
+    "id": 159,
+    "title": "The Box Cafe",
+    "slug": "the-box-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "47 Norfolk St, Cambridge, CB1 2LD",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.facebook.com/theboxcafe2/timeline",
+    "phone_number": "07580 300852",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/theboxcafe2",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "Screen_Shot_2016-03-04_at_15.24.48.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136672\",\"52.204556\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

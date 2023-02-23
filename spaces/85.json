@@ -1,93 +1,88 @@
 {
     "id": 85,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5553239258361453,53.803461209927285]}",
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
+    "title": "The Free Press",
+    "slug": "the-free-press",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "The Free Press Pub, 7 Prospect Row, Cambridge, CB1 1DU\r\n",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.freepresspub.com/",
+    "phone_number": "01223 368337",
+    "twitter_screen_name": "freepresspub",
+    "facebook_url": "https://www.facebook.com/The-Free-Press/118534981534150",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
-        "disciplined",
         "relaxed",
-        "modern",
         "cosy",
         "social",
         "friendly"
     ],
     "facilities": [
         "food_drink",
-        "daylight",
-        "views",
-        "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "break"
     ],
-    "title": "Loma Express Dentistry",
-    "description": "Located on level six of the Worsley building, the café provides a range of grab and go food and drinks. With a focus on healthy, field-to-fork food options, LOMA Express stocks unique salad and sandwich combinations, and fresh herbal infusion teas and other delicious LOMA Express products made fresh each day.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley building",
-    "floor": "Level 6",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/loma-express-dentistry/",
-    "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18477",
-    "campusmap_ref": "95",
-    "noise": "Animated discussion",
-    "tags": [],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "snug",
+        "alcohol",
+        "small",
+        "board games",
+        "street food",
+        "cat"
+    ],
+    "floor": "Ground floor",
+    "image": "press1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.13038\",\"52.20479\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "14:30"
+            "from": "12:00",
+            "to": "22:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "14:30"
+            "from": "12:00",
+            "to": "22:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "14:30"
+            "from": "12:00",
+            "to": "22:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "14:30"
+            "from": "12:00",
+            "to": "22:00"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "14:30"
+            "from": "12:00",
+            "to": "0:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "12:00",
+            "to": "22:00"
         }
-    },
-    "image": "/assets/photos/Loma-Express-Dentistry.jpg",
-    "imagealt": "Interior photograph of the serving hatch in Loma Express Dentistry, with a customer weraing a headscarf being served by a member of staff, and two customers partially seen in the foreground",
-    "slug": "loma-express-dentistry",
-    "published": true,
-    "url_text": "Visit the Loma Express Dentistry web site",
-    "phone_text": ""
+    }
 }

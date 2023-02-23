@@ -1,0 +1,96 @@
+{
+    "id": 185,
+    "title": "Greenwich House Cafe",
+    "slug": "greenwich-house-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Greenwich House, Madingley Road, Cambridge, CB3 0TX",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.greenwich-house.admin.cam.ac.uk/cafe",
+    "phone_number": "01223 330273",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bright",
+        "light",
+        "airy",
+        "modern",
+        "social"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.095539\",\"52.215316\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

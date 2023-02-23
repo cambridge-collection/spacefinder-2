@@ -1,75 +1,77 @@
 {
     "id": 64,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.554457453,53.80665]}",
-    "work": [
-        "private"
-    ],
+    "title": "Astronomy: Library Room B",
+    "slug": "astronomy-library-room-b",
+    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+    "building": "Institute of Astronomy Library",
+    "restricted": true,
+    "restriction": "Steps at front of building.  Narrow corridors.",
+    "disabled_access": false,
+    "url": "https://www.ast.cam.ac.uk/library/news",
+    "phone_number": "01223 337537",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
-        "disciplined",
-        "social",
-        "friendly"
+        "disciplined"
     ],
     "facilities": [
-        "daylight",
-        "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
-        "whiteboards",
-        "projector",
-        "outdoor_seating",
         "toilets",
+        "refreshments",
         "break",
-        "bike_racks",
         "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "accessible_toilets"
+        "bike_racks"
     ],
-    "title": "Social Sciences Building - 10.11",
-    "description": "Big cluster room at the Social Sciences Building. Rows of desks with computers near a place to take a break. Perfect for studying between lectures on campus. 40 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Social Sciences building",
-    "floor": "Level 10",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17547",
-    "campusmap_ref": "82",
-    "noise": "Strictly silent",
-    "tags": [],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "private",
+        "dark",
+        "undergraduate books",
+        "Eddington",
+        "mathematics",
+        "physics",
+        "computing",
+        "programming"
+    ],
+    "floor": "Ground floor",
+    "image": "2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09533\",\"52.21458\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "12:30",
+            "to": "16:30"
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -81,11 +83,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Social Sciences Building - 10.11",
-    "slug": "social-sciences-building-1011",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

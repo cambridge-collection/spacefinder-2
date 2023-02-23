@@ -1,19 +1,23 @@
 {
-    "facilities": [
-        "food_drink",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "accessible_toilets"
-    ],
+    "id": 33,
+    "title": "Maths Cafe",
+    "slug": "maths-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Maths Cafe direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "Wilberforce Road, Cambridge CB3 0WA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the Maths Cafe direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/centre-mathematical-sciences",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
         "relaxed",
         "modern",
@@ -22,33 +26,49 @@
         "social",
         "friendly"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets"
+    ],
+    "work": [
+        "close",
+        "group"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.101892\",\"52.210104\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:00"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:00"
         },
         "saturday": {
             "open": false,
@@ -60,35 +80,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "worsley-building-airport-lounge-seating-level-7",
-    "floor": "Level 7",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
-    "published": true,
-    "imagealt": "Worsley Building - Airport Lounge seating (level 7)",
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "campusmap_ref": "95",
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "General Seating Area",
-    "building": "Worsley Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5552765134496822,53.80355304335263]}",
-    "facebook_url": "",
-    "title": "Worsley Building - Airport Lounge seating (level 7)",
-    "tags": [],
-    "noise": "Background chatter",
-    "phone_number": "",
-    "restricted": false,
-    "id": 33,
-    "image": "",
-    "description": "Modern colourful big area with comfortable couches and chairs. Vending, cash and cofee machines available as well as water fountain.",
-    "url_text": "",
-    "phone_text": ""
+    }
 }

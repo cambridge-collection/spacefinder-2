@@ -1,86 +1,88 @@
 {
+    "id": 89,
+    "title": "Fitzwilliam Museum Café ",
+    "slug": "fitzwilliam-museum-cafe",
+    "description": "Currently only taking card payments. The Courtyard Café is located within the Fitzwilliam Museum, next to the gift shop.  The Courtyard Café is reasonably large, with a set daily menu as well as hot drinks and snacks.\r\n",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Trumpington Street, Cambridge, CB2 1RB\r\n",
+    "building": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "www.fitzmuseum.cam.ac.uk",
+    "phone_number": "01223 764402",
+    "twitter_screen_name": "FitzMuseum_UK",
+    "facebook_url": "https://www.facebook.com/fitzwilliammuseum",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "historic",
+        "inspiring",
+        "social"
+    ],
     "facilities": [
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
+        "food_drink",
+        "daylight",
         "signal",
         "toilets",
         "refreshments",
-        "gender_neutral_toilets",
-        "break",
-        "wheelchair_accessible",
-        "bike_racks"
+        "break"
     ],
-    "atmosphere": [
-        "disciplined",
-        "cosy"
+    "work": [
+        "friends",
+        "group"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "tags": [
+        "Cheery",
+        "relaxed",
+        "bright",
+        "natural light",
+        "family friendly",
+        "can get noisy if busy",
+        "touristy",
+        "fitz"
+    ],
+    "floor": "Ground floor",
+    "image": "fitzwilliam-museum-cafe.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12033\",\"52.19957\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "10:00",
+            "to": "16:30"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "10:00",
+            "to": "16:30"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "10:00",
+            "to": "16:30"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "10:00",
+            "to": "16:30"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "12:00",
+            "to": "16:30"
         }
-    },
-    "slug": "st-james-hospital-library",
-    "floor": "Level 3",
-    "restriction": "Library Card needed",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17354",
-    "published": true,
-    "url": "https://library.leeds.ac.uk/",
-    "campusmap_ref": null,
-    "work": [
-        "in_a_library",
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "UoLLibrary",
-    "space_type": "Library",
-    "building": "Clinical Sciences building",
-    "address": "St James's University Hospital, Beckett St, Harehills, Leeds LS9 7LN",
-    "phone_number": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5199219,53.8079267]}",
-    "facebook_url": "https://www.facebook.com/leedsuniversitylibrary",
-    "title": "St James's University Hospital Library",
-    "noise": "Whispers",
-    "restricted": true,
-    "image": "",
-    "id": 89,
-    "description": "Based on level 3 of the Clinical Sciences building, St James’s University Hospital Library supports the information needs of University research and teaching staff, medical and healthcare students, and employees of the Leeds Teaching Hospitals Trust.",
-    "url_text": "Visit the Library website",
-    "phone_text": ""
+    }
 }

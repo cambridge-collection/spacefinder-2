@@ -1,88 +1,96 @@
 {
     "id": 38,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5615117639086078,53.808132561265076]}",
-    "work": [
-        "private",
-        "close"
-    ],
+    "title": "The Anchor",
+    "slug": "the-anchor",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "Silver Street, Cambridge, CB3 9EL",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.metropolitanpubcompany.com/our-pubs/the-anchor/",
+    "phone_number": "01223 353554",
+    "twitter_screen_name": "anchorcambridge",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
-        "disciplined",
-        "modern",
-        "cosy"
+        "relaxed",
+        "historic",
+        "cosy",
+        "social",
+        "friendly"
     ],
     "facilities": [
         "food_drink",
-        "large_desks",
+        "daylight",
+        "views",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
+        "outdoor_seating",
         "toilets",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "accessible_toilets"
+        "refreshments",
+        "break"
     ],
-    "title": "Maurice Keyworth - Study Centre (Rooms 238 & 307)",
-    "description": "silent study spaces with beautiful views. Outside seminar halls and occationally busy.",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Maurice Keyworth Building",
-    "floor": "Second and Third floors",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17363",
-    "campusmap_ref": "19",
-    "noise": "Strictly silent",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "attractive views",
+        "food and drink",
+        "wifi",
+        "comfy",
+        "pub",
+        "warm",
+        "music"
+    ],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.115763\",\"52.201976\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "11:30",
+            "to": "23:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "11:30",
+            "to": "23:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "11:30",
+            "to": "23:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "11:30",
+            "to": "23:00"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "11:30",
+            "to": "0:00"
         },
         "saturday": {
             "open": true,
-            "from": "9:00",
-            "to": "12:00"
+            "from": "11:30",
+            "to": "0:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "12:00",
+            "to": "22:30"
         }
-    },
-    "image": "",
-    "imagealt": "Maurice Keyworth - Study Centre (Rooms 238 & 307)",
-    "slug": "maurice-keyworth-study-centre-rooms-238-307",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

@@ -1,0 +1,103 @@
+{
+    "id": 92,
+    "title": "Fitzwilliam Museum Reference Library",
+    "slug": "fitzwilliam-museum-reference-library",
+    "description": "The Reference Library is currently open, and holds materials relating to the Fitzwilliam Museum's collections. A small space, close to the busy museum cafe but with views out to the garden of Grove Lodge, with lots of natural light.\r\n\r\nEveryone welcome but spaces must be booked in advance (email the library or use the enquiry form below).",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Fitzwilliam Museum\r\nTrumpington Street\r\nCambridge \r\nCB2 1RB",
+    "building": "Fitzwilliam Museum Library.",
+    "restricted": true,
+    "restriction": "By prior appointment only. Please be aware that we will need contact details for Test & Trace.",
+    "disabled_access": true,
+    "url": "https://www.fitzmuseum.cam.ac.uk/research/reference-library",
+    "phone_number": "01223 764398 / 01223 332910",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "tickets.museums.cam.ac.uk/3395",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "baby_changing"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "inclusive",
+        "usually peaceful",
+        "secure",
+        "fitz",
+        "natural light",
+        "bottled water only",
+        "bags allowed",
+        "research",
+        "open plan"
+    ],
+    "floor": "Ground floor",
+    "image": "1237552_10100654596480570_1917270310_n.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12033\",\"52.19957\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

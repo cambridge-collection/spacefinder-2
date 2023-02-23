@@ -1,1 +1,90 @@
-{"facilities":["large_desks","free_wifi","computers","laptops_allowed","sockets","signal","printers_copiers","whiteboards","projector","bookable","toilets","refreshments","break","wheelchair_accessible","accessible_toilets","bike_racks","gender_neutral_toilets","prayer_room"],"atmosphere":["disciplined","cosy"],"access":"University Staff and Students","disabled_access":true,"opening_hours":{"monday":{"open":true,"from":"8:00","to":"24:00"},"tuesday":{"open":true,"from":"8:00","to":"24:00"},"wednesday":{"open":true,"from":"8:00","to":"24:00"},"thursday":{"open":true,"from":"8:00","to":"24:00"},"friday":{"open":true,"from":"8:00","to":"19:00"},"saturday":{"open":true,"from":"10:00","to":"17:00"},"sunday":{"open":true,"from":"10:00","to":"24:00"}},"slug":"laidlaw-library-1st-floor-group-study-booths","floor":"1st floor","restriction":"Library Card needed","campusmap_url":"https://www.leeds.ac.uk/campusmap?location=17471","imagealt":"Laidlaw library - 1st floor group study booths","url":"https://library.leeds.ac.uk/","campusmap_ref":"63","work":["private","close","group"],"twitter_screen_name":"UoLLibrary","space_type":"Library","building":"Laidlaw library","address":"University of Leeds, LS2 9JT","location":"{\"type\":\"Point\",\"coordinates\":[-1.551799964466388,53.80682678188746]}","facebook_url":"https://www.facebook.com/leedsuniversitylibrary","title":"Laidlaw library - 1st floor group study booths","tags":[],"noise":"Whispers","phone_number":"","restricted":true,"id":81,"image":"/assets/photos/Laidlaw-library4.jpg","description":"Group study booths for groups of up to 5 with monitor display.","published":true,"url_text":"Visit the Library website","phone_text":""}
+{
+    "id": 81,
+    "title": "Jesus Green",
+    "slug": "jesus-green",
+    "description": "A large space which includes a skate park and playground, there are benches to sit on and wide open spaces to sit on the grass, as well as Jesus Green Lido (an outdoor swimming pool) on the edge of the park beside the River Cam. There are fewer benches than some parks, but the space is wide and you can escape the worst of the traffic sounds.\r\n",
+    "access": "Anyone (public)",
+    "space_type": "Other",
+    "address": "Jesus Green, Cambridge.\r\n",
+    "building": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "https://www.cambridge.gov.uk/parks/jesus-green",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "open space",
+        "grass",
+        "barbecue",
+        "sports"
+    ],
+    "floor": "Ground floor",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122904\",\"52.211508\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        }
+    }
+}

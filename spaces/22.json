@@ -1,90 +1,92 @@
 {
     "id": 22,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5537078860312703,53.80715450892802]}",
-    "work": [
-        "private",
-        "group"
-    ],
+    "title": "Education Library - Lower Ground Floor",
+    "slug": "education-library-lower-ground-floor",
+    "description": "The physical Library is closed as a study space. The following services are available to members of the Faculty of Education via the Library's Moodle site: Essential Texts Click & Collect, (Mon-Fri, 09:00-17:00), virtual 1:1 appointments, Book Returns",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "184 Hills Road, Cambridge, CB2 8PQ",
+    "building": "Education Faculty Library",
+    "restricted": true,
+    "restriction": "Please check with the Education Faculty Library direct regarding current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.educ.cam.ac.uk/library/",
+    "phone_number": "01223 767700",
+    "twitter_screen_name": "edfaclib",
+    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
-        "disciplined",
-        "relaxed",
+        "modern",
+        "inspiring",
         "friendly"
     ],
     "facilities": [
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "whiteboards",
-        "projector",
+        "printers_copiers",
         "toilets",
+        "refreshments",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets"
+        "bike_racks"
     ],
-    "title": "Michael Sadler Building - 1.19",
-    "description": "Chairs and flip out tables as well as access to 3 whiteboards and projector. Perfect for group study. 16 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "Seminar room",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Michael Sadler Building",
-    "floor": "First floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "0113 343 5555",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17512",
-    "campusmap_ref": "78",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [],
+    "tags": [
+        "light",
+        "attractive views",
+        "near books",
+        "noise",
+        "bottled water only",
+        "no bags",
+        "subject experts",
+        "comfy seats with low desks"
+    ],
+    "floor": "Lower ground floor",
+    "image": "LowerGround_4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136944\",\"52.186667\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Michael Sadler Building - 1.19",
-    "slug": "michael-sadler-building-119",
-    "published": false,
-    "url_text": "",
-    "phone_text": "Contact the Estates Helpdesk"
+    }
 }

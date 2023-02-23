@@ -1,93 +1,92 @@
 {
+    "id": 90,
+    "title": "Haddon: Main Reading Room",
+    "slug": "haddon-main-reading-room",
+    "description": "The physical library is currently closed for studying. You can book an appointment to borrow or return books (Mon - Fri, 10:00-13:00). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Downing Street\r\nCAMBRIDGE \r\nCB2 3DZ",
+    "building": "Haddon Library of Archaeology and Anthropology",
+    "restricted": true,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "http://haddon.archanth.cam.ac.uk/",
+    "phone_number": "01223 333505",
+    "twitter_screen_name": "HaddonLibrary",
+    "facebook_url": "https://www.facebook.com/Haddon-Library-of-Archaeology-and-Anthropology-566290340136530",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "historic"
+    ],
     "facilities": [
         "daylight",
         "views",
-        "individual_study_space",
+        "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
         "signal",
         "printers_copiers",
-        "bike_racks",
         "toilets",
-        "accessible_toilets",
-        "gender_neutral_toilets",
         "break",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "baby_changing"
     ],
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring'",
-        "cosy",
-        "social",
-        "friendly"
+    "work": [
+        "private",
+        "close",
+        "friends"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "tags": [
+        "outdoor space",
+        "Fetching service available"
+    ],
+    "floor": "First floor",
+    "image": "6.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.121552\",\"52.202906\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:30",
-            "to": "20:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "20:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "20:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:30",
-            "to": "20:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:30",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "11:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
         }
-    },
-    "slug": "language-zone",
-    "floor": "Second floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17525",
-    "published": true,
-    "url": "https://www.leeds.ac.uk/language-centre/doc/language-zone",
-    "campusmap_ref": "",
-    "phone_number": "0113 343 2646",
-    "email_address": "languagezone@leeds.ac.uk",
-    "work": [
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "Library",
-    "building": "Parkinson Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.552787,53.807706]}",
-    "facebook_url": "",
-    "title": "Language Zone",
-    "noise": "Whispers",
-    "restricted": false,
-    "image": "/assets/photos/LanguageZone.jpg",
-    "imagealt": "Interior photograph of part of the Language Zone, showing multiple workstations arranged radially around a central pullar with students at work, and light streaming in through the window",
-    "id": 90,
-    "description": "The Language Zone is a welcoming space open to all students and staff at Leeds and provides learning material in more than 50 languages, as well as friendly advice for language learners. We have a computer cluster for personal study, and books, magazines, audio and video resources to help you learn a language, as well as spaces for informal social activities.",
-    "url_text": "Visit the Language Zone web site",
-    "phone_text": "Contact the Language Zone"
+    }
 }

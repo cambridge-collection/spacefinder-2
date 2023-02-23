@@ -1,0 +1,93 @@
+{
+    "id": 103,
+    "title": "UL - Rare Books Room",
+    "slug": "ul-rare-books-room",
+    "description": "The UL's Rare Books Reading Room is currently operating a Book a Visit service. This is available if you need to consult UL Special Collection material, for example rare books, manuscripts and archives. Use the Book a space link below. The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "01223 333122",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://www.lib.cam.ac.uk/book-visit-special-collections-reading-room",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern",
+        "inspiring"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "specialist reading room",
+        "subject specialists",
+        "librarians",
+        "large space",
+        "high ceilings",
+        "comfy chairs",
+        "large desks"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-MAP-RARE-BOOKS-000-00003.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:30",
+            "to": "15:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "id": 98,
+    "title": "Squire Law Library Study Areas",
+    "slug": "squire-law-library-study-areas",
+    "description": "Book a study space or to browse the print collections using the link below. The Library also offers: Scan & Deliver, Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Squire Law Library, Faculty of Law, University of Cambridge 10 West Road, Cambridge CB3 9DZ, UK",
+    "building": "Squire Law Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "http://www.squire.law.cam.ac.uk/",
+    "phone_number": "01223 330077",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://calendars.libraries.cam.ac.uk/calendar/squire_bookavisit?cid=7647&t=d&d=0000-00-00&cal=7647&inc=0",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "Best for individual or quiet study",
+        "bottled water only",
+        "reference only",
+        "no phone conversations"
+    ],
+    "floor": "First, second and third floors",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10964\",\"52.20183\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "13:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "13:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "13:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "13:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "13:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "id": 125,
+    "title": "The Scott Polar Research Institute Library",
+    "slug": "the-scott-polar-research-institute-library",
+    "description": "The physical library space is currently closed for studying. Services available from the Library include: Zero-contact borrowing on request, Scan & Deliver, Book Returns. Follow the Website link for more details and updates. ",
+    "access": "Faculty",
+    "space_type": "Library space",
+    "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
+    "building": "Scott Polar Research Institute Library",
+    "restricted": true,
+    "restriction": "Booking required. Members of the Scott Polar Research Institute only.",
+    "disabled_access": true,
+    "url": "https://libguides.cam.ac.uk/polar_studies/induction",
+    "phone_number": "01223 336552",
+    "twitter_screen_name": "SPRI_Library",
+    "facebook_url": "https://www.facebook.com/SPRILibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "historic",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "SPRI",
+        "Geography",
+        "bottled water only",
+        "Polar"
+    ],
+    "floor": "First floor",
+    "image": "Study_area.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.126301\",\"52.198224\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

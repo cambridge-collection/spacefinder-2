@@ -1,76 +1,80 @@
 {
     "id": 84,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5505879998850083,53.805363612275706]}",
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
+    "title": "Language Centre: The John Trim Centre (Old Music School)",
+    "slug": "language-centre-the-john-trim-centre-old-music-school",
+    "description": "IMPORTANT: Due to the implications of COVID-19 please check with the Language Centre directly as to their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Other",
+    "address": "The Language Centre, University of Cambridge\r\n5, Downing Place\r\nCambridge\r\nCB2 3EL",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.langcen.cam.ac.uk/lc/advising/explore-resources.html",
+    "phone_number": "01223335058",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/pages/University-of-Cambridge-Language-Centre/157482730970936",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
         "relaxed",
-        "cosy",
+        "inspiring",
         "social",
         "friendly"
     ],
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking"
+        "break"
     ],
-    "title": "Affine Café",
-    "description": "Affine is more than just a place to grab a bite. A place to break away from the pressures of the working day and enjoy a breather, a change of scenery, or even a chat with fellow professionals. Located at the heart of the innovation hub, the contemporary space provides a welcoming environment to relax and unwind. The perfect place for casual meetings or laidback lunches.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Nexus building",
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "always space",
+        "quirky staff",
+        "advice on hand"
+    ],
     "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/affine/",
-    "booking_url": "https://gfal.leeds.ac.uk/club/",
-    "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18466",
-    "campusmap_ref": "66",
-    "noise": "Animated discussion",
-    "tags": [],
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12298\",\"52.20295\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:45",
+            "to": "19:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:45",
+            "to": "19:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:45",
+            "to": "19:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:45",
+            "to": "19:00"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:45",
+            "to": "19:00"
         },
         "saturday": {
             "open": false,
@@ -82,11 +86,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "/assets/photos/Affine.jpg",
-    "imagealt": "Interior photograph of the Affine Café showing the service counter and seating, with multiple customers seated around tables  and two customers at the counter",
-    "slug": "affine-cafe",
-    "published": true,
-    "url_text": "Visit the Affine Café web site",
-    "phone_text": ""
+    }
 }

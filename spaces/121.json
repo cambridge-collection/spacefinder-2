@@ -1,0 +1,86 @@
+{
+    "id": 121,
+    "title": "Rayleigh Library: Undergraduate Study Area",
+    "slug": "rayleigh-library-undergraduate-study-area",
+    "description": "The physical Library space is currently closed for studying. Email your librarian at nh240@cam.ac.uk with enquiries and for support with online resources and services.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "1st Floor\r\nBragg Building\r\nCavendish Laboratory \r\n19 J J Thomson Avenue \r\nCambridge \r\nCB3 0HE ",
+    "building": "Rayleigh Library (Physics)",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": false,
+    "url": "https://libguides.cam.ac.uk/physics",
+    "phone_number": "01223 337414",
+    "twitter_screen_name": "RayLibCam",
+    "facebook_url": "https://www.facebook.com/Rayleigh-Library-Cavendish-Laboratory-University-of-Cambridge-1464557683856342/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "disciplined"
+    ],
+    "facilities": [
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "individual_study_space",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "Fetching service available"
+    ],
+    "floor": "",
+    "image": "IMG_3642.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09248\",\"52.20922\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

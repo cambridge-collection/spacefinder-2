@@ -1,13 +1,24 @@
 {
     "id": 9,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5559066355802778,53.80347902972122]}",
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
+    "title": "Moore Library - Ground Floor",
+    "slug": "moore-library-ground-floor",
+    "description": "Book a study space using the link below (this may not be in the area of the library pictured). Other services available include: Scan & Deliver, Click & Collect (Mon, Thurs, 11:00 to 13:0), Book Returns. Follow the Website link at the end of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Wilberforce Road, Cambridge CB3 0WD",
+    "building": "Betty and Gordon Moore LIbrary",
+    "restricted": true,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "http://moore.libraries.cam.ac.uk/",
+    "phone_number": "01223 765670",
+    "twitter_screen_name": "MooreLib",
+    "facebook_url": "https://www.facebook.com/moorelib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://moore.libraries.cam.ac.uk/zero-contact-services/book-seat/",
+    "noise": "Animated discussion",
     "atmosphere": [
-        "disciplined",
         "relaxed",
         "modern",
         "cosy",
@@ -18,61 +29,68 @@
         "food_drink",
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
+        "printers_copiers",
+        "whiteboards",
+        "outdoor_seating",
         "toilets",
         "refreshments",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
         "wheelchair_accessible",
-        "accessible_toilets"
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
     ],
-    "title": "Loma Café",
-    "description": "LOMA is a unique offering on campus serving up specially selected craft coffee, delicious drinks and handcrafted salads and sandwiches. With a focus on healthy, field-to-fork food options, LOMA stands apart from the other food outlets on campus with unique salad and sandwich combinations you will struggle to find elsewhere.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley Building",
-    "floor": "Level 9",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/loma-cafe/",
-    "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
-    "campusmap_ref": "95",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bottled water only",
+        "internet access",
+        "wireless",
+        "natural science tripos",
+        "inter-library loans",
+        "24 hour opening",
+        "bookable study areas",
+        "photocopiers",
+        "computing facilities"
+    ],
+    "floor": "Ground floor",
+    "image": "2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.103238\",\"52.210174\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "saturday": {
             "open": false,
@@ -84,11 +102,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "/assets/photos/Loma-Cafe.jpg",
-    "imagealt": "Interior photograph of the Loma Café showing the overhead lighting rig for the main seating area with the service area in the background",
-    "slug": "loma-cafe",
-    "published": true,
-    "url_text": "Visit the Loma Café web site",
-    "phone_text": ""
+    }
 }

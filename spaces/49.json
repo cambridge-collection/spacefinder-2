@@ -1,50 +1,85 @@
 {
+    "id": 49,
+    "title": "Cambridge Brew House",
+    "slug": "cambridge-brew-house",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "1 King Street\r\nCambridge CB1 1LH",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.thecambridgebrewhouse.com/",
+    "phone_number": "01223 855185",
+    "twitter_screen_name": "TheCamBrewHouse",
+    "facebook_url": "https://www.facebook.com/TheCambridgeBrewHouse",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
     "facilities": [
+        "food_drink",
         "daylight",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
-        "whiteboards",
-        "projector",
+        "bookable",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "refreshments",
+        "break"
     ],
-    "atmosphere": [
-        "disciplined",
-        "modern"
+    "work": [
+        "close",
+        "friends",
+        "group"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "tags": [
+        "pub",
+        "spacious",
+        "sporty",
+        "coffee",
+        "tea",
+        "beer",
+        "brewhouse"
+    ],
+    "floor": "",
+    "image": "brew_house.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122223\",\"52.207403\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -56,33 +91,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "clothworkers-building-link-140-richard-hughes",
-    "floor": "First Floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17389",
-    "published": true,
-    "imagealt": "Clothworkers' Building Link - 140 (Richard Hughes)",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4E60",
-    "campusmap_ref": "34",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Clothworkers' Building Central and Link",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5565787554980246,53.80764075812936]}",
-    "facebook_url": "",
-    "title": "Clothworkers' Building Link - 140 (Richard Hughes)",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 49,
-    "image": "",
-    "description": "Large area with no drinks or food allowed. 42 seat capacity.",
-    "url_text": "View timetable for Clothworkers' Building Link - 140 (Richard Hughes)",
-    "phone_text": ""
+    }
 }

@@ -1,0 +1,88 @@
+{
+    "id": 167,
+    "title": "Rock Road Library: Community Garden",
+    "slug": "rock-road-library-community-garden",
+    "description": "The Library is currently open and also offers a Select & Collect service. Please follow the Website link at the bottom of this listings for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Library\r\n69 Rock Road\r\nCambridge\r\nCB1 7UG ",
+    "building": "Rock Road Library",
+    "restricted": true,
+    "restriction": "You will need to have a current registered Cambridgeshire public libraries card",
+    "disabled_access": false,
+    "url": "https://www.cambridgeshire.gov.uk/directory/listings/rock-road-library",
+    "phone_number": "0345 045 5225",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "Ground floor",
+    "image": "The_community_garden_-_sit_outside_when_it's_warm.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.14233\",\"52.18631\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "id": 179,
+    "title": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+    "slug": "cambridge-centre-for-christianity-worldwide-cccw-library",
+    "description": "Due to the implications of COVID-19 please check with the CCCW Library direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge Centre for Christianity Worldwide\r\nWestminster College\r\nMadingley Road\r\nCambridge\r\nCB3 0AA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please check with the library for current arrangements",
+    "disabled_access": false,
+    "url": "https://www.cccw.cam.ac.uk/",
+    "phone_number": "+44 (0)1223 330640",
+    "twitter_screen_name": "CCCWLibrary",
+    "facebook_url": "https://www.facebook.com/CCCWCentre",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "Recently built",
+        "period windows",
+        "white bookshelves",
+        "white carrels",
+        "comfy seating",
+        "archive research table",
+        "library research help",
+        "subject expert",
+        "librarian",
+        "archivist",
+        "self-issue"
+    ],
+    "floor": "Ground floor",
+    "image": "temp1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11212\",\"52.210537\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "13:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": 191,
+    "title": "The Boathouse",
+    "slug": "the-boathouse",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "14 Chesterton Road\r\nCambridge\r\nCB4 3AX",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.greeneking-pubs.co.uk/pubs/cambridgeshire/boathouse/",
+    "phone_number": "01223460905",
+    "twitter_screen_name": "greeneking",
+    "facebook_url": "https://www.facebook.com/theboathousecam",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "busy",
+        "river",
+        "cam",
+        "outside",
+        "daylight",
+        "pub food",
+        "pub",
+        "food",
+        "comfy"
+    ],
+    "floor": "First floor",
+    "image": "boathouse-cambridge.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.124172\",\"52.213728\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "thursday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "friday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        },
+        "sunday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:59"
+        }
+    }
+}

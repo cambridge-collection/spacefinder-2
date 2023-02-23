@@ -1,0 +1,89 @@
+{
+    "id": 188,
+    "title": "Bridges Cambridge",
+    "slug": "bridges-cambridge",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "20 Bridge St, Cambridge CB2 1UF",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "bridgescambridge.co.uk",
+    "phone_number": "01223 300800",
+    "twitter_screen_name": "BridgesCamb",
+    "facebook_url": "https://www.facebook.com/BridgesCafeCambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "cafe",
+        "coffee",
+        "cakes",
+        "food",
+        "busy",
+        "social"
+    ],
+    "floor": "",
+    "image": "bridges.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118009\",\"52.208803\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "11:00",
+            "to": "16:30"
+        }
+    }
+}

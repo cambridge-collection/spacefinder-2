@@ -1,74 +1,76 @@
 {
     "id": 34,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5533030311932319,53.808536389199546]}",
-    "work": [
-        "private",
-        "friends",
-        "group"
-    ],
+    "title": "West Café (Hauser Forum)",
+    "slug": "west-cafe-hauser-forum",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below may not be accurate, please check with the West Cafe direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Hauser Forum, 3 Charles Babbage Rd, Cambridge, CB3 0GT",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please check with the West Cafe direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/west-cafe",
+    "phone_number": "01223 746 800",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
         "relaxed",
         "modern",
-        "inspiring",
-        "cosy",
         "social",
         "friendly"
     ],
     "facilities": [
         "food_drink",
         "daylight",
+        "views",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "outdoor_seating",
+        "toilets"
     ],
-    "title": "Chemistry - Chaston Chapman Lounge (room G20)",
-    "description": "Bright green modern lounge located in the Chemistry Building. The perfect place to study, take a break or explore the scientific magazines that are displayed on the shelves. The couches and the chairs are very comfortable, making the area very welcoming.",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Chemistry Building",
-    "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "0113 343 2444",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17381",
-    "campusmap_ref": "55",
-    "noise": "Animated discussion",
-    "tags": [],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "lovely food",
+        "busy"
+    ],
+    "floor": "",
+    "image": "Screen_Shot_2015-10-01_at_14.39.22.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.089555\",\"52.208812\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "15:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "15:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "15:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "15:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "15:00"
         },
         "saturday": {
             "open": false,
@@ -80,11 +82,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Chemistry - Chaston Chapman Lounge (room G20)",
-    "slug": "chemistry-chaston-chapman-lounge-room-g20",
-    "published": true,
-    "url_text": "",
-    "phone_text": "Contact the School of Chemical and Process Engineering"
+    }
 }

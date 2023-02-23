@@ -1,0 +1,91 @@
+{
+    "id": 170,
+    "title": "Novi",
+    "slug": "novi",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Novi, 12 Regent Street, Cambridge, CB2 1DB",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://novicambridge.co.uk/",
+    "phone_number": "01223 518537",
+    "twitter_screen_name": "novicambridge",
+    "facebook_url": "https://www.facebook.com/novicambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "busy"
+    ],
+    "floor": "",
+    "image": "C1zyq1jWIAE3fn6.jpg_large.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.124626\",\"52.202004\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "3:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:00",
+            "to": "23:00"
+        }
+    }
+}

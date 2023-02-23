@@ -1,88 +1,88 @@
 {
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
-        "free_wifi",
-        "laptops_allowed",
-        "signal",
-        "outdoor_seating",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
+    "id": 12,
+    "title": "Cambridge Public Library - 2nd Floor (Non-Fiction and Reference)",
+    "slug": "cambridge-public-library-2nd-floor-non-fiction-and-reference",
+    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
+    "building": "Cambridge Central Public Library",
+    "restricted": false,
+    "restriction": "You will need to have a current registered Cambridgeshire public libraries card.",
+    "disabled_access": true,
+    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
+    "phone_number": "0345 045 5225",
+    "twitter_screen_name": "cambslib",
+    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
         "relaxed",
-        "social",
-        "friendly"
+        "modern",
+        "social"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "comfy seating",
+        "airy"
+    ],
+    "floor": "Third floor",
+    "image": "Central_Library_non-fiction_and_reference_2nd_floor.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120511\",\"52.204396\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "24:00"
+            "from": "10:00",
+            "to": "14:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "24:00"
+            "from": "12:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "24:00"
+            "from": "10:00",
+            "to": "14:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "24:00"
+            "from": "12:00",
+            "to": "16:00"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "24:00"
+            "from": "10:00",
+            "to": "14:00"
         },
         "saturday": {
             "open": true,
             "from": "10:00",
-            "to": "24:00"
+            "to": "14:00"
         },
         "sunday": {
-            "open": true,
-            "from": "10:00",
-            "to": "24:00"
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    },
-    "floor": "",
-    "restriction": "",
-    "campusmap_url": "",
-    "url": "",
-    "campusmap_ref": "",
-    "work": [
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "Café",
-    "building": "Chancellor's Court",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5547883,53.8051901]}",
-    "facebook_url": "https://www.facebook.com/toastedleeds/",
-    "title": "Toasted in Chancellor's Court (Outdoor space)",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "",
-    "restricted": false,
-    "id": 12,
-    "description": "Gourmet toastie van serving a range of toasties, croissants, sweet treats, cold drinks and freshly brewed coffees. Outdoor seating situated in Chancellor's Court, next to the Roger Stevens Building",
-    "image": "/assets/photos/toasted.jpg",
-    "imagealt": "Outdoor photograph of Toasted - a converted Ford Transit van - in Chancellor's Court",
-    "slug": "toasted-in-chancellors-court-outdoor-space",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

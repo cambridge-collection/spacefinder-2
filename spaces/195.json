@@ -1,0 +1,90 @@
+{
+    "id": 195,
+    "title": "Zio Mario",
+    "slug": "zio-mario",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "21, Station Place, Cambridge CB1 2FP",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.ziomario.co.uk/",
+    "phone_number": "01223 324993",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/ziomariocambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "baby_changing"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "cafe",
+        "food",
+        "drink",
+        "coffee",
+        "social"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136216\",\"52.193225\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

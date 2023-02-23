@@ -1,90 +1,83 @@
 {
     "id": 45,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5536192337568269,53.808402196215155]}",
+    "title": "Trockel, Ulmann & Freunde",
+    "slug": "trockel-ulmann-freunde",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "13 Pembroke Street, Cambridge CB2 3QY",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "01223 460923",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets"
+    ],
     "work": [
         "private",
         "close",
         "friends"
     ],
-    "atmosphere": [
-        "disciplined",
-        "modern",
-        "inspiring",
-        "social",
-        "friendly"
+    "tags": [
+        "coffee",
+        "soup"
     ],
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
-    "title": "Chemistry and Chemistry West Block - 1.46 (Ingold)",
-    "description": "Bright large and social cluster room with variety of desks. Comfortable chairs perfect for long hours of individual or group work. 71 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Chemistry building",
-    "floor": "First Floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "0113 343 6543",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17382",
-    "campusmap_ref": "55",
-    "noise": "Whispers",
-    "tags": [],
+    "floor": "",
+    "image": "trockel.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.119197\",\"52.202379\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "17:00"
         },
         "tuesday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "17:00"
         },
         "wednesday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "17:00"
         },
         "thursday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "17:00"
         },
         "friday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "17:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
         }
-    },
-    "image": "",
-    "imagealt": "Chemistry and Chemistry West Block - 1.46 (Ingold)",
-    "slug": "chemistry-and-chemistry-west-block-146-ingold",
-    "published": true,
-    "url_text": "",
-    "phone_text": "Contact the School of Chemistry"
+    }
 }

@@ -1,0 +1,86 @@
+{
+    "id": 97,
+    "title": "Balfour & Newton - Main Library",
+    "slug": "balfour-newton-main-library",
+    "description": "Due to safety measures, the physical library is currently closed for studying. Services available include: Click & Collect, Book Returns, Scan & Deliver, LibChat, Online meetings and 1-to-1 support. Follow Website link at the bottom of this listing for more details and updates on these services.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Downing Street",
+    "building": "Balfour & Newton Libraries, Department of Zoology",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": false,
+    "url": "https://www.zoo.cam.ac.uk/about-us/library/covid-19-and-zoology-library",
+    "phone_number": "(01223) 336648",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "disciplined",
+        "historic",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "traffic noise",
+        "mobile phones on silent"
+    ],
+    "floor": "First floor",
+    "image": "5.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12108\",\"52.20314\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

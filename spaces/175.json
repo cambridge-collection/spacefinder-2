@@ -1,0 +1,90 @@
+{
+    "id": 175,
+    "title": "Starbucks: Regent Street",
+    "slug": "starbucks-regent-street",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "43 Regent St\r\nCambridge \r\nCB2 1AB",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.starbucks.co.uk/store-locator/store/1015476/cambridge-regent-st-38-40-regent-street-cambridge-eng-cb-2-1-dp-gb",
+    "phone_number": "+44(0)1223 354941",
+    "twitter_screen_name": "starbucks",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "Ground floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.125995\",\"52.201017\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "6:30",
+            "to": "19:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        }
+    }
+}

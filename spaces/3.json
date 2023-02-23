@@ -1,92 +1,83 @@
 {
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "outdoor_seating",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "wheelchair_accessible",
-        "gender_neutral_toilets"
-    ],
+    "id": 3,
+    "title": "Costa Coffee (Grand Arcade)",
+    "slug": "costa-coffee-grand-arcade",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Unit K5, Grand Arcade,\r\nSt Andrews Street,\r\nCambridge, CB2 3AX.",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.costa.co.uk/",
+    "phone_number": "01223 305347",
+    "twitter_screen_name": "CostaCoffee",
+    "facebook_url": "https://www.facebook.com/CostaCoffee",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
         "relaxed",
-        "modern",
         "social",
         "friendly"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "facilities": [
+        "food_drink",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "tea",
+        "cakes",
+        "busy"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12173\",\"52.20399\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "19:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "19:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "20:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "19:00"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "19:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "8:00",
+            "to": "19:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
         }
-    },
-    "slug": "edit-room-cafe-in-edward-boyle-library",
-    "floor": "Level 9 (ground floor)",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17411",
-    "imagealt": "Interior photograph of the Edit Room Café showing the bright lighting, some of the serving area and students seated around a number of tables",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/the-edit-room/",
-    "campusmap_ref": "83",
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "Edward Boyle Library",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5546372444373286,53.80605751185165]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Edit Room Café in Edward Boyle Library",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "",
-    "restricted": "",
-    "id": 3,
-    "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ground floor of the Edward Boyle Library, the cafe provides an eclectic mix of grab and go food and drinks for everyone to enjoy at any time of the day.",
-    "published": true,
-    "url_text": "Visit the Edit Room Café in Edward Boyle Library web site",
-    "phone_text": ""
+    }
 }

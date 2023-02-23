@@ -1,75 +1,90 @@
 {
     "id": 32,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.555811583,53.80672801]}",
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
+    "title": "Cambridge Judge Business School Information Centre - Mezzanine",
+    "slug": "cambridge-judge-business-school-information-centre-mezzanine",
+    "description": "Due to the implications of COVID-19, please check with the Cambridge Judge Business School Information Centre direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
+    "building": "Cambridge Judge Business School Information Centre",
+    "restricted": true,
+    "restriction": "Please check with the Information Centre regarding their current arrangements.",
+    "disabled_access": true,
+    "url": "http://www.jbs.cam.ac.uk/infolib",
+    "phone_number": "01223 339599",
+    "twitter_screen_name": "CJBSInfoLib",
+    "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
+        "disciplined",
         "relaxed",
         "modern",
-        "social",
+        "inspiring",
         "friendly"
     ],
     "facilities": [
         "food_drink",
         "daylight",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "baby_changing"
+        "break"
     ],
-    "title": "Leeds University Union - Foyer",
-    "description": "Busy study place for people that like working alongside others. Couches with big tables can be used for comfortable group working in a nice environment. Extra couches on the side for anybody wanting to read or take a break.",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Leeds University Union",
-    "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://www.luu.org.uk/",
-    "phone_number": "0113 380 1400",
-    "twitter_screen_name": "LeedsUniUnion",
-    "facebook_url": "https://www.facebook.com/leedsuniversityunion/",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17489",
-    "campusmap_ref": "32",
-    "noise": "Animated discussion",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "quiet",
+        "warm",
+        "friendly",
+        "modern",
+        "light",
+        "silent solo work",
+        "toilets",
+        "disabled access",
+        "wifi",
+        "computing facilities",
+        "printing facilities",
+        "food and drink allowed"
+    ],
+    "floor": "Mezzanine",
+    "image": "CJBS_Mezzanine_1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "8:45",
+            "to": "18:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "8:45",
+            "to": "18:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "8:45",
+            "to": "18:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "8:45",
+            "to": "18:00"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "8:45",
+            "to": "18:00"
         },
         "saturday": {
             "open": false,
@@ -81,11 +96,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Leeds University Union - Foyer",
-    "slug": "leeds-university-union-foyer",
-    "published": true,
-    "url_text": "Visit the Leeds University Union - Foyer web site",
-    "phone_text": "Contact Leeds University Union"
+    }
 }

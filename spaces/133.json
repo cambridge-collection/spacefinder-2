@@ -1,0 +1,81 @@
+{
+    "id": 133,
+    "title": "The Devonshire Arms",
+    "slug": "the-devonshire-arms",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "1 Devonshire Road\r\nCambridge\r\nCB1 2BH",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.individualpubs.co.uk/devonshire/",
+    "phone_number": "01223 316610",
+    "twitter_screen_name": "CambridgeDev",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "real ale"
+    ],
+    "floor": "",
+    "image": "front-bar.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.138522\",\"52.197976\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "22:30"
+        }
+    }
+}

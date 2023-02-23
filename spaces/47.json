@@ -1,90 +1,96 @@
 {
+    "id": 47,
+    "title": "Stem+Glory (King Street)",
+    "slug": "stemglory-king-street",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "13 King Street, Cambridge, CB1 1LH",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "https://www.stemandglory.uk/",
+    "phone_number": "01223 314 331",
+    "twitter_screen_name": "stemandglory",
+    "facebook_url": "https://www.facebook.com/stemandglory",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
     "facilities": [
+        "food_drink",
         "daylight",
-        "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
-        "whiteboards",
-        "projector",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "break"
     ],
-    "atmosphere": [
-        "disciplined",
-        "modern",
-        "cosy"
+    "work": [
+        "close",
+        "friends"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "tags": [
+        "coffee",
+        "cakes",
+        "trendy",
+        "vegetarian",
+        "gender neutral toilet",
+        "busy",
+        "small",
+        "central",
+        "lunchtime rush",
+        "vegan"
+    ],
+    "floor": "",
+    "image": "IMG_20171126_125925804.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122837\",\"52.207402\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "17:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "17:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "17:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "17:00"
         },
         "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "saturday": {
             "open": true,
             "from": "9:00",
             "to": "18:00"
         },
-        "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
         }
-    },
-    "slug": "clarendon-building-g04",
-    "floor": "Ground floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17385",
-    "published": false,
-    "imagealt": "Clarendon Building - G04",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4D58",
-    "campusmap_ref": "20",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Clarendon building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5602497100466306,53.80726148395461]}",
-    "facebook_url": "",
-    "title": "Clarendon Building - G04",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 47,
-    "image": "",
-    "description": "Classroom with 4 computer rows. Comfortable chairs. 50 seat capacity.",
-    "url_text": "View timetable for Clarendon Building - G04",
-    "phone_text": ""
+    }
 }

@@ -1,0 +1,95 @@
+{
+    "id": 112,
+    "title": "UL - Tea Room",
+    "slug": "ul-tea-room",
+    "description": "The UL Tea Room is operating at reduced capacity due to safety measures. There is a vending machine available for snacks and drinks, with social distancing measures in place. A kettle and microwave are available with hygiene measures in place for users. Food carts are available in the UL car park on certain days.\r\n",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "01223 333030",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "light",
+        "airy",
+        "fairtrade",
+        "lunch",
+        "breakfast",
+        "snacks",
+        "coffee",
+        "tea"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-MAP-TEA-ROOM-000-00001.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:30",
+            "to": "15:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

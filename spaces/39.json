@@ -1,15 +1,27 @@
 {
     "id": 39,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.56233253578952,53.808097710898366]}",
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
+    "title": "The Copper Kettle (Agora)",
+    "slug": "the-copper-kettle-agora",
+    "description": "IMPORTANT: Due to the implications of COVID-19 the information below is very unlikely to be accurate. You are strongly advised to check with the company directly as to their current opening hours and access procedures.\r\n\r\nSituated directly opposite King's College, The Copper Kettle is the perfect place to sit and watch the world go by. With huge windows looking out onto King's Parade, you can people-watch while getting some work done.",
+    "access": "Anyone (public)",
+    "space_type": "Restaurant",
+    "address": "4 King's Parade, Cambridge, CB2 1SJ",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://thecopperkettle.weebly.com/",
+    "phone_number": "01223 308448",
+    "twitter_screen_name": "CopperKettleCam",
+    "facebook_url": "https://www.facebook.com/copper.kettlecambridge?fref=nf",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
         "relaxed",
-        "modern",
-        "cosy",
+        "historic",
+        "inspiring",
         "social",
         "friendly"
     ],
@@ -21,73 +33,62 @@
         "laptops_allowed",
         "sockets",
         "signal",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "accessible_toilets"
+        "break"
     ],
-    "title": "Liberty Building - Ground floor Common Area (G01)",
-    "description": "Common area near the entrance of the Liberty building. Quiet space with different kinds of tables (and table football).",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Liberty Building",
-    "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17491",
-    "campusmap_ref": "16",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "attractive views",
+        "food and drink",
+        "wifi",
+        "light",
+        "warm"
+    ],
+    "floor": "",
+    "image": "agora.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.117738\",\"52.204028\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "8:00",
+            "to": "23:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "8:00",
+            "to": "23:00"
         }
-    },
-    "image": "",
-    "imagealt": "Liberty Building - Ground floor Common Area (G01)",
-    "slug": "liberty-building-ground-floor-common-area-g01",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

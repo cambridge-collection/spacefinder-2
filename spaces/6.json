@@ -1,55 +1,84 @@
 {
+    "id": 6,
+    "title": "UL - West 4",
+    "slug": "ul-west-4",
+    "description": "The UL West 4 area is currently closed as a study space, due to safety measures. You can book a study space in the UL's main Reading Room using the link below. The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "Booking required to study at the UL",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "01223 333000",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://www.lib.cam.ac.uk/using-library/person-services/book-study-space",
+    "noise": "Whispers",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy"
+    ],
     "facilities": [
-        "food_drink",
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "break",
-        "sockets",
-        "wheelchair_accessible",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "baby_changing",
-        "accessible_toilets"
+        "break"
     ],
-    "atmosphere": [
-        "historic",
-        "inspiring",
-        "friendly",
-        "social",
-        "relaxed"
+    "work": [
+        "private",
+        "close",
+        "friends"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "tags": [
+        "no large bags",
+        "corridor",
+        "reading lamps",
+        "spacious",
+        "height adjustable chairs",
+        "bottled water only",
+        "air conditioned"
+    ],
+    "floor": "Fourth floor",
+    "image": "PH-LIBRARY-MAP-NORTH-FOUR-000-00001.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -61,36 +90,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "costa-parkinson-court",
-    "floor": "Ground floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17525",
-    "imagealt": "An overhead, interior photograph of the Costa Parkinson Court serving area and seating with blurred images of two customers",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/parkinson/",
-    "campusmap_ref": "60",
-    "email_address": "gfal@leeds.ac.uk",
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "Parkinson Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5526256147622044,53.808126986172226]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Costa Parkinson Court",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "",
-    "restricted": false,
-    "id": 6,
-    "image": "/assets/photos/Parkinson-Court-Cafe4.jpg",
-    "description": "Parkinson Court Café sits in one of the most iconic buildings at the University of Leeds. The café is open plan and  conveniently located for a break from working in the Brotherton Library. Serves a range of sandwiches and snacks throughout the day.",
-    "published": true,
-    "url_text": "Visit the Costa Parkinson Court web site",
-    "phone_text": ""
+    }
 }

@@ -1,0 +1,84 @@
+{
+    "id": 94,
+    "title": "Geography Library - Computer Area",
+    "slug": "geography-library-computer-area",
+    "description": "The physical library is currently closed for studying. Services available include: Click & Collect (Mon, Tues, Thurs, Fri, 10:00 to 16:00, members of the Geography Department only), Book Returns. Follow Website link below for more details on these services.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Department of Geography\r\nDowning Place\r\nCambridge\r\nCB2 3EN",
+    "building": "Geography Department Library",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": false,
+    "url": "http://www.geog.cam.ac.uk/library/",
+    "phone_number": "01223333391",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "disciplined"
+    ],
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "accessible_toilets",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "Utilitarian",
+        "Reservable workspaces",
+        "Fetching service available"
+    ],
+    "floor": "First floor",
+    "image": "geogcomputer.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12378\",\"52.2018\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "id": 126,
+    "title": "Harriet's Cafe Tearooms",
+    "slug": "harriets-cafe-tearooms",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "16 & 17 Green Street,\r\nCambridge",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.harrietscafetearooms.co.uk",
+    "phone_number": "01223 356443",
+    "twitter_screen_name": "HarrietsTearoom",
+    "facebook_url": "https://www.facebook.com/harrietscafetearoom",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "refreshments"
+    ],
+    "work": [
+        "friends"
+    ],
+    "tags": [
+        "busy"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118752\",\"52.206643\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:30",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        }
+    }
+}

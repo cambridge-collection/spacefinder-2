@@ -1,0 +1,84 @@
+{
+    "id": 138,
+    "title": "The Grain and Hop Store",
+    "slug": "the-grain-and-hop-store",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "69-76 Regent Street\r\nCambridge\r\nCB2 1AA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.grainandhopstore-cambridge.co.uk/",
+    "phone_number": "01223 323405",
+    "twitter_screen_name": "grainhopcam",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "dark",
+        "busy"
+    ],
+    "floor": "",
+    "image": "12508721_785696788207020_2368513550188574683_n.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.125694\",\"52.20126\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:30",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:30",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:30",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:30",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "8:30",
+            "to": "23:00"
+        }
+    }
+}

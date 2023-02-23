@@ -1,0 +1,101 @@
+{
+    "id": 155,
+    "title": "Materials Science Library: Lobby Area",
+    "slug": "materials-science-library-lobby-area",
+    "description": "The physical Library is currently closed as a study space. Email the librarian at library@msm.cam.ac.uk with enquiries and for support with accessing resources and services.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge\r\nCB3 0FS\r\n",
+    "building": "Department of Materials Science and Metallurgy Library",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": true,
+    "url": "http://www.msm.cam.ac.uk/library/index.php",
+    "phone_number": "+44(0)01223 334318",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bright",
+        "airy",
+        "friendly",
+        "welcoming",
+        "group work",
+        "continuous handrails on stairs",
+        "ergonomic chairs",
+        "desks at appropriate height for wheelchair users",
+        "Reservable workspaces",
+        "Fetching service available",
+        "outdoor space"
+    ],
+    "floor": "First floor",
+    "image": "image1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.08423\",\"52.20954\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

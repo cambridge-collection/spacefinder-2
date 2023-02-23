@@ -1,0 +1,83 @@
+{
+    "id": 209,
+    "title": "UL - South Wing 3 Study Hub - Commonwealth Room",
+    "slug": "ul-south-wing-3-study-hub-commonwealth-room",
+    "description": "This reading room is light and spacious, providing a quiet space to study with few distractions. It houses a good number of public computers and has a copier/printer. There are large desks and some smaller reading nooks available.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "https://www.lib.cam.ac.uk/using-library/",
+    "phone_number": "01223333016",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniverstylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "disciplined",
+        "inspiring"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "bookable",
+        "wheelchair_accessible",
+        "accessible_toilets"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "reading lamps",
+        "no large bags"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

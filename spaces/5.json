@@ -1,53 +1,79 @@
 {
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "baby_changing",
-        "accessible_toilets"
-    ],
+    "id": 5,
+    "title": "UL - North Front Corridor",
+    "slug": "ul-north-front-corridor",
+    "description": "The UL North Front Corridor is currently closed as a study space, due to safety measures. You can book a study space in the UL's main Reading Room using the link below. The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "Booking required to study at the UL",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "1223 333000",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://www.lib.cam.ac.uk/using-library/person-services/book-study-space",
+    "noise": "Background chatter",
     "atmosphere": [
-        "disciplined",
         "relaxed",
+        "historic",
+        "inspiring",
         "cosy"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "no large bags",
+        "art",
+        "bottled water only"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-FRONT-CORRIDORS-000-00002.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -59,35 +85,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "cafe-maia",
-    "floor": "Level 10",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17503",
-    "published": true,
-    "imagealt": "Interior photograph of the Café Maia, featuring the service area and seating and including a customer in a bright pink coat talking to a staff member",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/ziff/",
-    "campusmap_ref": "77",
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "Marjorie and Arnold Ziff Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5536376788788109,53.80665924323975]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Café Maia",
-    "tags": [],
-    "noise": "Whispers",
-    "phone_number": "",
-    "restricted": false,
-    "id": 5,
-    "image": "/assets/photos/Cafe-Maia1.jpg",
-    "description": "Café Maia at Ziff is perfect for meetings, to take a break or even to do some work in the computer area.",
-    "url_text": "Visit the Café Maia web site",
-    "phone_text": ""
+    }
 }

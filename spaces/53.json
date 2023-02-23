@@ -1,51 +1,75 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "whiteboards",
-        "projector",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking"
-    ],
-    "atmosphere": [
-        "disciplined",
-        "modern"
-    ],
-    "access": "University Staff and Students",
+    "id": 53,
+    "title": "Astronomy: Hoyle Building Library Area",
+    "slug": "astronomy-hoyle-building-library-area",
+    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB23 6DQ",
+    "building": "Institute of Astronomy Library",
+    "restricted": true,
+    "restriction": "Outside of office hours this is members of the Institute of Astronomy only.",
     "disabled_access": true,
+    "url": "https://www.ast.cam.ac.uk/library/news",
+    "phone_number": "01223 337537",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social"
+    ],
+    "facilities": [
+        "views",
+        "laptops_allowed",
+        "toilets",
+        "refreshments",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "new books",
+        "undergraduate books",
+        "astronomy"
+    ],
+    "floor": "First floor",
+    "image": "4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09339\",\"52.21411\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "12:30",
+            "to": "16:30"
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -57,33 +81,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "esther-simpson-building-109",
-    "floor": "First Floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17420",
-    "published": true,
-    "imagealt": "Esther Simpson Building - 109",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4D26",
-    "campusmap_ref": "12",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Esther Simpson Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.559575562464403,53.80639358717509]}",
-    "facebook_url": "",
-    "title": "Esther Simpson Building - 109",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 53,
-    "image": "",
-    "description": "Cluster room surrounded by big windows with high views of the University campus. Perfect for focused study with access to computers. 76 seat capacity.",
-    "url_text": "View timetable for Esther Simpson Building - 109",
-    "phone_text": ""
+    }
 }

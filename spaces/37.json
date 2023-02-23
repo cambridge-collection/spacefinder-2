@@ -1,12 +1,23 @@
 {
     "id": 37,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.553932038,53.80910265]}",
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
+    "title": "Grads Cafe",
+    "slug": "grads-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Grads Cafe direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "The University Centre, Granta Place, Cambridge, CB2 1RU",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the Grads Cafe direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/within-university-centre/grads-cafe",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
         "relaxed",
         "modern",
@@ -18,78 +29,68 @@
     "facilities": [
         "food_drink",
         "daylight",
+        "views",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
-        "printers_copiers",
-        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "break"
     ],
-    "title": "Sir William Henry Bragg Building - Ground Floor Breakout Area (Room G.08)",
-    "description": "Modern big break out area with café shop nearby. Social, modern and very comfortable for people to study and relax.",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Sir William Henry Bragg Building",
-    "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17545",
-    "campusmap_ref": "53",
-    "noise": "Animated discussion",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "open",
+        "light",
+        "attractive views",
+        "food and drink",
+        "comfy",
+        "warm",
+        "music"
+    ],
+    "floor": "Third floor",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.116217\",\"52.201127\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "21:00"
         },
         "tuesday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "21:00"
         },
         "wednesday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "21:00"
         },
         "thursday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "21:00"
         },
         "friday": {
             "open": true,
             "from": "9:00",
-            "to": "18:00"
+            "to": "21:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "21:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "21:00"
         }
-    },
-    "image": "",
-    "imagealt": "Sir William Henry Bragg Building - Ground Floor Breakout Area (Room G.08)",
-    "slug": "sir-william-henry-bragg-building-ground-floor-breakout-area-room-g08",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

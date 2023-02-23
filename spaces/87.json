@@ -1,15 +1,25 @@
 {
     "id": 87,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5517479706497481,53.807130152155715]}",
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
+    "title": "CB2",
+    "slug": "cb2",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "5/7 Norfolk Street, Cambridge, CB1 2LD\r\n",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.cb2bistro.com/",
+    "phone_number": "01223 508503",
+    "twitter_screen_name": "Cb2Bistro",
+    "facebook_url": "https://www.facebook.com/cb2bistrocambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
-        "disciplined",
         "relaxed",
-        "modern",
         "cosy",
         "social",
         "friendly"
@@ -17,77 +27,63 @@
     "facilities": [
         "food_drink",
         "daylight",
-        "views",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
-        "signal",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "break"
     ],
-    "title": "Caffè Nero at Laidlaw Library",
-    "description": "This is the very first Caffé Nero on a University campus, specialising in high-quality Italian coffee, a warm and welcoming atmosphere, good food and great personal service.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Laidlaw Library",
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "coffee",
+        "tea",
+        "independent",
+        "brunch",
+        "creative",
+        "art"
+    ],
     "floor": "Ground floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/caffe-nero/",
-    "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18470",
-    "campusmap_ref": "63",
-    "noise": "Animated discussion",
-    "tags": [],
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.134405\",\"52.205\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "20:00"
+            "from": "10:00",
+            "to": "21:30"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "20:00"
+            "from": "10:00",
+            "to": "21:30"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "20:00"
+            "from": "10:00",
+            "to": "21:30"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "20:00"
+            "from": "10:00",
+            "to": "21:30"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "10:00",
+            "to": "21:30"
         },
         "saturday": {
             "open": true,
-            "from": "10:00",
-            "to": "16:30"
+            "from": "9:30",
+            "to": "21:30"
         },
         "sunday": {
             "open": true,
             "from": "10:00",
-            "to": "20:00"
+            "to": "21:30"
         }
-    },
-    "image": "/assets/photos/Caffe-Nero-Laidlaw.jpg",
-    "imagealt": "Exterior photograph of the Caffè Nero logo on the window of the Laidlaw Library, with the stained glass windows of the Emmanuel Centre in the background",
-    "slug": "caffe-nero-at-laidlaw-library",
-    "published": true,
-    "url_text": "Visit the Caffè Nero at Laidlaw Library web site",
-    "phone_text": ""
+    }
 }

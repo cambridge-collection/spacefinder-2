@@ -1,0 +1,80 @@
+{
+    "id": 193,
+    "title": "Urban Larder",
+    "slug": "urban-larder",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "9 The Broadway Mill Road, Cambridge CB1 3AH",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.urbanlarder.coffee/",
+    "phone_number": "",
+    "twitter_screen_name": "UrbanLarder",
+    "facebook_url": "https://www.facebook.com/Urban-Larder-207235242628815/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "cosy"
+    ],
+    "facilities": [
+        "daylight",
+        "laptops_allowed",
+        "refreshments"
+    ],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "cafe",
+        "coffee",
+        "deli",
+        "sandwiches",
+        "toasties"
+    ],
+    "floor": "",
+    "image": "urban_larder_outside.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.143624\",\"52.19803\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:30",
+            "to": "20:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:30",
+            "to": "20:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:30",
+            "to": "20:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "8:30",
+            "to": "20:00"
+        }
+    }
+}

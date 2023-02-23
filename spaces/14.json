@@ -1,86 +1,79 @@
 {
     "id": 14,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5534074786406,53.807469695391696]}",
-    "work": [
-        "private",
-        "group"
-    ],
+    "title": "Cambridge Public Library - 1st Floor (Fiction) ",
+    "slug": "cambridge-public-library-1st-floor-fiction",
+    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
+    "building": "Cambridge Central Public Library",
+    "restricted": false,
+    "restriction": "You will need to have a current registered Cambridgeshire public libraries card.",
+    "disabled_access": true,
+    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
+    "phone_number": "0345 045 5225",
+    "twitter_screen_name": "cambslib",
+    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
-        "disciplined",
+        "relaxed",
+        "modern",
         "social"
     ],
     "facilities": [
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
-        "whiteboards",
-        "toilets",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "printers_copiers"
     ],
-    "title": "Baines Wing - G.28",
-    "description": "Small study/seminar room space that includes one large desk for group or single focused study. Access to whiteboard and plug sockets. 15 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "Seminar room",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Baines Wing",
-    "floor": "Ground floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17343",
-    "campusmap_ref": "58",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only"
+    ],
+    "floor": "First floor",
+    "image": "Central_Library_fiction.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120511\",\"52.204396\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "10:00",
+            "to": "14:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "12:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "10:00",
+            "to": "14:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "12:00",
+            "to": "16:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "10:00",
+            "to": "14:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
         }
-    },
-    "image": "/assets/photos/Baines-Wing.jpg",
-    "imagealt": "External photograph of the Baines Wing facade from University Road in the summer, with trees and a blue sky with some clouds",
-    "slug": "baines-wing-g28",
-    "published": false,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

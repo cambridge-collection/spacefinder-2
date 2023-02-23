@@ -1,89 +1,84 @@
 {
     "id": 20,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.553483796,53.80697704]}",
-    "work": [
-        "private",
-        "friends",
-        "group"
-    ],
+    "title": "Jamaica Blue (Lion Yard/Grand Arcade)",
+    "slug": "jamaica-blue-lion-yard-grand-arcade",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Grand Arcade,\r\nSt Andrews Street,\r\nCambridge,\r\nCB2 3AX.",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.jamaicablue.co.uk",
+    "phone_number": "01223 308 781",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/Jamaica-Blue-UK",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
-        "disciplined",
         "relaxed",
         "social",
         "friendly"
     ],
     "facilities": [
-        "large_desks",
+        "food_drink",
         "free_wifi",
         "laptops_allowed",
-        "whiteboards",
-        "projector",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets"
+        "signal",
+        "toilets",
+        "refreshments"
     ],
-    "title": "Michael Sadler Building - B.37",
-    "description": "Large communal desk area surrounded by chairs. 16 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "Seminar room",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Michael Sadler Building",
-    "floor": "Basement",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "0113 343 5555",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17512",
-    "campusmap_ref": "78",
-    "noise": "Animated discussion",
-    "tags": [],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "tea",
+        "cakes",
+        "comfortable"
+    ],
+    "floor": "Second floor",
+    "image": "jamaica-blue.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120761\",\"52.204556\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "8:00",
+            "to": "18:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "8:00",
+            "to": "18:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "8:00",
+            "to": "20:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "8:00",
+            "to": "18:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "8:00",
+            "to": "18:00"
         },
         "saturday": {
             "open": true,
-            "from": "12:00",
-            "to": "16:00"
+            "from": "8:00",
+            "to": "18:30"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
         }
-    },
-    "image": "",
-    "imagealt": "Michael Sadler Building - B.37",
-    "slug": "michael-sadler-building-b37",
-    "published": false,
-    "url_text": "",
-    "phone_text": "Contact the Estates Helpdesk"
+    }
 }

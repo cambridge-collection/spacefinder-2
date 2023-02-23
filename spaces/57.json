@@ -1,79 +1,74 @@
 {
     "id": 57,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5548974249272625,53.80431536943481]}",
-    "work": [
-        "private",
-        "close"
-    ],
+    "title": "Whipple Old Library",
+    "slug": "whipple-old-library",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge",
+    "building": "Whipple Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "http://www.hps.cam.ac.uk/library/",
+    "phone_number": "01223 334547",
+    "twitter_screen_name": "hpslib",
+    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
     "atmosphere": [
-        "disciplined",
-        "modern",
         "inspiring",
-        "social",
         "friendly"
     ],
     "facilities": [
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "projector",
+        "printers_copiers",
         "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets"
+        "bike_racks"
     ],
-    "title": "Irene Manton Building - 7.96",
-    "description": "Modern large IT cluster with plenty of large windows facing a beautiful side of the University campus. 40 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Irene Manton Building",
-    "floor": "Level 7",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4F61",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17462",
-    "campusmap_ref": "91",
-    "noise": "Strictly silent",
-    "tags": [],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "cool in summer"
+    ],
+    "floor": "First floor",
+    "image": "10.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11937\",\"52.20292\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -85,11 +80,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Irene Manton Building - 7.96",
-    "slug": "irene-manton-building-796",
-    "published": true,
-    "url_text": "View timetable for Irene Manton Building - 7.96",
-    "phone_text": ""
+    }
 }

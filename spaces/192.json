@@ -1,0 +1,81 @@
+{
+    "id": 192,
+    "title": "5 Blends Coffee House",
+    "slug": "5-blends-coffee-house",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "42 Mill Road \r\nCambridge\r\nCB1 2AD",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "01223 355293",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "small",
+        "cosy",
+        "welcoming"
+    ],
+    "floor": "",
+    "image": "47082_5_Blends_4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.1346748687149885\",\"52.20095906827237\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    }
+}

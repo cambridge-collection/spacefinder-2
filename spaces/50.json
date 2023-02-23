@@ -1,50 +1,74 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "whiteboards",
-        "projector",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
-    "atmosphere": [
-        "disciplined",
-        "modern"
-    ],
-    "access": "University Staff and Students",
+    "id": 50,
+    "title": "The Pint Shop",
+    "slug": "the-pint-shop",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "10 Peas Hill, Cambridge, CB2 3PN",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
     "disabled_access": true,
+    "url": "http://pintshop.co.uk/",
+    "phone_number": "01223 352293",
+    "twitter_screen_name": "PintShop",
+    "facebook_url": "https://www.facebook.com/pages/Pint-Shop/401807443242547",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "no_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "beer",
+        "scotch eggs"
+    ],
+    "floor": "",
+    "image": "Screen_Shot_2015-10-01_at_14.31.16.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11913\",\"52.204183\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -56,33 +80,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "clothworkers-building-link-g34",
-    "floor": "Ground floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17389",
-    "published": true,
-    "imagealt": "Clothworkers' Building Link - G.34",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4F6C",
-    "campusmap_ref": "34",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Clothworkers' Building Central and Link",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5566380459933304,53.80748904996728]}",
-    "facebook_url": "",
-    "title": "Clothworkers' Building Link - G.34",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 50,
-    "image": "",
-    "description": "Cluster room with a variety of desks for individual or group study. 12 seat capacity.",
-    "url_text": "View timetable for Clothworkers' Building Link - G.34",
-    "phone_text": ""
+    }
 }

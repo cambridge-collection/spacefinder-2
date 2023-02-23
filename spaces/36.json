@@ -1,13 +1,26 @@
 {
     "id": 36,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5555411348813653,53.80975434335515]}",
-    "work": [
-        "group"
-    ],
+    "title": "Fitzbillies",
+    "slug": "fitzbillies",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Trumpington Street, Cambridge, Cambs, CB2 1RG",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.fitzbillies.com/",
+    "phone_number": "01223 352500",
+    "twitter_screen_name": "fitzbillies",
+    "facebook_url": "https://www.facebook.com/pages/Fitzbillies/110779695673229?rf=118377978215800",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
     "atmosphere": [
         "relaxed",
         "modern",
-        "inspiring",
         "cosy",
         "social",
         "friendly"
@@ -15,36 +28,33 @@
     "facilities": [
         "food_drink",
         "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "refreshments",
+        "break"
     ],
-    "title": "Mechanical Engineering - Second floor seating (room 240)",
-    "description": "Comfortable small study area with couches and views from big windows.",
-    "access": "Anyone (public)",
-    "space_type": "General Seating Area",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Electronic and Electrical Engineering",
-    "floor": "Second floor",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "0113 343 2186",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17507",
-    "campusmap_ref": "50",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "busy",
+        "cosy",
+        "coffee",
+        "cake",
+        "light",
+        "wifi",
+        "food and drink",
+        "friendly",
+        "no phone signal"
+    ],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118074\",\"52.202071\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
@@ -64,28 +74,22 @@
         "thursday": {
             "open": true,
             "from": "8:00",
-            "to": "18:00"
+            "to": "23:00"
         },
         "friday": {
             "open": true,
             "from": "8:00",
-            "to": "18:00"
+            "to": "23:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "18:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "18:00"
         }
-    },
-    "image": "",
-    "imagealt": "Mechanical Engineering - Second floor seating (room 240)",
-    "slug": "mechanical-engineering-second-floor-seating-room-240",
-    "published": true,
-    "url_text": "",
-    "phone_text": "Contact the School of Mechanical Engineering"
+    }
 }

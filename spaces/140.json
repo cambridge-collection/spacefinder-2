@@ -1,0 +1,97 @@
+{
+    "id": 140,
+    "title": "The Blue Moon",
+    "slug": "the-blue-moon",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "2 Norfolk Street,\r\nCB1 2LF",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.facebook.com/bluemooncambridge",
+    "phone_number": "01223 500238",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/bluemooncambridge",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "pub",
+        "friendly",
+        "busy",
+        "can be noisy",
+        "tea friendly pub",
+        "casual"
+    ],
+    "floor": "",
+    "image": "Blue_Moon.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.137947\",\"52.204595\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "17:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "17:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "17:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "17:00",
+            "to": "1:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "17:00",
+            "to": "2:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "2:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "13:00",
+            "to": "22:30"
+        }
+    }
+}

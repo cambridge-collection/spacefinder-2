@@ -1,73 +1,102 @@
 {
     "id": 8,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5552662581655925,53.803461605737006]}",
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
+    "title": "Moore Library - Lower Ground Floor",
+    "slug": "moore-library-lower-ground-floor",
+    "description": "Book a study space using the link below (this may not be in the area of the library pictured). Other services available include: Scan & Deliver, Click & Collect (Mon, Thurs, 11:00 to 13:0), Book Returns. Follow the Website link at the end of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Wilberforce Road, Cambridge CB3 0WD",
+    "building": "Betty and Gordon Moore LIbrary",
+    "restricted": true,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "http://moore.libraries.cam.ac.uk/",
+    "phone_number": "01223 765670",
+    "twitter_screen_name": "MooreLib",
+    "facebook_url": "https://www.facebook.com/moorelib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://moore.libraries.cam.ac.uk/zero-contact-services/book-seat/",
+    "noise": "Background chatter",
     "atmosphere": [
+        "disciplined",
         "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
         "social",
         "friendly"
     ],
     "facilities": [
         "food_drink",
+        "daylight",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
+        "printers_copiers",
+        "whiteboards",
+        "bookable",
         "toilets",
         "refreshments",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
         "wheelchair_accessible",
-        "accessible_toilets"
+        "accessible_toilets",
+        "individual_study_space",
+        "gender_neutral_toilets"
     ],
-    "title": "Café Seven",
-    "description": "Located in the Worsley building, Café Seven is one of our most popular and vibrant cafés. Recently refurbished the large seating area is a great place to meet with friends.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley Building",
-    "floor": "Level 7",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/cafeseven/",
-    "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18472",
-    "campusmap_ref": "95",
-    "noise": "Background chatter",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bottled water only",
+        "internet access",
+        "wireless",
+        "natural science tripos",
+        "inter-library loans",
+        "24 hour opening",
+        "bookable study areas",
+        "photocopiers",
+        "computing facilities",
+        "group and individual study pods",
+        "coffee machine",
+        "sofas",
+        "study pods",
+        "blackboards",
+        "whiteboards"
+    ],
+    "floor": "Lower ground floor",
+    "image": "4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.103238\",\"52.210174\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "saturday": {
             "open": false,
@@ -79,11 +108,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "/assets/photos/Cafe-Seven.jpg",
-    "imagealt": "Interior photograph showing part of the Café Seven logo and part of the service and self-service areas",
-    "slug": "cafe-seven",
-    "published": true,
-    "url_text": "Visit the Café Seven web site",
-    "phone_text": ""
+    }
 }

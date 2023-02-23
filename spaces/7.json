@@ -1,91 +1,89 @@
 {
+    "id": 7,
+    "title": "UL - Fourth Floor Landing",
+    "slug": "ul-fourth-floor-landing",
+    "description": "The UL Fourth Floor Landing is currently closed as a study space, due to safety measures. You can book a study space in the UL's main Reading Room using the link below. The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "Booking required to study at the UL",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "1223 333000",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://www.lib.cam.ac.uk/using-library/person-services/book-study-space",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "disciplined",
+        "historic",
+        "inspiring",
+        "cosy"
+    ],
     "facilities": [
-        "food_drink",
+        "daylight",
+        "views",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
-        "toilets",
+        "printers_copiers",
         "refreshments",
-        "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "break"
     ],
-    "atmosphere": [
-        "relaxed",
-        "cosy",
-        "social",
-        "friendly"
-    ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
-        },
-        "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
-        },
-        "saturday": {
-            "true": false,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "sunday": {
-            "true": false,
-            "from": "10:00",
-            "to": "14:00"
-        }
-    },
-    "floor": "Ground floor and mezzanine",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17536",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/refectory/",
-    "campusmap_ref": "29",
     "work": [
         "private",
         "close",
-        "friends",
-        "group"
+        "friends"
     ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "University precinct",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.55657117,53.80685681]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Refectory ",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "",
-    "restricted": false,
-    "id": 7,
-    "description": "Located right at the heart of University campus, the contemporary Refectory venue offers a wide range of hot and cold food each day.",
-    "image": "/assets/photos/Refectory4.jpg",
-    "imagealt": "Overhead, interior photograph of the Refectory, full of customers, taken from the balcony above the main dining area",
-    "slug": "refectory",
-    "published": true,
-    "url_text": "Visit the Refectory  web site",
-    "phone_text": ""
+    "tags": [
+        "no large bags",
+        "art",
+        "bottled water only",
+        "large desks"
+    ],
+    "floor": "Fourth floor",
+    "image": "DSCN0103.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
 }

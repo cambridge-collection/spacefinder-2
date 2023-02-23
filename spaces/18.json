@@ -1,85 +1,84 @@
 {
     "id": 18,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5531647387401033,53.807449897316744]}",
-    "work": [
-        "private",
-        "friends",
-        "group"
-    ],
+    "title": "Caffe Nero (Market St)",
+    "slug": "caffe-nero-market-st",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "11 Market St,\r\nCambridge,\r\nCB2 3PA.",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.caffenero.co.uk",
+    "phone_number": "01223 307 728",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/caffenero",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
-        "disciplined",
+        "relaxed",
+        "social",
         "friendly"
     ],
     "facilities": [
-        "daylight",
+        "food_drink",
         "free_wifi",
         "laptops_allowed",
         "signal",
-        "whiteboards",
-        "projector",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "refreshments"
     ],
-    "title": "Baines Wing - G.37",
-    "description": "32 Seat Capacity",
-    "access": "University Staff and Students",
-    "space_type": "Seminar room",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Baines Wing",
-    "floor": "Ground floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": "",
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17343",
-    "campusmap_ref": "58",
-    "tags": [],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "tea",
+        "cakes",
+        "gluten-free"
+    ],
+    "floor": "",
+    "image": "caffe_nero_market_st.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11979\",\"52.20604\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "7:00",
+            "to": "20:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "7:00",
+            "to": "20:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "7:00",
+            "to": "20:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "21:30"
+            "from": "7:00",
+            "to": "20:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "7:00",
+            "to": "20:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "7:00",
+            "to": "20:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "7:00",
+            "to": "19:30"
         }
-    },
-    "image": "/assets/photos/Baines-Wing.jpg",
-    "imagealt": "External photograph of the Baines Wing facade from University Road in the summer, with trees and a blue sky with some clouds",
-    "slug": "baines-wing-g37",
-    "published": false,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

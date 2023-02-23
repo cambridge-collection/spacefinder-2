@@ -1,1 +1,91 @@
-{"facilities":["daylight","views","free_wifi","laptops_allowed","sockets","signal","printers_copiers","toilets","refreshments","break","large_desks","accessible_toilets","wheelchair_accessible","bike_racks","gender_neutral_toilets","prayer_room"],"atmosphere":["relaxed","cosy","social","friendly"],"access":"University Staff and Students","disabled_access":true,"opening_hours":{"monday":{"open":true,"from":"8:00","to":"24:00"},"tuesday":{"open":true,"from":"8:00","to":"24:00"},"wednesday":{"open":true,"from":"8:00","to":"24:00"},"thursday":{"open":true,"from":"8:00","to":"24:00"},"friday":{"open":true,"from":"8:00","to":"19:00"},"saturday":{"open":true,"from":"10:00","to":"17:00"},"sunday":{"open":true,"from":"10:00","to":"24:00"}},"slug":"laidlaw-library-footsteps-fund-room","floor":"1st floor","restriction":"Library Card needed","campusmap_url":"https://www.leeds.ac.uk/campusmap?location=17471","imagealt":"Laidlaw library - Footsteps fund room","url":"https://library.leeds.ac.uk/","campusmap_ref":"63","work":["close","friends","group"],"twitter_screen_name":"UoLLibrary","space_type":"Library","building":"Laidlaw library","address":"University of Leeds, LS2 9JT","location":"{\"type\":\"Point\",\"coordinates\":[-1.5517480995156712,53.80702057118846]}","facebook_url":"https://www.facebook.com/leedsuniversitylibrary","title":"Laidlaw library - Footsteps fund room","tags":[],"noise":"Background chatter","phone_number":"","restricted":true,"id":82,"image":"/assets/photos/Laidlaw-library5.jpg","description":"Casual seating area.","published":true,"url_text":"Visit the Library website","phone_text":""}
+{
+    "id": 82,
+    "title": "Parker’s Piece",
+    "slug": "parkers-piece",
+    "description": "This wide open space is located between Mill Road and the centre of town, and is easily accessible by foot or bike. There are trees and benches around the edges of the common, and various eateries nearby (including café and chairs at one corner) for anybody looking for a break. ",
+    "access": "Anyone (public)",
+    "space_type": "Other",
+    "address": "Parker's Piece, Cambridge\r\n",
+    "building": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "https://www.cambridge.gov.uk/parks/parkers-piece",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "open space",
+        "grass",
+        "sports",
+        "parkers"
+    ],
+    "floor": "Ground floor",
+    "image": "pp.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.128682\",\"52.202228\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        }
+    }
+}

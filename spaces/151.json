@@ -1,0 +1,83 @@
+{
+    "id": 151,
+    "title": "Patisserie Valerie (Bridge Street)",
+    "slug": "patisserie-valerie-bridge-street",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "1-2 Bridge Street\r\nCambridge\r\nCB2 1UA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "https://www.patisserie-valerie.co.uk/cambridge.aspx",
+    "phone_number": "01223 365293",
+    "twitter_screen_name": "valeriecafe",
+    "facebook_url": "https://www.facebook.com/ValerieCafe",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "bookable",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "busy",
+        "cake",
+        "tea"
+    ],
+    "floor": "",
+    "image": "090ee3fe6737c8925433e3cde7aabf5b_640x478.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11901\",\"52.208309\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        }
+    }
+}

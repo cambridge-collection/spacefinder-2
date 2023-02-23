@@ -1,76 +1,77 @@
 {
     "id": 59,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.55589859,53.80958489]}",
-    "work": [
-        "private",
-        "close"
-    ],
+    "title": "Music: Audio Room",
+    "slug": "music-audio-room",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "11 West Road, Cambridge, CB3 9DP",
+    "building": "Pendlebury Library of Music",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": false,
+    "url": "https://libguides.cam.ac.uk/c.php?g=307750&p=4886156",
+    "phone_number": "01223335182",
+    "twitter_screen_name": "MusiCB3t",
+    "facebook_url": "https://www.facebook.com/Penlib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
-        "disciplined",
-        "modern",
-        "inspiring",
-        "friendly"
+        "modern"
     ],
     "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
-        "whiteboards",
+        "outdoor_seating",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
+        "break",
         "wheelchair_accessible",
-        "accessible_toilets"
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
     ],
-    "title": "Mechanical Engineering - 5.34d",
-    "description": "Cluster room surrounded by big windows with high views of the University campus. Perfect for focused study with access to computers. 25 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Mechanical Engineering building",
-    "floor": "Fifth Floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "0113 343 2186",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17507",
-    "campusmap_ref": "50",
-    "noise": "Strictly silent",
-    "tags": [],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "headphones",
+        "audio equipment",
+        "Wheelchair terminal for OPAC catalogue access"
+    ],
+    "floor": "Ground floor",
+    "image": "2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -82,11 +83,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Mechanical Engineering - 5.34d",
-    "slug": "mechanical-engineering-534d",
-    "published": false,
-    "url_text": "",
-    "phone_text": "Contact the School of Mechanical Engineering"
+    }
 }

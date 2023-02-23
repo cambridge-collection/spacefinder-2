@@ -1,71 +1,82 @@
 {
     "id": 68,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.555808931905468,53.80319901929059]}",
-    "work": [
-        "private",
-        "close",
-        "group"
-    ],
+    "title": "Criminology - Ground floor",
+    "slug": "criminology-ground-floor",
+    "description": "The physical library space is currently closed for studying. The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
+    "building": "Radzinowicz Library, Institute of Criminology",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "https://www.crim.cam.ac.uk/library/services",
+    "phone_number": "01223 335386",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/crimlib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
         "disciplined",
         "modern"
     ],
     "facilities": [
+        "daylight",
+        "views",
         "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
-        "projector",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets"
     ],
-    "title": "Worsley Building - 7.027s",
-    "description": "IT cluster with adjustable size. 24 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley building",
-    "floor": "Level 7",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": "",
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
-    "campusmap_ref": "95",
-    "tags": [],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "no food",
+        "bottled water only",
+        "postgraduate",
+        "research",
+        "quiet"
+    ],
+    "floor": "Ground floor",
+    "image": "6.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.110105\",\"52.201452\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -77,11 +88,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Worsley Building - 7.027s",
-    "slug": "worsley-building-7027s",
-    "published": false,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

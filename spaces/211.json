@@ -1,0 +1,65 @@
+{
+    "id": 211,
+    "title": "UL - South Wing 3 Study Hub",
+    "slug": "ul-south-wing-3-study-hub",
+    "description": "The South Wing 3 Study Hub is a suite of rooms that allow you to find the study space that suits you. Comprised of; the group study room, individual accessibility bookable study room, individual bookable study room for online zoom calls/supervisions etc, Commonwealth Reading Room (no booking required for this space), and bookable desks and lockers for PhD students in the Commonwealth Room, we hope you can find a space that is right for you. ",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [],
+    "facilities": [],
+    "work": [],
+    "tags": [],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.107323\",\"52.204756\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

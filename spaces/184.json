@@ -1,0 +1,92 @@
+{
+    "id": 184,
+    "title": "Bould Brothers Coffee",
+    "slug": "bould-brothers-coffee",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "16 Round Church Street\r\nCambridge, ",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://bouldbrotherscoffee.co.uk/",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/bouldbrotherscoffee",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "signal",
+        "toilets",
+        "break",
+        "gender_neutral_toilets"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "busy",
+        "small",
+        "Hip",
+        "independent",
+        "coffee",
+        "modern"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11896\",\"52.208695\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        }
+    }
+}

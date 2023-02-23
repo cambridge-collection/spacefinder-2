@@ -1,0 +1,80 @@
+{
+    "id": 132,
+    "title": "Starbucks (Christ's Lane)",
+    "slug": "starbucks-christs-lane",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Unit 4\r\n6 Christs Lane\r\nCambridge\r\nENG\r\nCB1 1NP",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.starbucks.co.uk/store-locator/search/detail/1012127",
+    "phone_number": "01223 305291",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social"
+    ],
+    "facilities": [
+        "food_drink",
+        "free_wifi",
+        "laptops_allowed",
+        "outdoor_seating",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [],
+    "tags": [
+        "busy",
+        "central"
+    ],
+    "floor": "",
+    "image": "christs_lane_cambridge.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.123027\",\"52.205063\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "6:30",
+            "to": "21:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "8:30",
+            "to": "20:00"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": 158,
+    "title": " The Green Coffee Company",
+    "slug": "the-green-coffee-company",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "\r\nThe Guildhall\r\nPeas Hill\r\nCambridge\r\nCambridgeshire\r\nCB2 3AD\r\n",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.thegreencoffeecompany.com/",
+    "phone_number": "01223 353013",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/pages/The-Green-Coffee-Company/192413080792727",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "central",
+        "food",
+        "fairtrade"
+    ],
+    "floor": "",
+    "image": "the-green-coffee-company.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.119225\",\"52.204825\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "7:30",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "10:00",
+            "to": "15:00"
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "id": 178,
+    "title": "Dulcedo Patisserie",
+    "slug": "dulcedo-patisserie",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Dulcedo Patisserie,\r\n60 Hills Road,\r\nCambridge,\r\nCB2 1LA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.dulcedopatissiere.co.uk",
+    "phone_number": "01223364111",
+    "twitter_screen_name": "PastryDulcedo",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "individual_study_space",
+        "gender_neutral_toilets"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "Locally sourced",
+        "coffee",
+        "pastries",
+        "desserts",
+        "chocolate",
+        "sweets",
+        "wifi",
+        "welcoming",
+        "light",
+        "daylight"
+    ],
+    "floor": "Ground floor",
+    "image": "image4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.129583\",\"52.196614\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:00",
+            "to": "18:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:00",
+            "to": "18:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:00",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "10:00",
+            "to": "15:30"
+        }
+    }
+}

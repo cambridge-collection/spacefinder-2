@@ -1,0 +1,89 @@
+{
+    "id": 144,
+    "title": "Caffe Mobile",
+    "slug": "caffe-mobile",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Market Street, Cambridge, CB2 3PA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.caffe-mobile.com/",
+    "phone_number": "07584 427085",
+    "twitter_screen_name": "CaffeMobileVan",
+    "facebook_url": "https://www.facebook.com/Caffe-Mobile-312190798807273/?fref=nf",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "cake",
+        "Outdoors",
+        "independent",
+        "Fair trade"
+    ],
+    "floor": "Ground floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120017\",\"52.206017\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        }
+    }
+}

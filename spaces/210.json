@@ -1,0 +1,102 @@
+{
+    "id": 210,
+    "title": "UL - South Wing 3 Study Hub - Group Study Room ",
+    "slug": "ul-south-wing-3-study-hub-group-study-room",
+    "description": "The Group Study Room is a new bookable space for groups to meet and discuss their studies. It is located on the third floor, signposted from the nearby Beta staircase.\r\n\r\nOnline bookings can be made for up to 8 people for a session lasting 90 minutes. Only one person per group needs to make the booking. \r\n\r\nEach booking runs for 90 minutes during standard opening hours Monday-Saturday, with a 30 minute break between booked sessions.\r\n\r\nAt present, only one group can book to use the space for each available session. There are two tables available, each with five chairs.\r\n\r\nWe have actively risk assessed all spaces and space usage in accordance with University guidance on Covid-19, and have further safety measures in place including high quality mechanical ventilation in most areas of the building and a CO2 monitoring program.\r\n\r\nWe have deliberately factored in 30 minute breaks between each booking, to give a clear break between occupation - you are allowed to open the windows in the room but please remember to close them before you vacate at the end of your booking.\r\n\r\nOur Student Experience Team will be in touch after your booking with a short survey to ask you about your experience booking and using this room.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library,\r\nWest Road,\r\nCambridge,\r\nCB3 9DR",
+    "building": "University Library",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "https://www.lib.cam.ac.uk/using-library/group-study-room",
+    "phone_number": "01223 333030",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "calendars.libraries.cam.ac.uk/calendar/ulgroupstudy",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "whiteboards",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "smoking_area",
+        "baby_changing"
+    ],
+    "work": [
+        "private",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bookable",
+        "warm",
+        "light",
+        "discussion",
+        "study",
+        "group"
+    ],
+    "floor": "Third floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.107258\",\"52.20473\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

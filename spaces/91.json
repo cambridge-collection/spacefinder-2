@@ -1,75 +1,79 @@
 {
     "id": 91,
-    "published": true,
-    "title": "Worsley Building - 11.006 (LIDA cluster)",
-    "description": "Modern and quiet space. Follow timetable link below to check when room is free. 52 seat capacity.",
-    "space_type": "IT Cluster",
-    "slug": "worsley-building-11-006-lida-cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley building",
-    "floor": "Level 11",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.555752941,53.8033012]}",
-    "what3words": "",
-    "access": "University Staff and Students",
+    "title": "Haddon: McBurney Room",
+    "slug": "haddon-mcburney-room",
+    "description": "The physical library is currently closed for studying. You can book an appointment to borrow or return books (Mon - Fri, 10:00-13:00). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Downing Street\r\nCAMBRIDGE\r\nCB2 3DZ",
+    "building": "Haddon Library of Archaeology and Anthropology",
     "restricted": true,
-    "restriction": "Follow timetable link to check when room is free",
+    "restriction": "",
     "disabled_access": true,
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4DA1",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
-    "campusmap_ref": "95",
+    "url": "http://haddon.archanth.cam.ac.uk/",
+    "phone_number": "01223 333505",
+    "twitter_screen_name": "HaddonLibrary",
+    "facebook_url": "https://www.facebook.com/Haddon-Library-of-Archaeology-and-Anthropology-566290340136530",
+    "campusmap_url": "",
+    "campusmap_ref": "",
     "booking_url": "",
-    "phone_number": "",
-    "email_address'": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
     "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "historic"
+    ],
     "facilities": [
         "daylight",
-        "large_desks",
+        "views",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "bike_racks",
-        "toilets",
+        "signal",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
         "accessible_toilets",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "bike_racks",
+        "baby_changing"
     ],
     "work": [
-        "close"
+        "private",
+        "close",
+        "friends"
     ],
-    "atmosphere": [
-        "disciplined"
+    "tags": [
+        "temperature highly variable",
+        "outdoor space",
+        "Fetching service available"
     ],
-    "tags": "",
-    "image": "",
-    "imagealt": "",
+    "floor": "Second floor",
+    "image": "3.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.121552\",\"52.202906\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -81,7 +85,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "url_text": "View timetable for Worsley Building - 11.006 (LIDA cluster)",
-    "phone_text": ""
+    }
 }

@@ -1,0 +1,90 @@
+{
+    "id": 105,
+    "title": "UL - Anderson Music Room",
+    "slug": "ul-anderson-music-room",
+    "description": "The Anderson room is currently closed due to safety measures. Please check the listing for the UL's Rare Books Reading Room for information on how to access special collections items that would usually be consulted in the Anderson Music Room.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "disabled_access": true,
+    "url": "http://www.lib.cam.ac.uk/deptserv/music/",
+    "phone_number": "01223 333072",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "historic",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "toilets",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "headphones",
+        "piano",
+        "clavinova",
+        "book smell",
+        "comfy",
+        "cosy",
+        "warm",
+        "historical",
+        "no bags"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-MAP-AOI-000-00006.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,91 +1,88 @@
 {
     "id": 27,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5527650896221585,53.80815232729721]}",
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
+    "title": "The Buttery, Sidgwick Site",
+    "slug": "the-buttery-sidgwick-site",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact The Buttery direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Sidgwick Avenue, Cambridge, CB3 9DD",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact The Buttery direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/buttery-sidgwick-site",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
     "atmosphere": [
-        "disciplined",
-        "cosy"
+        "relaxed",
+        "social",
+        "friendly"
     ],
     "facilities": [
         "food_drink",
         "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "baby_changing",
-        "accessible_toilets"
+        "outdoor_seating",
+        "refreshments",
+        "break"
     ],
-    "title": "Parkinson Building - 2.25",
-    "description": "Seminar room available for individual study with a great view of the University campus. 20 Seat Capacity.",
-    "access": "University Staff and Students",
-    "space_type": "Seminar room",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Parkinson Building",
-    "floor": "Second floor",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://students.leeds.ac.uk/info/10109/study_support/1419/where_to_study_on_campus",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17525",
-    "campusmap_ref": "78",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "food and drink",
+        "sidgwick site",
+        "pastries",
+        "cheap coffee",
+        "small",
+        "busy"
+    ],
+    "floor": "Ground floor",
+    "image": "buttery1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10854\",\"52.20078\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "from": "8:30",
+            "to": "17:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "from": "8:30",
+            "to": "17:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "from": "8:30",
+            "to": "17:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "from": "8:30",
+            "to": "17:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "19:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "10:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Parkinson Building - 2.25",
-    "slug": "parkinson-building-225",
-    "published": false,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

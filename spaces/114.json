@@ -1,0 +1,85 @@
+{
+    "id": 114,
+    "title": "Psychology - common room",
+    "slug": "psychology-common-room",
+    "description": "Due to the implications of COVID-19, please check with the Department of Psychology direct as to their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
+    "building": "Department of Psychology Library",
+    "restricted": true,
+    "restriction": "Please check with the Department of Psychology as to their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.library.psychol.cam.ac.uk/",
+    "phone_number": "01223 333554",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "First floor",
+    "image": "5.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12301\",\"52.20205\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": 156,
+    "title": "Engineering Library",
+    "slug": "engineering-library",
+    "description": "Department of Engineering Taught Masters and PhD students can book a study space using the link below. The Library also offers: Browse & Borrow (Taught Masters and PhD students, and staff at the Department of Engineering). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Faculty",
+    "space_type": "Library space",
+    "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+    "building": "Engineering Library and Information Service",
+    "restricted": true,
+    "restriction": "Booking required. Department of Engineering students and staff only.",
+    "disabled_access": true,
+    "url": "http://libguides.cam.ac.uk/engineering",
+    "phone_number": "01223 332626",
+    "twitter_screen_name": "Cambridge_Eng",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://calendars.libraries.cam.ac.uk/calendar/engineering_bookaseat",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "disciplined",
+        "modern"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "induction_loops",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "busy",
+        "desk lamps",
+        "outdoor space",
+        "lift access",
+        "permit parking only",
+        "no automatic doors",
+        "Fetching service available"
+    ],
+    "floor": "First floor",
+    "image": "New_library_space_019.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120737\",\"52.197843\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

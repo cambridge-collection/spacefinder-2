@@ -1,89 +1,97 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "whiteboards",
-        "projector",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
+    "id": 46,
+    "title": "Cafe Abantu",
+    "slug": "cafe-abantu",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "42 Hobson St\r\nCambridge CB1 3NL",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.cafe-abantu.co.uk/",
+    "phone_number": "07884 317836",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/Cafeabantu",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
-        "disciplined",
         "relaxed",
+        "modern",
+        "inspiring",
         "cosy",
+        "social",
         "friendly"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "coffee",
+        "cakes",
+        "trendy",
+        "gluten free",
+        "vegetarian",
+        "gender neutral toilet",
+        "busy",
+        "central",
+        "small",
+        "lunchtime rush"
+    ],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.121439\",\"52.206968\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "from": "8:30",
+            "to": "17:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "8:30",
+            "to": "17:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
         }
-    },
-    "slug": "chemistry-and-chemistry-west-block-140-cohen",
-    "floor": "First Floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17382",
-    "published": true,
-    "imagealt": "Chemistry and Chemistry West Block - 140 (Cohen)",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4E61",
-    "campusmap_ref": "55",
-    "work": [
-        "private"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Chemistry building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5529769303236765,53.808402196215155]}",
-    "facebook_url": "",
-    "title": "Chemistry and Chemistry West Block - 140 (Cohen)",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "0113 343 6543",
-    "restricted": true,
-    "id": 46,
-    "image": "",
-    "description": "Large room with lines of computer desks. Silent and busy study space. 96 seat capacity.",
-    "url_text": "View timetable for Chemistry and Chemistry West Block - 140 (Cohen)",
-    "phone_text": "Contact the School of Chemistry"
+    }
 }

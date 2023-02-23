@@ -1,0 +1,84 @@
+{
+    "id": 129,
+    "title": "Cambridge Blue",
+    "slug": "cambridge-blue",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "The Cambridge Blue, 85-87 Gwydir St, Cambridge, CB1 2LG.",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.the-cambridgeblue.co.uk/",
+    "phone_number": " 471680",
+    "twitter_screen_name": "Cambridge_Blue",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "Gwydir-Street-Cambridge-Blue-Matt.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.138745\",\"52.200604\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "22:30"
+        }
+    }
+}

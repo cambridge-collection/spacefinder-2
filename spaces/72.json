@@ -1,1 +1,85 @@
-{"facilities":["daylight","views","large_desks","free_wifi","computers","laptops_allowed","sockets","signal","printers_copiers","toilets","refreshments","break","individual_study_space","accessible_toilets","wheelchair_accessible","bike_racks","gender_neutral_toilets","prayer_room"],"atmosphere":["disciplined","relaxed","cosy","social","friendly"],"access":"University Staff and Students","disabled_access":true,"opening_hours":{"monday":{"open":true,"from":"8:00","to":"24:00"},"tuesday":{"open":true,"from":"8:00","to":"24:00"},"wednesday":{"open":true,"from":"8:00","to":"24:00"},"thursday":{"open":true,"from":"8:00","to":"24:00"},"friday":{"open":true,"from":"8:00","to":"24:00"},"saturday":{"open":true,"from":"10:00","to":"24:00"},"sunday":{"open":true,"from":"10:00","to":"24:00"}},"slug":"edward-boyle-10th-floor","floor":"Level 10","restriction":"Library Card needed","campusmap_url":"https://www.leeds.ac.uk/campusmap?location=17411","imagealt":"Edward Boyle 10th floor","url":"https://library.leeds.ac.uk/","campusmap_ref":"83","work":["private","close","friends","group"],"twitter_screen_name":"UoLLibrary","space_type":"Library","building":"Edward Boyle library","address":"University of Leeds, Leeds LS2 9JT","location":"{\"type\":\"Point\",\"coordinates\":[-1.554715838272632,53.80584958261785]}","facebook_url":"https://www.facebook.com/leedsuniversitylibrary","title":"Edward Boyle 10th floor","tags":[],"noise":"Background chatter","phone_number":"0113 343 5663","restricted":true,"id":72,"image":"","description":"Busy study place for people who like working alongside others. Couches with big tables can be used for comfortable group working in a nice environment. Extra couches on the side for anybody who wants to read or take a break inside the library.","published":true,"url_text":"Visit the Library website","phone_text":"Contact the Library"}
+{
+    "id": 72,
+    "title": "Divinity Library - Entrance floor",
+    "slug": "divinity-library-entrance-floor",
+    "description": "The physical Library space is closed for studying. The Library offers: Browse & Borrow, Click & Collect, Book Returns. Follow the Website link at the bottom of the listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "West Road\r\nCambridge\r\nCB3 9BS",
+    "building": "Divinity Faculty Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "www.divinity.cam.ac.uk/library",
+    "phone_number": "01223 763040",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "toilets",
+        "refreshments",
+        "break",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [],
+    "floor": "Second floor",
+    "image": "Divinity_Ground.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10798\",\"52.20178\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

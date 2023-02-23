@@ -1,0 +1,90 @@
+{
+    "id": 202,
+    "title": "Medical Library Share Space",
+    "slug": "medical-library-share-space",
+    "description": "The Library is open for study (your space may not be in the area pictured). The Library also offers: Click & Collect, Document Delivery, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "University of Cambridge School of Clinical Medicine\r\nBox 111 Cambridge Biomedical Campus\r\nCambridge\r\nCB2 0SP",
+    "building": "Medical Library",
+    "restricted": true,
+    "restriction": "Access restricted to members of the University and NHS staff.",
+    "disabled_access": false,
+    "url": "https://library.medschl.cam.ac.uk/",
+    "phone_number": "01223 336750",
+    "twitter_screen_name": "cam_med_lib",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "group study",
+        "group work",
+        "library"
+    ],
+    "floor": "First floor",
+    "image": "Medical_Library_share_space.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.141285\",\"52.175741\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "19:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

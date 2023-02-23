@@ -1,0 +1,81 @@
+{
+    "id": 200,
+    "title": "Creams Cafe",
+    "slug": "creams-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Unit F1, \r\nCambridge Leisure Park, \r\nCambridge CB1 7DY",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.creamscafe.com",
+    "phone_number": "01223 412624",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/creamscafe/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social"
+    ],
+    "facilities": [
+        "signal",
+        "toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "friends"
+    ],
+    "tags": [
+        "desserts",
+        "cafe",
+        "ice creams",
+        "waffles"
+    ],
+    "floor": "First floor",
+    "image": "0_FL_TMS_040419creams2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136867\",\"52.190087\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "23:00"
+        }
+    }
+}

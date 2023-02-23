@@ -1,0 +1,93 @@
+{
+    "id": 187,
+    "title": "Careers Service Library",
+    "slug": "careers-service-library",
+    "description": "Due to the implications of COVID-19, please contact the Careers Service Library direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Careers Service Library,\r\nStudent Services Centre,\r\nBene’t Street,\r\nCB2 3PT",
+    "building": "",
+    "restricted": false,
+    "restriction": "Please contact the Careers Service Library regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.careers.cam.ac.uk/library/index.asp",
+    "phone_number": "01223 338283",
+    "twitter_screen_name": "unicamcareers",
+    "facebook_url": "https://www.facebook.com/unicamcareers",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "baby_changing",
+        "prayer_room"
+    ],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "open",
+        "light",
+        "architecture"
+    ],
+    "floor": "",
+    "image": "32910930427_2e0c60c216_o.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.119162\",\"52.203867\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

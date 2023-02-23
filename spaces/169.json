@@ -1,0 +1,83 @@
+{
+    "id": 169,
+    "title": "Tom's cakes",
+    "slug": "toms-cakes",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "32 Mill Road, Cambridge, Cambridgeshire, CB1 2AD",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.tomscakes.co.uk/",
+    "phone_number": "01487 842200",
+    "twitter_screen_name": "tomscakes",
+    "facebook_url": "https://www.facebook.com/toms.cakes1/?fref=nf",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "http://www.haddon.archanth.cam.ac.uk/",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "outdoor_seating",
+        "refreshments"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "busy",
+        "cafe"
+    ],
+    "floor": "",
+    "image": "cambridge-2000x1000.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.134361\",\"52.201165\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

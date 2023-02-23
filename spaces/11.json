@@ -1,49 +1,92 @@
 {
+    "id": 11,
+    "title": "Moore Library - 2nd Floor",
+    "slug": "moore-library-2nd-floor",
+    "description": "Book a study space using the link below (this may not be in the area of the library pictured). Other services available include: Scan & Deliver, Click & Collect (Mon, Thurs, 11:00 to 13:0), Book Returns. Follow the Website link at the end of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Wilberforce Road, Cambridge CB3 0WD",
+    "building": "Betty and Gordon Moore LIbrary",
+    "restricted": true,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "http://moore.libraries.cam.ac.uk/",
+    "phone_number": "01223 765670",
+    "twitter_screen_name": "MooreLib",
+    "facebook_url": "https://www.facebook.com/moorelib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://moore.libraries.cam.ac.uk/zero-contact-services/book-seat/",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern",
+        "inspiring",
+        "cosy"
+    ],
     "facilities": [
         "food_drink",
         "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
+        "printers_copiers",
+        "whiteboards",
         "outdoor_seating",
+        "toilets",
         "refreshments",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "gender_neutral_toilets"
     ],
-    "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly"
+    "work": [
+        "private",
+        "close",
+        "friends"
     ],
-    "access": "Anyone (public)",
-    "disabled_access": true,
+    "tags": [
+        "bottled water only",
+        "internet access",
+        "wireless",
+        "natural science tripos",
+        "inter-library loans",
+        "24 hour opening",
+        "bookable study areas",
+        "photocopiers",
+        "computing facilities"
+    ],
+    "floor": "Second floor",
+    "image": "11.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.103238\",\"52.210174\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "10:00",
+            "to": "16:00"
         },
         "saturday": {
             "open": false,
@@ -55,33 +98,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "hugo-the-camionnette-cafe",
-    "floor": "",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18475",
-    "imagealt": "Exterior photograph of Hugo, the Camionnette Café - a converted Citroën H Van - with Clothworker's Building Central in the backgournd",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/hugo/",
-    "campusmap_ref": "",
-    "work": [
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "University precinct",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5551006,53.8069784]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Hugo, the Camionnette Café",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "",
-    "restricted": false,
-    "id": 11,
-    "image": "/assets/photos/Hugo-Camionette-Cafe1.jpg",
-    "description": "Hugo, the Camionnette Café, is one of the more unique members of the Great Food at Leeds team and sells a range of hot drinks, pastries and brownies.",
-    "published": true,
-    "url_text": "Visit the Hugo, the Camionnette Café web site",
-    "phone_text": ""
+    }
 }

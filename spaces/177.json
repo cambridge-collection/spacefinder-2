@@ -1,0 +1,92 @@
+{
+    "id": 177,
+    "title": "The Tram Depot",
+    "slug": "the-tram-depot",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "Dover Street\r\nCambridge\r\nCB1 1DY ",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://tramdepotcambridge.wordpress.com/",
+    "phone_number": "01223 324553",
+    "twitter_screen_name": "tramdepotcambs",
+    "facebook_url": "https://www.facebook.com/tramdepotcambs",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "laptops_allowed",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "pub",
+        "pizza",
+        "real ale",
+        "spacious"
+    ],
+    "floor": "Ground floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.132783\",\"52.204644\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "11:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "11:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "11:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "11:00"
+        }
+    }
+}

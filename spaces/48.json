@@ -1,50 +1,76 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "whiteboards",
-        "projector",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
+    "id": 48,
+    "title": "Tatties",
+    "slug": "tatties",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "11 Sussex St, Hobson St, Cambridge CB1 1PA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
     "atmosphere": [
-        "disciplined",
-        "modern"
+        "relaxed",
+        "social"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "vegetarian",
+        "gluten free",
+        "large",
+        "noisy"
+    ],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.121241\",\"52.206904\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -56,33 +82,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "slug": "clarendon-building-g07",
-    "floor": "Ground floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17385",
-    "published": false,
-    "imagealt": "Clarendon Building - G07",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4D59",
-    "campusmap_ref": "20",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "Clarendon building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.560526392852427,53.80756782290031]}",
-    "facebook_url": "",
-    "title": "Clarendon Building - G07",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 48,
-    "image": "",
-    "description": "Classroom with 4 computer rows. Comfortable chairs. 100 seat capacity",
-    "url_text": "View timetable for Clarendon Building - G07",
-    "phone_text": ""
+    }
 }

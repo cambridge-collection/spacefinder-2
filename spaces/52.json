@@ -1,89 +1,99 @@
 {
+    "id": 52,
+    "title": "Espresso Library",
+    "slug": "espresso-library",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "210 East Road, Cambridge, Cambridgeshire, CB1 1BG",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "https://www.espressolibrary.com/",
+    "phone_number": "01223 367333",
+    "twitter_screen_name": "EspressoLibrary",
+    "facebook_url": "https://www.facebook.com/espressolibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
     "facilities": [
+        "food_drink",
         "daylight",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
-        "whiteboards",
-        "projector",
+        "outdoor_seating",
         "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible",
-        "blue_badge_parking"
+        "refreshments",
+        "break",
+        "bike_racks"
     ],
-    "atmosphere": [
-        "disciplined",
-        "modern"
+    "work": [
+        "close",
+        "friends",
+        "group"
     ],
-    "access": "University Staff and Students",
-    "disabled_access": true,
+    "tags": [
+        "independent",
+        "sporty",
+        "busy",
+        "trendy",
+        "noise",
+        "vegetarian",
+        "tea",
+        "coffee",
+        "brunch",
+        "lunch"
+    ],
+    "floor": "",
+    "image": "espresso.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.131696\",\"52.203136\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "9:00",
+            "from": "7:30",
             "to": "18:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:00",
+            "from": "7:30",
             "to": "18:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:00",
+            "from": "7:30",
             "to": "18:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:00",
+            "from": "7:30",
             "to": "18:00"
         },
         "friday": {
             "open": true,
-            "from": "9:00",
-            "to": "17:00"
+            "from": "7:30",
+            "to": "18:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "8:30",
+            "to": "18:00"
         }
-    },
-    "slug": "e-c-stoner-building-668",
-    "floor": "Level 6",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17406",
-    "published": false,
-    "imagealt": "E C Stoner Building - 6.68",
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4D78",
-    "campusmap_ref": "73",
-    "work": [
-        "private",
-        "close"
-    ],
-    "twitter_screen_name": "",
-    "space_type": "IT Cluster",
-    "building": "E C Stoner Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5521271182627379,53.80538144]}",
-    "facebook_url": "",
-    "title": "E C Stoner Building - 6.68",
-    "tags": [],
-    "noise": "Strictly silent",
-    "phone_number": "",
-    "restricted": true,
-    "id": 52,
-    "image": "",
-    "description": "Large cluster with multiple computers and comfortable chairs. 47 seat capacity",
-    "url_text": "View timetable for E C Stoner Building - 6.68",
-    "phone_text": ""
+    }
 }

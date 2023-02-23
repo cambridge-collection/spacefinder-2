@@ -1,0 +1,98 @@
+{
+    "id": 104,
+    "title": "UL - Manuscripts Reading Room",
+    "slug": "ul-manuscripts-reading-room",
+    "description": "The UL's Manuscripts Reading Room is currently closed due to safety measures. Please check the listing for the UL's Rare Books Reading Room for information on how to access items that would usually be consulted in the Manuscripts Reading Room.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "disabled_access": true,
+    "url": "http://www.lib.cam.ac.uk/deptserv/manuscripts/Using.html",
+    "phone_number": "01223 333143",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "historic",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "specialist reading room",
+        "subject specialists",
+        "librarians",
+        "large space",
+        "high ceilings",
+        "comfy chairs",
+        "large desks",
+        "no water",
+        "no food",
+        "no pens",
+        "no bags",
+        "no outdoor clothing"
+    ],
+    "floor": "Third floor",
+    "image": "PH-LIBRARY-MAP-MANUSCRIPTS-000-00001.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

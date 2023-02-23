@@ -1,74 +1,78 @@
 {
     "id": 54,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5572457236710147,53.807836240010325]}",
-    "work": [
-        "private",
-        "close"
-    ],
+    "title": "Classics - Main Library Space",
+    "slug": "classics-main-library-space",
+    "description": "The Library is currently only open to those with out-of-hours access. The Library also offers: Browse & Borrow, Book Returns. See the Library website (linked at bottom of this listing) for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Faculty of Classics\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
+    "building": "Classical Faculty Library",
+    "restricted": false,
+    "restriction": "Registered readers only.",
+    "disabled_access": false,
+    "url": "http://www.classics.cam.ac.uk/library",
+    "phone_number": "01223 335154",
+    "twitter_screen_name": "CFLcam",
+    "facebook_url": "https://www.facebook.com/classicalfacultylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
-        "disciplined",
-        "historic",
-        "social"
+        "disciplined"
     ],
     "facilities": [
+        "daylight",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
-        "whiteboards",
-        "projector",
         "toilets",
+        "refreshments",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "induction_loops",
+        "adjustable_furniture",
+        "individual_study_space",
+        "bike_racks"
     ],
-    "title": "Fine Art, History of Art and Cultural Studies - B16 (West Teaching Labs)",
-    "description": "Traditional cluster with rows of desks. Relaxed environment for 24 hours study. 33 seat capacity",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Fine Art Building",
-    "floor": "Basement",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://mytimetable.leeds.ac.uk/link?timetable.id=202223!location!6856E1BEE4EE6ABF22261FF5840C4F6E",
-    "phone_number": "0113 343 5260",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17451",
-    "campusmap_ref": "38",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "busy in term",
+        "research book collection"
+    ],
+    "floor": "Ground floor",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11018\",\"52.20063\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -80,11 +84,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Fine Art, History of Art and Cultural Studies - B16 (West Teaching Labs)",
-    "slug": "fine-art-history-of-art-and-cultural-studies-b16-west-teaching-labs",
-    "published": true,
-    "url_text": "View timetable for Fine Art, History of Art and Cultural Studies - B16 (West Teaching Labs)",
-    "phone_text": "Contact the School of Fine Art, History of Art and Cultural Studies"
+    }
 }

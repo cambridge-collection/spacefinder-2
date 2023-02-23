@@ -1,0 +1,82 @@
+{
+    "id": 147,
+    "title": "University Social Club",
+    "slug": "university-social-club",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Social Club direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "University Social Club\r\nMill Lane\r\nCambridge\r\nCB2 1RX ",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the Social Club direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.socialclub.cam.ac.uk/",
+    "phone_number": "+44 1223 566397 ",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets"
+    ],
+    "work": [
+        "private",
+        "friends"
+    ],
+    "tags": [
+        "cheap",
+        "cheerful"
+    ],
+    "floor": "",
+    "image": "2be4a322-4b66-4b41-a1fa-932e58f755c6.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.116236\",\"52.201722\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "10:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "10:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "10:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "10:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "12:00",
+            "to": "10:30"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": 172,
+    "title": "The Old Bicycle Shop",
+    "slug": "the-old-bicycle-shop",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "104 Regent Street,\r\nCambridge, \r\nCB2 1DP",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.oldbicycleshop.com/",
+    "phone_number": "(01223) 859909",
+    "twitter_screen_name": "oldbicycleshop",
+    "facebook_url": "https://www.facebook.com/oldbicycleshop",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "large_desks",
+        "free_wifi",
+        "signal",
+        "outdoor_seating",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "smoking_area"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "modern",
+        "trendy",
+        "Cool",
+        "coffee",
+        "tea",
+        "Cocktails",
+        "brunch",
+        "lunch",
+        "Dinner"
+    ],
+    "floor": "Ground floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.126249\",\"52.200203\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:30",
+            "to": "23:00"
+        }
+    }
+}

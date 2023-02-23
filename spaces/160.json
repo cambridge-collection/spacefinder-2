@@ -1,0 +1,88 @@
+{
+    "id": 160,
+    "title": "Pret (Petty Cury)",
+    "slug": "pret-petty-cury",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Unit 19 Lion Yard, \r\nPetty Cury, \r\nCambridge \r\nCB2 3NE",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "https://www.pret.co.uk/en-gb/find-a-pret/cambridge#_=_",
+    "phone_number": "020 7932 5316",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets",
+        "refreshments"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "sandwiches",
+        "food",
+        "busy",
+        "salads"
+    ],
+    "floor": "",
+    "image": "DSC09078-500x332.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12096\",\"52.204992\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "7:30",
+            "to": "19:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        }
+    }
+}

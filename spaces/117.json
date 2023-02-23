@@ -1,0 +1,83 @@
+{
+    "id": 117,
+    "title": "Laundress Green",
+    "slug": "laundress-green",
+    "description": "A popular patch of grass by the Mill Pond where students and tourists gather. Overlooking the river and all the punting action this is one of Cambridge's iconic 'beauty spots'. Find a space to study but beware the cow pats as cattle are free to graze here.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Laundress Green,\r\nMill Pond,\r\nCambridge",
+    "building": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "laundress_green.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11539\",\"52.2011\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

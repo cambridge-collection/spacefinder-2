@@ -1,0 +1,96 @@
+{
+    "id": 213,
+    "title": "UL - South Wing 3 Study Hub - Individual Bookable Study Room ",
+    "slug": "ul-south-wing-3-study-hub-individual-bookable-study-room",
+    "description": "This is a bookable room, within the Group Study Room, perfect for online zoom calls, supervisions or lectures, as well as general study.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "url": "https://www.lib.cam.ac.uk",
+    "phone_number": "01223 333030",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern",
+        "cosy"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "induction_loops",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area",
+        "baby_changing"
+    ],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "zoom",
+        "study",
+        "alone"
+    ],
+    "floor": "Third floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.107323\",\"52.204756\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

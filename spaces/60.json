@@ -1,89 +1,88 @@
 {
     "id": 60,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.552550512914537,53.80789891535809]}",
-    "work": [
-        "private",
-        "close"
-    ],
+    "title": "Music: Faculty Graduate Room",
+    "slug": "music-faculty-graduate-room",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Faculty",
+    "space_type": "Library space",
+    "address": "11 West Road, Cambridge, CB3 9DP",
+    "building": "Pendlebury Library of Music",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": false,
+    "url": "http://pendlebury.mus.cam.ac.uk/",
+    "phone_number": "01223335182",
+    "twitter_screen_name": "PendleburyLib",
+    "facebook_url": "https://www.facebook.com/Penlib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
     "atmosphere": [
-        "disciplined"
+        "historic"
     ],
     "facilities": [
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "whiteboards",
-        "projector",
         "toilets",
         "break",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
     ],
-    "title": "Parkinson Building - B.26",
-    "description": "Cluster room surrounded by big windows with high views of the University campus. Perfect for focused study with acess to computers. 15 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Parkinson building",
-    "floor": "Basement",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17525",
-    "campusmap_ref": "60",
-    "noise": "Whispers",
-    "tags": [],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "bottled water only",
+        "keyboards",
+        "headphones"
+    ],
+    "floor": "Ground floor",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "friday": {
-            "open": true,
-            "from": "9:00",
-            "to": "19:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "10:00",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Parkinson Building - B.26",
-    "slug": "parkinson-building-b26",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

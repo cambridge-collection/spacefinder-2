@@ -1,69 +1,80 @@
 {
     "id": 66,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5559524300786896,53.80334949968224]}",
-    "work": [
-        "private",
-        "close"
-    ],
-    "atmosphere": [
-        "disciplined"
-    ],
-    "facilities": [
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "projector",
-        "toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "wheelchair_accessible"
-    ],
-    "title": "Worsley Building - 8.039",
-    "description": "Big room that offers clusters on high and normal desks. Modern and strictly silent environment. 51 seat capacity.",
-    "access": "University Staff and Students",
-    "space_type": "IT Cluster",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Worsley building",
-    "floor": "Level 8",
+    "title": "Astronomy: Library Room C",
+    "slug": "astronomy-library-room-c",
+    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+    "building": "Institute of Astronomy Library",
     "restricted": true,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
+    "restriction": "Steps at front of building.  Narrow corridors.",
+    "disabled_access": false,
+    "url": "https://www.ast.cam.ac.uk/library/news",
+    "phone_number": "01223 337537",
     "twitter_screen_name": "",
     "facebook_url": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17591",
-    "campusmap_ref": "95",
-    "noise": "Strictly silent",
-    "tags": [],
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "historic",
+        "social"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "laptops_allowed",
+        "sockets",
+        "toilets",
+        "refreshments",
+        "break",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "science",
+        "journals",
+        "periodicals",
+        "Nature",
+        "New Scientist",
+        "Astronomy Now"
+    ],
+    "floor": "Ground floor",
+    "image": "3.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09533\",\"52.21458\"]}",
     "opening_hours": {
         "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "from": "12:30",
+            "to": "16:30"
         },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -75,11 +86,5 @@
             "from": "",
             "to": ""
         }
-    },
-    "image": "",
-    "imagealt": "Worsley Building - 8.039",
-    "slug": "worsley-building-8039",
-    "published": true,
-    "url_text": "",
-    "phone_text": ""
+    }
 }

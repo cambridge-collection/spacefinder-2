@@ -1,0 +1,88 @@
+{
+    "id": 157,
+    "title": "Pickerel Pub",
+    "slug": "pickerel-pub",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Bar",
+    "address": "30 Magdalene Street, Cambridge, Cambridgeshire, CB3 0AF",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.taylor-walker.co.uk/pub/pickerel-cambridge/c3602/",
+    "phone_number": "01223355068",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/com/TaylorWalkerPubs",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "pub",
+        "real ale"
+    ],
+    "floor": "",
+    "image": "c3602-1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.116275\",\"52.209935\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "11:00",
+            "to": "1:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "1:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        }
+    }
+}

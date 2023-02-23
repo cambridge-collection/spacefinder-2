@@ -1,0 +1,94 @@
+{
+    "id": 119,
+    "title": "JCR",
+    "slug": "jcr",
+    "description": "Due to the implications of COVID-19, please check direct with the Faculty of History regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "Faculty of History \r\nWest Road \r\nCambridge UK \r\nCB3 9EF ",
+    "building": "Seeley Library",
+    "restricted": true,
+    "restriction": "Please check direct with the Faculty of History regarding their current access arrangements..",
+    "disabled_access": true,
+    "url": "",
+    "phone_number": "01223 335335",
+    "twitter_screen_name": "TheSeeleyLib",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "busy",
+        "food and drink",
+        "Water",
+        "Group discussion",
+        "wifi",
+        "Fetching service available",
+        "Automatic Doors"
+    ],
+    "floor": "First floor",
+    "image": "JCR.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10859\",\"52.20205\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        }
+    }
+}

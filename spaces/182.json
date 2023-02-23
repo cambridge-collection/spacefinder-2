@@ -1,0 +1,93 @@
+{
+    "id": 182,
+    "title": "Signorelli's Deli ",
+    "slug": "signorellis-deli",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "17 Burleigh Street\r\nCambridge, ",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "",
+    "phone_number": "07951 673599",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/Signorellis-Deli-Cambridge-1822425108044680/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "Italian",
+        "coffee",
+        "wine",
+        "relaxed",
+        "social",
+        "community"
+    ],
+    "floor": "",
+    "image": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.132787\",\"52.206\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "20:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "20:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "8:00",
+            "to": "20:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "10:00",
+            "to": "18:00"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": 201,
+    "title": "Cornerstone Cafe",
+    "slug": "cornerstone-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "185 Mill Rd, Cambridge CB1 3AN",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.stphilipschurch.org.uk/cornerstone-cafe/",
+    "phone_number": "01223 414775",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/cornerstonecafemillroad/",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "wheelchair_accessible"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "cornerstone2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.142008\",\"52.198344\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "15:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": 111,
+    "title": "UL - Map Room",
+    "slug": "ul-map-room",
+    "description": "The UL's Map Room is currently closed due to safety measures. Please check the listing for the UL's Rare Books Reading Room for information on how to access items that would usually be consulted in the Map Room.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "disabled_access": true,
+    "url": "http://www.lib.cam.ac.uk/collections/departments/maps",
+    "phone_number": "01223 333041 ",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "modern",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "large benches",
+        "light",
+        "relaxing",
+        "north facing",
+        "trees",
+        "standing desks"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-MAP-MAPROOM-000-00002.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

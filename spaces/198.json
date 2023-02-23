@@ -1,0 +1,91 @@
+{
+    "id": 198,
+    "title": "Liutaio",
+    "slug": "liutaio",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "224 Mill Road\r\nCambridge\r\nCB1 3NF",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://www.liutaio.co.uk/",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/liutaiomusiccafe",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "relaxed",
+        "historic",
+        "inspiring",
+        "cosy",
+        "social"
+    ],
+    "facilities": [
+        "daylight",
+        "laptops_allowed",
+        "signal",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "eastern",
+        "western",
+        "violin",
+        "instruments",
+        "music",
+        "shop",
+        "small",
+        "cosy"
+    ],
+    "floor": "First floor",
+    "image": "01.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.145386\",\"52.197356\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "11:00",
+            "to": "23:00"
+        }
+    }
+}
