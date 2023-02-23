@@ -22,7 +22,7 @@ const spacefinder = {
      * this function should be redefined in cookieconsent-init.js
      */
     canUseLocalStorage: function() { return false; },
-
+    
     /* map related config */
     map: null,
     osm: null,
