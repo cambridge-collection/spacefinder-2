@@ -1,95 +1,172 @@
 {
-    "id": 49,
-    "title": "Cambridge Brew House",
-    "slug": "cambridge-brew-house",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Bar",
-    "address": "1 King Street\r\nCambridge CB1 1LH",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://www.thecambridgebrewhouse.com/",
-    "phone_number": "01223 855185",
-    "twitter_screen_name": "TheCamBrewHouse",
-    "facebook_url": "https://www.facebook.com/TheCambridgeBrewHouse",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Members of the University",
+    "address": "Squire Law Library, Faculty of Law, University of Cambridge 10 West Road, Cambridge CB3 9DZ, UK",
     "atmosphere": [
-        "relaxed",
+        "disciplined",
+        "modern",
         "inspiring",
-        "cosy",
-        "social",
         "friendly"
     ],
+    "building": "Squire Law Library",
+    "description": "The Library also offers: Scan & Deliver, Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "squire@law.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/squirelawlibrary/",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
-        "bookable",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "pub",
-        "spacious",
-        "sporty",
-        "coffee",
-        "tea",
-        "beer",
-        "brewhouse"
-    ],
-    "floor": "",
-    "image": "brew_house.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122223\",\"52.207403\"]}",
+    "floor": "First, second and third floors",
+    "id": 49,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Squire Law Library Study Areas",
+    "lat": 52.20183,
+    "lng": 0.10964,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10964,52.20183]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "12:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        }
+    },
+    "phone_number": "01223 330077",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "squire-law-library-study-areas",
+    "space_type": "Library space",
+    "tags": [
+        "Best for individual or quiet study",
+        "bottled water only",
+        "reference only",
+        "no phone conversations"
+    ],
+    "title": "Squire Law Library Study Areas",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "20:45"
+        }
+    },
+    "twitter_screen_name": "squire_law",
+    "url": "http://www.squire.law.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

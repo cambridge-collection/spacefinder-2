@@ -1,84 +1,168 @@
 {
-    "id": 42,
-    "title": "Crepe Affaire",
-    "slug": "crepe-affaire",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "66 Bridge Street, Cambridge CB2 1UR",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.crepeaffaire.com/uk/",
-    "phone_number": "01223 362662",
-    "twitter_screen_name": "crepeaffaire",
-    "facebook_url": "https://www.facebook.com/crepeaffaire",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "access": "Members of the University",
+    "address": "Downing Street\r\nCAMBRIDGE\r\nCB2 3DZ",
     "atmosphere": [
-        "relaxed",
-        "cosy",
-        "social",
-        "friendly"
+        "disciplined",
+        "historic"
     ],
+    "building": "Haddon Library of Archaeology and Anthropology",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "haddon-library@lists.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Haddon-Library-of-Archaeology-and-Anthropology-566290340136530",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "toilets"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "baby_changing"
     ],
+    "floor": "Second floor",
+    "id": 42,
+    "image": "/assets/photos/3.jpg",
+    "imagealt": "Haddon: McBurney Room",
+    "lat": 52.202906,
+    "lng": 0.121552,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
+    "noise": "Whispers",
+    "opening_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333505",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "haddon-mcburney-room",
+    "space_type": "Library space",
+    "tags": [
+        "temperature highly variable",
+        "outdoor space",
+        "Fetching service available"
+    ],
+    "title": "Haddon: McBurney Room",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "HaddonLibrary",
+    "url": "http://haddon.archanth.cam.ac.uk/",
+    "url_text": "Visit the website",
     "work": [
         "close",
         "friends",
-        "group"
-    ],
-    "tags": [
-        "coffee",
-        "people watching"
-    ],
-    "floor": "",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118527\",\"52.208214\"]}",
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:00"
-        },
-        "sunday": {
-            "open": true,
-            "from": "9:00",
-            "to": "20:00"
-        }
-    }
+        "in_a_library",
+        "private"
+    ]
 }

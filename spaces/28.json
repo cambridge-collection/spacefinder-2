@@ -1,71 +1,45 @@
 {
-    "id": 28,
-    "title": "Faculty of Law Cafe - Cambridge Blue",
-    "slug": "faculty-of-law-cafe-cambridge-blue",
-    "description": "Due to the implications of COVID-19, please check direct with the Faculty of Law as to current access arrangements.",
     "access": "Members of the University",
-    "space_type": "Café",
-    "address": "10 West Road, Cambridge, CB3 9DZ",
-    "building": "Squire Law Library",
-    "restricted": true,
-    "restriction": "Please check direct with the Faculty of Law as to current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/faculty-law-0",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
     "atmosphere": [
         "relaxed",
-        "modern",
-        "social"
+        "inspiring",
+        "cosy",
+        "friendly"
     ],
+    "building": "Radzinowicz Library, Institute of Criminology",
+    "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "crimlib@hermes.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/crimlib",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
         "free_wifi",
         "laptops_allowed",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "food and drink",
-        "cheap coffee"
-    ],
-    "floor": "Basement",
-    "image": "lawcafe1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10964\",\"52.20183\"]}",
+    "floor": "Ground floor",
+    "id": 28,
+    "image": "/assets/photos/4.jpg",
+    "imagealt": "Criminology - The comfy chairs at the back",
+    "lat": 52.201452,
+    "lng": 0.110105,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -79,6 +53,118 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 335386",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Booking required",
+    "slug": "criminology-the-comfy-chairs-at-the-back",
+    "space_type": "Library space",
+    "tags": [
+        "no food",
+        "bottled water only",
+        "postgraduate",
+        "research",
+        "warm"
+    ],
+    "title": "Criminology - The comfy chairs at the back",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.crim.cam.ac.uk/library/services",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

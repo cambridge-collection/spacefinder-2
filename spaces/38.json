@@ -1,96 +1,165 @@
 {
-    "id": 38,
-    "title": "The Anchor",
-    "slug": "the-anchor",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Bar",
-    "address": "Silver Street, Cambridge, CB3 9EL",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.metropolitanpubcompany.com/our-pubs/the-anchor/",
-    "phone_number": "01223 353554",
-    "twitter_screen_name": "anchorcambridge",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "address": "Modern and Medieval Languages and Linguistics Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
     "atmosphere": [
-        "relaxed",
-        "historic",
-        "cosy",
-        "social",
-        "friendly"
+        "disciplined",
+        "historic"
     ],
+    "building": "Modern & Medieval Languages Library",
+    "description": "8 secluded desks in groups of 2, two computers with DVD drive available.",
+    "disabled_access": false,
+    "email_address": "library@mmll.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
     "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
-        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "individual_study_space",
+        "bike_racks"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "attractive views",
-        "food and drink",
-        "wifi",
-        "comfy",
-        "pub",
-        "warm",
-        "music"
-    ],
-    "floor": "",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.115763\",\"52.201976\"]}",
+    "floor": "Third floor",
+    "id": 38,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "MMLL - Beit Library",
+    "lat": 52.201439,
+    "lng": 0.109627,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.109627,52.201439]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "11:30",
-            "to": "23:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "11:30",
-            "to": "23:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "11:30",
-            "to": "23:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "11:30",
-            "to": "23:00"
-        },
         "friday": {
             "open": true,
-            "from": "11:30",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
             "open": true,
-            "from": "11:30",
-            "to": "0:00"
+            "from": "11:00",
+            "to": "17:00"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "12:00",
-            "to": "22:30"
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "phone_number": "01223 335041",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "No current easy wheelchair access to this space. Otherwise accessible during our opening hours, see website for current information.",
+    "slug": "mmll-beit-library",
+    "space_type": "Library space",
+    "tags": [
+        "drinks in a lidded container only",
+        "no food",
+        "silent",
+        "low light"
+    ],
+    "title": "MMLL - Beit Library",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "mmllib",
+    "url": "http://www.mml.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

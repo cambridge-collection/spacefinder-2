@@ -1,75 +1,90 @@
 {
-    "id": 35,
-    "title": "Computer Laboratory Cafe",
-    "slug": "computer-laboratory-cafe",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Computer Lab Cafe direct regarding their current access arrangements.",
-    "access": "Members of the University",
-    "space_type": "Café",
-    "address": "William Gates Building, JJ Thompson Avenue, Cambridge CB3 0FD",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/computer-laboratory-cafe-william-gates-building",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Anyone (public)",
+    "address": "Modern and Medieval Languages and Linguistics Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
     "atmosphere": [
-        "relaxed",
+        "disciplined",
         "modern",
-        "social",
         "friendly"
     ],
+    "building": "Modern & Medieval Languages Library",
+    "description": "1960s library space with light wood furniture and plenty of natural light. Individual desks, tables for 6-8 people and long tables overlooking a green space outside.",
+    "disabled_access": true,
+    "email_address": "library@mmll.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
     "facilities": [
         "food_drink",
         "daylight",
+        "views",
         "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
-        "toilets"
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "individual_study_space",
+        "bike_racks"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "bottled water only"
-    ],
-    "floor": "Ground floor",
-    "image": "complabcafe.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.091794\",\"52.211094\"]}",
+    "floor": "First floor",
+    "id": 35,
+    "image": "/assets/photos/10.jpg",
+    "imagealt": "MMLL - First floor",
+    "lat": 52.201439,
+    "lng": 0.109627,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.109627,52.201439]}",
+    "noise": "Whispers",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "9:00",
+            "to": "19:00"
         },
-        "tuesday": {
+        "saturday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "11:00",
+            "to": "17:00"
         },
-        "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "9:00",
+            "to": "19:00"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
@@ -80,6 +95,80 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         }
-    }
+    },
+    "phone_number": "01223 335041",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "slug": "mmll-first-floor",
+    "space_type": "Library space",
+    "tags": [
+        "drinks in lidded containers only",
+        "cold food only",
+        "quiet",
+        "open plan"
+    ],
+    "title": "MMLL - First floor",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "mmllib",
+    "url": "http://www.mmll.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

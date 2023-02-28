@@ -1,91 +1,175 @@
 {
-    "id": 82,
-    "title": "Parker’s Piece",
-    "slug": "parkers-piece",
-    "description": "This wide open space is located between Mill Road and the centre of town, and is easily accessible by foot or bike. There are trees and benches around the edges of the common, and various eateries nearby (including café and chairs at one corner) for anybody looking for a break. ",
     "access": "Anyone (public)",
-    "space_type": "Other",
-    "address": "Parker's Piece, Cambridge\r\n",
-    "building": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://www.cambridge.gov.uk/parks/parkers-piece",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "relaxed",
-        "inspiring",
-        "social",
-        "friendly"
+        "disciplined",
+        "modern",
+        "cosy"
     ],
+    "building": "University Library",
+    "description": "This is a bookable room, within the Group Study Room, perfect for online zoom calls, supervisions or lectures, as well as general study.",
+    "disabled_access": false,
+    "email_address": "readerservices@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
     "facilities": [
         "food_drink",
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
+        "bookable",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "induction_loops",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area",
+        "baby_changing"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "open space",
-        "grass",
-        "sports",
-        "parkers"
-    ],
-    "floor": "Ground floor",
-    "image": "pp.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.128682\",\"52.202228\"]}",
+    "floor": "Third floor",
+    "id": 82,
+    "image": "",
+    "imagealt": "UL - South Wing 3 Study Hub - Individual Bookable Study Room ",
+    "lat": 52.204756,
+    "lng": 0.107323,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
+    "noise": "Whispers",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
         "monday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "18:45"
         },
-        "tuesday": {
+        "saturday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:30"
         },
-        "wednesday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "18:45"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
             "from": "0:00",
-            "to": "0:00"
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "18:45"
         },
         "saturday": {
             "open": true,
             "from": "0:00",
-            "to": "0:00"
+            "to": "16:30"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
             "from": "0:00",
-            "to": "0:00"
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "18:45"
         }
-    }
+    },
+    "phone_number": "01223 333030",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-3-study-hub-individual-bookable-study-room",
+    "space_type": "Library space",
+    "tags": [
+        "alone",
+        "study",
+        "zoom"
+    ],
+    "title": "UL - South Wing 3 Study Hub - Individual Bookable Study Room ",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

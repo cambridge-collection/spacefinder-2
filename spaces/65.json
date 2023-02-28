@@ -1,92 +1,173 @@
 {
-    "id": 65,
-    "title": "Criminology - First floor",
-    "slug": "criminology-first-floor",
-    "description": "The physical library space is currently closed for studying. The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
-    "building": "Radzinowicz Library, Institute of Criminology",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "https://www.crim.cam.ac.uk/library/services",
-    "phone_number": "01223 335386",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/crimlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Strictly silent",
+    "address": "Faculty of History \r\nWest Road \r\nCambridge UK \r\nCB3 9EF ",
     "atmosphere": [
-        "disciplined",
-        "modern"
+        "relaxed",
+        "social",
+        "friendly"
     ],
+    "building": "Seeley Library",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "seeley@hist.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
+        "food_drink",
         "daylight",
-        "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
         "toilets",
         "refreshments",
         "break",
         "wheelchair_accessible",
-        "blue_badge_parking",
         "accessible_toilets",
-        "gender_neutral_toilets"
-    ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "no food",
-        "bottled water only",
-        "postgraduate",
-        "research",
-        "very quiet",
-        "Automatic Doors"
+        "adjustable_furniture",
+        "bike_racks"
     ],
     "floor": "First floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.110105\",\"52.201452\"]}",
+    "id": 65,
+    "image": "/assets/photos/JCR.jpg",
+    "imagealt": "JCR",
+    "lat": 52.20205,
+    "lng": 0.10859,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10859,52.20205]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "01223 335335",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "jcr",
+    "space_type": "Café",
+    "tags": [
+        "busy",
+        "food and drink",
+        "Water",
+        "Group discussion",
+        "wifi",
+        "Fetching service available",
+        "Automatic Doors"
+    ],
+    "title": "JCR",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        }
+    },
+    "twitter_screen_name": "TheSeeleyLib",
+    "url": "",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
 }

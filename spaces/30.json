@@ -1,91 +1,43 @@
 {
-    "id": 30,
-    "title": "Cambridge Judge Business School Cafe",
-    "slug": "cambridge-judge-business-school-cafe",
-    "description": "Due to the implications of COVID-19, please check with the Judge Business School direct as to their current access arrangements.",
     "access": "Members of the University",
-    "space_type": "Café",
-    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
-    "building": "Cambridge Judge Business School Information Centre",
-    "restricted": false,
-    "restriction": "Please check with the Judge Business School for current arrangements",
-    "disabled_access": true,
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/cafe-judge-business-school",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
     "atmosphere": [
-        "relaxed",
-        "modern",
         "inspiring",
-        "social",
         "friendly"
     ],
+    "building": "Whipple Library",
+    "description": "Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "hpslib@hermes.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
+        "printers_copiers",
         "toilets",
-        "refreshments",
-        "break"
-    ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "food and drink",
-        "noise",
-        "busy",
-        "coffee",
-        "snacks",
-        "light",
-        "group work",
-        "comfy seating",
-        "sofas",
-        "toilets",
-        "disabled access",
-        "modern",
-        "wifi"
+        "bike_racks"
     ],
     "floor": "First floor",
-    "image": "Common_Room.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
+    "id": 30,
+    "image": "/assets/photos/6.jpg",
+    "imagealt": "Whipple Main Library, Level 1",
+    "lat": 52.20292,
+    "lng": 0.11937,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:30"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:30"
-        },
         "friday": {
-            "open": true,
-            "from": "8:30",
-            "to": "16:30"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -96,6 +48,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 334547",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "whipple-main-library-level-1",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only"
+    ],
+    "title": "Whipple Main Library, Level 1",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "hpslib",
+    "url": "http://www.hps.cam.ac.uk/library/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

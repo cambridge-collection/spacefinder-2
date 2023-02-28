@@ -1,98 +1,171 @@
 {
-    "id": 56,
-    "title": "Philosophy - Computer Area",
-    "slug": "philosophy-computer-area",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 15:00-16:00), Book Returns. Follow the Website link at the bottom of this listing for more details and updates. ",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
-    "building": "Casimir Lewy Library",
-    "restricted": true,
-    "restriction": "Study space currently closed",
-    "disabled_access": true,
-    "url": "http://www.phil.cam.ac.uk/library",
-    "phone_number": "01223 762939",
-    "twitter_screen_name": "lewylib",
-    "facebook_url": "https://www.facebook.com/Lewylib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
+        "historic",
+        "inspiring",
+        "cosy",
         "friendly"
     ],
+    "building": "University Library",
+    "description": "The Anderson Room is open to everyone for the consultation of the UL’s collections of printed music and books about music printed after 1900. Earlier materials will be fetched to Rare Books or Manuscripts as appropriate.  The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (music collections expertise). ",
+    "disabled_access": true,
+    "email_address": "music@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Penlib",
     "facilities": [
         "daylight",
         "views",
         "free_wifi",
-        "computers",
         "laptops_allowed",
-        "signal",
-        "printers_copiers",
-        "refreshments",
+        "toilets",
         "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "adjustable_furniture",
-        "individual_study_space",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
+        "wheelchair_accessible"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "light",
-        "busy",
-        "drop in",
-        "Fetching service available"
-    ],
-    "floor": "Second floor",
-    "image": "philcomparea.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10917\",\"52.20109\"]}",
+    "floor": "First floor",
+    "id": 56,
+    "image": "/assets/photos/PH-LIBRARY-MAP-AOI-000-00006.jpg",
+    "imagealt": "UL - Anderson Music Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "phone_number": "01223 333072",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "slug": "ul-anderson-music-room",
+    "space_type": "Library space",
+    "tags": [
+        "no food",
+        "No drinks other than water",
+        "specialist reading room",
+        "subject specialists",
+        "librarians",
+        "Large desks CD player",
+        "Cassette player",
+        "Online musical resources",
+        "Computers",
+        "Warmer."
+    ],
+    "title": "UL - Anderson Music Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "twitter_screen_name": "MusiCB3t",
+    "url": "http://www.lib.cam.ac.uk/deptserv/music/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

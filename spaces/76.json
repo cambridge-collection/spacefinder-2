@@ -1,94 +1,169 @@
 {
-    "id": 76,
-    "title": "Hot Numbers Coffee (Gwydir Street)",
-    "slug": "hot-numbers-coffee-gwydir-street",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "Dale's Brewery, Gwydir Street, Cambridge, CB1 2LJ \r\n",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://hotnumberscoffee.co.uk/",
-    "phone_number": "01223 359966",
-    "twitter_screen_name": "hotnumbers",
-    "facebook_url": "https://www.facebook.com/HotNumbersCoffee",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "access": "Members of the University",
+    "address": "Woolf Institute Library\r\nMadingley Road\r\nCambridge\r\nCB3 0UB",
     "atmosphere": [
         "relaxed",
         "modern",
-        "inspiring",
-        "cosy",
-        "social",
         "friendly"
     ],
+    "building": "Woolf Institute Library",
+    "description": "",
+    "disabled_access": false,
+    "email_address": "library@woolf.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/WoolfInstitute",
     "facilities": [
-        "food_drink",
-        "daylight",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "signal",
+        "sockets",
         "toilets",
-        "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "bike_racks",
+        "baby_changing",
+        "prayer_room"
     ],
-    "work": [
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "creative",
-        "ethically sourced",
-        "coffee",
-        "tea",
-        "independent",
-        "music",
-        "jazz",
-        "evening events"
-    ],
-    "floor": "Ground floor",
-    "image": "hot-numbers-coffee-Gwydir.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.13834\",\"52.2001\"]}",
+    "floor": "Basement",
+    "id": 76,
+    "image": "/assets/photos/IMG_1433.JPG",
+    "imagealt": "Woolf Institute Library - Basement Study Area",
+    "lat": 52.210752,
+    "lng": 0.111004,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.111004,52.210752]}",
+    "noise": "Whispers",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
         "monday": {
             "open": true,
-            "from": "7:30",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "17:00"
         },
-        "tuesday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
-        "wednesday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "7:30",
-            "to": "22:30"
+            "from": "9:00",
+            "to": "17:00"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "7:30",
-            "to": "22:30"
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         },
         "saturday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "21:00"
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         }
-    }
+    },
+    "phone_number": "+44(0)1223 761984",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "woolf-institute-library-basement-study-area",
+    "space_type": "Library space",
+    "tags": [
+        "spacious",
+        "modern",
+        "calm",
+        "clean"
+    ],
+    "title": "Woolf Institute Library - Basement Study Area",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.woolf.cam.ac.uk/study/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,75 +1,41 @@
 {
-    "id": 60,
-    "title": "Music: Faculty Graduate Room",
-    "slug": "music-faculty-graduate-room",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Faculty",
-    "space_type": "Library space",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "building": "Pendlebury Library of Music",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": false,
-    "url": "http://pendlebury.mus.cam.ac.uk/",
-    "phone_number": "01223335182",
-    "twitter_screen_name": "PendleburyLib",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "historic"
+        "relaxed",
+        "social"
     ],
+    "building": "University Library",
+    "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
         "daylight",
+        "views",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
+        "signal",
         "toilets",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
+        "refreshments",
+        "break"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "bottled water only",
-        "keyboards",
-        "headphones"
-    ],
-    "floor": "Ground floor",
-    "image": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
+    "floor": "First floor",
+    "id": 60,
+    "image": "/assets/photos/PH-LIBRARY-MAP-SOUTH-WING-000-00001.jpg",
+    "imagealt": "UL - South Wing Corridor",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -83,6 +49,116 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-corridor",
+    "space_type": "Library space",
+    "tags": [
+        "view",
+        "busy",
+        "bottled water only",
+        "no bags"
+    ],
+    "title": "UL - South Wing Corridor",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

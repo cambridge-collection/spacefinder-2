@@ -1,85 +1,171 @@
 {
-    "id": 61,
-    "title": "Music: Dent Room",
-    "slug": "music-dent-room",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "building": "Pendlebury Library of Music",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": false,
-    "url": "http://pendlebury.mus.cam.ac.uk/",
-    "phone_number": "01223335182",
-    "twitter_screen_name": "MusiCB3t",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Strictly silent",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "modern",
+        "relaxed",
+        "historic",
         "inspiring",
         "cosy"
     ],
+    "building": "University Library",
+    "description": "The South Front Corridor is a bright wide space in an open shelving area where readers and staff will often walk by. It's a cooler area with easy access to both South Front and South Wing. There are no plug sockets on the tables, though electrical outlets are not far away.",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
+        "daylight",
+        "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
-        "sockets",
+        "signal",
         "toilets",
+        "refreshments",
         "break",
         "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
+        "gender_neutral_toilets"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "microfilm scanner"
-    ],
-    "floor": "Ground floor",
-    "image": "4.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
+    "floor": "First floor",
+    "id": 61,
+    "image": "/assets/photos/PH-LIBRARY-FRONT-CORRIDORS-000-00004.jpg",
+    "imagealt": "UL - South Front Corridor",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-front-corridor",
+    "space_type": "Library space",
+    "tags": [
+        "art",
+        "no large bags",
+        "bottled water only",
+        "cooler",
+        "busier",
+        "less quiet"
+    ],
+    "title": "UL - South Front Corridor",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
 }

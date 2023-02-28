@@ -1,94 +1,183 @@
 {
-    "id": 74,
-    "title": "Picturehouse Cambridge Cafe/Bar",
-    "slug": "picturehouse-cambridge-cafe-bar",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "38-39 Saint Andrew's Street, Cambridge, CB2 3AR\r\n",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "https://www.picturehouses.com/cinema/info/Arts_Picturehouse_Cambridge",
-    "phone_number": " 0871 902 5720",
-    "twitter_screen_name": "CamPicturehouse",
-    "facebook_url": "https://www.facebook.com/ArtsPicturehouse",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge Centre for Christianity Worldwide\r\nWestminster College\r\nMadingley Road\r\nCambridge\r\nCB3 0AA",
     "atmosphere": [
         "relaxed",
         "modern",
         "inspiring",
         "cosy",
-        "social",
         "friendly"
     ],
+    "building": "",
+    "description": "Due to the implications of COVID-19 please check with the CCCW Library direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "email_address": "library@cccw.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/CCCWCentre",
     "facilities": [
-        "food_drink",
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks"
     ],
-    "work": [
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "cinema",
-        "noisy",
-        "bustling",
-        "plants",
-        "art deco",
-        "sofas"
-    ],
-    "floor": "Second Floor",
-    "image": "Cambridge-Picturehouse-007.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12375\",\"52.20295\"]}",
+    "floor": "Ground floor",
+    "id": 74,
+    "image": "/assets/photos/temp1.jpg",
+    "imagealt": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+    "lat": 52.210537,
+    "lng": 0.11212,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11212,52.210537]}",
+    "noise": "Whispers",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "13:00"
+        },
         "monday": {
             "open": true,
-            "from": "9:30",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:00"
         },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "0:00"
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
-        "wednesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "0:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "10:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:00"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "10:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "13:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
         },
         "saturday": {
-            "open": true,
-            "from": "9:30",
-            "to": "0:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "10:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
         }
-    }
+    },
+    "phone_number": "+44 (0)1223 330640",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Please check with the library for current arrangements",
+    "slug": "cambridge-centre-for-christianity-worldwide-cccw-library",
+    "space_type": "Library space",
+    "tags": [
+        "Recently built",
+        "period windows",
+        "white bookshelves",
+        "white carrels",
+        "comfy seating",
+        "archive research table",
+        "library research help",
+        "subject expert",
+        "librarian",
+        "archivist",
+        "self-issue"
+    ],
+    "title": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "13:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        }
+    },
+    "twitter_screen_name": "CCCWLibrary",
+    "url": "https://www.cccw.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "private"
+    ]
 }

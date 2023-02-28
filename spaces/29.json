@@ -1,86 +1,171 @@
 {
-    "id": 29,
-    "title": "Red Bull",
-    "slug": "red-bull",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Bar",
-    "address": "11 Barton Road, Cambridge",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/redbullnewnham",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "access": "Members of the University",
+    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
     "atmosphere": [
-        "relaxed",
-        "historic",
-        "cosy",
-        "social"
+        "disciplined",
+        "modern"
     ],
+    "building": "Radzinowicz Library, Institute of Criminology",
+    "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "crimlib@hermes.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/crimlib",
     "facilities": [
-        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
-        "signal",
-        "outdoor_seating",
+        "sockets",
         "toilets",
         "refreshments",
-        "break"
-    ],
-    "work": [
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "noise",
-        "busy",
-        "food and drink"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets"
     ],
     "floor": "Ground floor",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.1087\",\"52.19655\"]}",
+    "id": 29,
+    "image": "/assets/photos/6.jpg",
+    "imagealt": "Criminology - Ground floor",
+    "lat": 52.201452,
+    "lng": 0.110105,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "11:00",
-            "to": "23:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "11:00",
-            "to": "23:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "11:00",
-            "to": "23:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "11:00",
-            "to": "23:00"
-        },
         "friday": {
-            "open": true,
-            "from": "11:00",
-            "to": "0:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "11:00",
-            "to": "0:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "11:00",
-            "to": "23:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 335386",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "criminology-ground-floor",
+    "space_type": "Library space",
+    "tags": [
+        "no food",
+        "bottled water only",
+        "postgraduate",
+        "research",
+        "quiet"
+    ],
+    "title": "Criminology - Ground floor",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.crim.cam.ac.uk/library/services",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

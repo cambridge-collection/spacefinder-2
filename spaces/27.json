@@ -1,78 +1,48 @@
 {
-    "id": 27,
-    "title": "The Buttery, Sidgwick Site",
-    "slug": "the-buttery-sidgwick-site",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact The Buttery direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "Sidgwick Avenue, Cambridge, CB3 9DD",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact The Buttery direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/buttery-sidgwick-site",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "access": "Members of the University",
+    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
     "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly"
+        "disciplined",
+        "modern"
     ],
+    "building": "Radzinowicz Library, Institute of Criminology",
+    "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "crimlib@hermes.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/crimlib",
     "facilities": [
-        "food_drink",
         "daylight",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
-        "outdoor_seating",
+        "sockets",
+        "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "food and drink",
-        "sidgwick site",
-        "pastries",
-        "cheap coffee",
-        "small",
-        "busy"
-    ],
-    "floor": "Ground floor",
-    "image": "buttery1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10854\",\"52.20078\"]}",
+    "floor": "First floor",
+    "id": 27,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Criminology - First floor",
+    "lat": 52.201452,
+    "lng": 0.110105,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "17:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -83,6 +53,119 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 335386",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "criminology-first-floor",
+    "space_type": "Library space",
+    "tags": [
+        "no food",
+        "bottled water only",
+        "postgraduate",
+        "research",
+        "very quiet",
+        "Automatic Doors"
+    ],
+    "title": "Criminology - First floor",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.crim.cam.ac.uk/library/services",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

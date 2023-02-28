@@ -1,68 +1,45 @@
 {
-    "id": 69,
-    "title": "Whipple Main Library, Level 1",
-    "slug": "whipple-main-library-level-1",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
-    "building": "Whipple Library",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "http://www.hps.cam.ac.uk/library/",
-    "phone_number": "01223 334547",
-    "twitter_screen_name": "hpslib",
-    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Strictly silent",
+    "address": "1st Floor\r\nBragg Building\r\nCavendish Laboratory \r\n19 J J Thomson Avenue \r\nCambridge \r\nCB3 0HE ",
     "atmosphere": [
-        "inspiring",
-        "friendly"
+        "disciplined",
+        "cosy"
     ],
+    "building": "Rayleigh Library (Physics)",
+    "description": "",
+    "disabled_access": false,
+    "email_address": "librarian@phy.cam.ac.uk ",
+    "facebook_url": "https://www.facebook.com/Rayleigh-Library-Cavendish-Laboratory-University-of-Cambridge-1464557683856342/",
     "facilities": [
-        "daylight",
+        "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "printers_copiers",
+        "signal",
         "toilets",
-        "bike_racks"
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "individual_study_space",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "close"
-    ],
-    "tags": [
-        "bottled water only"
-    ],
-    "floor": "First floor",
-    "image": "6.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11937\",\"52.20292\"]}",
+    "floor": "",
+    "id": 69,
+    "image": "/assets/photos/IMG_3645.JPG",
+    "imagealt": "Rayleigh Library: Study Carrels",
+    "lat": 52.20922,
+    "lng": 0.09248,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -76,6 +53,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 337414",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "rayleigh-library-study-carrels",
+    "space_type": "Library space",
+    "tags": [
+        "Fetching service available"
+    ],
+    "title": "Rayleigh Library: Study Carrels",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "RayLibCam",
+    "url": "https://libguides.cam.ac.uk/physics",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

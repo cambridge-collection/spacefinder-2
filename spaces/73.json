@@ -1,73 +1,50 @@
 {
-    "id": 73,
-    "title": "Divinity Library - Mezzanine",
-    "slug": "divinity-library-mezzanine",
-    "description": "The physical Library space is closed for studying. The Library offers: Browse & Borrow, Click & Collect, Book Returns. Follow the Website link at the bottom of the listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "West Road\r\nCambridge\r\nCB3 9BS",
-    "building": "Divinity Faculty Library",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "www.divinity.cam.ac.uk/library",
-    "phone_number": "01223 763040",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Cambridge University Students' Union and Graduate Union Building\r\n17 Mill Lane\r\nCambridge\r\nCB2 1RX",
     "atmosphere": [
-        "inspiring",
+        "relaxed",
+        "social",
         "friendly"
     ],
+    "building": "Cambridge University Students' Union and Graduate Union Building",
+    "description": "",
+    "disabled_access": false,
+    "email_address": "enquiries@cusu.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
+        "food_drink",
         "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
+        "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "gender_neutral_toilets"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
-    "tags": [],
-    "floor": "Second floor",
-    "image": "Divinity_Mezzanine.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10798\",\"52.20178\"]}",
+    "floor": "Ground floor",
+    "id": 73,
+    "image": "/assets/photos/20160526_085545.jpg",
+    "imagealt": "SU Lounge",
+    "lat": 52.20197,
+    "lng": 0.11738,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11738,52.20197]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
@@ -78,6 +55,122 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "phone_number": "+44(0)1223 333313",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "su-lounge",
+    "space_type": "Meeting room",
+    "tags": [
+        "comfy seating",
+        "coffee",
+        "modern",
+        "busy",
+        "cusu",
+        "gu",
+        "students"
+    ],
+    "title": "SU Lounge",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "twitter_screen_name": "CUSUonline",
+    "url": "http://www.cusu.co.uk http://www.gradunion.cam.ac.uk",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library",
+        "private"
+    ]
 }

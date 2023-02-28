@@ -1,84 +1,176 @@
 {
-    "id": 20,
-    "title": "Jamaica Blue (Lion Yard/Grand Arcade)",
-    "slug": "jamaica-blue-lion-yard-grand-arcade",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "Grand Arcade,\r\nSt Andrews Street,\r\nCambridge,\r\nCB2 3AX.",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.jamaicablue.co.uk",
-    "phone_number": "01223 308 781",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/Jamaica-Blue-UK",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Members of the University",
+    "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
     "atmosphere": [
         "relaxed",
+        "modern",
         "social",
         "friendly"
     ],
+    "building": "Casimir Lewy Library",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "philosophy@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Lewylib",
     "facilities": [
-        "food_drink",
+        "daylight",
+        "views",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "signal",
-        "toilets",
-        "refreshments"
-    ],
-    "work": [
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "cakes",
-        "comfortable"
+        "printers_copiers",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
     ],
     "floor": "Second floor",
-    "image": "jamaica-blue.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120761\",\"52.204556\"]}",
+    "id": 20,
+    "image": "/assets/photos/philcomparea.jpg",
+    "imagealt": "Philosophy - Computer Area",
+    "lat": 52.20109,
+    "lng": 0.10917,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10917,52.20109]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "9:30",
-            "to": "17:30"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 762939",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "philosophy-computer-area",
+    "space_type": "Library space",
+    "tags": [
+        "light",
+        "drop in",
+        "Fetching service available"
+    ],
+    "title": "Philosophy - Computer Area",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "lewylib",
+    "url": "http://www.phil.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library",
+        "private"
+    ]
 }

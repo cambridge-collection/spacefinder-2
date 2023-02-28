@@ -1,84 +1,175 @@
 {
-    "id": 13,
-    "title": "Cambridge Public Library - 3rd Floor",
-    "slug": "cambridge-public-library-3rd-floor",
-    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
-    "building": "Cambridge Central Public Library",
-    "restricted": false,
-    "restriction": "Study space currently closed",
-    "disabled_access": true,
-    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
-    "phone_number": "0345 045 5225",
-    "twitter_screen_name": "cambslib",
-    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "access": "Members of the University",
+    "address": "9 West Road, Cambridge, CB3 9DP",
     "atmosphere": [
-        "disciplined",
-        "modern"
+        "relaxed",
+        "modern",
+        "inspiring"
     ],
+    "building": "English Faculty Library",
+    "description": "Follow the Website link at the bottom of this listing for more details and updates. Contact the library staff to book this space.",
+    "disabled_access": true,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
     "facilities": [
+        "daylight",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "printers_copiers",
-        "toilets"
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "nooks",
-        "bottled water only"
-    ],
-    "floor": "Second floor",
-    "image": "Central_Library_3rd_floor.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120511\",\"52.204396\"]}",
+    "floor": "First floor",
+    "id": 13,
+    "image": "/assets/photos/Top_Floor_Computer_Room.jpg",
+    "imagealt": "English - IT Training Suite",
+    "lat": 52.202251,
+    "lng": 0.108416,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
         "friday": {
             "open": true,
-            "from": "10:00",
-            "to": "14:00"
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        }
+    },
+    "phone_number": "01223 335077",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "Booking required",
+    "slug": "english-it-training-suite",
+    "space_type": "Library space",
+    "tags": [
+        "bookable",
+        "laptops",
+        "projectors",
+        "group study room",
+        "no food or drink allowed"
+    ],
+    "title": "English - IT Training Suite",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        }
+    },
+    "twitter_screen_name": "eflcam",
+    "url": "https://libguides.cam.ac.uk/efl-covid/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,79 +1,48 @@
 {
-    "id": 68,
-    "title": "Criminology - Ground floor",
-    "slug": "criminology-ground-floor",
-    "description": "The physical library space is currently closed for studying. The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
-    "building": "Radzinowicz Library, Institute of Criminology",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "https://www.crim.cam.ac.uk/library/services",
-    "phone_number": "01223 335386",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/crimlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "1st Floor\r\nBragg Building\r\nCavendish Laboratory \r\n19 J J Thomson Avenue \r\nCambridge \r\nCB3 0HE ",
     "atmosphere": [
         "disciplined",
-        "modern"
+        "friendly"
     ],
+    "building": "Rayleigh Library (Physics)",
+    "description": "",
+    "disabled_access": false,
+    "email_address": "librarian@phy.cam.ac.uk ",
+    "facebook_url": "https://www.facebook.com/Rayleigh-Library-Cavendish-Laboratory-University-of-Cambridge-1464557683856342/",
     "facilities": [
         "daylight",
         "views",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
+        "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
         "break",
         "wheelchair_accessible",
         "blue_badge_parking",
-        "accessible_toilets",
-        "gender_neutral_toilets"
+        "individual_study_space",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "no food",
-        "bottled water only",
-        "postgraduate",
-        "research",
-        "quiet"
-    ],
-    "floor": "Ground floor",
-    "image": "6.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.110105\",\"52.201452\"]}",
+    "floor": "",
+    "id": 68,
+    "image": "/assets/photos/IMG_3649.JPG",
+    "imagealt": "Rayleigh Library: Main Study Area",
+    "lat": 52.20922,
+    "lng": 0.09248,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -87,6 +56,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 337414",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "rayleigh-library-main-study-area",
+    "space_type": "Library space",
+    "tags": [],
+    "title": "Rayleigh Library: Main Study Area",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "RayLibCam",
+    "url": "https://libguides.cam.ac.uk/physics",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

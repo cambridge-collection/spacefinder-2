@@ -1,88 +1,177 @@
 {
-    "id": 12,
-    "title": "Cambridge Public Library - 2nd Floor (Non-Fiction and Reference)",
-    "slug": "cambridge-public-library-2nd-floor-non-fiction-and-reference",
-    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
-    "building": "Cambridge Central Public Library",
-    "restricted": false,
-    "restriction": "You will need to have a current registered Cambridgeshire public libraries card.",
-    "disabled_access": true,
-    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
-    "phone_number": "0345 045 5225",
-    "twitter_screen_name": "cambslib",
-    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Members of the University",
+    "address": "9 West Road, Cambridge, CB3 9DP",
     "atmosphere": [
+        "disciplined",
         "relaxed",
         "modern",
-        "social"
+        "cosy"
     ],
+    "building": "English Faculty Library",
+    "description": "Study space on Sidgwick site. For information on accessible space check https://www.robinson.cam.ac.uk/college-life/accessibility",
+    "disabled_access": false,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
     "facilities": [
+        "food_drink",
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "printers_copiers",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "bottled water only",
-        "comfy seating",
-        "airy"
-    ],
-    "floor": "Third floor",
-    "image": "Central_Library_non-fiction_and_reference_2nd_floor.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120511\",\"52.204396\"]}",
+    "floor": "",
+    "id": 12,
+    "image": "",
+    "imagealt": "English Faculty Library",
+    "lat": 52.202251,
+    "lng": 0.108416,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
         "friday": {
             "open": true,
-            "from": "10:00",
-            "to": "14:00"
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        }
+    },
+    "phone_number": "01223 335077",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "Booking required",
+    "slug": "english-faculty-library",
+    "space_type": "Library space",
+    "tags": [
+        "individual desks",
+        "near books",
+        "subject experts",
+        "large desks"
+    ],
+    "title": "English Faculty Library",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        }
+    },
+    "twitter_screen_name": "eflcam",
+    "url": "https://libguides.cam.ac.uk/efl-covid/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

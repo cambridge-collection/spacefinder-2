@@ -1,86 +1,82 @@
 {
-    "id": 25,
-    "title": "English - IT Training Suite",
-    "slug": "english-it-training-suite",
-    "description": "Book a study space using the link below (this may not be in the area of the Library pictured). The Library also offers: Click & Collect (Collection Mon, Tues, Thurs, Fri, 12:00-15:00), Scan & Deliver, Book Returns). Follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "9 West Road, Cambridge, CB3 9DP",
-    "building": "English Faculty Library",
-    "restricted": false,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "https://libguides.cam.ac.uk/efl-covid/",
-    "phone_number": "01223 335077",
-    "twitter_screen_name": "eflcam",
-    "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "https://calendars.libraries.cam.ac.uk/calendar/english_studyspace?cid=7750&t=d&d=0000-00-00&cal=7750&inc=0",
-    "noise": "Background chatter",
+    "access": "Faculty",
+    "address": "11 West Road, Cambridge, CB3 9DP",
     "atmosphere": [
-        "relaxed",
         "modern",
         "inspiring"
     ],
+    "building": "Pendlebury Library of Music",
+    "description": "The Dent Room houses the Early Music collections.",
+    "disabled_access": false,
+    "email_address": "Pendlebury@mus.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Penlib",
     "facilities": [
-        "daylight",
-        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "bookable",
         "toilets",
-        "refreshments",
         "break",
         "wheelchair_accessible",
+        "blue_badge_parking",
         "accessible_toilets",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
+        "bike_racks"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "bookable",
-        "laptops",
-        "projectors",
-        "group study room",
-        "no food or drink allowed"
-    ],
-    "floor": "First floor",
-    "image": "Top_Floor_Computer_Room.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.108416\",\"52.202251\"]}",
+    "floor": "Ground floor",
+    "id": 25,
+    "image": "/assets/photos/4.jpg",
+    "imagealt": "Music: Dent Room",
+    "lat": 52.20216,
+    "lng": 0.10791,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
+    "noise": "Strictly silent",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
         "monday": {
             "open": true,
             "from": "9:30",
-            "to": "16:00"
+            "to": "17:30"
         },
-        "tuesday": {
+        "saturday": {
             "open": true,
             "from": "9:30",
-            "to": "16:00"
+            "to": "12:30"
         },
-        "wednesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "16:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
             "from": "9:30",
-            "to": "16:00"
+            "to": "17:30"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
             "from": "9:30",
-            "to": "16:00"
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
@@ -91,6 +87,77 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
         }
-    }
+    },
+    "phone_number": "01223335182",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Electronic door lock - restricted entry to Music Faculty staff and students via University card. Monitored by CCTV.",
+    "slug": "music-dent-room",
+    "space_type": "Library space",
+    "tags": [
+        "digital scanner for microfilms"
+    ],
+    "title": "Music: Dent Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:30",
+            "to": "12:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        }
+    },
+    "twitter_screen_name": "MusiCB3t",
+    "url": "http://pendlebury.mus.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

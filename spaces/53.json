@@ -1,85 +1,167 @@
 {
-    "id": 53,
-    "title": "Astronomy: Hoyle Building Library Area",
-    "slug": "astronomy-hoyle-building-library-area",
-    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB23 6DQ",
-    "building": "Institute of Astronomy Library",
-    "restricted": true,
-    "restriction": "Outside of office hours this is members of the Institute of Astronomy only.",
-    "disabled_access": true,
-    "url": "https://www.ast.cam.ac.uk/library/news",
-    "phone_number": "01223 337537",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
+        "disciplined",
         "relaxed",
-        "modern",
-        "social"
+        "historic",
+        "inspiring"
     ],
+    "building": "University Library",
+    "description": "A well-lit space in a very quiet part of the University Library. Plug sockets are available and there is a good view out of the window. Tables are smaller, air is cooler and there are rarely many people around.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
+        "daylight",
         "views",
+        "large_desks",
+        "no_wifi",
         "laptops_allowed",
-        "toilets",
-        "refreshments",
-        "adjustable_furniture",
-        "gender_neutral_toilets",
-        "bike_racks"
+        "sockets",
+        "signal"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "new books",
-        "undergraduate books",
-        "astronomy"
-    ],
-    "floor": "First floor",
-    "image": "4.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09339\",\"52.21411\"]}",
+    "floor": "Fifth floor",
+    "id": 53,
+    "image": "/assets/photos/DSCN0114.JPG",
+    "imagealt": "UL - South Front 5 ",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Strictly silent",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
         "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
         },
-        "wednesday": {
+        "sunday": {
             "open": false,
             "from": "",
             "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "12:30",
-            "to": "16:30"
+            "from": "9:00",
+            "to": "18:50"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         }
-    }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-front-5",
+    "space_type": "Library space",
+    "tags": [
+        "no large bags",
+        "bottled water only",
+        "books",
+        "silent",
+        "good views",
+        "people watching",
+        "cooler"
+    ],
+    "title": "UL - South Front 5 ",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,60 +1,57 @@
 {
-    "id": 62,
-    "title": "Astronomy: Library Room A",
-    "slug": "astronomy-library-room-a",
-    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
-    "building": "Institute of Astronomy Library",
-    "restricted": true,
-    "restriction": "Steps at front of building.  Narrow corridors.",
-    "disabled_access": false,
-    "url": "https://www.ast.cam.ac.uk/library/news",
-    "phone_number": "01223 337537",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "historic",
-        "cosy"
+        "modern",
+        "friendly"
     ],
+    "building": "University Library",
+    "description": "A large cool room with huge tables for consulting maps. Seats around 10 people and can be accessed by anybody with a library card.",
+    "disabled_access": true,
+    "email_address": "maps@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
         "daylight",
         "views",
         "large_desks",
+        "free_wifi",
         "laptops_allowed",
         "sockets",
-        "bookable",
+        "signal",
         "toilets",
         "refreshments",
-        "break",
-        "gender_neutral_toilets",
-        "bike_racks"
+        "break"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "astronomy",
-        "cosmology",
-        "interview location",
-        "interviews",
-        "filming",
-        "Chandrasekhar",
-        "Dewhirst"
-    ],
-    "floor": "Ground floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09533\",\"52.21458\"]}",
+    "floor": "First floor",
+    "id": 62,
+    "image": "/assets/photos/PH-LIBRARY-MAP-MAPROOM-000-00002.jpg",
+    "imagealt": "UL - Map Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:50"
+        },
         "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:10"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": false,
             "from": "",
             "to": ""
@@ -68,16 +65,72 @@
             "open": false,
             "from": "",
             "to": ""
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:30",
-            "to": "16:30"
-        },
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:50"
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:10"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "+44 (0) 1223 333041 ",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-map-room",
+    "space_type": "Library space",
+    "tags": [
+        "large benches",
+        "light",
+        "relaxing",
+        "north facing",
+        "trees",
+        "cooler",
+        "standing desks"
+    ],
+    "title": "UL - Map Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:10"
         },
         "saturday": {
             "open": false,
@@ -88,6 +141,28 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "http://www.lib.cam.ac.uk/collections/departments/maps",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

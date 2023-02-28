@@ -1,84 +1,171 @@
 {
-    "id": 41,
-    "title": "Hot Numbers Coffee (Trumpington Street)",
-    "slug": "hot-numbers-coffee-trumpington-street",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "4 Trumpington Street, Cambridge, CB2 1QA",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://hotnumberscoffee.co.uk/",
-    "phone_number": "01223 300730",
-    "twitter_screen_name": "hotnumbers",
-    "facebook_url": "https://www.facebook.com/HotNumbersCoffee",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "access": "Members of the University",
+    "address": "Downing Street\r\nCAMBRIDGE \r\nCB2 3DZ",
     "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+        "disciplined",
+        "historic"
     ],
+    "building": "Haddon Library of Archaeology and Anthropology",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "haddon-library@lists.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Haddon-Library-of-Archaeology-and-Anthropology-566290340136530",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating"
+        "printers_copiers",
+        "toilets",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "baby_changing"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "coffee",
-        "central"
-    ],
-    "floor": "",
-    "image": "hotnumbers.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12186\",\"52.198552\"]}",
+    "floor": "First floor",
+    "id": 41,
+    "image": "/assets/photos/6.jpg",
+    "imagealt": "Haddon: Main Reading Room",
+    "lat": 52.202906,
+    "lng": 0.121552,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "7:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "19:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "7:00",
-            "to": "19:00"
-        },
         "friday": {
-            "open": true,
-            "from": "7:00",
-            "to": "19:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333505",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "haddon-main-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "outdoor space",
+        "Fetching service available"
+    ],
+    "title": "Haddon: Main Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "HaddonLibrary",
+    "url": "http://haddon.archanth.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

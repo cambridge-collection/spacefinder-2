@@ -1,93 +1,180 @@
 {
-    "id": 55,
-    "title": "Philosophy - Reading Room",
-    "slug": "philosophy-reading-room",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 15:00-16:00), Book Returns. Follow the Website link at the bottom of this listing for more details and updates. ",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
-    "building": "Casimir Lewy Library",
-    "restricted": true,
-    "restriction": "Study space currently closed",
-    "disabled_access": true,
-    "url": "http://www.phil.cam.ac.uk/library",
-    "phone_number": "01223 762939",
-    "twitter_screen_name": "lewylib",
-    "facebook_url": "https://www.facebook.com/Lewylib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "disciplined",
-        "modern"
+        "historic",
+        "cosy",
+        "friendly"
     ],
+    "building": "University Library",
+    "description": "Reading room open to everyone for the consultation of the UL’s archive and manuscript collections. Material is fetched on request. It’s not necessary to make an appointment but it is helpful to contact the manuscripts team in advance to let them know when you want to come and what you want to see. Details of most archival collections are available on <a href=\"https://archivesearch.lib.cam.ac.uk/\">ArchiveSearch</a>.\r\nMore details: <a href=\"https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives/visiting\">Visiting the Manuscripts Reading Room</a>.\r\n\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "mss@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
         "daylight",
         "views",
         "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
+        "printers_copiers",
+        "bookable",
+        "toilets",
         "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "individual_study_space",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
+        "break"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "bottled water only",
-        "light",
-        "small",
-        "Fetching service available"
-    ],
-    "floor": "Second floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10917\",\"52.20109\"]}",
+    "floor": "Third floor",
+    "id": 55,
+    "image": "/assets/photos/PH-LIBRARY-MAP-MANUSCRIPTS-000-00001.jpg",
+    "imagealt": "UL - Manuscripts Reading Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333143",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-manuscripts-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "specialist reading room",
+        "subject specialists",
+        "librarians",
+        "large space",
+        "high ceilings",
+        "comfy chairs",
+        "large desks",
+        "no water",
+        "no food",
+        "no pens",
+        "no bags",
+        "no outdoor clothing",
+        "warmer"
+    ],
+    "title": "UL - Manuscripts Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "http://www.lib.cam.ac.uk/deptserv/manuscripts/Using.html",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

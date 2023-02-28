@@ -1,86 +1,171 @@
 {
-    "id": 1,
-    "title": "The Snug (Lensfield Road)",
-    "slug": "the-snug-lensfield-road",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Bar",
-    "address": "67 Lensfield Road, Cambridge, CB2 1EN",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://www.thesnugbar.co.uk/cambridge-snug-bar/",
-    "phone_number": "01223 367684",
-    "twitter_screen_name": "TheSnugTrumps",
-    "facebook_url": "https://www.facebook.com/thesnugbar",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "relaxed",
-        "cosy",
-        "social",
-        "friendly"
+        "disciplined",
+        "historic",
+        "inspiring"
     ],
+    "building": "University Library",
+    "description": "The Main Reading Room of the University Library is very quiet, spacious and constantly staffed. It could be considered one of the more professional spaces and is where the University Library's Reference Department is located. \r\n\r\nThe Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "reference@cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
-        "food_drink",
+        "daylight",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
         "toilets",
         "refreshments",
         "break"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "dark",
-        "busy"
-    ],
-    "floor": "",
-    "image": "snug.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122951\",\"52.197949\"]}",
+    "floor": "First floor",
+    "id": 1,
+    "image": "/assets/photos/PH-LIBRARY-MAP-READING-ROOM-000-00006.jpg",
+    "imagealt": "UL - Reading Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "23:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "23:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "23:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "0:00"
-        },
         "friday": {
             "open": true,
-            "from": "10:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         },
         "saturday": {
             "open": true,
-            "from": "10:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "0:00",
-            "to": "22:00"
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333 035",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "No drinks allowed.",
+    "slug": "ul-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "no large bags",
+        "reading lamps",
+        "standing workspace",
+        "e-legal deposit",
+        "subject experts",
+        "warmer",
+        "plug sockets",
+        "staffed"
+    ],
+    "title": "UL - Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:50"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,106 +1,167 @@
 {
-    "id": 9,
-    "title": "Moore Library - Ground Floor",
-    "slug": "moore-library-ground-floor",
-    "description": "Book a study space using the link below (this may not be in the area of the library pictured). Other services available include: Scan & Deliver, Click & Collect (Mon, Thurs, 11:00 to 13:0), Book Returns. Follow the Website link at the end of this listing for more details and updates.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "Wilberforce Road, Cambridge CB3 0WD",
-    "building": "Betty and Gordon Moore LIbrary",
-    "restricted": true,
-    "restriction": "",
-    "disabled_access": false,
-    "url": "http://moore.libraries.cam.ac.uk/",
-    "phone_number": "01223 765670",
-    "twitter_screen_name": "MooreLib",
-    "facebook_url": "https://www.facebook.com/moorelib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "https://moore.libraries.cam.ac.uk/zero-contact-services/book-seat/",
-    "noise": "Animated discussion",
+    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
     "atmosphere": [
         "relaxed",
         "modern",
-        "cosy",
-        "social",
-        "friendly"
+        "social"
     ],
+    "building": "Cambridge Central Public Library",
+    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
     "facilities": [
-        "food_drink",
         "daylight",
         "views",
         "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
-        "sockets",
         "signal",
         "printers_copiers",
-        "whiteboards",
-        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
+        "break"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "bottled water only",
-        "internet access",
-        "wireless",
-        "natural science tripos",
-        "inter-library loans",
-        "24 hour opening",
-        "bookable study areas",
-        "photocopiers",
-        "computing facilities"
-    ],
-    "floor": "Ground floor",
-    "image": "2.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.103238\",\"52.210174\"]}",
+    "floor": "Third floor",
+    "id": 9,
+    "image": "/assets/photos/Central_Library_non-fiction_and_reference_2nd_floor.jpg",
+    "imagealt": "Cambridge Public Library - 2nd Floor (Non-Fiction and Reference)",
+    "lat": 52.204396,
+    "lng": 0.120511,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.120511,52.204396]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
             "open": true,
             "from": "10:00",
-            "to": "16:00"
+            "to": "14:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        }
+    },
+    "phone_number": "0345 045 5225",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "You will need to have a current registered Cambridgeshire public libraries card.",
+    "slug": "cambridge-public-library-2nd-floor-non-fiction-and-reference",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only",
+        "comfy seating",
+        "airy"
+    ],
+    "title": "Cambridge Public Library - 2nd Floor (Non-Fiction and Reference)",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        }
+    },
+    "twitter_screen_name": "cambslib",
+    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

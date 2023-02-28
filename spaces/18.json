@@ -1,84 +1,167 @@
 {
-    "id": 18,
-    "title": "Caffe Nero (Market St)",
-    "slug": "caffe-nero-market-st",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "11 Market St,\r\nCambridge,\r\nCB2 3PA.",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.caffenero.co.uk",
-    "phone_number": "01223 307 728",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/caffenero",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Music playing",
+    "address": "Faculty of Classics\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
     "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly"
+        "disciplined"
     ],
+    "building": "Classical Faculty Library",
+    "description": "See the Library website (linked at bottom of this listing) for more details and updates.",
+    "disabled_access": false,
+    "email_address": "library@classics.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/classicalfacultylibrary",
     "facilities": [
-        "food_drink",
+        "daylight",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "signal",
+        "sockets",
         "toilets",
-        "refreshments"
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "induction_loops",
+        "adjustable_furniture",
+        "individual_study_space",
+        "bike_racks"
     ],
-    "work": [
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "cakes",
-        "gluten-free"
-    ],
-    "floor": "",
-    "image": "caffe_nero_market_st.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11979\",\"52.20604\"]}",
+    "floor": "Ground floor",
+    "id": 18,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Classics - Main Library Space",
+    "lat": 52.20063,
+    "lng": 0.11018,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11018,52.20063]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "7:00",
-            "to": "20:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "20:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "20:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "7:00",
-            "to": "20:00"
-        },
         "friday": {
             "open": true,
-            "from": "7:00",
-            "to": "20:00"
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
         },
         "saturday": {
             "open": true,
-            "from": "7:00",
-            "to": "20:00"
+            "from": "14:00",
+            "to": "15:00"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "7:00",
-            "to": "19:30"
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:00"
+        }
+    },
+    "phone_number": "01223 335154",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "classics-main-library-space",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only",
+        "busy in term",
+        "research book collection"
+    ],
+    "title": "Classics - Main Library Space",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "14:00",
+            "to": "15:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        }
+    },
+    "twitter_screen_name": "CFLcam",
+    "url": "http://www.classics.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

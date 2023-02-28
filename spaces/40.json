@@ -1,88 +1,166 @@
 {
-    "id": 40,
-    "title": "Benets Cafe",
-    "slug": "benets-cafe",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "21, King's Parade, Cambridge, CB2 1SP",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "https://plus.google.com/104830534335234164556/about?gl=uk&hl=en",
-    "phone_number": "01223 329068",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "address": "Trumpington Street, Cambridge, CB2 1RB\r\n",
     "atmosphere": [
-        "disciplined",
-        "social",
-        "friendly"
+        "historic",
+        "inspiring",
+        "social"
     ],
+    "building": "",
+    "description": "Currently only taking card payments. The Courtyard Café is located within the Fitzwilliam Museum, next to the gift shop.  The Courtyard Café is reasonably large, with a set daily menu as well as hot drinks and snacks.\r\n",
+    "disabled_access": false,
+    "email_address": "events.fitzwillam@tate.org.uk",
+    "facebook_url": "https://www.facebook.com/fitzwilliammuseum",
     "facilities": [
         "food_drink",
         "daylight",
-        "views",
-        "no_wifi",
-        "laptops_allowed",
         "signal",
-        "outdoor_seating",
         "toilets",
         "refreshments",
         "break"
     ],
-    "work": [
-        "private"
-    ],
-    "tags": [
-        "coffee",
-        "food and drink",
-        "warm",
-        "no wifi",
-        "central"
-    ],
-    "floor": "",
-    "image": "benets.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.117845\",\"52.204979\"]}",
+    "floor": "Ground floor",
+    "id": 40,
+    "image": "/assets/photos/fitzwilliam-museum-cafe.jpg",
+    "imagealt": "Fitzwilliam Museum Café ",
+    "lat": 52.19957,
+    "lng": 0.12033,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.12033,52.19957]}",
+    "noise": "Animated discussion",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:30",
-            "to": "22:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "22:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:30",
-            "to": "22:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:30",
-            "to": "22:00"
-        },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "10:00",
+            "to": "16:30"
         },
         "sunday": {
             "open": true,
-            "from": "8:30",
-            "to": "22:00"
+            "from": "12:00",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        }
+    },
+    "phone_number": "01223 764402",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "fitzwilliam-museum-cafe",
+    "space_type": "Café",
+    "tags": [
+        "Cheery",
+        "relaxed",
+        "bright",
+        "natural light",
+        "family friendly",
+        "can get noisy if busy",
+        "touristy",
+        "fitz"
+    ],
+    "title": "Fitzwilliam Museum Café ",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "16:30"
+        }
+    },
+    "twitter_screen_name": "FitzMuseum_UK",
+    "url": "www.fitzmuseum.cam.ac.uk",
+    "url_text": "Visit the website",
+    "work": [
+        "friends",
+        "group"
+    ]
 }
