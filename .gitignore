@@ -6,3 +6,4 @@ admin
 vendor
 node_modules
 .vstags
+.idea
