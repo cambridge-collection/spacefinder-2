@@ -1,82 +1,85 @@
 {
-    "id": 22,
-    "title": "Education Library - Lower Ground Floor",
-    "slug": "education-library-lower-ground-floor",
-    "description": "The physical Library is closed as a study space. The following services are available to members of the Faculty of Education via the Library's Moodle site: Essential Texts Click & Collect, (Mon-Fri, 09:00-17:00), virtual 1:1 appointments, Book Returns",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "184 Hills Road, Cambridge, CB2 8PQ",
-    "building": "Education Faculty Library",
-    "restricted": true,
-    "restriction": "Please check with the Education Faculty Library direct regarding current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.educ.cam.ac.uk/library/",
-    "phone_number": "01223 767700",
-    "twitter_screen_name": "edfaclib",
-    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "11 West Road, Cambridge, CB3 9DP",
     "atmosphere": [
+        "relaxed",
         "modern",
         "inspiring",
         "friendly"
     ],
+    "building": "Pendlebury Library of Music",
+    "description": "Light and airy quiet study space.",
+    "disabled_access": false,
+    "email_address": "Pendlebury@mus.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Penlib",
     "facilities": [
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "printers_copiers",
         "toilets",
-        "refreshments",
         "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
         "bike_racks"
     ],
-    "work": [],
-    "tags": [
-        "light",
-        "attractive views",
-        "near books",
-        "noise",
-        "bottled water only",
-        "no bags",
-        "subject experts",
-        "comfy seats with low desks"
-    ],
-    "floor": "Lower ground floor",
-    "image": "LowerGround_4.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136944\",\"52.186667\"]}",
+    "floor": "Ground floor",
+    "id": 22,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Music: Reading Room",
+    "lat": 52.20216,
+    "lng": 0.10791,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
+    "noise": "Strictly silent",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
         "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
         },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
+        "saturday": {
+            "open": true,
+            "from": "9:30",
+            "to": "12:45"
         },
-        "wednesday": {
+        "sunday": {
             "open": false,
             "from": "",
             "to": ""
         },
         "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
@@ -87,6 +90,78 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:00"
         }
-    }
+    },
+    "phone_number": "01223335182",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "music-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only",
+        "headphones"
+    ],
+    "title": "Music: Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:30",
+            "to": "12:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "17:30"
+        }
+    },
+    "twitter_screen_name": "MusiCB3t",
+    "url": "http://pendlebury.mus.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,85 +1,174 @@
 {
-    "id": 19,
-    "title": "Black Cat Café",
-    "slug": "black-cat-cafe",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "2 The Broadway, Cambridge, CB1 3AH.",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://www.blackcatcafecambridge.co.uk/",
-    "phone_number": "01223 248 972",
-    "twitter_screen_name": "blackcatcafecam",
-    "facebook_url": "https://www.facebook.com/blackcatcafecambridge",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "access": "Members of the University",
+    "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
     "atmosphere": [
-        "relaxed",
-        "social",
+        "modern",
+        "cosy",
         "friendly"
     ],
+    "building": "Casimir Lewy Library",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "philosophy@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/Lewylib",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
-        "toilets",
-        "refreshments"
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "homemade cakes"
-    ],
-    "floor": "",
-    "image": "black-cat-cafe.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.143246\",\"52.197967\"]}",
+    "floor": "Second floor",
+    "id": 19,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Philosophy - Reading Room",
+    "lat": 52.20109,
+    "lng": 0.10917,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10917,52.20109]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "9:30",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 762939",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "philosophy-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only",
+        "light",
+        "small",
+        "Fetching service available"
+    ],
+    "title": "Philosophy - Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "lewylib",
+    "url": "http://www.phil.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,50 +1,43 @@
 {
-    "id": 80,
-    "title": "MML - Beit Library",
-    "slug": "mml-beit-library",
-    "description": "The physical library is currently closed as a study space. Services available include: Click & Collect, Book Returns. Follow the Website link at the end of this listing for more details and updates.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "Modern & Medieval Languages Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
-    "building": "Modern & Medieval Languages Library",
-    "restricted": true,
-    "restriction": "Study space currently closed",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "atmosphere": [],
+    "building": "University Library",
+    "description": "The South Wing 3 Study Hub is a suite of rooms that allow you to find the study space that suits you. Comprised of; the group study room, individual accessibility bookable study room, individual bookable study room for online zoom calls/supervisions etc, Commonwealth Reading Room (no booking required for this space), and bookable desks and lockers for PhD students in the Commonwealth Room, we hope you can find a space that is right for you. ",
     "disabled_access": false,
-    "url": "http://www.mml.cam.ac.uk/library",
-    "phone_number": "01223 335041",
-    "twitter_screen_name": "mmllib",
-    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
+    "email_address": "",
+    "facebook_url": "",
+    "facilities": [],
+    "floor": "",
+    "id": 80,
+    "image": "",
+    "imagealt": "UL - South Wing 3 Study Hub",
+    "lat": 52.204756,
+    "lng": 0.107323,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
     "noise": "Strictly silent",
-    "atmosphere": [
-        "disciplined",
-        "historic"
-    ],
-    "facilities": [
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "work": [
-        "private"
-    ],
-    "tags": [
-        "bottled water only",
-        "no food",
-        "silent",
-        "low light"
-    ],
-    "floor": "Third floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.109627\",\"52.201439\"]}",
     "opening_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
         "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": false,
             "from": "",
             "to": ""
@@ -58,13 +51,15 @@
             "open": false,
             "from": "",
             "to": ""
-        },
-        "thursday": {
+        }
+    },
+    "out_of_term_hours": {
+        "friday": {
             "open": false,
             "from": "",
             "to": ""
         },
-        "friday": {
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -78,6 +73,73 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "phone_number": "",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-3-study-hub",
+    "space_type": "Library space",
+    "tags": [],
+    "title": "UL - South Wing 3 Study Hub",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library"
+    ]
 }

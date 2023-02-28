@@ -1,83 +1,173 @@
 {
-    "id": 3,
-    "title": "Costa Coffee (Grand Arcade)",
-    "slug": "costa-coffee-grand-arcade",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "Unit K5, Grand Arcade,\r\nSt Andrews Street,\r\nCambridge, CB2 3AX.",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.costa.co.uk/",
-    "phone_number": "01223 305347",
-    "twitter_screen_name": "CostaCoffee",
-    "facebook_url": "https://www.facebook.com/CostaCoffee",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "relaxed",
-        "social",
-        "friendly"
+        "modern",
+        "cosy"
     ],
+    "building": "University Library",
+    "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
-        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
+        "printers_copiers",
         "toilets",
-        "refreshments"
+        "refreshments",
+        "break"
     ],
-    "work": [
-        "friends"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "cakes",
-        "busy"
-    ],
-    "floor": "",
-    "image": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12173\",\"52.20399\"]}",
+    "floor": "Fourth floor",
+    "id": 3,
+    "image": "/assets/photos/PH-LIBRARY-MAP-NORTH-FOUR-000-00001.jpg",
+    "imagealt": "UL - West 4",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "20:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "19:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "19:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "8:00",
-            "to": "19:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "9:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-west-4",
+    "space_type": "Library space",
+    "tags": [
+        "no large bags",
+        "corridor",
+        "reading lamps",
+        "spacious",
+        "height adjustable chairs",
+        "bottled water only",
+        "air conditioned"
+    ],
+    "title": "UL - West 4",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

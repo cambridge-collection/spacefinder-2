@@ -1,99 +1,168 @@
 {
-    "id": 52,
-    "title": "Espresso Library",
-    "slug": "espresso-library",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "210 East Road, Cambridge, Cambridgeshire, CB1 1BG",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "https://www.espressolibrary.com/",
-    "phone_number": "01223 367333",
-    "twitter_screen_name": "EspressoLibrary",
-    "facebook_url": "https://www.facebook.com/espressolibrary",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
-        "relaxed",
+        "disciplined",
         "modern",
-        "inspiring",
         "social",
         "friendly"
     ],
+    "building": "University Library",
+    "description": "The North Reading Room is a spacious room with multiple computers and plenty of desk space for laptops. There are printers and scanners nearby, the help desk is right next door, and you are in equal distance to both the Main Reading Room and the Readers Services Desk.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
-        "food_drink",
         "daylight",
-        "large_desks",
+        "views",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
-        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break",
-        "bike_racks"
+        "break"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "independent",
-        "sporty",
-        "busy",
-        "trendy",
-        "noise",
-        "vegetarian",
-        "tea",
-        "coffee",
-        "brunch",
-        "lunch"
-    ],
-    "floor": "",
-    "image": "espresso.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.131696\",\"52.203136\"]}",
+    "floor": "First floor",
+    "id": 52,
+    "image": "/assets/photos/20160217_090829.jpg",
+    "imagealt": "UL - North Reading Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "7:30",
-            "to": "18:00"
-        },
         "friday": {
             "open": true,
-            "from": "7:30",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
             "open": true,
-            "from": "7:30",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "18:00"
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Booking required to study at the UL",
+    "slug": "ul-north-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "friendly",
+        "light",
+        "modern",
+        "airy",
+        "no large bags",
+        "bottled water only"
+    ],
+    "title": "UL - North Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

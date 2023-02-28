@@ -1,88 +1,167 @@
 {
-    "id": 58,
-    "title": "Music: Reading Room",
-    "slug": "music-reading-room",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "building": "Pendlebury Library of Music",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": false,
-    "url": "http://pendlebury.mus.cam.ac.uk/",
-    "phone_number": "01223335182",
-    "twitter_screen_name": "MusiCB3t",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Strictly silent",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "relaxed",
-        "modern",
-        "inspiring",
-        "friendly"
+        "historic"
     ],
+    "building": "University Library",
+    "description": "The Reading Room South Corridor is a quiet corridor located next to the south courtyard. The supplementary catalogue is located here, and staff can be found in the Reading Room right next door. \r\n\r\nYou are within a short distance to the toilets and the tearoom is only a few minutes walk away. Though this is a corridor, it is a quieter corridor than some of the others and is usually not very busy.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
         "daylight",
-        "large_desks",
+        "views",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
+        "signal",
+        "printers_copiers",
+        "outdoor_seating",
         "toilets",
+        "refreshments",
         "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
+        "wheelchair_accessible"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "bottled water only",
-        "headphones"
-    ],
-    "floor": "Ground floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
+    "floor": "First floor",
+    "id": 58,
+    "image": "/assets/photos/RRSW.JPG",
+    "imagealt": "UL - Reading Room South Corridor",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "19:59",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-reading-room-south-corridor",
+    "space_type": "Library space",
+    "tags": [
+        "view",
+        "bottled water only",
+        "no bags",
+        "cooler",
+        "near staff"
+    ],
+    "title": "UL - Reading Room South Corridor",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

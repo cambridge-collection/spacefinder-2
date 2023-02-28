@@ -1,74 +1,50 @@
 {
-    "id": 33,
-    "title": "Maths Cafe",
-    "slug": "maths-cafe",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Maths Cafe direct regarding their current access arrangements.",
     "access": "Members of the University",
-    "space_type": "Café",
-    "address": "Wilberforce Road, Cambridge CB3 0WA",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the Maths Cafe direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/centre-mathematical-sciences",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "West Road\r\nCambridge\r\nCB3 9BS",
     "atmosphere": [
-        "relaxed",
         "modern",
         "inspiring",
-        "cosy",
-        "social",
         "friendly"
     ],
+    "building": "Divinity Faculty Library",
+    "description": "The physical Library space is open for studying. The Library is currently open: 9am to 1pm and 2pm to 5pm Monday to Friday during the long vacation. \r\n\r\nFollow the Website link at the bottom of the listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "library@divinity.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
-        "food_drink",
         "daylight",
         "views",
         "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
-        "signal",
-        "toilets"
+        "sockets",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "gender_neutral_toilets",
+        "bike_racks"
     ],
-    "work": [
-        "close",
-        "group"
-    ],
-    "tags": [],
-    "floor": "",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.101892\",\"52.210104\"]}",
+    "floor": "Second floor",
+    "id": 33,
+    "image": "/assets/photos/Divinity_Ground.jpg",
+    "imagealt": "Divinity Library - Entrance floor",
+    "lat": 52.20178,
+    "lng": 0.10798,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10798,52.20178]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "9:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "9:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "9:00",
-            "to": "16:00"
-        },
         "friday": {
             "open": true,
             "from": "9:00",
-            "to": "16:00"
+            "to": "18:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
         },
         "saturday": {
             "open": false,
@@ -79,6 +55,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "phone_number": "01223 763040",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "divinity-library-entrance-floor",
+    "space_type": "Library space",
+    "tags": [],
+    "title": "Divinity Library - Entrance floor",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:00"
+        }
+    },
+    "twitter_screen_name": "CamDivLib",
+    "url": "www.divinity.cam.ac.uk/library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

@@ -1,94 +1,44 @@
 {
-    "id": 31,
-    "title": "Cambridge Judge Business School Information Centre - Ground Floor",
-    "slug": "cambridge-judge-business-school-information-centre-ground-floor",
-    "description": "Due to the implications of COVID-19, please check with the Judge Business School Information Centre direct regarding their current access arrangements.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
-    "building": "Cambridge Judge Business School Information Centre",
-    "restricted": true,
-    "restriction": "Please check with the Information Centre regarding their current arrangements.",
-    "disabled_access": true,
-    "url": "http://www.jbs.cam.ac.uk/infolib",
-    "phone_number": "01223 339599",
-    "twitter_screen_name": "CJBSInfoLib",
-    "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
     "atmosphere": [
         "disciplined",
-        "relaxed",
-        "modern",
         "inspiring",
         "friendly"
     ],
+    "building": "Whipple Library",
+    "description": "Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": true,
+    "email_address": "hpslib@hermes.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
     "facilities": [
-        "food_drink",
         "daylight",
-        "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
         "printers_copiers",
         "toilets",
-        "refreshments",
-        "break"
+        "bike_racks"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "quiet",
-        "warm",
-        "friendly",
-        "modern",
-        "light",
-        "silent group work",
-        "sofa",
-        "toilets",
-        "disabled access",
-        "wifi",
-        "Bloomberg",
-        "computing facilities",
-        "printing facilities",
-        "food and drink allowed"
-    ],
-    "floor": "Ground floor",
-    "image": "CJBS_Ground_Floor.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
+    "floor": "Second and third floors",
+    "id": 31,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Whipple Main Library, Levels 3 & 4",
+    "lat": 52.20292,
+    "lng": 0.11937,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -99,6 +49,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 334547",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "Booking required",
+    "slug": "whipple-main-library-levels-3-4",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only"
+    ],
+    "title": "Whipple Main Library, Levels 3 & 4",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "hpslib",
+    "url": "http://www.hps.cam.ac.uk/library/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

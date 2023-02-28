@@ -1,74 +1,44 @@
 {
-    "id": 64,
-    "title": "Astronomy: Library Room B",
-    "slug": "astronomy-library-room-b",
-    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
-    "building": "Institute of Astronomy Library",
-    "restricted": true,
-    "restriction": "Steps at front of building.  Narrow corridors.",
-    "disabled_access": false,
-    "url": "https://www.ast.cam.ac.uk/library/news",
-    "phone_number": "01223 337537",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
     "atmosphere": [
-        "disciplined"
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
     ],
+    "building": "Department of Psychology Library",
+    "description": "",
+    "disabled_access": false,
+    "email_address": "library@psychol.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
-        "computers",
+        "food_drink",
+        "daylight",
+        "free_wifi",
         "laptops_allowed",
         "sockets",
+        "signal",
         "toilets",
         "refreshments",
         "break",
-        "gender_neutral_toilets",
         "bike_racks"
     ],
-    "work": [
-        "private"
-    ],
-    "tags": [
-        "private",
-        "dark",
-        "undergraduate books",
-        "Eddington",
-        "mathematics",
-        "physics",
-        "computing",
-        "programming"
-    ],
-    "floor": "Ground floor",
-    "image": "2.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09533\",\"52.21458\"]}",
+    "floor": "First floor",
+    "id": 64,
+    "image": "/assets/photos/5.jpg",
+    "imagealt": "Psychology - common room",
+    "lat": 52.20205,
+    "lng": 0.12301,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
+    "noise": "Animated discussion",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:30",
-            "to": "16:30"
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -82,6 +52,113 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333554",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "psychology-common-room",
+    "space_type": "Library space",
+    "tags": [],
+    "title": "Psychology - common room",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "http://www.library.psychol.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
 }

@@ -1,77 +1,47 @@
 {
-    "id": 71,
-    "title": "Economics - Main Library Space",
-    "slug": "economics-main-library-space",
-    "description": "The physical Library space is currently closed for studying. Services available include Click & Collect and online enquiry support. Follow the Website link at the bottom of this listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Austin Robinson Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DB",
-    "building": "Marshall Library of Economics",
-    "restricted": true,
-    "restriction": "Study space currently closed",
-    "disabled_access": false,
-    "url": "https://www.marshall.econ.cam.ac.uk/marshall-library-services-michaelmas-term",
-    "phone_number": "(01223) 335217",
-    "twitter_screen_name": "marshalllibrary",
-    "facebook_url": "https://www.facebook.com/MarshallLib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge \r\nCB3 0FS\r\n",
     "atmosphere": [
-        "disciplined",
+        "relaxed",
         "modern",
+        "social",
         "friendly"
     ],
+    "building": "Department of Materials Science and Metallurgy Library",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "library@msm.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
-        "computers",
         "laptops_allowed",
         "sockets",
-        "signal",
         "printers_copiers",
-        "outdoor_seating",
         "toilets",
-        "refreshments",
         "break",
-        "bike_racks",
-        "smoking_area"
-    ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "bottled water only"
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "bike_racks"
     ],
     "floor": "First floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10843\",\"52.20125\"]}",
+    "id": 71,
+    "image": "/assets/photos/image1_%281%29.JPG",
+    "imagealt": "Materials Science Library: Main Reading Room",
+    "lat": 52.20954,
+    "lng": 0.08423,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.08423,52.20954]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -85,6 +55,123 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "+44(01)1223 334318",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "materials-science-library-main-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "bright",
+        "airy",
+        "friendly",
+        "welcoming",
+        "continuous handrails on stairs",
+        "ergonomic chairs",
+        "desks at appropriate height for wheelchair users",
+        "Reservable workspaces",
+        "Fetching service available",
+        "outdoor space"
+    ],
+    "title": "Materials Science Library: Main Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "http://www.msm.cam.ac.uk/library/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library"
+    ]
 }

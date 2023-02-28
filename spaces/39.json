@@ -1,94 +1,168 @@
 {
-    "id": 39,
-    "title": "The Copper Kettle (Agora)",
-    "slug": "the-copper-kettle-agora",
-    "description": "IMPORTANT: Due to the implications of COVID-19 the information below is very unlikely to be accurate. You are strongly advised to check with the company directly as to their current opening hours and access procedures.\r\n\r\nSituated directly opposite King's College, The Copper Kettle is the perfect place to sit and watch the world go by. With huge windows looking out onto King's Parade, you can people-watch while getting some work done.",
     "access": "Anyone (public)",
-    "space_type": "Restaurant",
-    "address": "4 King's Parade, Cambridge, CB2 1SJ",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "http://thecopperkettle.weebly.com/",
-    "phone_number": "01223 308448",
-    "twitter_screen_name": "CopperKettleCam",
-    "facebook_url": "https://www.facebook.com/copper.kettlecambridge?fref=nf",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "address": "The Language Centre, University of Cambridge\r\n5, Downing Place\r\nCambridge\r\nCB2 3EL",
     "atmosphere": [
         "relaxed",
-        "historic",
         "inspiring",
         "social",
         "friendly"
     ],
+    "building": "",
+    "description": "IMPORTANT: Due to the implications of COVID-19 please check with the Language Centre directly as to their current access arrangements.",
+    "disabled_access": true,
+    "email_address": "enquiries@langcen.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/pages/University-of-Cambridge-Language-Centre/157482730970936",
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
         "free_wifi",
+        "computers",
         "laptops_allowed",
         "sockets",
         "signal",
-        "outdoor_seating",
+        "printers_copiers",
         "toilets",
         "refreshments",
         "break"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "attractive views",
-        "food and drink",
-        "wifi",
-        "light",
-        "warm"
-    ],
-    "floor": "",
-    "image": "agora.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.117738\",\"52.204028\"]}",
+    "floor": "Ground floor",
+    "id": 39,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Language Centre: The John Trim Centre (Old Music School)",
+    "lat": 52.20295,
+    "lng": 0.12298,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.12298,52.20295]}",
+    "noise": "Background chatter",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "from": "8:45",
+            "to": "19:00"
         },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "23:00"
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "23:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "from": "8:45",
+            "to": "19:00"
         },
+        "tuesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "from": "8:45",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "8:45",
+            "to": "17:00"
         },
         "saturday": {
-            "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "from": "8:45",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "17:00"
         }
-    }
+    },
+    "phone_number": "01223335058",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
+    "slug": "language-centre-the-john-trim-centre-old-music-school",
+    "space_type": "Other",
+    "tags": [
+        "always space",
+        "quirky staff",
+        "advice on hand"
+    ],
+    "title": "Language Centre: The John Trim Centre (Old Music School)",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "http://www.langcen.cam.ac.uk/lc/advising/explore-resources.html",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "private"
+    ]
 }

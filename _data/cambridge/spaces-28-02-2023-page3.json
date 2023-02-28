@@ -1,0 +1,3160 @@
+{
+    "results":
+    [
+        {
+            "access": "Members of the University",
+            "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge \r\nCB3 0FS\r\n",
+            "admin_tag_list":
+            [
+                "bright",
+                "airy",
+                "friendly",
+                "welcoming",
+                "continuous handrails on stairs",
+                "ergonomic chairs",
+                "desks at appropriate height for wheelchair users",
+                "Reservable workspaces",
+                "Fetching service available",
+                "outdoor space"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": true,
+            "booking_url": "",
+            "created_at": "2016-01-29T18:40:52.232Z",
+            "description": "",
+            "disabled_access": true,
+            "email_address": "library@msm.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_bike_racks"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": true,
+            "facility_baby_changing": false,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": true,
+            "facility_projector": false,
+            "facility_refreshments": false,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "1st",
+            "id": 180,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/363/resized/image1_%281%29.JPG?1454177591",
+                "/system/space_photos/photos/000/000/364/resized/image3.JPG?1454177591"
+            ],
+            "lat": "52.20954",
+            "library": "Department of Materials Science and Metallurgy Library",
+            "lng": "0.08423",
+            "name": "Materials Science Library: Main Reading Room",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "+44(01)1223 334318",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 193,
+                    "name": "bright",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 38,
+                    "name": "airy",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 75,
+                    "name": "friendly",
+                    "taggings_count": 6
+                },
+                {
+                    "id": 286,
+                    "name": "welcoming",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 311,
+                    "name": "continuous handrails on stairs",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 25,
+                    "name": "ergonomic chairs",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 313,
+                    "name": "desks at appropriate height for wheelchair users",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 304,
+                    "name": "Reservable workspaces",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 305,
+                    "name": "Fetching service available",
+                    "taggings_count": 15
+                },
+                {
+                    "id": 314,
+                    "name": "outdoor space",
+                    "taggings_count": 4
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "",
+            "updated_at": "2022-08-24T13:56:51.795Z",
+            "url": "http://www.msm.cam.ac.uk/library/",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": false
+        },
+        {
+            "access": "Members of the University",
+            "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge\r\nCB3 0FS\r\n",
+            "admin_tag_list":
+            [
+                "bright",
+                "airy",
+                "friendly",
+                "welcoming",
+                "group work",
+                "continuous handrails on stairs",
+                "ergonomic chairs",
+                "desks at appropriate height for wheelchair users",
+                "Reservable workspaces",
+                "Fetching service available",
+                "outdoor space"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_cosy",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": true,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": true,
+            "booking_url": "",
+            "created_at": "2016-01-29T18:48:24.276Z",
+            "description": "",
+            "disabled_access": true,
+            "email_address": "library@msm.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_bike_racks"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": false,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "1st",
+            "id": 181,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/361/resized/image1.JPG?1454176765",
+                "/system/space_photos/photos/000/000/362/resized/image2.JPG?1454176766"
+            ],
+            "lat": "52.20954",
+            "library": "Department of Materials Science and Metallurgy Library",
+            "lng": "0.08423",
+            "name": "Materials Science Library: Lobby Area",
+            "noise": "Background chatter",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "+44(0)01223 334318",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 193,
+                    "name": "bright",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 38,
+                    "name": "airy",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 75,
+                    "name": "friendly",
+                    "taggings_count": 6
+                },
+                {
+                    "id": 286,
+                    "name": "welcoming",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 68,
+                    "name": "group work",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 311,
+                    "name": "continuous handrails on stairs",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 25,
+                    "name": "ergonomic chairs",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 313,
+                    "name": "desks at appropriate height for wheelchair users",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 304,
+                    "name": "Reservable workspaces",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 305,
+                    "name": "Fetching service available",
+                    "taggings_count": 15
+                },
+                {
+                    "id": 314,
+                    "name": "outdoor space",
+                    "taggings_count": 4
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "",
+            "updated_at": "2022-08-24T13:56:27.920Z",
+            "url": "http://www.msm.cam.ac.uk/library/index.php",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "work_in_a_library": true,
+            "work_private": false
+        },
+        {
+            "access": "Members of the University",
+            "address": "Cambridge University Students' Union and Graduate Union Building\r\n17 Mill Lane\r\nCambridge\r\nCB2 1RX",
+            "admin_tag_list":
+            [
+                "comfy seating",
+                "coffee",
+                "modern",
+                "busy",
+                "cusu",
+                "gu",
+                "students"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": true,
+            "booking_url": "",
+            "created_at": "2016-05-17T13:12:19.250Z",
+            "description": "",
+            "disabled_access": null,
+            "email_address": "enquiries@cusu.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "",
+            "facilities":
+            [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_gender_neutral_toilets"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": true,
+            "facility_baby_changing": false,
+            "facility_bike_racks": false,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": true,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": false,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": true,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "Ground Floor",
+            "id": 195,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/455/resized/20160526_085545.jpg?1464431323",
+                "/system/space_photos/photos/000/000/456/resized/Entrance.jpg?1464431324",
+                "/system/space_photos/photos/000/000/457/resized/Hallway.jpg?1464431325"
+            ],
+            "lat": "52.20197",
+            "library": "Cambridge University Students' Union and Graduate Union Building",
+            "lng": "0.11738",
+            "name": "SU Lounge",
+            "noise": "Background chatter",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "+44(0)1223 333313",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Meeting room",
+            "tags":
+            [
+                {
+                    "id": 37,
+                    "name": "comfy seating",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 66,
+                    "name": "coffee",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 72,
+                    "name": "modern",
+                    "taggings_count": 8
+                },
+                {
+                    "id": 2,
+                    "name": "busy",
+                    "taggings_count": 7
+                },
+                {
+                    "id": 321,
+                    "name": "cusu",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 322,
+                    "name": "gu",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 323,
+                    "name": "students",
+                    "taggings_count": 1
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "CUSUonline",
+            "updated_at": "2022-08-24T13:51:34.708Z",
+            "url": "http://www.cusu.co.uk http://www.gradunion.cam.ac.uk",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "Cambridge Centre for Christianity Worldwide\r\nWestminster College\r\nMadingley Road\r\nCambridge\r\nCB3 0AA",
+            "admin_tag_list":
+            [
+                "Recently built",
+                "period windows",
+                "white bookshelves",
+                "white carrels",
+                "comfy seating",
+                "archive research table",
+                "library research help",
+                "subject expert",
+                "librarian",
+                "archivist",
+                "self-issue"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_cosy",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": true,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": false,
+            "booking_url": null,
+            "created_at": "2017-10-07T09:51:11.787Z",
+            "description": "Due to the implications of COVID-19 please check with the CCCW Library direct regarding their current access arrangements.",
+            "disabled_access": null,
+            "email_address": "library@cccw.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "CCCWCentre",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_computers",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_individual_study_space",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": false,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": true,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": true,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": true,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": true,
+            "facility_whiteboards": false,
+            "floor": "Ground",
+            "id": 213,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/496/resized/temp1.jpg?1507369871",
+                "/system/space_photos/photos/000/000/497/resized/temp2.jpg?1507369871"
+            ],
+            "lat": "52.210537",
+            "library": null,
+            "lng": "0.11212",
+            "name": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "13:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "16:30"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                }
+            },
+            "phone_number": "+44 (0)1223 330640",
+            "restricted": true,
+            "restriction": "Please check with the library for current arrangements",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 343,
+                    "name": "Recently built",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 344,
+                    "name": "period windows",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 345,
+                    "name": "white bookshelves",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 346,
+                    "name": "white carrels",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 37,
+                    "name": "comfy seating",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 347,
+                    "name": "archive research table",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 348,
+                    "name": "library research help",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 349,
+                    "name": "subject expert",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 350,
+                    "name": "librarian",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 351,
+                    "name": "archivist",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 352,
+                    "name": "self-issue",
+                    "taggings_count": 1
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "13:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "16:30"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:00"
+                }
+            },
+            "twitter_screen_name": "CCCWLibrary",
+            "updated_at": "2020-10-03T14:30:55.813Z",
+            "url": "https://www.cccw.cam.ac.uk/",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": null,
+            "work_private": true
+        },
+        {
+            "access": "Members of the University",
+            "address": "Woolf Institute Library\r\nMadingley Road\r\nCambridge\r\nCB3 0UB",
+            "admin_tag_list":
+            [
+                "Natural daylight",
+                "spacious",
+                "modern",
+                "calm",
+                "clean"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2018-01-22T15:06:58.032Z",
+            "description": "",
+            "disabled_access": null,
+            "email_address": "library@woolf.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "WoolfInstitute",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_toilets",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_accessible_toilets",
+                "facility_bike_racks",
+                "facility_baby_changing",
+                "facility_prayer_room"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": true,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": false,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": true,
+            "facility_whiteboards": false,
+            "floor": "Ground",
+            "id": 214,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/498/resized/IMG_1550.JPG?1516633615",
+                "/system/space_photos/photos/000/000/499/resized/IMG_1454.JPG?1516633616",
+                "/system/space_photos/photos/000/000/500/resized/Woolf_GF2DM.jpg?1516633617",
+                "/system/space_photos/photos/000/000/501/resized/Woolf_QR1DM.jpg?1516633617",
+                "/system/space_photos/photos/000/000/502/resized/IMG_1566.JPG?1516633777",
+                "/system/space_photos/photos/000/000/508/resized/20180205_130625.jpg?1517931366"
+            ],
+            "lat": "52.210752",
+            "library": "Woolf Institute Library",
+            "lng": "0.111004",
+            "name": "Woolf Institute Library - Ground Floor Study Area",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "+44(0)1223 761984",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 353,
+                    "name": "Natural daylight",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 19,
+                    "name": "spacious",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 72,
+                    "name": "modern",
+                    "taggings_count": 8
+                },
+                {
+                    "id": 231,
+                    "name": "calm",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 331,
+                    "name": "clean",
+                    "taggings_count": 2
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "",
+            "updated_at": "2022-08-24T13:52:10.847Z",
+            "url": "https://www.woolf.cam.ac.uk/study/library",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Members of the University",
+            "address": "Woolf Institute Library\r\nMadingley Road\r\nCambridge\r\nCB3 0UB",
+            "admin_tag_list":
+            [
+                "spacious",
+                "modern",
+                "calm",
+                "clean"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2018-01-22T15:18:48.454Z",
+            "description": "",
+            "disabled_access": null,
+            "email_address": "library@woolf.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "WoolfInstitute",
+            "facilities":
+            [
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_toilets",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_accessible_toilets",
+                "facility_bike_racks",
+                "facility_baby_changing",
+                "facility_prayer_room"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": false,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": true,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": false,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "Basement",
+            "id": 215,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/503/resized/IMG_1433.JPG?1516634325",
+                "/system/space_photos/photos/000/000/504/resized/IMG_1431.JPG?1516634325",
+                "/system/space_photos/photos/000/000/505/resized/IMG_1429.JPG?1516634326",
+                "/system/space_photos/photos/000/000/506/resized/IMG_1419.JPG?1516634326",
+                "/system/space_photos/photos/000/000/507/resized/IMG_1418.JPG?1516634327",
+                "/system/space_photos/photos/000/000/509/resized/20180205_130625.jpg?1517931401"
+            ],
+            "lat": "52.210752",
+            "library": "Woolf Institute Library",
+            "lng": "0.111004",
+            "name": "Woolf Institute Library - Basement Study Area",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "+44(0)1223 761984",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 19,
+                    "name": "spacious",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 72,
+                    "name": "modern",
+                    "taggings_count": 8
+                },
+                {
+                    "id": 231,
+                    "name": "calm",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 331,
+                    "name": "clean",
+                    "taggings_count": 2
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "",
+            "updated_at": "2022-08-24T13:32:18.320Z",
+            "url": "https://www.woolf.cam.ac.uk/study/library",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Members of the University",
+            "address": "Careers Service Library,\r\nStudent Services Centre,\r\nBene’t Street,\r\nCB2 3PT",
+            "admin_tag_list":
+            [
+                "open",
+                "light",
+                "architecture"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_historic",
+                "atmosphere_inspiring",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": false,
+            "booking_url": null,
+            "created_at": "2019-06-13T15:53:43.014Z",
+            "description": "Due to the implications of COVID-19, please contact the Careers Service Library direct regarding their current access arrangements.",
+            "disabled_access": null,
+            "email_address": "",
+            "expensive": null,
+            "facebook_url": "unicamcareers",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_baby_changing",
+                "facility_prayer_room"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": false,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": true,
+            "facility_printers_copiers": true,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "",
+            "id": 221,
+            "images":
+            [
+                "/system/space_photos/photos/000/000/516/resized/32910930427_2e0c60c216_o.jpg?1560441219",
+                "/system/space_photos/photos/000/000/517/resized/40888369743_3981803f03_o.jpg?1560441221"
+            ],
+            "lat": "52.203867",
+            "library": null,
+            "lng": "0.119162",
+            "name": "Careers Service Library",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": false,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "phone_number": "01223 746708",
+            "restricted": false,
+            "restriction": "Please contact the Careers Service Library regarding their current access arrangements.",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 84,
+                    "name": "open",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 52,
+                    "name": "light",
+                    "taggings_count": 14
+                },
+                {
+                    "id": 356,
+                    "name": "architecture",
+                    "taggings_count": 1
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "17:00"
+                }
+            },
+            "twitter_screen_name": "unicamcareers",
+            "updated_at": "2020-10-03T14:45:38.367Z",
+            "url": "https://www.careers.cam.ac.uk/library/index.asp",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": null,
+            "work_private": false
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "West Road, Cambridge, CB3 9DR",
+            "admin_tag_list":
+            [
+                "no large bags",
+                "reading lamps"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_disciplined",
+                "atmosphere_inspiring"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": true,
+            "atmosphere_friendly": false,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2021-05-17T11:26:39.478Z",
+            "description": "This reading room is light and spacious, providing a quiet space to study with few distractions. It houses a good number of public computers and has a copier/printer. There are large desks and some smaller reading nooks available.",
+            "disabled_access": null,
+            "email_address": "readerservices@lib.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "cambridgeuniverstylibrary",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_bookable",
+                "facility_wheelchair_accessible",
+                "facility_accessible_toilets"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": false,
+            "facility_bike_racks": false,
+            "facility_bookable": true,
+            "facility_break": false,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": false,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": false,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "",
+            "id": 243,
+            "images":
+            [],
+            "lat": "52.20507",
+            "library": "University Library",
+            "lng": "0.10824",
+            "name": "UL - South Wing 3 Study Hub - Commonwealth Room",
+            "noise": "Strictly silent",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "phone_number": "01223333016",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 11,
+                    "name": "no large bags",
+                    "taggings_count": 9
+                },
+                {
+                    "id": 12,
+                    "name": "reading lamps",
+                    "taggings_count": 3
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "twitter_screen_name": "theUL",
+            "updated_at": "2022-09-28T09:25:20.026Z",
+            "url": "https://www.lib.cam.ac.uk/using-library/",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "Cambridge University Library,\r\nWest Road,\r\nCambridge,\r\nCB3 9DR",
+            "admin_tag_list":
+            [
+                "group",
+                "study",
+                "discussion",
+                "light",
+                "warm",
+                "bookable"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_cosy",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": true,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": true,
+            "booking_url": "calendars.libraries.cam.ac.uk/calendar/ulgroupstudy",
+            "created_at": "2021-11-11T14:13:28.284Z",
+            "description": "The Group Study Room is a new bookable space for groups to meet and discuss their studies. It is located on the third floor, signposted from the nearby Beta staircase.\r\n\r\nOnline bookings can be made for up to 8 people for a session lasting 90 minutes. Only one person per group needs to make the booking. \r\n\r\nEach booking runs for 90 minutes during standard opening hours Monday-Saturday, with a 30 minute break between booked sessions.\r\n\r\nAt present, only one group can book to use the space for each available session. There are two tables available, each with five chairs.\r\n\r\nWe have actively risk assessed all spaces and space usage in accordance with University guidance on Covid-19, and have further safety measures in place including high quality mechanical ventilation in most areas of the building and a CO2 monitoring program.\r\n\r\nWe have deliberately factored in 30 minute breaks between each booking, to give a clear break between occupation - you are allowed to open the windows in the room but please remember to close them before you vacate at the end of your booking.\r\n\r\nOur Student Experience Team will be in touch after your booking with a short survey to ask you about your experience booking and using this room.",
+            "disabled_access": null,
+            "email_address": "readerservices@lib.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "cambridgeuniversitylibrary/",
+            "facilities":
+            [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_whiteboards",
+                "facility_bookable",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_bike_racks",
+                "facility_smoking_area",
+                "facility_baby_changing"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": true,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": false,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": true,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": true,
+            "facility_whiteboards": true,
+            "floor": "3",
+            "id": 244,
+            "images":
+            [],
+            "lat": "52.20473",
+            "library": "University Library",
+            "lng": "0.107258",
+            "name": "UL - South Wing 3 Study Hub - Group Study Room ",
+            "noise": "Animated discussion",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:15"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                }
+            },
+            "phone_number": "01223 333030",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 388,
+                    "name": "group",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 389,
+                    "name": "study",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 390,
+                    "name": "discussion",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 52,
+                    "name": "light",
+                    "taggings_count": 14
+                },
+                {
+                    "id": 16,
+                    "name": "warm",
+                    "taggings_count": 6
+                },
+                {
+                    "id": 55,
+                    "name": "bookable",
+                    "taggings_count": 3
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:15"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:30"
+                }
+            },
+            "twitter_screen_name": "theUL",
+            "updated_at": "2022-09-28T09:25:32.444Z",
+            "url": "https://www.lib.cam.ac.uk/using-library/group-study-room",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": false,
+            "work_friends": true,
+            "work_group": true,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+            "admin_tag_list":
+            [],
+            "atmosphere":
+            [],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": false,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2021-11-12T15:41:24.763Z",
+            "description": "The South Wing 3 Study Hub is a suite of rooms that allow you to find the study space that suits you. Comprised of; the group study room, individual accessibility bookable study room, individual bookable study room for online zoom calls/supervisions etc, Commonwealth Reading Room (no booking required for this space), and bookable desks and lockers for PhD students in the Commonwealth Room, we hope you can find a space that is right for you. ",
+            "disabled_access": null,
+            "email_address": "",
+            "expensive": null,
+            "facebook_url": "",
+            "facilities":
+            [],
+            "facility_accessible_toilets": false,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": false,
+            "facility_bike_racks": false,
+            "facility_bookable": false,
+            "facility_break": false,
+            "facility_computers": false,
+            "facility_daylight": false,
+            "facility_food_drink": false,
+            "facility_free_wifi": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": false,
+            "facility_large_desks": false,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": false,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": false,
+            "facility_toilets": false,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "",
+            "id": 245,
+            "images":
+            [],
+            "lat": "52.204756",
+            "library": "University Library",
+            "lng": "0.107323",
+            "name": "UL - South Wing 3 Study Hub",
+            "noise": "Strictly silent",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                }
+            },
+            "phone_number": "",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                }
+            },
+            "twitter_screen_name": "",
+            "updated_at": "2022-09-28T09:24:47.466Z",
+            "url": "",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": false
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+            "admin_tag_list":
+            [
+                "study",
+                "light",
+                "warm",
+                "bookable"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_cosy"
+            ],
+            "atmosphere_cosy": true,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": false,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2021-11-12T16:00:43.181Z",
+            "description": "This is a bookable room, within the Group Study Room, equipied with height adjustable furniture. ",
+            "disabled_access": null,
+            "email_address": "readerservices@lib.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "cambridgeuniversitylibrary/",
+            "facilities":
+            [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_bookable",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_individual_study_space",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_smoking_area",
+                "facility_baby_changing"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": true,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": true,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": true,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": true,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": true,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": false,
+            "facility_whiteboards": false,
+            "floor": "3",
+            "id": 246,
+            "images":
+            [],
+            "lat": "52.204756",
+            "library": "University Library",
+            "lng": "0.107323",
+            "name": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "phone_number": "01223 333030",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 389,
+                    "name": "study",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 52,
+                    "name": "light",
+                    "taggings_count": 14
+                },
+                {
+                    "id": 16,
+                    "name": "warm",
+                    "taggings_count": 6
+                },
+                {
+                    "id": 55,
+                    "name": "bookable",
+                    "taggings_count": 3
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "twitter_screen_name": "theUL",
+            "updated_at": "2022-09-28T09:26:01.280Z",
+            "url": "https://www.lib.cam.ac.uk",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+            "admin_tag_list":
+            [
+                "alone",
+                "study",
+                "zoom"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_disciplined",
+                "atmosphere_modern",
+                "atmosphere_cosy"
+            ],
+            "atmosphere_cosy": true,
+            "atmosphere_disciplined": true,
+            "atmosphere_friendly": false,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": false,
+            "atmosphere_social": false,
+            "booking_url": "",
+            "created_at": "2021-11-12T16:08:29.379Z",
+            "description": "This is a bookable room, within the Group Study Room, perfect for online zoom calls, supervisions or lectures, as well as general study.",
+            "disabled_access": null,
+            "email_address": "readerservices@lib.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "cambridgeuniversitylibrary/",
+            "facilities":
+            [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_bookable",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_induction_loops",
+                "facility_individual_study_space",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_smoking_area",
+                "facility_baby_changing"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": false,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": true,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": true,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": true,
+            "facility_induction_loops": true,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": false,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": false,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": true,
+            "facility_smoking_area": true,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": true,
+            "facility_whiteboards": false,
+            "floor": "3",
+            "id": 247,
+            "images":
+            [],
+            "lat": "52.204756",
+            "library": "University Library",
+            "lng": "0.107323",
+            "name": "UL - South Wing 3 Study Hub - Individual Bookable Study Room ",
+            "noise": "Whispers",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "phone_number": "01223 333030",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 391,
+                    "name": "alone",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 389,
+                    "name": "study",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 392,
+                    "name": "zoom",
+                    "taggings_count": 1
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "16:30"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "09:00",
+                    "open": true,
+                    "to": "18:45"
+                }
+            },
+            "twitter_screen_name": "theUL",
+            "updated_at": "2021-11-12T16:11:37.925Z",
+            "url": "https://www.lib.cam.ac.uk",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "work_in_a_library": true,
+            "work_private": true
+        },
+        {
+            "access": "Anyone (public)",
+            "address": "West Hub, \r\nJJ Thomson Avenue\r\nCambridge, CB3 0US",
+            "admin_tag_list":
+            [
+                "Everyone welcome",
+                "Open to all",
+                "Flexible spaces"
+            ],
+            "atmosphere":
+            [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "atmosphere_cosy": false,
+            "atmosphere_disciplined": false,
+            "atmosphere_friendly": true,
+            "atmosphere_historic": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_modern": true,
+            "atmosphere_relaxed": true,
+            "atmosphere_social": true,
+            "booking_url": "",
+            "created_at": "2022-11-17T17:09:34.789Z",
+            "description": "The West Hub is open to everyone and features a range of workspaces across the top two floors that are open to all including areas for group work and discussion and more individual focused study. The ground floor has a range of catering options and shop with Post Office counter. ",
+            "disabled_access": null,
+            "email_address": "techlib@lib.cam.ac.uk",
+            "expensive": null,
+            "facebook_url": "",
+            "facilities":
+            [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_printers_copiers",
+                "facility_whiteboards",
+                "facility_outdoor_seating",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_baby_changing"
+            ],
+            "facility_accessible_toilets": true,
+            "facility_adjustable_furniture": true,
+            "facility_baby_changing": true,
+            "facility_bike_racks": true,
+            "facility_bookable": false,
+            "facility_break": true,
+            "facility_computers": false,
+            "facility_daylight": true,
+            "facility_food_drink": true,
+            "facility_free_wifi": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_individual_study_space": false,
+            "facility_induction_loops": false,
+            "facility_laptops_allowed": true,
+            "facility_large_desks": true,
+            "facility_no_wifi": false,
+            "facility_outdoor_seating": true,
+            "facility_prayer_room": false,
+            "facility_printers_copiers": true,
+            "facility_projector": false,
+            "facility_refreshments": true,
+            "facility_signal": false,
+            "facility_smoking_area": false,
+            "facility_sockets": true,
+            "facility_toilets": true,
+            "facility_views": true,
+            "facility_whiteboards": true,
+            "floor": "",
+            "id": 248,
+            "images":
+            [],
+            "lat": "52.21056",
+            "library": "West Hub Library",
+            "lng": "0.09023",
+            "name": "West Hub ",
+            "noise": "Animated discussion",
+            "opentimes_after_7pm": true,
+            "opentimes_before_9am": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "out_of_term_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                }
+            },
+            "phone_number": "01223 762725",
+            "restricted": false,
+            "restriction": "",
+            "space_type": "Library space",
+            "tags":
+            [
+                {
+                    "id": 429,
+                    "name": "Everyone welcome",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 430,
+                    "name": "Open to all",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 431,
+                    "name": "Flexible spaces",
+                    "taggings_count": 1
+                }
+            ],
+            "term_time_hours":
+            {
+                "friday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "monday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "saturday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "sunday":
+                {
+                    "allday": false,
+                    "from": "00:00",
+                    "open": false,
+                    "to": "00:00"
+                },
+                "thursday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "tuesday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                },
+                "wednesday":
+                {
+                    "allday": false,
+                    "from": "08:00",
+                    "open": true,
+                    "to": "21:00"
+                }
+            },
+            "twitter_screen_name": "CamTechLibs",
+            "updated_at": "2023-02-01T14:14:15.310Z",
+            "url": "https://libguides.cam.ac.uk/technologylibraries/hub",
+            "user_tags":
+            [],
+            "user_tags_list":
+            [],
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "work_in_a_library": true,
+            "work_private": false
+        }
+    ],
+    "total_count": 83
+}

@@ -1,91 +1,177 @@
 {
-    "id": 51,
-    "title": "2nd View Coffee Shop (Waterstones Cafe)",
-    "slug": "2nd-view-coffee-shop-waterstones-cafe",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "22 Sidney Street, Cambridge, Cambridgeshire, \r\nCB2 3HG",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "",
-    "phone_number": "01223 366898",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/pages/2nd-View-Coffee-Shop-in-Waterstones/150514884988745",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
+        "disciplined",
         "relaxed",
         "modern",
-        "social",
+        "inspiring",
+        "cosy",
         "friendly"
     ],
+    "building": "University Library",
+    "description": "The South Reading Room is a very comfortable and cosy space with plenty of soft seating. This is a very quiet space with access to bookable acoustic booths and coffee tables. The toilets are just around the corner and you are within equal distance to both the Main Reading Room and the Readers Services Desk; both of which are constantly staffed. The help desk is also just outside, and printers and scanners are not far away.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "individual_study_space"
     ],
-    "work": [
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "spacious",
-        "coffee",
-        "tea",
-        "waterstone's"
-    ],
-    "floor": "Second floor",
-    "image": "waterstones.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12072\",\"52.206349\"]}",
+    "floor": "First floor",
+    "id": 51,
+    "image": "/assets/photos/IMG_4809.JPG",
+    "imagealt": "UL - South Reading Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-reading-room",
+    "space_type": "Library space",
+    "tags": [
+        "sofas",
+        "cosy",
+        "studious",
+        "new",
+        "bottled water only",
+        "no large bags",
+        "blanket",
+        "storage",
+        "comfy",
+        "personal lamps",
+        "warmer"
+    ],
+    "title": "UL - South Reading Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

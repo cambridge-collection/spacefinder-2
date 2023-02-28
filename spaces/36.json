@@ -1,95 +1,162 @@
 {
-    "id": 36,
-    "title": "Fitzbillies",
-    "slug": "fitzbillies",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "Trumpington Street, Cambridge, Cambs, CB2 1RG",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": true,
-    "url": "http://www.fitzbillies.com/",
-    "phone_number": "01223 352500",
-    "twitter_screen_name": "fitzbillies",
-    "facebook_url": "https://www.facebook.com/pages/Fitzbillies/110779695673229?rf=118377978215800",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Background chatter",
+    "access": "Members of the University",
+    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
     "atmosphere": [
-        "relaxed",
-        "modern",
         "cosy",
-        "social",
         "friendly"
     ],
+    "building": "Department of Psychology Library",
+    "description": "Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 09:00-11:30), Book returns, 1:1 online support. Follow the website link at the bottom of this listing for more details and updates.",
+    "disabled_access": false,
+    "email_address": "library@psychol.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
-        "food_drink",
-        "daylight",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
+        "signal",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "bike_racks"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "busy",
-        "cosy",
-        "coffee",
-        "cake",
-        "light",
-        "wifi",
-        "food and drink",
-        "friendly",
-        "no phone signal"
-    ],
-    "floor": "",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118074\",\"52.202071\"]}",
+    "floor": "First floor",
+    "id": 36,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Psychology - traditional study rooms",
+    "lat": 52.20205,
+    "lng": 0.12301,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:00",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:00",
-            "to": "23:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:00",
-            "to": "23:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "open": true,
-            "from": "10:00",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "01223 333554",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "Access through a controlled reception area.",
+    "slug": "psychology-traditional-study-rooms",
+    "space_type": "Library space",
+    "tags": [
+        "drinks allowed",
+        "often busy in term"
+    ],
+    "title": "Psychology - traditional study rooms",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://libguides.cam.ac.uk/psychology-guide/libraryservicescovid",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

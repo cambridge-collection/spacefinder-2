@@ -1,73 +1,53 @@
 {
-    "id": 77,
-    "title": "Psychology - traditional study rooms",
-    "slug": "psychology-traditional-study-rooms",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 09:00-11:30), Book returns, 1:1 online support. Follow the website link at the bottom of this listing for more details and updates.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
-    "building": "Department of Psychology Library",
-    "restricted": true,
-    "restriction": "Access through a controlled reception area.",
-    "disabled_access": false,
-    "url": "https://libguides.cam.ac.uk/psychology-guide/libraryservicescovid",
-    "phone_number": "01223 333554",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Careers Service Library,\r\nStudent Services Centre,\r\nBene’t Street,\r\nCB2 3PT",
     "atmosphere": [
-        "cosy",
+        "relaxed",
+        "historic",
+        "inspiring",
         "friendly"
     ],
+    "building": "",
+    "description": "Due to the implications of COVID-19, please contact the Careers Service Library direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/unicamcareers",
     "facilities": [
-        "large_desks",
+        "daylight",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "signal",
+        "printers_copiers",
         "toilets",
         "refreshments",
         "break",
-        "bike_racks"
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "baby_changing",
+        "prayer_room"
     ],
-    "work": [
-        "close"
-    ],
-    "tags": [
-        "drinks allowed",
-        "often busy in term"
-    ],
-    "floor": "First floor",
-    "image": "1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12301\",\"52.20205\"]}",
+    "floor": "",
+    "id": 77,
+    "image": "/assets/photos/32910930427_2e0c60c216_o.jpg",
+    "imagealt": "Careers Service Library",
+    "lat": 52.203867,
+    "lng": 0.119162,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.119162,52.203867]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
@@ -78,6 +58,114 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "phone_number": "01223 746708",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "Please contact the Careers Service Library regarding their current access arrangements.",
+    "slug": "careers-service-library",
+    "space_type": "Library space",
+    "tags": [
+        "open",
+        "light",
+        "architecture"
+    ],
+    "title": "Careers Service Library",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        }
+    },
+    "twitter_screen_name": "unicamcareers",
+    "url": "https://www.careers.cam.ac.uk/library/index.asp",
+    "url_text": "Visit the website",
+    "work": [
+        "close"
+    ]
 }

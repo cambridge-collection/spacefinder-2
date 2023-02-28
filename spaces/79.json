@@ -1,88 +1,181 @@
 {
-    "id": 79,
-    "title": "Le Gros Franck",
-    "slug": "le-gros-franck",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
     "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "57 Hills Road, Cambridge, CB2 1NT\r\n",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "legrosfranck.com/",
-    "phone_number": "01223 565560",
-    "twitter_screen_name": "legrosfranck",
-    "facebook_url": "https://www.facebook.com/LeGrosFranckCambridge",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge University Library,\r\nWest Road,\r\nCambridge,\r\nCB3 9DR",
     "atmosphere": [
         "relaxed",
         "modern",
+        "inspiring",
         "cosy",
         "social",
         "friendly"
     ],
+    "building": "University Library",
+    "description": "The Group Study Room is a new bookable space for groups to meet and discuss their studies. It is located on the third floor, signposted from the nearby Beta staircase.\r\n\r\nOnline bookings can be made for up to 8 people for a session lasting 90 minutes. Only one person per group needs to make the booking. \r\n\r\nEach booking runs for 90 minutes during standard opening hours Monday-Saturday, with a 30 minute break between booked sessions.\r\n\r\nAt present, only one group can book to use the space for each available session. There are two tables available, each with five chairs.\r\n\r\nWe have actively risk assessed all spaces and space usage in accordance with University guidance on Covid-19, and have further safety measures in place including high quality mechanical ventilation in most areas of the building and a CO2 monitoring program.\r\n\r\nWe have deliberately factored in 30 minute breaks between each booking, to give a clear break between occupation - you are allowed to open the windows in the room but please remember to close them before you vacate at the end of your booking.\r\n\r\nOur Student Experience Team will be in touch after your booking with a short survey to ask you about your experience booking and using this room.",
+    "disabled_access": false,
+    "email_address": "readerservices@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
+        "whiteboards",
+        "bookable",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "smoking_area",
+        "baby_changing"
     ],
-    "work": [
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "coffee",
-        "tea",
-        "pastries",
-        "independent",
-        "French"
-    ],
-    "floor": "Ground floor",
-    "image": "gros.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.13125\",\"52.19512\"]}",
+    "floor": "Third floor",
+    "id": 79,
+    "image": "",
+    "imagealt": "UL - South Wing 3 Study Hub - Group Study Room ",
+    "lat": 52.20473,
+    "lng": 0.107258,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.107258,52.20473]}",
+    "noise": "Animated discussion",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "7:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "7:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "7:00",
-            "to": "17:00"
-        },
         "friday": {
             "open": true,
-            "from": "7:00",
-            "to": "17:00"
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
         },
         "saturday": {
             "open": true,
-            "from": "7:00",
-            "to": "17:00"
+            "from": "9:00",
+            "to": "16:15"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        }
+    },
+    "phone_number": "01223 333030",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-3-study-hub-group-study-room",
+    "space_type": "Library space",
+    "tags": [
+        "group",
+        "study",
+        "discussion",
+        "light",
+        "warm",
+        "bookable"
+    ],
+    "title": "UL - South Wing 3 Study Hub - Group Study Room ",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library/group-study-room",
+    "url_text": "Visit the website",
+    "work": [
+        "friends",
+        "group",
+        "in_a_library",
+        "private"
+    ]
 }

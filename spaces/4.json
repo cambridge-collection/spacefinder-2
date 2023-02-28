@@ -1,90 +1,169 @@
 {
-    "id": 4,
-    "title": "UL - Reading Room",
-    "slug": "ul-reading-room",
-    "description": "Book a study space via the link below. A Book a Visit service is also available via the UL website if you need to consult items that are not borrowable (normally ordered to the UL's West Room), reference works from around the UL building and non-print legal deposit. The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
     "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-    "building": "University Library",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "https://www.lib.cam.ac.uk/using-library",
-    "phone_number": "1223 333016",
-    "twitter_screen_name": "theUL",
-    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "https://www.lib.cam.ac.uk/using-library/person-services/book-study-space",
-    "noise": "Whispers",
     "atmosphere": [
         "disciplined",
+        "relaxed",
         "historic",
-        "inspiring"
+        "cosy"
     ],
+    "building": "University Library",
+    "description": "The Fourth Floor Landing provides a very quiet space where readers very rarely frequent. You will experience some movement, but compared with the rest of the UL, this is a remarkably quieter space. Warm, spacious and cosy. \r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise).",
+    "disabled_access": true,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
         "daylight",
+        "views",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "sockets",
         "signal",
-        "toilets",
+        "printers_copiers",
         "refreshments",
         "break"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "no large bags",
-        "reading lamps",
-        "standing workspace",
-        "e-legal deposit",
-        "subject experts",
-        "warm"
-    ],
-    "floor": "First floor",
-    "image": "PH-LIBRARY-MAP-READING-ROOM-000-00006.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "floor": "Fourth floor",
+    "id": 4,
+    "image": "/assets/photos/DSCN0103.JPG",
+    "imagealt": "UL - Fourth Floor Landing",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "9:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "9:30",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "9:30",
-            "to": "16:00"
-        },
         "friday": {
             "open": true,
-            "from": "9:30",
-            "to": "16:00"
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         },
         "saturday": {
             "open": true,
-            "from": "11:15",
-            "to": "15:00"
+            "from": "9:00",
+            "to": "17:00"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "phone_number": "+44 (0) 1223 333000",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-fourth-floor-landing",
+    "space_type": "Library space",
+    "tags": [
+        "no large bags",
+        "art",
+        "bottled water only",
+        "large desks",
+        "warmer"
+    ],
+    "title": "UL - Fourth Floor Landing",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "19:00"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ]
 }

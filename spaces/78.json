@@ -1,88 +1,162 @@
 {
-    "id": 78,
-    "title": "MML - Second floor",
-    "slug": "mml-second-floor",
-    "description": "The physical library is currently closed as a study space. Services available include: Click & Collect, Book Returns. Follow the Website link at the end of this listing for more details and updates.",
     "access": "Anyone (public)",
-    "space_type": "Library space",
-    "address": "Modern & Medieval Languages Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA\r\n",
-    "building": "Modern & Medieval Languages Library",
-    "restricted": true,
-    "restriction": "Study space currently closed",
-    "disabled_access": true,
-    "url": "http://www.mml.cam.ac.uk/library",
-    "phone_number": "01223 335041",
-    "twitter_screen_name": "mmllib",
-    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "disciplined",
-        "modern",
-        "friendly"
+        "inspiring"
     ],
+    "building": "University Library",
+    "description": "This reading room is light and spacious, providing a quiet space to study with few distractions. It houses a good number of public computers and has a copier/printer. There are large desks and some smaller reading nooks available.",
+    "disabled_access": false,
+    "email_address": "readerservices@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniverstylibrary",
     "facilities": [
         "daylight",
-        "views",
         "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break"
+        "bookable",
+        "wheelchair_accessible",
+        "accessible_toilets"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "bottled water only",
-        "no food",
-        "quiet",
-        "open plan"
-    ],
-    "floor": "Second floor",
-    "image": "4.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.109627\",\"52.201439\"]}",
+    "floor": "",
+    "id": 78,
+    "image": "",
+    "imagealt": "UL - South Wing 3 Study Hub - Commonwealth Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Strictly silent",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
         },
         "sunday": {
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "phone_number": "01223333016",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-3-study-hub-commonwealth-room",
+    "space_type": "Library space",
+    "tags": [
+        "no large bags",
+        "reading lamps"
+    ],
+    "title": "UL - South Wing 3 Study Hub - Commonwealth Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

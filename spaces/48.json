@@ -1,73 +1,43 @@
 {
-    "id": 48,
-    "title": "Tatties",
-    "slug": "tatties",
-    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "11 Sussex St, Hobson St, Cambridge CB1 1PA",
-    "building": "",
-    "restricted": true,
-    "restriction": "Please contact the company direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "url": "",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "access": "Members of the University",
+    "address": "Downing Street",
     "atmosphere": [
-        "relaxed",
-        "social"
+        "disciplined",
+        "historic",
+        "inspiring",
+        "friendly"
     ],
+    "building": "Balfour & Newton Libraries, Department of Zoology",
+    "description": "Services available include: Click & Collect, Book Returns, Scan & Deliver, LibChat, Online meetings and 1-to-1 support. Follow the Website link at the bottom of this listing for more details and updates on these services.",
+    "disabled_access": false,
+    "email_address": "library@zoo.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
-        "food_drink",
         "daylight",
+        "large_desks",
         "free_wifi",
+        "computers",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
         "toilets",
-        "refreshments",
-        "break"
+        "refreshments"
     ],
-    "work": [
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "vegetarian",
-        "gluten free",
-        "large",
-        "noisy"
-    ],
-    "floor": "",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.121241\",\"52.206904\"]}",
+    "floor": "First floor",
+    "id": 48,
+    "image": "/assets/photos/5.jpg",
+    "imagealt": "Balfour & Newton - Main Library",
+    "lat": 52.20314,
+    "lng": 0.12108,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.12108,52.20314]}",
+    "noise": "Background chatter",
     "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "wednesday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
-        "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
-        },
         "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
             "open": false,
             "from": "",
             "to": ""
@@ -81,6 +51,115 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "(01223) 336648",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "balfour-newton-main-library",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only",
+        "traffic noise",
+        "mobile phones on silent"
+    ],
+    "title": "Balfour & Newton - Main Library",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.zoo.cam.ac.uk/about-us/library/covid-19-and-zoology-library",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library"
+    ]
 }

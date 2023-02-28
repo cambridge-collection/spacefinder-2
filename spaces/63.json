@@ -1,78 +1,85 @@
 {
-    "id": 63,
-    "title": "Criminology - The sitting room",
-    "slug": "criminology-the-sitting-room",
-    "description": "The physical library space is currently closed for studying. The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
-    "building": "Radzinowicz Library, Institute of Criminology",
-    "restricted": true,
-    "restriction": "Booking required",
-    "disabled_access": true,
-    "url": "https://www.crim.cam.ac.uk/library/services",
-    "phone_number": "01223 335386",
-    "twitter_screen_name": "",
-    "facebook_url": "https://www.facebook.com/crimlib",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "access": "Anyone (public)",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "relaxed",
         "modern",
-        "cosy"
+        "social",
+        "friendly"
     ],
+    "building": "University Library",
+    "description": "The UL Tea Room is operating at reduced capacity due to Covid-19 safety measures, and while it secures a new vendor. There is a vending machine available for snacks and drinks, alongside a water cooler. Users without their own water bottle can ask for a paper cup from the Reader Services Desk in the Entrance Hall, in order to use the cooler. \r\n\r\n\r\nVG Coffee is available outside the UL for drinks and cakes Monday-Friday, 10:30am-3:30pm, weather permitting.  \r\n\r\n",
+    "disabled_access": true,
+    "email_address": "library@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
     "facilities": [
+        "food_drink",
         "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
+        "signal",
         "toilets",
         "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "gender_neutral_toilets"
+        "break"
     ],
-    "work": [
-        "private",
-        "close"
-    ],
-    "tags": [
-        "no food",
-        "bottled water only",
-        "postgraduate",
-        "research"
-    ],
-    "floor": "Ground floor",
-    "image": "5.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.110105\",\"52.201452\"]}",
+    "floor": "First floor",
+    "id": 63,
+    "image": "/assets/photos/PH-LIBRARY-MAP-TEA-ROOM-000-00001.jpg",
+    "imagealt": "UL - Tea Room",
+    "lat": 52.20507,
+    "lng": 0.10824,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+    "noise": "Animated discussion",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
         "monday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
         },
-        "tuesday": {
-            "open": false,
-            "from": "",
-            "to": ""
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:20"
         },
-        "wednesday": {
+        "sunday": {
             "open": false,
             "from": "",
             "to": ""
         },
         "thursday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
         },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
         },
         "saturday": {
             "open": false,
@@ -83,6 +90,82 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:30",
+            "to": "17:45"
         }
-    }
+    },
+    "phone_number": "+44 (0) 1223 333030",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": true,
+    "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+    "slug": "ul-tea-room",
+    "space_type": "Library space",
+    "tags": [
+        "light",
+        "airy",
+        "snacks",
+        "water cooler",
+        "vending machine"
+    ],
+    "title": "UL - Tea Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:20"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:30"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk/using-library/person-services/practical-information-your-visit/tea-room",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
 }

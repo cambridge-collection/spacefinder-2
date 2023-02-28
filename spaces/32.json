@@ -1,90 +1,51 @@
 {
-    "id": 32,
-    "title": "Cambridge Judge Business School Information Centre - Mezzanine",
-    "slug": "cambridge-judge-business-school-information-centre-mezzanine",
-    "description": "Due to the implications of COVID-19, please check with the Cambridge Judge Business School Information Centre direct regarding their current access arrangements.",
     "access": "Members of the University",
-    "space_type": "Library space",
-    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
-    "building": "Cambridge Judge Business School Information Centre",
-    "restricted": true,
-    "restriction": "Please check with the Information Centre regarding their current arrangements.",
-    "disabled_access": true,
-    "url": "http://www.jbs.cam.ac.uk/infolib",
-    "phone_number": "01223 339599",
-    "twitter_screen_name": "CJBSInfoLib",
-    "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Whispers",
+    "address": "Austin Robinson Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DB",
     "atmosphere": [
         "disciplined",
-        "relaxed",
         "modern",
-        "inspiring",
         "friendly"
     ],
+    "building": "Marshall Library of Economics",
+    "description": "Services available include Click & Collect and online enquiry support. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": false,
+    "email_address": "marshlib@econ.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/MarshallLib",
     "facilities": [
-        "food_drink",
         "daylight",
+        "views",
+        "large_desks",
         "free_wifi",
         "computers",
         "laptops_allowed",
         "sockets",
         "signal",
         "printers_copiers",
+        "outdoor_seating",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "bike_racks",
+        "smoking_area"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends"
-    ],
-    "tags": [
-        "quiet",
-        "warm",
-        "friendly",
-        "modern",
-        "light",
-        "silent solo work",
-        "toilets",
-        "disabled access",
-        "wifi",
-        "computing facilities",
-        "printing facilities",
-        "food and drink allowed"
-    ],
-    "floor": "Mezzanine",
-    "image": "CJBS_Mezzanine_1.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
+    "floor": "First floor",
+    "id": 32,
+    "image": "/assets/photos/1.jpg",
+    "imagealt": "Economics - Main Library Space",
+    "lat": 52.20125,
+    "lng": 0.10843,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.10843,52.20125]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
-        },
         "friday": {
-            "open": true,
-            "from": "8:45",
-            "to": "18:00"
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "saturday": {
             "open": false,
@@ -95,6 +56,114 @@
             "open": false,
             "from": "",
             "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "phone_number": "(01223) 335217",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "economics-main-library-space",
+    "space_type": "Library space",
+    "tags": [
+        "bottled water only"
+    ],
+    "title": "Economics - Main Library Space",
+    "term_time_hours": {
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    },
+    "twitter_screen_name": "marshalllibrary",
+    "url": "https://www.marshall.econ.cam.ac.uk/marshall-library-services-michaelmas-term",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
 }

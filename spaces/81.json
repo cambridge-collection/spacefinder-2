@@ -1,90 +1,176 @@
 {
-    "id": 81,
-    "title": "Jesus Green",
-    "slug": "jesus-green",
-    "description": "A large space which includes a skate park and playground, there are benches to sit on and wide open spaces to sit on the grass, as well as Jesus Green Lido (an outdoor swimming pool) on the edge of the park beside the River Cam. There are fewer benches than some parks, but the space is wide and you can escape the worst of the traffic sounds.\r\n",
     "access": "Anyone (public)",
-    "space_type": "Other",
-    "address": "Jesus Green, Cambridge.\r\n",
-    "building": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://www.cambridge.gov.uk/parks/jesus-green",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
     "atmosphere": [
         "relaxed",
-        "inspiring",
-        "friendly"
+        "modern",
+        "cosy"
     ],
+    "building": "University Library",
+    "description": "This is a bookable room, within the Group Study Room, equipied with height adjustable furniture. ",
+    "disabled_access": false,
+    "email_address": "readerservices@lib.cam.ac.uk",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
     "facilities": [
         "food_drink",
         "daylight",
-        "views",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
         "signal",
-        "outdoor_seating",
+        "bookable",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area",
+        "baby_changing"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "open space",
-        "grass",
-        "barbecue",
-        "sports"
-    ],
-    "floor": "Ground floor",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.122904\",\"52.211508\"]}",
+    "floor": "Third floor",
+    "id": 81,
+    "image": "",
+    "imagealt": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+    "lat": 52.204756,
+    "lng": 0.107323,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
+    "noise": "Whispers",
     "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
-        },
         "friday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
         },
         "saturday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "16:30"
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
         }
-    }
+    },
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "phone_number": "01223 333030",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "ul-south-wing-3-study-hub-individual-accessibility-bookable-study-room",
+    "space_type": "Library space",
+    "tags": [
+        "study",
+        "light",
+        "warm",
+        "bookable"
+    ],
+    "title": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:30"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "18:45"
+        }
+    },
+    "twitter_screen_name": "theUL",
+    "url": "https://www.lib.cam.ac.uk",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library",
+        "private"
+    ]
 }

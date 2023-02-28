@@ -1,93 +1,179 @@
 {
-    "id": 83,
-    "title": "Christ’s Pieces",
-    "slug": "christs-pieces",
-    "description": "A Victorian park in the centre of town, Christ’s Pieces lies between the city centre and Grafton Centre. There are tennis courts at the north-west corner and in the south-east corner lies a bowling green. \r\n",
     "access": "Anyone (public)",
-    "space_type": "Other",
-    "address": "Christ’s Pieces, Cambridge\r\n",
-    "building": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": true,
-    "url": "https://www.cambridge.gov.uk/parks/christs-pieces",
-    "phone_number": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "campusmap_url": "",
-    "campusmap_ref": "",
-    "booking_url": "",
-    "noise": "Animated discussion",
+    "address": "West Hub, \r\nJJ Thomson Avenue\r\nCambridge, CB3 0US",
     "atmosphere": [
         "relaxed",
+        "modern",
         "inspiring",
         "social",
         "friendly"
     ],
+    "building": "West Hub Library",
+    "description": "The West Hub is open to everyone and features a range of workspaces across the top two floors that are open to all including areas for group work and discussion and more individual focused study. The ground floor has a range of catering options and shop with Post Office counter. ",
+    "disabled_access": false,
+    "email_address": "techlib@lib.cam.ac.uk",
+    "facebook_url": "",
     "facilities": [
         "food_drink",
         "daylight",
         "views",
+        "large_desks",
         "free_wifi",
         "laptops_allowed",
-        "signal",
+        "sockets",
+        "printers_copiers",
+        "whiteboards",
         "outdoor_seating",
         "toilets",
         "refreshments",
-        "break"
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "baby_changing"
     ],
-    "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "tags": [
-        "open space",
-        "grass",
-        "trees",
-        "flowers",
-        "sports",
-        "christs"
-    ],
-    "floor": "Ground floor",
-    "image": "image.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.125237\",\"52.20615\"]}",
+    "floor": "",
+    "id": 83,
+    "image": "",
+    "imagealt": "West Hub ",
+    "lat": 52.21056,
+    "lng": 0.09023,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.09023,52.21056]}",
+    "noise": "Animated discussion",
     "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
         "monday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "8:00",
+            "to": "21:00"
         },
-        "tuesday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
-        "wednesday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "thursday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "8:00",
+            "to": "21:00"
         },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        }
+    },
+    "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
         },
         "saturday": {
-            "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
             "open": true,
-            "from": "0:00",
-            "to": "0:00"
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
         }
-    }
+    },
+    "phone_number": "01223 762725",
+    "phone_text": "Contact the Library",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "west-hub",
+    "space_type": "Library space",
+    "tags": [
+        "Everyone welcome",
+        "Open to all",
+        "Flexible spaces"
+    ],
+    "title": "West Hub ",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        }
+    },
+    "twitter_screen_name": "CamTechLibs",
+    "url": "https://libguides.cam.ac.uk/technologylibraries/hub",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
 }
