@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 const data = fs.readFileSync( path.resolve( __dirname, '../../_data/cambridge/spaces-28-02-2023.json' ), { encoding: 'utf8' } );
-const imageDirPath = path.join('/assets', 'photos');
+const imageDirPath = path.join('/', 'assets', 'photos');
 const fileJSON = JSON.parse( data );
 var spaceID = 1;
 const floorMap = {
@@ -131,8 +131,12 @@ function get_image_path( images ) {
         imagePath = '';
     }
     else {
-        let filePath = path.basename( images[0].split('?')[0] ); // First image on list, without search params
-        imagePath = path.join(imageDirPath, filePath)
+        let filePath = path.basename( images[0].split('.')[0] ); // First image on list, without file ext and params
+        imagePath = path.format({
+            dir: imageDirPath,
+            name: filePath,
+            ext: '.jpg',
+        });
     }
 
     return imagePath;
