@@ -1,5 +1,5 @@
 title: Space Finder
-email: ""
+email: "dd547@cam.ac.uk"
 description: >-
   Spacefinder includes detailed descriptions of spaces,
   filters based on space characteristics, and navigation
@@ -23,8 +23,8 @@ dc:
     - "Digital mapping"
     - "College Campuses"
 terms:
-  url: ""
-  text: ""
+  url: "modal"
+  text: "Terms and Conditions"
   shorttext: ""
 foi:
   url: ""
