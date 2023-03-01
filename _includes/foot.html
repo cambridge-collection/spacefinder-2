@@ -5,11 +5,15 @@
             <li><button type="button" class="modal-trigger icon-universal-access button-icon" data-dialoghash="accessibility" data-dialogid="accessibility-page" aria-label="Accessibility page"><span class="button-text">Accessibility</span></button></li>
             <li><button type="button" class="modal-trigger" data-dialoghash="privacy" data-dialogid="privacy-page" aria-label="Privacy page">Privacy</button></li>
             {%- if site.terms.url != "" and site.terms.text != "" -%}
-                {%- if site.terms.shorttext != "" -%}
+                {%- if site.terms.url == "modal" -%}
+            <li><button type="button" class="modal-trigger" data-dialoghash="terms" data-dialogid="terms" aria-label="Terms and Conditions">Terms and Conditions</button></li>
+                {%- else if site.terms.shorttext != "" -%}
                     {%- capture termstext -%}<span class="hide-med">{{ site.terms.text }}</span><span class="show-med">{{ site.terms.shorttext }}</span>{%- endcapture -%}
                 {%- else -%}
                     {%- assign termstext = site.terms.text -%}
                 {%- endif -%}
+
+            {%- else if site.terms.url != "modal"-%}
             <li><a target="external" href="{{ site.terms.url }}">{{ termstext }}</a></li>
             {%- endif -%}
             {%- if site.foi.url != "" and site.foi.text != "" -%}
