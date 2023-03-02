@@ -67,7 +67,7 @@ fileJSON.results.forEach( space => {
         opening_hours: get_opening_hours( space.term_time_hours ),
         out_of_term_hours: get_opening_hours( space.out_of_term_hours ), // retained for future usage
         phone_number: space.phone_number,
-        phone_text: 'Contact the Library',
+        phone_text: 'Phone the space',
         published: true,
         restricted: space.restricted,
         restriction: space.restriction,
