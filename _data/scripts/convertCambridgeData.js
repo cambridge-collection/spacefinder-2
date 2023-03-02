@@ -131,10 +131,14 @@ function get_image_path( images ) {
         imagePath = '';
     }
     else {
-        let filePath = path.basename( images[0].split('.')[0] ); // First image on list, without file ext and params
+        let image = images[0] // First image on list
+        let filePath = path.basename( image.split('.')[0] ); // Remove file ext and params
+        let dirPath = path.dirname( image )
+        let preDirs = dirPath.split('/')
+        let prefix = preDirs[5] + "-" + preDirs[6] + "-" + preDirs[7] + "_"
         imagePath = path.format({
             dir: imageDirPath,
-            name: filePath,
+            name: prefix + filePath,
             ext: '.jpg',
         });
     }
