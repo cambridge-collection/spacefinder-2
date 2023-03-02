@@ -54,7 +54,7 @@ The application requires **Ruby 2.7.4** and **Jekyll 3.9.0** you can test what v
     ruby -version
     bundle exec jekyll -version
 
-#### Installing a Ruby version manager
+#### Ubuntu: Installing a Ruby version manager and the required version of Ruby
 
 I'd recommend installing a version manager for working with Ruby, you can find instructions on how to install
 rbenv for managing different versions of Ruby on your local system by following the instructions below:
@@ -90,16 +90,48 @@ install your own custom version of OpenSSL 1.1.1 for it to use.
 Instructions on doing this can be found here:
 https://deanpcmad.com/2022/installing-older-ruby-versions-on-ubuntu-22-04/
 
-Once you have the the required version of openssl installed you can install the version of ruby that
+Once you have the required version of openssl installed you can install the version of ruby that
 we will need by running (substitute in the openssl location if different):
 
     RUBY_CONFIGURE_OPTS=--with-openssl-dir=$HOME/.openssl/openssl-1.1.1g rbenv install 2.7.4
 
-You can then set the local project version of ruby by navigating to the spacefinder directory and running
+You can then set the local project version of ruby by navigating to the spacefinder-2 directory and running
 
     rbenv local 2.7.4
 
 and confirm that the version is correct with
+
+    ruby -v
+
+#### OSX: Installing a Ruby version manager and the required version of Ruby
+
+The most straightforward way to install a version manager for Ruby is to use Homebrew, which can be installed as per the instructions on: https://brew.sh/.
+
+Once Homebrew is installed, install rbenv using:
+
+    brew install rbenv
+
+Update your ~/.zprofile so that rbenv loads automatically:
+
+    echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+
+Update your $PATH to include the directory that rbenv installs Ruby into:
+
+    echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+
+Apply these changes to your current shell session by reloading your profile:
+
+    source ~/.zshrc
+
+Install the specific version of Ruby required for the project (currently 2.7.4):
+
+    rbenv install 2.7.4
+
+You can then set the local project version of ruby by navigating to the spacefinder-2 directory and running
+
+    rbenv local 2.7.4
+
+Confirm that the version is correct with
 
     ruby -v
 
@@ -113,7 +145,7 @@ You can run the following commands to bundle, compile and run a local version of
 
 This should start the application on the URL:
 
-[http://localhost:4000/spacefinder/](http://localhost:4000/spacefinder/)
+[http://localhost:4000/spacefinder-2/](http://localhost:4000/spacefinder-2/)
 
 Changelog
 ---------
