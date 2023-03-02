@@ -145,7 +145,7 @@ You can run the following commands to bundle, compile and run a local version of
 
 This should start the application on the URL:
 
-[http://localhost:4000/spacefinder/](http://localhost:4000/spacefinder/)
+[http://localhost:4000/spacefinder-2/](http://localhost:4000/spacefinder-2/)
 
 Changelog
 ---------
