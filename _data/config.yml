@@ -44,23 +44,23 @@ filters:
 # Other filters can be defined according to the metadata schema for the 
 # spaces
 ##########################################################################
-  - key: "space_type"
-    label: "Space type"
-    message: "Filtering spaces by type: "
-    exclusive: false
-    additive: false
-    open: true
-    options:
-      - key: "caf"
-        label: "Café"
-      - key: "generalseatingarea"
-        label: "General Seating Area"
-      - key: "itcluster"
-        label: "IT Cluster"
-      - key: "library"
-        label: "Library"
-      - key: "outdoorseatingarea"
-        label: "Outdoor Seating Area"
+#  - key: "space_type"
+#    label: "Space type"
+#    message: "Filtering spaces by type: "
+#    exclusive: false
+#    additive: false
+#    open: true
+#    options:
+#      - key: "caf"
+#        label: "Café"
+#      - key: "generalseatingarea"
+#        label: "General Seating Area"
+#      - key: "itcluster"
+#        label: "IT Cluster"
+#      - key: "library"
+#        label: "Library"
+#      - key: "outdoorseatingarea"
+#        label: "Outdoor Seating Area"
   - key: "work"
     label: "I want to work"
     message: "Showing spaces where you can work: "
