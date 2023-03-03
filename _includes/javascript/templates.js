@@ -126,6 +126,17 @@ function getAdditionalInfo( space ) {
             spaceHTML += '<section class="section-facilities"><h4>Facilities Available</h4><ul class="bulleticons">' + facilitieslist + '</ul></section>';
         }
     }
+
+    if ( space.tags.length ) {
+        let tagslist = '';
+        space.tags.forEach(tag => {
+                tagslist += '<li>' + tag + '</li>'
+            }
+        )
+        if ( tagslist !== '' ) {
+            spaceHTML += '<section class="section-tags"><h4>Tags</h4><ul class="tags">' + tagslist + '</ul></section>';
+        }
+    }
     return spaceHTML;
 }
 
