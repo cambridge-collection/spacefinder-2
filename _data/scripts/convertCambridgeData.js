@@ -159,10 +159,10 @@ function get_opening_hours ( opening_hours ) {
     for ( let day in opening_hours ) {
         new_opening_hours[day] = {
             open: opening_hours[day].open,
-            from: ( opening_hours[day].open ? opening_hours[day].from.replace(/^0/g,''): '' ),
-            to: ( opening_hours[day].open ? opening_hours[day].to.replace(/^0/g,''): '' )
+            from: opening_hours[day].from,
+            to: opening_hours[day].to
         }
-        if ( new_opening_hours[day].to === '0:00' ) {
+        if ( new_opening_hours[day].to === '00:00' ) {
             new_opening_hours[day].to = '24:00';
         }
     }
