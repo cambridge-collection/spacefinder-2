@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "concat": "node _scripts/concat.js",
+    "toggleOpeningHours": "node _scripts/toggleOpeningHours.js",
     "crontab": "node _scripts/cron.js",
     "process": "node _scripts/processJSON.js",
     "minify": "node _scripts/minify.js",
