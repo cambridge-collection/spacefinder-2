@@ -1,171 +1,171 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "atmosphere": [
-        "disciplined",
-        "historic",
-        "inspiring"
-    ],
-    "access": "Anyone (public)",
-    "lng": 0.10824,
-    "disabled_access": true,
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:01",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "historic",
+    "inspiring"
+  ],
+  "access": "Anyone (public)",
+  "lng": 0.10824,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
     },
-    "slug": "ul-reading-room",
-    "floor": "First floor",
-    "restriction": "No drinks allowed.",
-    "published": true,
-    "imagealt": "UL - Reading Room",
-    "url": "https://www.lib.cam.ac.uk/using-library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:01",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:01",
+      "to": "18:50"
     },
-    "email_address": "reference@cam.ac.uk",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ],
-    "twitter_screen_name": "theUL",
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:50"
-        }
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
     },
-    "space_type": "Library space",
-    "building": "University Library",
-    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
-    "title": "UL - Reading Room",
-    "tags": [
-        "no large bags",
-        "reading lamps",
-        "standing workspace",
-        "e-legal deposit",
-        "subject experts",
-        "warmer",
-        "plug sockets",
-        "staffed"
-    ],
-    "noise": "Whispers",
-    "phone_number": "+44 (0) 1223 333 035",
-    "restricted": false,
-    "id": 1,
-    "image": "/assets/photos/000-100-resized_PH-LIBRARY-MAP-READING-ROOM-000-00006.jpg",
-    "description": "The Main Reading Room of the University Library is very quiet, spacious and constantly staffed. It could be considered one of the more professional spaces and is where the University Library's Reference Department is located. \r\n\r\nThe Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20507
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "slug": "ul-reading-room",
+  "floor": "First floor",
+  "restriction": "No drinks allowed.",
+  "published": true,
+  "imagealt": "UL - Reading Room",
+  "url": "https://www.lib.cam.ac.uk/using-library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "email_address": "reference@cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - Reading Room",
+  "tags": [
+    "no large bags",
+    "reading lamps",
+    "standing workspace",
+    "e-legal deposit",
+    "subject experts",
+    "warmer",
+    "plug sockets",
+    "staffed"
+  ],
+  "noise": "Whispers",
+  "phone_number": "+44 (0) 1223 333 035",
+  "restricted": false,
+  "id": 1,
+  "image": "/assets/photos/000-100-resized_PH-LIBRARY-MAP-READING-ROOM-000-00006.jpg",
+  "description": "The Main Reading Room of the University Library is very quiet, spacious and constantly staffed. It could be considered one of the more professional spaces and is where the University Library's Reference Department is located. \r\n\r\nThe Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
