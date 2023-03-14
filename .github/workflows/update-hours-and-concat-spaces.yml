@@ -1,4 +1,4 @@
-name: concat-spacefinder-data
+name: update-hours-and-concat-spacefinder-data
 on: push
 jobs:
   concat-data:
@@ -10,11 +10,11 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - name: Concat space files and commit
+      - name: Update hours, concat space files and commit
         run: |
           cd main
           npm run concat
           git config --global user.name 'Spacefinder Bot'
           git config --global user.email '<>'
           git add --all
-          git diff-index --quiet HEAD || (git commit -am "Workflow: Master space data file generated" && git push)
+          git diff-index --quiet HEAD || (git commit -am "Workflow: Update hours and generate master space data file" && git push)
