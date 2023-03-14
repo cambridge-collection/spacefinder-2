@@ -13,6 +13,7 @@ jobs:
       - name: Update hours, concat space files and commit
         run: |
           cd main
+          npm run toggleOpeningHours
           npm run concat
           git config --global user.name 'Spacefinder Bot'
           git config --global user.email '<>'
