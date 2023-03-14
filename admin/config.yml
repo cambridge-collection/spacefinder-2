@@ -1,7 +1,7 @@
 backend:
   name: 'github'
   repo: 'cambridge-collection/spacefinder-2'
-  branch: 'add-admin-interface'
+  branch: 'gh-pages-ucam'
   site_domain: 'resilient-cascaron-65a92c.netlify.app'
 media_folder: 'assets/photos'
 public_folder: '/assets/photos'
