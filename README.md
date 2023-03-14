@@ -44,6 +44,109 @@ Spacefinder uses a font to display different icons which can be customised using
 
 The fontello configuration is in the file `assets/font/src/config.json` which you can import into fontello if you want to add and remove icons. Once you have finished customising the font, download the package from fontello and replace the content of your `assets/font/src` folder with it. The package contains the font (in five formats) and a CSS file `assets/font/src/css/spacefinder.css` which can be used to replace the icon CSS file in `_sass/spacefinder.scss`. The only change made to this file is applying the global icon style to the `::before` **and** `::after` pseudo-elements which allows for the inclusion of two icons together in parts of the UI.
 
+Local installation
+------------------
+
+### Requirements
+
+The application requires **Ruby 2.7.4** and **Jekyll 3.9.0** you can test what version you have installed locally using the following commands:
+
+    ruby -version
+    bundle exec jekyll -version
+
+#### Ubuntu: Installing a Ruby version manager and the required version of Ruby
+
+I'd recommend installing a version manager for working with Ruby, you can find instructions on how to install
+rbenv for managing different versions of Ruby on your local system by following the instructions below:
+
+Update your package list and install the dependencies required to install Ruby:
+
+    sudo apt update
+    sudo apt install git curl libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
+
+Now install rbenv itself. Use curl to fetch the install script from Github and pipe it directly to bash to run the installer:
+
+    curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
+
+Next, add ~/.rbenv/bin to your $PATH so you can use the rbenv command line utility. Do this by altering your ~/.bashrc file so that it affects future login sessions:
+
+    echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+
+Then, add the command eval "$(rbenv init -)" to your ~/.bashrc file so rbenv loads automatically:
+
+    echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+
+Next, apply the changes you made to your ~/.bashrc file to your current shell session:
+
+    source ~/.bashrc
+
+Now you should have both rbenv and ruby-build installed.
+
+#### Installing Ruby 2.7.4 (on Ubuntu 22.04)
+There are some issues with installing this version of Ruby on Ubuntu 22.04 as it
+requires OpenSSL 1.1.1 which is not installed by default, so you will need to compile and
+install your own custom version of OpenSSL 1.1.1 for it to use.
+
+Instructions on doing this can be found here:
+https://deanpcmad.com/2022/installing-older-ruby-versions-on-ubuntu-22-04/
+
+Once you have the required version of openssl installed you can install the version of ruby that
+we will need by running (substitute in the openssl location if different):
+
+    RUBY_CONFIGURE_OPTS=--with-openssl-dir=$HOME/.openssl/openssl-1.1.1g rbenv install 2.7.4
+
+You can then set the local project version of ruby by navigating to the spacefinder-2 directory and running
+
+    rbenv local 2.7.4
+
+and confirm that the version is correct with
+
+    ruby -v
+
+#### OSX: Installing a Ruby version manager and the required version of Ruby
+
+The most straightforward way to install a version manager for Ruby is to use Homebrew, which can be installed as per the instructions on: https://brew.sh/.
+
+Once Homebrew is installed, install rbenv using:
+
+    brew install rbenv
+
+Update your ~/.zprofile so that rbenv loads automatically:
+
+    echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+
+Update your $PATH to include the directory that rbenv installs Ruby into:
+
+    echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+
+Apply these changes to your current shell session by reloading your profile:
+
+    source ~/.zshrc
+
+Install the specific version of Ruby required for the project (currently 2.7.4):
+
+    rbenv install 2.7.4
+
+You can then set the local project version of ruby by navigating to the spacefinder-2 directory and running
+
+    rbenv local 2.7.4
+
+Confirm that the version is correct with
+
+    ruby -v
+
+#### Compiling and running the local version
+
+You can run the following commands to bundle, compile and run a local version of the spacefinder application.
+
+    export GEM_HOME="$HOME/.gem"
+    bundle install
+    bundle exec jekyll serve
+
+This should start the application on the URL:
+
+[http://localhost:4000/spacefinder-2/](http://localhost:4000/spacefinder-2/)
+
 Changelog
 ---------
 
