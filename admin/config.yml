@@ -28,10 +28,6 @@ collections:
 #      - label: 'Type'
 #        field: 'space_type'
     fields:
-      - label: 'Space ID'
-        name: 'id'
-        widget: 'number'
-        required: true
 #      - label: 'Published'
 #        name: 'published'
 #        widget: 'boolean'
@@ -50,12 +46,6 @@ collections:
 #        widget: 'select'
 #        options: ['Café','General Seating Area','IT Cluster','Library','Outdoor Seating Area','Seminar room']
 #        required: true
-      - label: 'Slug'
-        name: 'slug'
-        widget: 'string'
-        required: true
-        hint: 'This forms part of the URL for the space'
-        pattern: ['^[a-z0-9\-]+$', 'only use lowercase letters, numbers and hyphens here']
       - label: 'Address'
         name: 'address'
         widget: 'text'
@@ -338,10 +328,6 @@ collections:
 #          - { value: '61', label: 'Workshop Theatre' }
 #          - { value: '95', label: 'Worsley Building' }
 #          - { value: '25', label: 'Yorkshire Universities: 22 Clarendon Place' }
-      - label: 'Booking URL'
-        name: 'booking_url'
-        widget: 'string'
-        required: false
       - label: 'Phone number'
         name: 'phone_number'
         widget: 'string'
@@ -374,65 +360,65 @@ collections:
         multiple: true
         required: true
         options:
-          - { value: 'food_drink', label: 'Food and drink allowed' }
-          - { value: 'daylight', label: 'Natural daylight' }
+          - { value: 'accessible_toilets', label: 'Accessible toilets' }
+          - { value: 'adjustable_furniture', label: 'Adjustable furniture' }
           - { value: 'views', label: 'Attractive views out of the window' }
-          - { value: 'large_desks', label: 'Large desks' }
-          - { value: 'individual_study_space', label: 'Individual study space available' }
-          - { value: 'free_wifi', label: 'Free Wifi' }
-          - { value: 'no_wifi', label: 'No WiFi' }
-          - { value: 'computers', label: 'Computers' }
-          - { value: 'laptops_allowed', label: 'Laptops allowed' }
-          - { value: 'sockets', label: 'Plug sockets' }
-          - { value: 'signal', label: 'Phone signal' }
-          - { value: 'printers_copiers', label: 'Printers and copiers' }
-          - { value: 'whiteboards', label: 'Whiteboards' }
-          - { value: 'projector', label: 'Projector' }
-          - { value: 'prayer_room', label: 'Prayer room' }
-          - { value: 'outdoor_seating', label: 'Outdoor seating' }
-          - { value: 'smoking_area', label: 'Designated smoking area' }
+          - { value: 'baby_changing', label: 'Baby changing facilities' }
           - { value: 'bike_racks', label: 'Bike racks' }
           - { value: 'bookable', label: 'Bookable' }
-          - { value: 'toilets', label: 'Toilets nearby' }
-          - { value: 'accessible_toilets', label: 'Accessible toilets' }
-          - { value: 'gender_neutral_toilets', label: 'Gender-neutral toilets' }
-          - { value: 'baby_changing', label: 'Baby changing facilities' }
-          - { value: 'refreshments', label: 'Close to refreshments' }
           - { value: 'break', label: 'Close to a place to take a break' }
+          - { value: 'refreshments', label: 'Close to refreshments' }
+          - { value: 'computers', label: 'Computers' }
+          - { value: 'smoking_area', label: 'Designated smoking area' }
+          - { value: 'food_drink', label: 'Food and drink allowed' }
+          - { value: 'free_wifi', label: 'Free Wifi' }
+          - { value: 'gender_neutral_toilets', label: 'Gender-neutral toilets' }
+          - { value: 'individual_study_space', label: 'Individual study space available' }
           - { value: 'induction_loops', label: 'Induction loops' }
-          - { value: 'wheelchair_accessible', label: 'Wheelchair accessible' }
-          - { value: 'adjustable_furniture', label: 'Adjustable furniture' }
+          - { value: 'laptops_allowed', label: 'Laptops allowed' }
+          - { value: 'large_desks', label: 'Large desks' }
+          - { value: 'daylight', label: 'Natural daylight' }
+          - { value: 'no_wifi', label: 'No WiFi' }
+          - { value: 'outdoor_seating', label: 'Outdoor seating' }
           - { value: 'blue_badge_parking', label: 'Parking for blue badge holders'}
+          - { value: 'signal', label: 'Phone signal' }
+          - { value: 'sockets', label: 'Plug sockets' }
+          - { value: 'prayer_room', label: 'Prayer room' }
+          - { value: 'printers_copiers', label: 'Printers and copiers' }
+          - { value: 'projector', label: 'Projector' }
+          - { value: 'toilets', label: 'Toilets nearby' }
+          - { value: 'wheelchair_accessible', label: 'Wheelchair accessible' }
+          - { value: 'whiteboards', label: 'Whiteboards' }
       - label: 'Work environment'
         name: 'work'
         widget: 'select'
         multiple: true
         required: true
         options:
-          - { value: 'in_a_library', label: 'In a library' }
           - { value: 'private', label: 'Alone, in private' }
+          - { value: 'in_a_library', label: 'In a library' }
+          - { value: 'group', label: 'On a group project' }
           - { value: 'close', label: 'Where others are working' }
           - { value: 'friends', label: 'With friends' }
-          - { value: 'group', label: 'On a group project' }
       - label: 'Atmosphere'
         name: 'atmosphere'
         widget: 'select'
         multiple: true
         required: true
         options:
-          - { value: 'disciplined', label: 'Disciplined' }
-          - { value: 'relaxed', label: 'Relaxed' }
-          - { value: 'historic', label: 'Historic' }
-          - { value: 'modern', label: 'Modern' }
-          - { value: 'inspiring', label: 'Inspiring' }
           - { value: 'cosy', label: 'Cosy' }
-          - { value: 'social', label: 'Social' }
+          - { value: 'disciplined', label: 'Disciplined' }
           - { value: 'friendly', label: 'Friendly' }
-      - label: 'Tags'
-        name: 'tags'
-        widget: 'list'
-        hint: 'Add tags separated by a comma'
-        required: false
+          - { value: 'historic', label: 'Historic' }
+          - { value: 'inspiring', label: 'Inspiring' }
+          - { value: 'modern', label: 'Modern' }
+          - { value: 'relaxed', label: 'Relaxed' }
+          - { value: 'social', label: 'Social' }
+#      - label: 'Tags'
+#        name: 'tags'
+#        widget: 'list'
+#        hint: 'Add tags separated by a comma'
+#        required: false
       - label: 'Image'
         name: 'image'
         widget: 'image'
@@ -442,7 +428,7 @@ collections:
       - label: 'Image Alternate text'
         name: 'imagealt'
         widget: 'string'
-        required: false
+        required: true
       - label: 'Opening Hours'
         name: 'opening_hours'
         widget: 'object'
