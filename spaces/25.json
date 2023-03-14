@@ -33,74 +33,74 @@
     "opening_hours": {
         "friday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "monday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "saturday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "12:30"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "tuesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "wednesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         }
     },
     "out_of_term_hours": {
         "friday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:00"
         },
         "monday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:00"
         },
         "saturday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:00"
         },
         "tuesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:00"
         },
         "wednesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:00"
         }
     },
@@ -118,37 +118,37 @@
     "term_time_hours": {
         "friday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "monday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "saturday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "12:30"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "tuesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         },
         "wednesday": {
             "open": true,
-            "from": "9:30",
+            "from": "09:30",
             "to": "17:30"
         }
     },

@@ -34,75 +34,75 @@
     "opening_hours": {
         "friday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "16:30"
         },
         "monday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "tuesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "wednesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         }
     },
     "out_of_term_hours": {
         "friday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "16:30"
         },
         "monday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "tuesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "wednesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         }
     },
     "phone_number": "(01223) 336648",
@@ -121,38 +121,38 @@
     "term_time_hours": {
         "friday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "16:30"
         },
         "monday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "saturday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "tuesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         },
         "wednesday": {
             "open": false,
-            "from": "",
-            "to": ""
+            "from": "08:30",
+            "to": "17:00"
         }
     },
     "twitter_screen_name": "",
