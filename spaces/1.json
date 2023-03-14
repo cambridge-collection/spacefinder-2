@@ -69,7 +69,7 @@
     },
     "monday": {
       "open": true,
-      "from": "09:01",
+      "from": "09:00",
       "to": "18:50"
     },
     "saturday": {
@@ -114,7 +114,7 @@
     },
     "monday": {
       "open": true,
-      "from": "09:10",
+      "from": "09:00",
       "to": "18:50"
     },
     "saturday": {
