@@ -429,8 +429,8 @@ collections:
         name: 'imagealt'
         widget: 'string'
         required: true
-      - label: 'Opening Hours'
-        name: 'opening_hours'
+      - label: 'Term Hours'
+        name: 'term_time_hours'
         widget: 'object'
         collapsed: false
         fields:
@@ -586,6 +586,165 @@ collections:
                 name: 'to'
                 widget: 'string'
                 pattern: ['[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon']
+                default: '17:00'
+                required: false
+      - label: 'Out of Term Hours'
+        name: 'out_of_term_hours'
+        widget: 'object'
+        collapsed: true
+        fields:
+          - label: 'Monday'
+            name: 'monday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Tuesday'
+            name: 'tuesday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Wednesday'
+            name: 'wednesday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Thursday'
+            name: 'thursday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Friday'
+            name: 'friday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Saturday'
+            name: 'saturday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                required: false
+                default: true
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '17:00'
+                required: false
+          - label: 'Sunday'
+            name: 'sunday'
+            widget: 'object'
+            collapsed: false
+            fields:
+              - label: 'Open?'
+                name: 'open'
+                widget: 'boolean'
+                default: true
+                required: false
+              - label: 'From'
+                name: 'from'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
+                default: '9:00'
+                required: false
+              - label: 'To'
+                name: 'to'
+                widget: 'string'
+                pattern: [ '[0-9]{1,2}:[0-9]{2}', 'Specify times in 24hr clock mode with hours and minutes separated by a colon' ]
                 default: '17:00'
                 required: false
   - name: 'config'
