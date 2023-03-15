@@ -1,5 +1,8 @@
 name: update-hours-and-concat-spacefinder-data
-on: push
+on:
+  push:
+    branches:
+      - gh-pages-ucam
 jobs:
   concat-data:
     runs-on: ubuntu-latest
