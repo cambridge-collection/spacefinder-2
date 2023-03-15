@@ -4,9 +4,9 @@ on:
     branches:
       - gh-pages-ucam
   schedule:
-    - cron: 10 * * * *
+    - cron: 34 2 * * *
 jobs:
-  concat-data:
+  update-and-concat-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
