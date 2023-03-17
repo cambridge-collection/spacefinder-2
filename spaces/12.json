@@ -53,13 +53,13 @@
         },
         "saturday": {
             "open": false,
-            "from": "10:00",
-            "to": "18:00"
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
-            "from": "10:00",
-            "to": "18:00"
+            "from": "00:00",
+            "to": "24:00"
         },
         "thursday": {
             "open": true,

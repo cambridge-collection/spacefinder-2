@@ -44,8 +44,8 @@
         },
         "saturday": {
             "open": false,
-            "from": "10:00",
-            "to": "16:00"
+            "from": "00:00",
+            "to": "24:00"
         },
         "sunday": {
             "open": false,
