@@ -145,7 +145,7 @@
   },
   "space_type": "Library space",
   "building": "University Library",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR;",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR.",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - Reading Room",
