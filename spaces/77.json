@@ -40,7 +40,7 @@
     "noise": "Whispers",
     "opening_hours": {
         "friday": {
-            "open": false,
+            "open": true,
             "from": "09:00",
             "to": "17:00"
         },

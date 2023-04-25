@@ -39,12 +39,12 @@
         "friday": {
             "open": true,
             "from": "09:00",
-            "to": "17:00"
+            "to": "18:00"
         },
         "monday": {
             "open": true,
             "from": "09:00",
-            "to": "17:00"
+            "to": "18:00"
         },
         "saturday": {
             "open": false,
@@ -59,17 +59,17 @@
         "thursday": {
             "open": true,
             "from": "09:00",
-            "to": "17:00"
+            "to": "18:00"
         },
         "tuesday": {
             "open": true,
             "from": "09:00",
-            "to": "17:00"
+            "to": "18:00"
         },
         "wednesday": {
             "open": true,
             "from": "09:00",
-            "to": "17:00"
+            "to": "18:00"
         }
     },
     "out_of_term_hours": {
