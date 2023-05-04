@@ -1,180 +1,180 @@
 {
-    "access": "Members of the University",
-    "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge\r\nCB3 0FS\r\n",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "cosy",
-        "social",
-        "friendly"
-    ],
-    "building": "Department of Materials Science and Metallurgy Library",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "library@msm.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
-    ],
-    "floor": "First floor",
-    "id": 72,
-    "image": "/assets/photos/000-361-resized_image1.jpg",
-    "imagealt": "Materials Science Library: Lobby Area",
-    "lat": 52.20954,
-    "lng": 0.08423,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.08423,52.20954]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "bike_racks"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "cosy",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.08423,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "+44(0)01223 334318",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "materials-science-library-lobby-area",
-    "space_type": "Library space",
-    "tags": [
-        "bright",
-        "airy",
-        "friendly",
-        "welcoming",
-        "group work",
-        "continuous handrails on stairs",
-        "ergonomic chairs",
-        "desks at appropriate height for wheelchair users",
-        "Reservable workspaces",
-        "Fetching service available",
-        "outdoor space"
-    ],
-    "title": "Materials Science Library: Lobby Area",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "http://www.msm.cam.ac.uk/library/index.php",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "materials-science-library-lobby-area",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Materials Science Library: Lobby Area",
+  "url": "http://www.msm.cam.ac.uk/library/index.php",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "library@msm.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Department of Materials Science and Metallurgy Library",
+  "address": "Department of Materials Science & Metallurgy\r\n27 Charles Babbage Road\r\nCambridge\r\nCB3 0FS\r\n",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.08423,52.20954]}",
+  "facebook_url": "",
+  "title": "Materials Science Library: Lobby Area",
+  "tags": [
+    "bright",
+    "airy",
+    "friendly",
+    "welcoming",
+    "group work",
+    "continuous handrails on stairs",
+    "ergonomic chairs",
+    "desks at appropriate height for wheelchair users",
+    "Reservable workspaces",
+    "Fetching service available",
+    "outdoor space"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "+44(0)01223 334318",
+  "restricted": false,
+  "id": 72,
+  "image": "/assets/photos/image1.jpg",
+  "description": "Materials Science Library: Lobby Area",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20954
 }
