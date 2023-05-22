@@ -60,6 +60,7 @@
   "restriction": "No drinks allowed.",
   "published": true,
   "imagealt": "UL - Reading Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
   "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
