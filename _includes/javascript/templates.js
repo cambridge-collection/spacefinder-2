@@ -82,6 +82,11 @@ function getAdditionalInfo( space ) {
     } else {
         spaceHTML += '<li class="icon-public">Open to ' + space.access + '<li>';
     }
+    if ( space.accessable_url && space.accessable_url !== '' ) {
+        spaceHTML += '<li class="icon-link">'
+        spaceHTML += '<a target="spaceurl" href="' + space.accessable_url + '">' + space.accessable_url + '</a></li>'
+        spaceHTML += '</li>';
+    }
     spaceHTML += '</ul></section>';
 
     spaceHTML += '<section class="section-opening"><h4>Opening Times</h4>';
