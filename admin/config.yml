@@ -389,6 +389,10 @@ collections:
           - { value: 'toilets', label: 'Toilets nearby' }
           - { value: 'wheelchair_accessible', label: 'Wheelchair accessible' }
           - { value: 'whiteboards', label: 'Whiteboards' }
+      - label: 'Accessable URL'
+        name: 'accessable_url'
+        widget: 'string'
+        required: false
       - label: 'Work environment'
         name: 'work'
         widget: 'select'
