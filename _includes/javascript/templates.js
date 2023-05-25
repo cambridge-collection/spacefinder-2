@@ -71,7 +71,7 @@ function getAdditionalInfo( space ) {
     }
     if ( space.campusmap_url !== undefined && space.campusmap_url !== '') {
         let campusmap_ref = space.campusmap_ref !== '' ? ' (map reference ' + space.campusmap_ref + ')': '';
-        spaceHTML += '<li class="icon-uol-logo-mark"><a target="campusmap" href="' + space.campusmap_url + '">View on the University campus map</a>' + campusmap_ref + '<li>';
+        spaceHTML += '<li class="icon-uol-logo-mark"><a target="campusmap" href="' + space.campusmap_url + '">View on the University campus map</a>' + campusmap_ref + '</li>';
     }
     if ( space.restricted ) {
         spaceHTML += '<li class="icon-public">Open to ' + space.access;
@@ -80,11 +80,15 @@ function getAdditionalInfo( space ) {
         }
         spaceHTML += '</li>';
     } else {
-        spaceHTML += '<li class="icon-public">Open to ' + space.access + '<li>';
+        spaceHTML += '<li class="icon-public">Open to ' + space.access + '</li>';
     }
     if ( space.accessable_url && space.accessable_url !== '' ) {
         spaceHTML += '<li class="icon-link">'
-        spaceHTML += '<a target="spaceurl" href="' + space.accessable_url + '">' + space.accessable_url + '</a></li>'
+        spaceHTML += '<a target="spaceurl" href="' + space.accessable_url + '">'
+        if (space.building && space.building !== '') {
+            spaceHTML += space.building + " ";
+        }
+        spaceHTML += 'AccessAble Page</a>'
         spaceHTML += '</li>';
     }
     spaceHTML += '</ul></section>';
