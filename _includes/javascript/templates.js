@@ -85,10 +85,10 @@ function getAdditionalInfo( space ) {
     if ( space.accessable_url && space.accessable_url !== '' ) {
         spaceHTML += '<li class="icon-link">'
         spaceHTML += '<a target="spaceurl" href="' + space.accessable_url + '">'
-            if (space.building && space.building !== '') {
-                spaceHTML += space.building + " ";
-            }
-            spaceHTML += 'AccessAble Page</a></li>'
+        if (space.building && space.building !== '') {
+            spaceHTML += space.building + " ";
+        }
+        spaceHTML += 'AccessAble Page</a>'
         spaceHTML += '</li>';
     }
     spaceHTML += '</ul></section>';
