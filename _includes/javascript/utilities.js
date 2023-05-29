@@ -93,7 +93,7 @@ function haversine_distance( mk1, mk2 ) {
  * @param {Object} options Information about the JSON file
  * @param {String} options.key Unique key used to store the data in localstorage (required)
  * @param {String} options.url URL of the JSON file (required)
- * @param {Integer} options.expiry How long to cache the results (in hours) default: 24
+ * @param {Integer} options.expires How long to cache the results (in hours) default: 24
  * @param {Function} options.callback callback function with one parameter (JSON parsed response)
  */
 function getJSON( options ) {
