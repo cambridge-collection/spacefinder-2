@@ -101,7 +101,7 @@ function getJSON( options ) {
         return;
     }
     if ( ! options.hasOwnProperty( 'expires' ) ) {
-        options.expires = 24;
+        options.expires = 0.25;
     }
     if ( storageAvailable( 'localStorage' ) && getWithExpiry( options.key ) ) {
         splog( "getting data '"+options.key+"' from local storage", "utilities.js" );
