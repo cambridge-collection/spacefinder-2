@@ -11,8 +11,7 @@ body {
 #maincontainer #spacefinder {
     flex: none;
     display: block;
-    padding: 0 1rem 1rem 1rem;
-    margin-top: 1rem;
+    padding: 1rem;
     height: calc(100vh - (63px + 30px));
     overflow-y: scroll;
 }
