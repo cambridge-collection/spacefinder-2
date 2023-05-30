@@ -27,6 +27,7 @@ collections:
 #    view_groups:
 #      - label: 'Type'
 #        field: 'space_type'
+    sortable_fields: ['title', 'commit_date']
     fields:
 #      - label: 'Published'
 #        name: 'published'
