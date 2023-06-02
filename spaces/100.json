@@ -1,157 +1,157 @@
 {
-    "access": "Members of the University",
-    "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring",
-        "cosy",
-        "social",
-        "friendly"
-    ],
-    "building": "Engineering Library and Information Service",
-    "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's North Room is a flexible space with large desks, whiteboards and AV presentation equipment and can be booked for student meetings, group work or presentations.",
-    "disabled_access": false,
-    "email_address": "techlib@lib.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "food_drink"
-    ],
-    "floor": "First floor of the Baker building",
-    "id": 100,
-    "image": "",
-    "imagealt": "Engineering Library - North Room",
-    "lat": 52.198042,
-    "lng": 0.120766,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.120766,52.198042]}",
-    "noise": "Animated discussion",
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "food_drink"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "cosy",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.120766,
+  "disabled_access": false,
+  "opening_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 332626",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
-    "slug": "engineering-library-north-room",
-    "space_type": "Library space",
-    "tags": [],
-    "title": "Engineering Library - North Room",
-    "term_time_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "twitter_screen_name": "CamTechLibs",
-    "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library"
-    ]
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "engineering-library-north-room",
+  "floor": "First floor of the Baker building",
+  "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
+  "published": true,
+  "imagealt": "Engineering Library - North Room",
+  "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
+  "term_time_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "",
+      "to": ""
+    },
+    "sunday": {
+      "open": false,
+      "from": "",
+      "to": ""
+    }
+  },
+  "email_address": "techlib@lib.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "CamTechLibs",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "",
+      "to": ""
+    },
+    "sunday": {
+      "open": false,
+      "from": "",
+      "to": ""
+    }
+  },
+  "space_type": "Library space",
+  "building": "Engineering Library and Information Service",
+  "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.120766,52.198042]}",
+  "facebook_url": "",
+  "title": "Engineering Library - North Room",
+  "tags": [],
+  "noise": "Animated discussion",
+  "phone_number": "01223 332626",
+  "restricted": true,
+  "id": 100,
+  "image": "/assets/photos/000-387-resized_IMG_20160217_085032651_HDR.jpg",
+  "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's North Room is a flexible space with large desks, whiteboards and AV presentation equipment and can be booked for student meetings, group work or presentations.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.198042
 }
