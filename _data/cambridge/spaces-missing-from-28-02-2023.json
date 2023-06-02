@@ -1,0 +1,3636 @@
+{
+    "results": [
+        {
+            "id": 28,
+            "name": "Education Library - Lower Ground Floor",
+            "description": "",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Education Faculty Library",
+            "address": "184 Hills Road, Cambridge, CB2 8PQ",
+            "floor": "Lower Ground",
+            "lat": "52.186667",
+            "lng": "0.136944",
+            "restricted": false,
+            "restriction": "",
+            "disabled_access": true,
+            "url": "http://www.educ.cam.ac.uk/library/",
+            "phone_number": "01223 767700",
+            "email_address": "",
+            "twitter_screen_name": "edfaclib",
+            "facebook_url": "pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": true,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": true,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": true,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 52,
+                    "name": "light",
+                    "taggings_count": 14
+                },
+                {
+                    "id": 45,
+                    "name": "attractive views",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 9,
+                    "name": "near books",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 44,
+                    "name": "noise",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 3,
+                    "name": "bottled water only",
+                    "taggings_count": 40
+                },
+                {
+                    "id": 4,
+                    "name": "no bags",
+                    "taggings_count": 7
+                },
+                {
+                    "id": 15,
+                    "name": "subject experts",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 310,
+                    "name": "comfy seats with low desks",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [
+                {
+                    "id": 45,
+                    "name": "attractive views",
+                    "taggings_count": 4
+                }
+            ],
+            "booking_url": "",
+            "created_at": "2015-08-24T13:52:07.963Z",
+            "updated_at": "2022-08-24T13:55:06.715Z",
+            "images": [
+                "/system/space_photos/photos/000/000/160/resized/LowerGround_4.jpg?1443729658",
+                "/system/space_photos/photos/000/000/161/resized/LowerGround_2.jpg?1443729658",
+                "/system/space_photos/photos/000/000/162/resized/LowerGround_3.jpg?1443729658",
+                "/system/space_photos/photos/000/000/314/resized/gf%281%29.jpg?1453129948",
+                "/system/space_photos/photos/000/000/315/resized/gf2.jpg?1453130122"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_computers",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "light",
+                "attractive views",
+                "near books",
+                "noise",
+                "bottled water only",
+                "no bags",
+                "subject experts",
+                "comfy seats with low desks"
+            ],
+            "user_tags_list": ["attractive views"],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 29,
+            "name": "Education Library - Lily Pad 1",
+            "description": "",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Education Faculty Library",
+            "address": "184 Hills Road, Cambridge, CB2 8PQ",
+            "floor": "",
+            "lat": "52.186667",
+            "lng": "0.136944",
+            "restricted": false,
+            "restriction": "",
+            "disabled_access": true,
+            "url": "http://www.educ.cam.ac.uk/library/",
+            "phone_number": "01223 767700",
+            "email_address": "",
+            "twitter_screen_name": "edfaclib",
+            "facebook_url": "pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": true,
+            "atmosphere_social": true,
+            "atmosphere_friendly": true,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 54,
+                    "name": "cosy",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 3,
+                    "name": "bottled water only",
+                    "taggings_count": 40
+                },
+                {
+                    "id": 4,
+                    "name": "no bags",
+                    "taggings_count": 7
+                },
+                {
+                    "id": 15,
+                    "name": "subject experts",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 309,
+                    "name": "spacious work area",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-08-24T13:52:08.072Z",
+            "updated_at": "2022-08-24T13:54:18.848Z",
+            "images": [
+                "/system/space_photos/photos/000/000/163/resized/Lily_Pad_1_-_1.jpg?1443730001",
+                "/system/space_photos/photos/000/000/164/resized/Lily_Pad_1.jpg?1443730001",
+                "/system/space_photos/photos/000/000/165/resized/Lily_Pad_1_-_3.jpg?1443730002",
+                "/system/space_photos/photos/000/000/166/resized/Lily_Pad_1_-_2.jpg?1443730002",
+                "/system/space_photos/photos/000/000/309/resized/lilypad1%282%29.jpg?1453129662",
+                "/system/space_photos/photos/000/000/311/resized/lilypad1%281%29.jpg?1453129778"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_cosy",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "cosy",
+                "bottled water only",
+                "no bags",
+                "subject experts",
+                "spacious work area"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 30,
+            "name": "Education Library - Lily Pad 2",
+            "description": "",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Education Faculty Library",
+            "address": "184 Hills Road, Cambridge, CB2 8PQ",
+            "floor": "",
+            "lat": "52.186667",
+            "lng": "0.136944",
+            "restricted": false,
+            "restriction": "",
+            "disabled_access": true,
+            "url": "http://www.educ.cam.ac.uk/library/",
+            "phone_number": "01223 767700",
+            "email_address": "",
+            "twitter_screen_name": "edfaclib",
+            "facebook_url": "pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": true,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 52,
+                    "name": "light",
+                    "taggings_count": 14
+                },
+                {
+                    "id": 45,
+                    "name": "attractive views",
+                    "taggings_count": 4
+                },
+                {
+                    "id": 44,
+                    "name": "noise",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 3,
+                    "name": "bottled water only",
+                    "taggings_count": 40
+                },
+                {
+                    "id": 4,
+                    "name": "no bags",
+                    "taggings_count": 7
+                },
+                {
+                    "id": 15,
+                    "name": "subject experts",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 309,
+                    "name": "spacious work area",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-08-24T13:52:08.161Z",
+            "updated_at": "2022-08-24T13:54:46.870Z",
+            "images": [
+                "/system/space_photos/photos/000/000/167/resized/Lily_Pad_2_-_1.jpg?1443730189",
+                "/system/space_photos/photos/000/000/307/resized/lilypad2.jpg?1453129283"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "light",
+                "attractive views",
+                "noise",
+                "bottled water only",
+                "no bags",
+                "subject experts",
+                "spacious work area"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 60,
+            "name": "Astronomy: Hoyle Building Library Area",
+            "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Institute of Astronomy Library",
+            "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB23 6DQ",
+            "floor": "First",
+            "lat": "52.21411",
+            "lng": "0.09339",
+            "restricted": true,
+            "restriction": "Outside of office hours this is members of the Institute of Astronomy only.",
+            "disabled_access": true,
+            "url": "https://www.ast.cam.ac.uk/library/news",
+            "phone_number": "01223 337537",
+            "email_address": "ioalib@ast.cam.ac.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": true,
+            "atmosphere_friendly": false,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": false,
+            "facility_views": true,
+            "facility_large_desks": false,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": false,
+            "facility_signal": false,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": true,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 133,
+                    "name": "new books",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 134,
+                    "name": "undergraduate books",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 135,
+                    "name": "astronomy",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-09-02T15:58:55.366Z",
+            "updated_at": "2021-04-26T07:54:58.773Z",
+            "images": [
+                "/system/space_photos/photos/000/000/183/resized/4.jpg?1443787244",
+                "/system/space_photos/photos/000/000/321/resized/Astronomy_Reference.jpg?1453130458"
+            ],
+            "facilities": [
+                "facility_views",
+                "facility_laptops_allowed",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_adjustable_furniture",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_social"
+            ],
+            "admin_tag_list": [
+                "new books",
+                "undergraduate books",
+                "astronomy"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 71,
+            "name": "Astronomy: Library Room A",
+            "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Institute of Astronomy Library",
+            "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+            "floor": "Ground",
+            "lat": "52.21458",
+            "lng": "0.09533",
+            "restricted": true,
+            "restriction": "Steps at front of building.  Narrow corridors.",
+            "disabled_access": false,
+            "url": "https://www.ast.cam.ac.uk/library/news",
+            "phone_number": "01223 337537",
+            "email_address": "ioalib@ast.cam.ac.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": true,
+            "atmosphere_modern": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": true,
+            "atmosphere_social": false,
+            "atmosphere_friendly": false,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": true,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": false,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": true,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 135,
+                    "name": "astronomy",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 136,
+                    "name": "cosmology",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 137,
+                    "name": "interview location",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 138,
+                    "name": "interviews",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 139,
+                    "name": "filming",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 140,
+                    "name": "Chandrasekhar",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 141,
+                    "name": "Dewhirst",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-09-03T15:19:01.233Z",
+            "updated_at": "2021-04-26T07:55:11.796Z",
+            "images": [
+                "/system/space_photos/photos/000/000/184/resized/1.jpg?1443787315",
+                "/system/space_photos/photos/000/000/317/resized/Astronomy_Room_A1.jpg?1453130250",
+                "/system/space_photos/photos/000/000/318/resized/Astronomy_Room_A2.jpg?1453130251"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_bookable",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_historic",
+                "atmosphere_cosy"
+            ],
+            "admin_tag_list": [
+                "astronomy",
+                "cosmology",
+                "interview location",
+                "interviews",
+                "filming",
+                "Chandrasekhar",
+                "Dewhirst"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 73,
+            "name": "Astronomy: Library Room B",
+            "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Institute of Astronomy Library",
+            "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+            "floor": "Ground",
+            "lat": "52.21458",
+            "lng": "0.09533",
+            "restricted": true,
+            "restriction": "Steps at front of building.  Narrow corridors.",
+            "disabled_access": false,
+            "url": "https://www.ast.cam.ac.uk/library/news",
+            "phone_number": "01223 337537",
+            "email_address": "ioalib@ast.cam.ac.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": true,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": false,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": false,
+            "facility_views": false,
+            "facility_large_desks": false,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": true,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": false,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 142,
+                    "name": "private",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 1,
+                    "name": "dark",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 134,
+                    "name": "undergraduate books",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 143,
+                    "name": "Eddington",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 144,
+                    "name": "mathematics",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 145,
+                    "name": "physics",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 146,
+                    "name": "computing",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 147,
+                    "name": "programming",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-09-03T15:27:04.967Z",
+            "updated_at": "2021-04-26T07:55:23.379Z",
+            "images": ["/system/space_photos/photos/000/000/185/resized/2.jpg?1443787395"],
+            "facilities": [
+                "facility_computers",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": ["atmosphere_disciplined"],
+            "admin_tag_list": [
+                "private",
+                "dark",
+                "undergraduate books",
+                "Eddington",
+                "mathematics",
+                "physics",
+                "computing",
+                "programming"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 75,
+            "name": "Astronomy: Library Room C",
+            "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Institute of Astronomy Library",
+            "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+            "floor": "Ground",
+            "lat": "52.21458",
+            "lng": "0.09533",
+            "restricted": true,
+            "restriction": "Steps at front of building.  Narrow corridors.",
+            "disabled_access": false,
+            "url": "https://www.ast.cam.ac.uk/library/news",
+            "phone_number": "01223 337537",
+            "email_address": "ioalib@ast.cam.ac.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": true,
+            "atmosphere_modern": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": true,
+            "atmosphere_friendly": false,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": true,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": false,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 127,
+                    "name": "science",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 128,
+                    "name": "journals",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 129,
+                    "name": "periodicals",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 130,
+                    "name": "Nature",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 131,
+                    "name": "New Scientist",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 132,
+                    "name": "Astronomy Now",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2015-09-03T15:33:54.457Z",
+            "updated_at": "2021-04-26T07:55:35.031Z",
+            "images": [
+                "/system/space_photos/photos/000/000/186/resized/3.jpg?1443787442",
+                "/system/space_photos/photos/000/000/306/resized/Astronomy.jpg?1453129190",
+                "/system/space_photos/photos/000/000/308/resized/Astronomy_Room_C.jpg?1453129331",
+                "/system/space_photos/photos/000/000/313/resized/Astronomy_Room_C2.jpg?1453129938"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_historic",
+                "atmosphere_social"
+            ],
+            "admin_tag_list": [
+                "science",
+                "journals",
+                "periodicals",
+                "Nature",
+                "New Scientist",
+                "Astronomy Now"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "12:30",
+                    "to": "16:30"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 146,
+            "name": "The Scott Polar Research Institute Library",
+            "description": "Services available from the Library include: Zero-contact borrowing on request, Scan & Deliver, Book Returns. Follow the Website link for more details and updates. ",
+            "access": "Faculty",
+            "space_type": "Library space",
+            "library": "Scott Polar Research Institute Library",
+            "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
+            "floor": "1st",
+            "lat": "52.198224",
+            "lng": "0.126301",
+            "restricted": false,
+            "restriction": "",
+            "disabled_access": true,
+            "url": "https://libguides.cam.ac.uk/polar_studies/induction",
+            "phone_number": "01223 336552",
+            "email_address": "library@spri.cam.ac.uk",
+            "twitter_screen_name": "SPRI_Library",
+            "facebook_url": "SPRILibrary",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": true,
+            "atmosphere_modern": false,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": true,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": false,
+            "facility_views": false,
+            "facility_large_desks": false,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": true,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": true,
+            "facility_individual_study_space": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 263,
+                    "name": "SPRI",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 264,
+                    "name": "Geography",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 3,
+                    "name": "bottled water only",
+                    "taggings_count": 40
+                },
+                {
+                    "id": 265,
+                    "name": "Polar",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2016-01-08T10:06:29.070Z",
+            "updated_at": "2022-08-24T13:51:09.036Z",
+            "images": [
+                "/system/space_photos/photos/000/000/302/resized/Study_area.JPG?1452247704",
+                "/system/space_photos/photos/000/000/303/resized/Study_area_2.JPG?1452247705",
+                "/system/space_photos/photos/000/000/304/resized/Terminals_display_case.JPG?1452247707",
+                "/system/space_photos/photos/000/000/351/resized/SPRI.jpg?1453133514"
+            ],
+            "facilities": [
+                "facility_free_wifi",
+                "facility_computers",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_individual_study_space",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_historic",
+                "atmosphere_inspiring",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "SPRI",
+                "Geography",
+                "bottled water only",
+                "Polar"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "tuesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "thursday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 183,
+            "name": "Engineering Library - Collaborative Space",
+            "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's Collaborative Space is ideal for group study with large, round tables, window-facing seating, sit-stand desk spaces, a multi-use study break area, a staffed Information point for enquiries, and a self-service borrowing machine.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Engineering Library and Information Service",
+            "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+            "floor": "First Floor of the Baker Building",
+            "lat": "52.197962",
+            "lng": "0.120837",
+            "restricted": true,
+            "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e,g, Engineering undergraduates have access from 08:00 to 19:00 every day)",
+            "disabled_access": true,
+            "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
+            "phone_number": "01223 332626",
+            "email_address": "techlib@lib.cam.ac.uk",
+            "twitter_screen_name": "CamTechLibs",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": true,
+            "atmosphere_social": true,
+            "atmosphere_friendly": true,
+            "noise": "Background chatter",
+            "facility_food_drink": true,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": true,
+            "facility_whiteboards": true,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": true,
+            "facility_adjustable_furniture": true,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": true,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 410,
+                    "name": "permit parking",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 307,
+                    "name": "Automatic Doors",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 411,
+                    "name": "fetching service",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 412,
+                    "name": "water fountain",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 413,
+                    "name": "jigsaws",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 415,
+                    "name": "busy in term times",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 416,
+                    "name": "bean bags",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 417,
+                    "name": "display screens",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 418,
+                    "name": "well lit",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 419,
+                    "name": "indoor plants",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 420,
+                    "name": "study buddies",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 421,
+                    "name": "information point",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 424,
+                    "name": "diverse collections",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 426,
+                    "name": "Friendly staff",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 295,
+                    "name": "desk lamps",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 315,
+                    "name": "lift access",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2016-02-17T09:54:35.979Z",
+            "updated_at": "2022-12-19T15:12:46.344Z",
+            "images": ["/system/space_photos/photos/000/000/386/resized/New_library_space_019.JPG?1455702874"],
+            "facilities": [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_printers_copiers",
+                "facility_whiteboards",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_induction_loops",
+                "facility_adjustable_furniture",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_smoking_area"
+            ],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_cosy",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "permit parking",
+                "Automatic Doors",
+                "fetching service",
+                "water fountain",
+                "jigsaws",
+                "busy in term times",
+                "bean bags",
+                "display screens",
+                "well lit",
+                "indoor plants",
+                "study buddies",
+                "information point",
+                "diverse collections",
+                "Friendly staff",
+                "desk lamps",
+                "lift access"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "22:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "22:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "22:00"
+                }
+            }
+        },
+        {
+            "id": 196,
+            "name": "Rock Road Library: Community Room",
+            "description": "The Library is currently open and also offers a Select & Collect service. Please follow the Website link at the bottom of this listings for more details and updates.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Rock Road Library",
+            "address": "Library\r\n69 Rock Road\r\nCambridge\r\nCB1 7UG",
+            "floor": "Ground",
+            "lat": "52.18631",
+            "lng": "0.14233",
+            "restricted": true,
+            "restriction": "You will need to have a current registered Cambridgeshire public libraries card",
+            "disabled_access": null,
+            "url": "https://www.cambridgeshire.gov.uk/directory_record/37672/rock_road_library/category/71/libraries_with_friends_groups",
+            "phone_number": "0345 045 5225",
+            "email_address": "your.library@cambridgeshire.gov.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": true,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": false,
+            "facility_sockets": true,
+            "facility_signal": false,
+            "facility_printers_copiers": true,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2016-06-05T09:36:02.948Z",
+            "updated_at": "2021-04-26T11:08:26.095Z",
+            "images": ["/system/space_photos/photos/000/000/458/resized/The_Community_Room_-_for_quiet_study.JPG?1465119360"],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_sockets",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "19:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "18:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "16:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 197,
+            "name": "Rock Road Library: Main Library Space",
+            "description": "The Library is currently open and also offers a Select & Collect service. Please follow the Website link at the bottom of this listings for more details and updates.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Rock Road Library",
+            "address": "Library\r\n69 Rock Road\r\nCambridge\r\nCB1 7UG ",
+            "floor": "Ground",
+            "lat": "52.18631",
+            "lng": "0.14233",
+            "restricted": true,
+            "restriction": "You will need to have a current registered Cambridgeshire public libraries card.",
+            "disabled_access": null,
+            "url": "https://www.cambridgeshire.gov.uk/directory_record/37672/rock_road_library/category/71/libraries_with_friends_groups",
+            "phone_number": "0345 045 5225",
+            "email_address": "your.library@cambridgeshire.gov.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": true,
+            "atmosphere_social": false,
+            "atmosphere_friendly": true,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": false,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": false,
+            "facility_printers_copiers": true,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": true,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2016-06-05T09:54:02.126Z",
+            "updated_at": "2021-04-26T11:08:38.283Z",
+            "images": [
+                "/system/space_photos/photos/000/000/459/resized/Rock_Road_Library.JPG?1465120439",
+                "/system/space_photos/photos/000/000/460/resized/Reading_area_with_hot_drinks_machine.JPG?1465120440"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_printers_copiers",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_individual_study_space",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_cosy",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "18:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "18:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 198,
+            "name": "Rock Road Library: Community Garden",
+            "description": "The Library is currently open and also offers a Select & Collect service. Please follow the Website link at the bottom of this listings for more details and updates.",
+            "access": "Anyone (public)",
+            "space_type": "Library space",
+            "library": "Rock Road Library",
+            "address": "Library\r\n69 Rock Road\r\nCambridge\r\nCB1 7UG ",
+            "floor": "Ground",
+            "lat": "52.18631",
+            "lng": "0.14233",
+            "restricted": true,
+            "restriction": "You will need to have a current registered Cambridgeshire public libraries card",
+            "disabled_access": null,
+            "url": "https://www.cambridgeshire.gov.uk/directory/listings/rock-road-library",
+            "phone_number": "0345 045 5225",
+            "email_address": "your.library@cambridgeshire.gov.uk",
+            "twitter_screen_name": "",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": false,
+            "atmosphere_social": true,
+            "atmosphere_friendly": true,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": true,
+            "facility_large_desks": false,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": false,
+            "facility_sockets": false,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": true,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2016-06-05T10:02:29.017Z",
+            "updated_at": "2021-04-26T11:08:10.799Z",
+            "images": ["/system/space_photos/photos/000/000/464/resized/The_community_garden_-_sit_outside_when_it's_warm.tif?1465147434"],
+            "facilities": [
+                "facility_daylight",
+                "facility_views",
+                "facility_signal",
+                "facility_outdoor_seating",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "18:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "13:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "14:00",
+                    "to": "18:00"
+                },
+                "wednesday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "friday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "15:00",
+                    "to": "18:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "10:00",
+                    "to": "14:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 236,
+            "name": "Medical Library Share Space",
+            "description": "The Library is open for study (your space may not be in the area pictured). The Library also offers: Click & Collect, Document Delivery, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Medical Library",
+            "address": "University of Cambridge School of Clinical Medicine\r\nBox 111 Cambridge Biomedical Campus\r\nCambridge\r\nCB2 0SP",
+            "floor": "1",
+            "lat": "52.175741",
+            "lng": "0.141285",
+            "restricted": true,
+            "restriction": "Access restricted to members of the University and NHS staff.",
+            "disabled_access": null,
+            "url": "https://library.medschl.cam.ac.uk/",
+            "phone_number": "01223 336750",
+            "email_address": " library@medschl.cam.ac.uk ",
+            "twitter_screen_name": "cam_med_lib",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": true,
+            "atmosphere_friendly": true,
+            "noise": "Background chatter",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": true,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": true,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": false,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 377,
+                    "name": "group study",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 68,
+                    "name": "group work",
+                    "taggings_count": 3
+                },
+                {
+                    "id": 378,
+                    "name": "library",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2019-07-19T10:25:43.343Z",
+            "updated_at": "2021-04-26T08:31:38.933Z",
+            "images": ["/system/space_photos/photos/000/000/545/resized/Medical_Library_share_space.jpg?1563531943"],
+            "facilities": [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_computers",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_modern",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [
+                "group study",
+                "group work",
+                "library"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 238,
+            "name": "Medical Library Shhh Space",
+            "description": "The Library is open for study (your space may not be in the area pictured). The Library also offers: Click & Collect, Document Delivery, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Medical Library",
+            "address": "University of Cambridge School of Clinical Medicine\r\nCambridge Biomedical Campus\r\nCambridge\r\nCB2 0SP",
+            "floor": "1",
+            "lat": "52.175741",
+            "lng": "0.141285",
+            "restricted": true,
+            "restriction": "Access restricted to members of the University and NHS staff.",
+            "disabled_access": null,
+            "url": "library.medschl.cam.ac.uk",
+            "phone_number": "01223 336750",
+            "email_address": "library@medschl.cam.ac.uk",
+            "twitter_screen_name": "cam_med_lib",
+            "facebook_url": "",
+            "atmosphere_disciplined": true,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": false,
+            "noise": "Strictly silent",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": false,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": true,
+            "facility_individual_study_space": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": false,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": false,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 379,
+                    "name": "quiet space",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 380,
+                    "name": "silent work",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 378,
+                    "name": "library",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2019-07-19T10:37:16.315Z",
+            "updated_at": "2021-04-26T08:31:53.342Z",
+            "images": [
+                "/system/space_photos/photos/000/000/549/resized/shh_room.PNG?1563532635",
+                "/system/space_photos/photos/000/000/550/resized/shhh_room_standing_desk.jpg?1563532635"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_accessible_toilets",
+                "facility_adjustable_furniture",
+                "facility_individual_study_space",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_disciplined",
+                "atmosphere_modern"
+            ],
+            "admin_tag_list": [
+                "quiet space",
+                "silent work",
+                "library"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 240,
+            "name": "Medical Library Read Space",
+            "description": "The Library is open for study (your space may not be in the area pictured). The Library also offers: Click & Collect, Document Delivery, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Medical Library",
+            "address": "University of Cambridge School of Clinical Medicine\r\nCambridge Biomedical Campus\r\nCambridge\r\nCB2 0SP",
+            "floor": "1",
+            "lat": "52.1758",
+            "lng": "0.141259",
+            "restricted": true,
+            "restriction": "Access restricted to members of the University and NHS staff.",
+            "disabled_access": null,
+            "url": "library.medschl.cam.ac.uk",
+            "phone_number": "01223 336750",
+            "email_address": "library@medschl.cam.ac.uk",
+            "twitter_screen_name": "cam_med_lib",
+            "facebook_url": "",
+            "atmosphere_disciplined": true,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": false,
+            "noise": "Whispers",
+            "facility_food_drink": false,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": true,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": false,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 382,
+                    "name": "reading room",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 383,
+                    "name": "medical library",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 384,
+                    "name": "quiet work",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 385,
+                    "name": "individual study",
+                    "taggings_count": 1
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2019-07-19T10:44:59.345Z",
+            "updated_at": "2021-04-26T08:31:26.208Z",
+            "images": [
+                "/system/space_photos/photos/000/000/552/resized/read_room.jpg?1563533098",
+                "/system/space_photos/photos/000/000/553/resized/read_room_2.jpg?1563533099"
+            ],
+            "facilities": [
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_accessible_toilets",
+                "facility_individual_study_space",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks"
+            ],
+            "atmosphere": [
+                "atmosphere_disciplined",
+                "atmosphere_modern"
+            ],
+            "admin_tag_list": [
+                "reading room",
+                "medical library",
+                "quiet work",
+                "individual study"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "08:00",
+                    "to": "19:45"
+                },
+                "saturday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "16:45"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 250,
+            "name": "Engineering Library - Silent Space",
+            "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's Silent Space is where you'll find the library's engineering and technology book collection, space for quiet, individual study and a computer for searching and viewing Electronic Legal Deposit materials.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Engineering Library and Information Service",
+            "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+            "floor": "First Floor of the Baker Building",
+            "lat": "52.198034",
+            "lng": "0.120758",
+            "restricted": true,
+            "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
+            "disabled_access": null,
+            "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
+            "phone_number": "01223 332626",
+            "email_address": "techlib@lib.cam.ac.uk",
+            "twitter_screen_name": "CamTechLibs",
+            "facebook_url": "",
+            "atmosphere_disciplined": true,
+            "atmosphere_relaxed": false,
+            "atmosphere_historic": false,
+            "atmosphere_modern": false,
+            "atmosphere_inspiring": false,
+            "atmosphere_cosy": false,
+            "atmosphere_social": false,
+            "atmosphere_friendly": false,
+            "noise": "Strictly silent",
+            "facility_food_drink": true,
+            "facility_daylight": true,
+            "facility_views": false,
+            "facility_large_desks": true,
+            "facility_free_wifi": true,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": true,
+            "facility_sockets": true,
+            "facility_signal": true,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": true,
+            "facility_accessible_toilets": true,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": true,
+            "facility_bike_racks": true,
+            "facility_smoking_area": true,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": true,
+            "facility_break": true,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": true,
+            "work_close": true,
+            "work_friends": false,
+            "work_group": false,
+            "expensive": null,
+            "tags": [
+                {
+                    "id": 307,
+                    "name": "Automatic Doors",
+                    "taggings_count": 5
+                },
+                {
+                    "id": 295,
+                    "name": "desk lamps",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 425,
+                    "name": "borrowable books",
+                    "taggings_count": 1
+                },
+                {
+                    "id": 410,
+                    "name": "permit parking",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 415,
+                    "name": "busy in term times",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 416,
+                    "name": "bean bags",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 418,
+                    "name": "well lit",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 419,
+                    "name": "indoor plants",
+                    "taggings_count": 2
+                },
+                {
+                    "id": 420,
+                    "name": "study buddies",
+                    "taggings_count": 2
+                }
+            ],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2022-12-16T12:16:05.818Z",
+            "updated_at": "2022-12-19T15:34:29.719Z",
+            "images": [],
+            "facilities": [
+                "facility_food_drink",
+                "facility_daylight",
+                "facility_large_desks",
+                "facility_free_wifi",
+                "facility_laptops_allowed",
+                "facility_sockets",
+                "facility_signal",
+                "facility_toilets",
+                "facility_refreshments",
+                "facility_break",
+                "facility_wheelchair_accessible",
+                "facility_blue_badge_parking",
+                "facility_accessible_toilets",
+                "facility_gender_neutral_toilets",
+                "facility_bike_racks",
+                "facility_smoking_area"
+            ],
+            "atmosphere": ["atmosphere_disciplined"],
+            "admin_tag_list": [
+                "Automatic Doors",
+                "desk lamps",
+                "borrowable books",
+                "permit parking",
+                "busy in term times",
+                "bean bags",
+                "well lit",
+                "indoor plants",
+                "study buddies"
+            ],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        },
+        {
+            "id": 251,
+            "name": "Engineering Library - North Room",
+            "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's North Room is a flexible space with large desks, whiteboards and AV presentation equipment and can be booked for student meetings, group work or presentations.",
+            "access": "Members of the University",
+            "space_type": "Library space",
+            "library": "Engineering Library and Information Service",
+            "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+            "floor": "First floor of the Baker building",
+            "lat": "52.198042",
+            "lng": "0.120766",
+            "restricted": true,
+            "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
+            "disabled_access": null,
+            "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
+            "phone_number": "01223 332626",
+            "email_address": "techlib@lib.cam.ac.uk",
+            "twitter_screen_name": "CamTechLibs",
+            "facebook_url": "",
+            "atmosphere_disciplined": false,
+            "atmosphere_relaxed": true,
+            "atmosphere_historic": false,
+            "atmosphere_modern": true,
+            "atmosphere_inspiring": true,
+            "atmosphere_cosy": true,
+            "atmosphere_social": true,
+            "atmosphere_friendly": true,
+            "noise": "Animated discussion",
+            "facility_food_drink": true,
+            "facility_daylight": false,
+            "facility_views": false,
+            "facility_large_desks": false,
+            "facility_free_wifi": false,
+            "facility_no_wifi": false,
+            "facility_computers": false,
+            "facility_laptops_allowed": false,
+            "facility_sockets": false,
+            "facility_signal": false,
+            "facility_printers_copiers": false,
+            "facility_whiteboards": false,
+            "facility_projector": false,
+            "facility_outdoor_seating": false,
+            "facility_bookable": false,
+            "facility_toilets": false,
+            "facility_accessible_toilets": false,
+            "facility_induction_loops": false,
+            "facility_adjustable_furniture": false,
+            "facility_individual_study_space": false,
+            "facility_gender_neutral_toilets": false,
+            "facility_bike_racks": false,
+            "facility_smoking_area": false,
+            "facility_baby_changing": false,
+            "facility_prayer_room": false,
+            "facility_refreshments": false,
+            "facility_break": false,
+            "opentimes_before_9am": true,
+            "opentimes_after_7pm": true,
+            "opentimes_saturday": true,
+            "opentimes_sunday": true,
+            "work_in_a_library": true,
+            "work_private": false,
+            "work_close": true,
+            "work_friends": true,
+            "work_group": true,
+            "expensive": null,
+            "tags": [],
+            "user_tags": [],
+            "booking_url": "",
+            "created_at": "2022-12-16T12:18:40.509Z",
+            "updated_at": "2022-12-19T15:22:44.108Z",
+            "images": [],
+            "facilities": ["facility_food_drink"],
+            "atmosphere": [
+                "atmosphere_relaxed",
+                "atmosphere_modern",
+                "atmosphere_inspiring",
+                "atmosphere_cosy",
+                "atmosphere_social",
+                "atmosphere_friendly"
+            ],
+            "admin_tag_list": [],
+            "user_tags_list": [],
+            "term_time_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            },
+            "out_of_term_hours": {
+                "monday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "tuesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "wednesday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "thursday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "friday": {
+                    "open": true,
+                    "allday": false,
+                    "from": "09:00",
+                    "to": "17:00"
+                },
+                "saturday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                },
+                "sunday": {
+                    "open": false,
+                    "allday": false,
+                    "from": "00:00",
+                    "to": "00:00"
+                }
+            }
+        }
+    ],
+    "total_count": 17
+}

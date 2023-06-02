@@ -1,0 +1,169 @@
+{
+    "access": "Members of the University",
+    "address": "184 Hills Road, Cambridge, CB2 8PQ",
+    "atmosphere": [
+        "modern",
+        "inspiring",
+        "friendly"
+    ],
+    "building": "Education Faculty Library",
+    "description": "",
+    "disabled_access": true,
+    "email_address": "",
+    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "floor": "",
+    "id": 86,
+    "image": "/assets/photos/000-167-resized_Lily_Pad_2_-_1.jpg",
+    "imagealt": "Education Library - Lily Pad 2",
+    "lat": 52.186667,
+    "lng": 0.136944,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.136944,52.186667]}",
+    "noise": "Whispers",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "01223 767700",
+    "phone_text": "Phone the space",
+    "published": true,
+    "restricted": false,
+    "restriction": "",
+    "slug": "education-library-lily-pad-2",
+    "space_type": "Library space",
+    "tags": [
+        "light",
+        "attractive views",
+        "noise",
+        "bottled water only",
+        "no bags",
+        "subject experts",
+        "spacious work area"
+    ],
+    "title": "Education Library - Lily Pad 2",
+    "term_time_hours": {
+        "monday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "twitter_screen_name": "edfaclib",
+    "url": "http://www.educ.cam.ac.uk/library/",
+    "url_text": "Visit the website",
+    "work": [
+        "in_a_library"
+    ]
+}

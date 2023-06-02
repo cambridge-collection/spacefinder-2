@@ -1,0 +1,164 @@
+{
+    "access": "Anyone (public)",
+    "address": "Library\r\n69 Rock Road\r\nCambridge\r\nCB1 7UG",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "friendly"
+    ],
+    "building": "Rock Road Library",
+    "description": "The Library is currently open and also offers a Select & Collect service. Please follow the Website link at the bottom of this listings for more details and updates.",
+    "disabled_access": false,
+    "email_address": "your.library@cambridgeshire.gov.uk",
+    "facebook_url": "",
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "sockets",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
+    ],
+    "floor": "Ground floor",
+    "id": 93,
+    "image": "/assets/photos/000-458-resized_The_Community_Room_-_for_quiet_study.jpg",
+    "imagealt": "Rock Road Library: Community Room",
+    "lat": 52.18631,
+    "lng": 0.14233,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.14233,52.18631]}",
+    "noise": "Whispers",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "09:00",
+            "to": "13:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "15:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": false,
+            "from": "09:00",
+            "to": "13:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "15:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "10:00",
+            "to": "16:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "0345 045 5225",
+    "phone_text": "Phone the space",
+    "published": true,
+    "restricted": true,
+    "restriction": "You will need to have a current registered Cambridgeshire public libraries card",
+    "slug": "rock-road-library-community-room",
+    "space_type": "Library space",
+    "tags": [],
+    "title": "Rock Road Library: Community Room",
+    "term_time_hours": {
+        "monday": {
+            "open": false,
+            "from": "09:00",
+            "to": "13:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "14:00",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "friday": {
+            "open": false,
+            "from": "15:00",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.cambridgeshire.gov.uk/directory_record/37672/rock_road_library/category/71/libraries_with_friends_groups",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
+}

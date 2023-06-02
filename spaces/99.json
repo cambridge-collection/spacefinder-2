@@ -1,0 +1,176 @@
+{
+    "access": "Members of the University",
+    "address": "Department of Engineering\r\nTrumpington Street\r\nCambridge CB2 1PZ",
+    "atmosphere": [
+        "disciplined"
+    ],
+    "building": "Engineering Library and Information Service",
+    "description": "The Engineering Library is based on the first floor of the Department of Engineering main site on Trumpington Street. The Library's Silent Space is where you'll find the library's engineering and technology book collection, space for quiet, individual study and a computer for searching and viewing Electronic Legal Deposit materials.",
+    "disabled_access": false,
+    "email_address": "techlib@lib.cam.ac.uk",
+    "facebook_url": "",
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "floor": "First Floor of the Baker Building",
+    "id": 99,
+    "image": "",
+    "imagealt": "Engineering Library - Silent Space",
+    "lat": 52.198034,
+    "lng": 0.120758,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.120758,52.198034]}",
+    "noise": "Strictly silent",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "01223 332626",
+    "phone_text": "Phone the space",
+    "published": true,
+    "restricted": true,
+    "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
+    "slug": "engineering-library-silent-space",
+    "space_type": "Library space",
+    "tags": [
+        "Automatic Doors",
+        "desk lamps",
+        "borrowable books",
+        "permit parking",
+        "busy in term times",
+        "bean bags",
+        "well lit",
+        "indoor plants",
+        "study buddies"
+    ],
+    "title": "Engineering Library - Silent Space",
+    "term_time_hours": {
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        }
+    },
+    "twitter_screen_name": "CamTechLibs",
+    "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "in_a_library",
+        "private"
+    ]
+}
