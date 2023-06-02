@@ -1,0 +1,164 @@
+{
+    "access": "Members of the University",
+    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB23 6DQ",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social"
+    ],
+    "building": "Institute of Astronomy Library",
+    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+    "disabled_access": true,
+    "email_address": "ioalib@ast.cam.ac.uk",
+    "facebook_url": "",
+    "facilities": [
+        "views",
+        "laptops_allowed",
+        "toilets",
+        "refreshments",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "floor": "First floor",
+    "id": 87,
+    "image": "/assets/photos/000-183-resized_4.jpg",
+    "imagealt": "Astronomy: Hoyle Building Library Area",
+    "lat": 52.21411,
+    "lng": 0.09339,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.09339,52.21411]}",
+    "noise": "Background chatter",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "01223 337537",
+    "phone_text": "Phone the space",
+    "published": true,
+    "restricted": true,
+    "restriction": "Outside of office hours this is members of the Institute of Astronomy only.",
+    "slug": "astronomy-hoyle-building-library-area",
+    "space_type": "Library space",
+    "tags": [
+        "new books",
+        "undergraduate books",
+        "astronomy"
+    ],
+    "title": "Astronomy: Hoyle Building Library Area",
+    "term_time_hours": {
+        "monday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": false,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "twitter_screen_name": "",
+    "url": "https://www.ast.cam.ac.uk/library/news",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
+}

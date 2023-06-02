@@ -1,0 +1,169 @@
+{
+    "access": "Members of the University",
+    "address": "University of Cambridge School of Clinical Medicine\r\nBox 111 Cambridge Biomedical Campus\r\nCambridge\r\nCB2 0SP",
+    "atmosphere": [
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "building": "Medical Library",
+    "description": "The Library is open for study (your space may not be in the area pictured). The Library also offers: Click & Collect, Document Delivery, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "disabled_access": false,
+    "email_address": " library@medschl.cam.ac.uk ",
+    "facebook_url": "",
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "accessible_toilets",
+        "adjustable_furniture",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "floor": "First floor",
+    "id": 96,
+    "image": "/assets/photos/000-545-resized_Medical_Library_share_space.jpg",
+    "imagealt": "Medical Library Share Space",
+    "lat": 52.175741,
+    "lng": 0.141285,
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.141285,52.175741]}",
+    "noise": "Background chatter",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "phone_number": "01223 336750",
+    "phone_text": "Phone the space",
+    "published": true,
+    "restricted": true,
+    "restriction": "Access restricted to members of the University and NHS staff.",
+    "slug": "medical-library-share-space",
+    "space_type": "Library space",
+    "tags": [
+        "group study",
+        "group work",
+        "library"
+    ],
+    "title": "Medical Library Share Space",
+    "term_time_hours": {
+        "monday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "thursday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "friday": {
+            "open": true,
+            "from": "08:00",
+            "to": "19:45"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "16:45"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "twitter_screen_name": "cam_med_lib",
+    "url": "https://library.medschl.cam.ac.uk/",
+    "url_text": "Visit the website",
+    "work": [
+        "close",
+        "friends",
+        "group",
+        "in_a_library"
+    ]
+}
