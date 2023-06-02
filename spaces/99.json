@@ -11,11 +11,13 @@
     "refreshments",
     "break",
     "wheelchair_accessible",
-    "blue_badge_parking",
     "accessible_toilets",
     "gender_neutral_toilets",
     "bike_racks",
-    "smoking_area"
+    "smoking_area",
+    "adjustable_furniture",
+    "induction_loops",
+    "printers_copiers"
   ],
   "atmosphere": [
     "disciplined"
@@ -65,6 +67,7 @@
   "restriction": "Monday-Friday: Doors: 09:00-17:00 | Information Desk: 10:00-16:00 | Other times: Department-approved card access (e.g. Engineering undergraduates have access from 08:00 to 19:00 every day)",
   "published": true,
   "imagealt": "Engineering Library - Silent Space",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/trumpington-street-and-lensfield-road/access-guides/department-of-engineering-baker-building#55625f0c-e2e5-5a49-b380-10baee4f42b1",
   "url": "https://libguides.cam.ac.uk/technologylibraries/engineering",
   "term_time_hours": {
     "monday": {
