@@ -19,7 +19,7 @@ layout: text-page
 
 ## Introduction
 
-> You will need a GitHub account in order to edit the data. If you don’t have one, signup at: <https://github.com/signup>.
+> You will need a GitHub account in order to edit the data. If you don’t have one, signup at: <https://github.com/signup>. Please remember to follow all the instructions that GitHub sends you, including the one asks you to click on a link and enter a special code.
 >
 > Please contact us after you’ve signed up to us your github user name. We’ll then give you access to the spaces data repository.
 
