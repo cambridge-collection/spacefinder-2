@@ -31,7 +31,7 @@ The admin interface is available at: <https://spacefinder-2.lib.cam.ac.uk/admin>
 
 When you visit the page, it will ask you to login. You can do so by clicking on the **Login with GitHub button**.
 
-If you aren’t already logged into Github, it will open a window containing a GitHub login prompt. After entering your details, it will take you to the main administration interface. If your browser already happens to be logged into Github, it should immediately redirect you to the administration interface.
+If you are logged into Github, it should redirect you to the administration interface. If you aren’t logged into Github, it will open a window containing a GitHub login prompt before taking you to the administration interface. 
 
 ## The Administration Interface
 
@@ -51,7 +51,7 @@ The panel view (![Panel view button](../assets/images/site/panel-button.png "Pan
 
 Scroll through the list and click on an item to edit it.
 
-The space editing form should be largely self-explanatory. Some fields allow you to enter text, others are toggle switches and some are dropdown menus. They generally behave as you would expect.
+The space editing form should be self-explanatory. Some fields allow you to enter text, others are toggle switches and some are dropdown menus. They generally behave as you would expect.
 
 ### Space Name
 
@@ -85,7 +85,7 @@ A dropdown menu for indicating whether the space is open to ‘Anyone (public)�
 
 ### Restricted Access? (optional)
 
-A toggle that indicates whether the space has any special restrictions. These should be described in the **Restriction** field (below). For example, Music: Faculty Graduate Room has restricted access as it’s only open to ‘Faculty of Music Graduate students only’.
+A toggle that indicates whether the space has any special restrictions. These should be described in the **Restriction** field (below). For example, Music: Faculty Graduate Room has restricted access since it’s open to ‘Faculty of Music Graduate students only’.
 
 ### Restriction (optional)
 
@@ -113,7 +113,7 @@ A dropdown menu that lets you select the noise level of the space.
 
 ### Facilities
 
-A dropdown menu that lets you select the space's facilities. It is possible to select as many items as are applicable. To remove a facility from a space, click the 'x' to the right of the tag. 
+A dropdown menu that lets you select the space's facilities. It is possible to select as many items as are applicable. To remove a facility from a space, click the 'x' to the right of the tag.
 
 ### AccessAble URL (optional)
 
@@ -129,7 +129,7 @@ A dropdown menu that lets you select all the tags that apply to the space. To re
 
 ### Image (optional)
 
-To add or change an image, click on the ‘Choose an image’ button. It will then present you with a preview list of all the images that have already been uploaded. If the image you want is already online, you can just select it. Otherwise, you can upload a new image by clicking ‘Upload’ and finding and selecting it on your hard drive.
+To add or change an image, click on the ‘Choose an image’ button. It will then present you with a preview list of all the images that have been uploaded. If the image you want is online, select it. Otherwise, you can upload a new image by clicking ‘Upload’ and finding and selecting it on your hard drive.
 
 ### Term Hours and Out of Term Hours
 
