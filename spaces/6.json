@@ -1,183 +1,183 @@
 {
-    "access": "Anyone (public)",
-    "address": "Wilberforce Road, Cambridge CB3 0WD",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "cosy",
-        "social",
-        "friendly"
-    ],
-    "building": "Betty and Gordon Moore LIbrary",
-    "description": "",
-    "disabled_access": false,
-    "email_address": "moore-library@lib.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/moorelib",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "whiteboards",
-        "outdoor_seating",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
-    ],
-    "floor": "Ground floor",
-    "id": 6,
-    "image": "/assets/photos/000-066-resized_2.jpg",
-    "imagealt": "Moore Library - Ground Floor",
-    "lat": 52.210174,
-    "lng": 0.103238,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.103238,52.210174]}",
-    "noise": "Animated discussion",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "13:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "whiteboards",
+    "outdoor_seating",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "smoking_area"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "cosy",
+    "social",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
+  "lng": 0.103238,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "13:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
     },
-    "phone_number": "01223 765670",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "Library is open Saturdays, out of term, except during the Summer vacation.",
-    "slug": "moore-library-ground-floor",
-    "space_type": "Library space",
-    "tags": [
-        "bottled water only",
-        "internet access",
-        "natural science tripos",
-        "inter-library loans",
-        "bookable study areas",
-        "photocopiers",
-        "computing facilities",
-        "wifi"
-    ],
-    "title": "Moore Library - Ground Floor",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "13:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "13:00"
     },
-    "twitter_screen_name": "MooreLib",
-    "url": "http://moore.libraries.cam.ac.uk/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "slug": "moore-library-ground-floor",
+  "floor": "Ground floor",
+  "restriction": "Library is open Saturdays, out of term, except during the Summer vacation.",
+  "published": true,
+  "imagealt": "Moore Library - Ground Floor",
+  "url": "http://moore.libraries.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "13:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "21:00"
+    }
+  },
+  "email_address": "moore-library@lib.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "MooreLib",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "13:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Betty and Gordon Moore LIbrary",
+  "address": "Wilberforce Road, Cambridge CB3 0WD",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.103238,52.210174]}",
+  "facebook_url": "https://www.facebook.com/moorelib",
+  "title": "Moore Library - Ground Floor",
+  "tags": [
+    "bottled water only",
+    "internet access",
+    "natural science tripos",
+    "inter-library loans",
+    "bookable study areas",
+    "photocopiers",
+    "computing facilities",
+    "wifi"
+  ],
+  "noise": "Animated discussion",
+  "phone_number": "01223 765670",
+  "restricted": true,
+  "id": 6,
+  "image": "/assets/photos/000-066-resized_2.jpg",
+  "description": "\n\n* Betty and Gordon Moore Library, Wilberforce Road, Cambridge CB3 0WD ([get directions](https://www.google.com/maps/dir/?api=1&destination=52.210174%2c0.103238&travelmode=walking))\n* [Visit the website](https://moore.libraries.cam.ac.uk/)\n* Open to Anyone (public) (Library is open Saturdays, out of term, except during the Summer vacation.)",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.210174
 }
