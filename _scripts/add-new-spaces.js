@@ -70,7 +70,7 @@ function generate_path_to_space(dir, filename) {
 
 function get_template_file(template_file) {
     let filepath = path.isAbsolute(template_file) ? template_file : process.cwd() + "/" + template_file
-    let data = fs.readFileSync(path.resolve(filepath), 'utf-8');
+    let data = fs.readFileSync(path.resolve(filepath), { encoding: 'utf8' });
     return JSON.parse(data);
 }
 
