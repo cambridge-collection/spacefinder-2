@@ -80,6 +80,7 @@ collections:
         name: 'restricted'
         widget: 'boolean'
         hint: 'If there are any restrictions on access, please outline them below'
+        default: false
         required: false
       - label: 'Restriction'
         name: 'restriction'
@@ -88,6 +89,7 @@ collections:
       - label: 'Disabled access?'
         name: 'disabled_access'
         widget: 'boolean'
+        default: false
         required: false
       - label: 'Website URL'
         name: 'url'
