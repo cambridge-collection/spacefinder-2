@@ -6,7 +6,6 @@
     "computers",
     "laptops_allowed",
     "sockets",
-    "printers_copiers",
     "whiteboards",
     "bookable",
     "toilets",
@@ -15,8 +14,7 @@
     "wheelchair_accessible",
     "accessible_toilets",
     "individual_study_space",
-    "gender_neutral_toilets",
-    "bike_racks"
+    "gender_neutral_toilets"
   ],
   "atmosphere": [
     "disciplined",
@@ -183,7 +181,7 @@
   "restricted": true,
   "id": 5,
   "image": "/assets/photos/000-070-resized_4.jpg",
-  "description": "T﻿he Betty and Gordon Moore Library (known as the Moore) is a STEMM library with a strong collections emphasis towards Mathematics and the Physical Sciences. The Moore also has good collections across other STEMM collections. \n\nWe also have excellent sections in literature, research and study skills and wellbeing. \n\nT﻿he Moore supports a variety of approaches to study spaces with seating throughout the building, group study areas, bookable study/meeting rooms and an acoustic booth which can be used for online meetings.",
+  "description": "T﻿he lower ground area offers a range of mixed seating. You will find four and two seater study pods, study desks similar to what you would find elewhere in the building and a large space (the Glass room) with a high concentration of seating which is usually a quiet working area.\n\nT﻿here are also two bookable study rooms. \n\nO﻿verall this space is a quiet study area.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.210174
