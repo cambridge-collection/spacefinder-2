@@ -34,6 +34,7 @@ for (let i = 1; i <= options["count"]; i++) {
     jsondata.title = "New Space " + new_spaceid;
     jsondata.slug = string_to_slug(jsondata.title);
     jsondata.description = "Description of new space " + new_spaceid;
+    jsondata.published = false;
 
     console.log("Creating " + dest_file + ": " + jsondata.title);
     fs.writeFile(
