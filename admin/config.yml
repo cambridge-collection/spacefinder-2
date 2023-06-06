@@ -74,7 +74,7 @@ collections:
       - label: 'Access type'
         name: 'access'
         widget: 'select'
-        options: ['Anyone (public)','University Staff and Students']
+        options: ['Anyone (public)','Faculty','Members of the University']
         required: true
       - label: 'Restricted access?'
         name: 'restricted'
