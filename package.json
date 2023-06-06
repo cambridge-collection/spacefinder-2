@@ -6,6 +6,7 @@
   "scripts": {
     "concat": "node _scripts/concat.js",
     "toggleOpeningHours": "node _scripts/toggleOpeningHours.js",
+    "create_spaces": "node _scripts/add-new-spaces.js",
     "crontab": "node _scripts/cron.js",
     "process": "node _scripts/processJSON.js",
     "minify": "node _scripts/minify.js",
@@ -20,7 +21,10 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "uglify-js": "^3.17.4"
+    "@types/yargs": "^17.0.24",
+    "eslint": "^8.42.0",
+    "uglify-js": "^3.17.4",
+    "yargs": "^17.7.2"
   },
   "dependencies": {
     "ical2json": "^3.1.2"
