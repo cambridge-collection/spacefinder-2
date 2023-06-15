@@ -63,7 +63,7 @@ collections:
         name: 'location'
         widget: 'map'
         type: 'Point'
-        default: '{"type":"Point","coordinates":[0.10824,52.20507]}'
+        default: '{"type":"Point","coordinates":[0.1253482,52.2061298]}'
         required: true
 #      - label: 'what3words'
 #        name: 'what3words'
