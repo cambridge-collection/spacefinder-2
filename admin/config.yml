@@ -63,7 +63,7 @@ collections:
         name: 'location'
         widget: 'map'
         type: 'Point'
-        default: '{"type":"Point","coordinates":[53.806529,-1.555291]}'
+        default: '{"type":"Point","coordinates":[0.1253482,52.2061298]}'
         required: true
 #      - label: 'what3words'
 #        name: 'what3words'
@@ -74,12 +74,13 @@ collections:
       - label: 'Access type'
         name: 'access'
         widget: 'select'
-        options: ['Anyone (public)','University Staff and Students']
+        options: ['Anyone (public)','Faculty','Members of the University']
         required: true
       - label: 'Restricted access?'
         name: 'restricted'
         widget: 'boolean'
         hint: 'If there are any restrictions on access, please outline them below'
+        default: false
         required: false
       - label: 'Restriction'
         name: 'restriction'
@@ -88,6 +89,7 @@ collections:
       - label: 'Disabled access?'
         name: 'disabled_access'
         widget: 'boolean'
+        default: false
         required: false
       - label: 'Website URL'
         name: 'url'
