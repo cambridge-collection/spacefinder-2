@@ -1,180 +1,180 @@
 {
-  "facilities": [
-    "daylight",
-    "large_desks",
-    "free_wifi",
-    "computers",
-    "laptops_allowed",
-    "sockets",
-    "signal",
-    "toilets",
-    "refreshments",
-    "break",
-    "wheelchair_accessible",
-    "accessible_toilets",
-    "bike_racks",
-    "electronic_legal_deposit",
-    "printers_copiers"
-  ],
-  "atmosphere": [
-    "relaxed",
-    "inspiring",
-    "friendly",
-    "historic"
-  ],
-  "access": "Members of the University",
-  "lng": 0.10859,
-  "disabled_access": true,
-  "opening_hours": {
-    "friday": {
-      "open": true,
-      "from": "10:00",
-      "to": "13:00"
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "accessible_toilets",
+        "bike_racks",
+        "electronic_legal_deposit",
+        "printers_copiers"
+    ],
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "friendly",
+        "historic"
+    ],
+    "access": "Members of the University",
+    "lng": 0.10859,
+    "disabled_access": true,
+    "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": false,
+            "from": "12:00",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "13:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        }
     },
-    "monday": {
-      "open": true,
-      "from": "10:00",
-      "to": "13:00"
+    "slug": "seeley-library",
+    "floor": "Ground floor",
+    "restriction": "",
+    "published": true,
+    "imagealt": "Seeley Library",
+    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/faculty-of-history-history-building#4a803279-e3a4-8b46-8bd9-5294cf0b59fb",
+    "url": "http://www.hist.cam.ac.uk/seeley-library",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "saturday": {
+            "open": false,
+            "from": "12:00",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "13:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "18:45"
+        }
     },
-    "saturday": {
-      "open": false,
-      "from": "11:00",
-      "to": "16:30"
+    "email_address": "seeley@hist.cam.ac.uk",
+    "work": [
+        "close",
+        "in_a_library",
+        "friends"
+    ],
+    "twitter_screen_name": "TheSeeleyLib",
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        }
     },
-    "sunday": {
-      "open": false,
-      "from": "13:00",
-      "to": "18:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "10:00",
-      "to": "13:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "10:00",
-      "to": "13:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "10:00",
-      "to": "13:00"
-    }
-  },
-  "slug": "seeley-library",
-  "floor": "Ground floor",
-  "restriction": "",
-  "published": true,
-  "imagealt": "Seeley Library",
-  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/faculty-of-history-history-building#4a803279-e3a4-8b46-8bd9-5294cf0b59fb",
-  "url": "http://www.hist.cam.ac.uk/seeley-library",
-  "term_time_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "saturday": {
-      "open": false,
-      "from": "12:00",
-      "to": "18:00"
-    },
-    "sunday": {
-      "open": true,
-      "from": "13:00",
-      "to": "17:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    }
-  },
-  "email_address": "seeley@hist.cam.ac.uk",
-  "work": [
-    "close",
-    "in_a_library",
-    "friends"
-  ],
-  "twitter_screen_name": "TheSeeleyLib",
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    }
-  },
-  "space_type": "Library space",
-  "building": "Seeley Library",
-  "address": "Faculty of History\r\nWest Road\r\nCambridge\r\nCB3 9EF",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.108575,52.2020452]}",
-  "facebook_url": "",
-  "title": "Seeley Library",
-  "tags": [
-    "busy",
-    "friendly",
-    "accessible",
-    "open plan",
-    "quiet areas",
-    "managed cluster",
-    "cafe",
-    "bottled water only",
-    "Automatic Doors",
-    "Fetching service available"
-  ],
-  "noise": "Whispers",
-  "phone_number": "01223-335335",
-  "restricted": false,
-  "id": 44,
-  "image": "/assets/photos/seeley-library-interior-by-alice-boagey.jpg",
-  "description": "The Seeley Library accommodates over 300 reading spaces and houses around 95,000 volumes. This includes books, periodicals, theses and an audio-visual collection.",
-  "url_text": "Visit the website",
-  "phone_text": "Phone the space",
-  "lat": 52.20205
+    "space_type": "Library space",
+    "building": "Seeley Library",
+    "address": "Faculty of History\r\nWest Road\r\nCambridge\r\nCB3 9EF",
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.108575,52.2020452]}",
+    "facebook_url": "",
+    "title": "Seeley Library",
+    "tags": [
+        "busy",
+        "friendly",
+        "accessible",
+        "open plan",
+        "quiet areas",
+        "managed cluster",
+        "cafe",
+        "bottled water only",
+        "Automatic Doors",
+        "Fetching service available"
+    ],
+    "noise": "Whispers",
+    "phone_number": "01223-335335",
+    "restricted": false,
+    "id": 44,
+    "image": "/assets/photos/seeley-library-interior-by-alice-boagey.jpg",
+    "description": "The Seeley Library accommodates over 300 reading spaces and houses around 95,000 volumes. This includes books, periodicals, theses and an audio-visual collection.",
+    "url_text": "Visit the website",
+    "phone_text": "Phone the space",
+    "lat": 52.20205
 }
