@@ -249,6 +249,7 @@
     "facilities": [
         "food_drink",               // Food and drink allowed
         "daylight",                 // Natural daylight
+        "electronic_legal_deposit", // Electronic Legal Deposit
         "views",                    // Attractive views out of the window
         "large_desks",              // Large desks
         "individual_study_space",   // Individual study space
