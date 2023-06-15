@@ -147,6 +147,40 @@ This should start the application on the URL:
 
 [http://localhost:4000/spacefinder-2/](http://localhost:4000/spacefinder-2/)
 
+Creating new spaces
+---------
+
+### Prerequisites
+
+nvm, node.js
+
+#### nvm
+
+Node Version Manager (nvm) is recommended as a convenient way to managed multiple versions of node on your local machine. Check the [official nvm installation instructions](https://github.com/nvm-sh/nvm#install--update-script) for the latest instructions.
+
+#### node.js
+
+Use nvm to install the latest LTS version with:
+
+    nvm install --lts
+
+#### Install the project's node dependencies
+
+    npm install
+
+### Creating new spaces
+
+Running `npm run create_spaces` will create **one** new space file in ./spaces based on the .`/admin/space-template.json` template and numbered according to sequence.
+
+The script includes two switches:
+
+* `-c NUMBER` specifies the number of files to create
+* `-t path/to/file.json` specifies the file to use as the template for the new files
+
+`npm run create_spaces -- -c 2 -t ./spaces/1.json` will create two new space files based on the details in `spaces/1.json` (UL - Reading Room).
+
+**NB:** The `--` following `create_spaces` is needed for npm to detect the switches. 
+
 Changelog
 ---------
 

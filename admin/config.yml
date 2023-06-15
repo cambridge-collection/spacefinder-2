@@ -17,23 +17,23 @@ collections:
     show_preview_links: false
     extension: 'json'
     format: 'json'
-#    view_filters:
-#      - label: 'Active spaces'
-#        field: 'published'
-#        pattern: true
-#      - label: 'Inactive spaces'
-#        field: 'published'
-#        pattern: false
+    view_filters:
+      - label: 'Published spaces'
+        field: 'published'
+        pattern: true
+      - label: 'Unpublished spaces'
+        field: 'published'
+        pattern: false
 #    view_groups:
 #      - label: 'Type'
 #        field: 'space_type'
     sortable_fields: ['title', 'commit_date']
     fields:
-#      - label: 'Published'
-#        name: 'published'
-#        widget: 'boolean'
-#        default: false
-#        required: true
+      - label: 'Published'
+        name: 'published'
+        widget: 'boolean'
+        default: false
+        required: true
       - label: 'Space name'
         name: 'title'
         widget: 'string'
