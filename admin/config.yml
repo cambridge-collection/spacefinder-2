@@ -371,6 +371,7 @@ collections:
           - { value: 'refreshments', label: 'Close to refreshments' }
           - { value: 'computers', label: 'Computers' }
           - { value: 'smoking_area', label: 'Designated smoking area' }
+          - { value: 'electronic_legal_deposit', label: 'Electronic Legal Deposit' }
           - { value: 'food_drink', label: 'Food and drink allowed' }
           - { value: 'free_wifi', label: 'Free Wifi' }
           - { value: 'gender_neutral_toilets', label: 'Gender-neutral toilets' }
