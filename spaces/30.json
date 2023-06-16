@@ -59,17 +59,18 @@
   "restriction": "",
   "published": true,
   "imagealt": "Whipple Main Library, Level 1",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/whipple-library",
   "url": "http://www.hps.cam.ac.uk/library/",
   "term_time_hours": {
     "friday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "monday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "saturday": {
       "open": false,
@@ -82,19 +83,19 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "tuesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "wednesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     }
   },
   "email_address": "hpslib@hermes.cam.ac.uk",
@@ -105,14 +106,14 @@
   "twitter_screen_name": "hpslib",
   "out_of_term_hours": {
     "friday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
     },
     "monday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
     },
     "saturday": {
       "open": false,
@@ -125,26 +126,26 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
     },
     "tuesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
     },
     "wednesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
     }
   },
   "space_type": "Library space",
   "building": "Whipple Library",
   "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
-  "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
+  "facebook_url": "",
   "title": "Whipple Main Library, Level 1",
   "tags": [
     "bottled water only"
@@ -154,7 +155,7 @@
   "restricted": false,
   "id": 30,
   "image": "/assets/photos/000-195-resized_6.jpg",
-  "description": "Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+  "description": "The Whipple Library is open to all members of the University of Cambridge and to others with an interest in the History and Philosophy of Science.\n\nServices available from the Library include: Click & Collect and Book Returns.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20292
