@@ -1,169 +1,170 @@
 {
-    "access": "Members of the University",
-    "address": "Austin Robinson Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DB",
-    "atmosphere": [
-        "disciplined",
-        "modern",
-        "friendly"
-    ],
-    "building": "Marshall Library of Economics",
-    "description": "Services available include Click & Collect and online enquiry support. Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": false,
-    "email_address": "marshlib@econ.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/MarshallLib",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "outdoor_seating",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "smoking_area"
-    ],
-    "floor": "First floor",
-    "id": 32,
-    "image": "/assets/photos/000-152-resized_1.jpg",
-    "imagealt": "Economics - Main Library Space",
-    "lat": 52.20125,
-    "lng": 0.10843,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10843,52.20125]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "outdoor_seating",
+    "toilets",
+    "refreshments",
+    "break",
+    "bike_racks",
+    "smoking_area",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "modern",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.10843,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "(01223) 335217",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "economics-main-library-space",
-    "space_type": "Library space",
-    "tags": [
-        "bottled water only"
-    ],
-    "title": "Economics - Main Library Space",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "21:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "21:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "11:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "21:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "21:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "21:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "marshalllibrary",
-    "url": "https://www.marshall.econ.cam.ac.uk/marshall-library-services-michaelmas-term",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "economics-main-library-space",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Economics - Main Library Space",
+  "url": "https://www.marshall.econ.cam.ac.uk/marshall-library-services-michaelmas-term",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "11:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "21:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "21:00"
+    }
+  },
+  "email_address": "marshlib@econ.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "marshalllibrary",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Marshall Library of Economics",
+  "address": "Austin Robinson Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DB",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10843,52.20125]}",
+  "facebook_url": "https://www.facebook.com/MarshallLib",
+  "title": "Economics - Main Library Space",
+  "tags": [
+    "bottled water only"
+  ],
+  "noise": "Whispers",
+  "phone_number": "(01223) 335217",
+  "restricted": false,
+  "id": 32,
+  "image": "/assets/photos/000-152-resized_1.jpg",
+  "description": "Services available include Click & Collect and online enquiry support. Follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20125
 }
