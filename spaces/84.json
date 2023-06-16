@@ -1,172 +1,176 @@
 {
-    "access": "Members of the University",
-    "address": "184 Hills Road, Cambridge, CB2 8PQ",
-    "atmosphere": [
-        "modern",
-        "inspiring",
-        "friendly"
-    ],
-    "building": "Education Faculty Library",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks"
-    ],
-    "floor": "Lower ground floor",
-    "id": 84,
-    "image": "/assets/photos/000-160-resized_LowerGround_4.jpg",
-    "imagealt": "Education Library - Lower Ground Floor",
-    "lat": 52.186667,
-    "lng": 0.136944,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.136944,52.186667]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break",
+    "bike_racks",
+    "blue_badge_parking",
+    "adjustable_furniture"
+  ],
+  "atmosphere": [
+    "modern",
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.136944,
+  "disabled_access": true,
+  "opening_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "phone_number": "01223 767700",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "education-library-lower-ground-floor",
-    "space_type": "Library space",
-    "tags": [
-        "light",
-        "attractive views",
-        "near books",
-        "noise",
-        "bottled water only",
-        "no bags",
-        "subject experts",
-        "comfy seats with low desks"
-    ],
-    "title": "Education Library - Lower Ground Floor",
-    "term_time_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "edfaclib",
-    "url": "http://www.educ.cam.ac.uk/library/",
-    "url_text": "Visit the website",
-    "work": [
-        "in_a_library"
-    ]
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "education-library-lower-ground-floor",
+  "floor": "Lower ground floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Education Library - Lower Ground Floor",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/hills-road/access-guides/faculty-of-education-donald-mcintyre-building#211a1d8a-b912-3e4f-8819-68a6952d8049",
+  "url": "http://www.educ.cam.ac.uk/library/",
+  "term_time_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "email_address": "",
+  "work": [
+    "in_a_library",
+    "close"
+  ],
+  "twitter_screen_name": "edfaclib",
+  "out_of_term_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Education Faculty Library",
+  "address": "184 Hills Road, Cambridge, CB2 8PQ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.136944,52.186667]}",
+  "facebook_url": "",
+  "title": "Education Library - Lower Ground Floor",
+  "tags": [
+    "light",
+    "attractive views",
+    "near books",
+    "noise",
+    "bottled water only",
+    "no bags",
+    "subject experts",
+    "comfy seats with low desks"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 767700",
+  "restricted": false,
+  "id": 84,
+  "image": "/assets/photos/000-160-resized_LowerGround_4.jpg",
+  "description": "The Lower Ground Floor of the Library has some of the prettiest views in the Faculty. Study benches run the length of the windows overlooking the Faculty garden, where you can watch the squirrels, birds and sometimes ducks! \n\nThe Library Living Room (also on the Lower Ground Floor) gives you an opportunity to rest, refresh and recharge.  Be creative with colouring books, ponder our puzzles or charge up your phone!   You will also find laptop stands (there are a few scattered around the Library too), desk lamps for extra light or blankets if the weather turns a bit chilly – the Library is Not Just a Roomful of Books!  \n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.186667
 }
