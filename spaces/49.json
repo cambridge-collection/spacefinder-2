@@ -14,7 +14,8 @@
     "accessible_toilets",
     "adjustable_furniture",
     "individual_study_space",
-    "electronic_legal_deposit"
+    "electronic_legal_deposit",
+    "computers"
   ],
   "atmosphere": [
     "disciplined",
@@ -167,7 +168,7 @@
   "restricted": false,
   "id": 49,
   "image": "/assets/photos/000-201-resized_1.jpg",
-  "description": "The Library also offers: Click & Collect, Book Returns, bookable acoustic booth.\n\nP﻿lease note - vacation opening hours may differ.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "description": "The entrance to the Squire Law Library is on the first floor of the David Williams Building on Sidgwick Site where the Faculty of Law is also located. The David Williams Building is an open plan building and sometimes it can be noisy.\n\nP﻿lease note - vacation opening hours may differ. Follow the Website link at the bottom of this listing for more details and updates.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20183
