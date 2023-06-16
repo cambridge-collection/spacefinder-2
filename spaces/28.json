@@ -8,7 +8,6 @@
     "refreshments",
     "break",
     "wheelchair_accessible",
-    "blue_badge_parking",
     "accessible_toilets",
     "gender_neutral_toilets"
   ],
@@ -60,21 +59,21 @@
   },
   "slug": "criminology-the-comfy-chairs-at-the-back",
   "floor": "Ground floor",
-  "restriction": "Booking required",
+  "restriction": "Admission to the library is by University of Cambridge card only.",
   "published": true,
   "imagealt": "Criminology - The comfy chairs at the back",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/institute-of-criminology#ad95cd14-b62e-4d47-87d9-c79cee40b015",
   "url": "https://www.crim.cam.ac.uk/library/services",
   "term_time_hours": {
     "friday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
     "monday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
     "saturday": {
       "open": false,
@@ -87,19 +86,19 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
     "tuesday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
     "wednesday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     }
   },
   "email_address": "crimlib@hermes.cam.ac.uk",
@@ -150,7 +149,7 @@
   "building": "Radzinowicz Library, Institute of Criminology",
   "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
-  "facebook_url": "https://www.facebook.com/crimlib",
+  "facebook_url": "",
   "title": "Criminology - The comfy chairs at the back",
   "tags": [
     "no food",
