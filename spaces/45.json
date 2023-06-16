@@ -1,163 +1,164 @@
 {
-    "access": "Anyone (public)",
-    "address": "Department of Geography\r\nDowning Place\r\nCambridge\r\nCB2 3EN",
-    "atmosphere": [
-        "disciplined"
-    ],
-    "building": "Geography Department Library",
-    "description": "Services available include: Click & Collect (Mon, Tues, Thurs, Fri, 10:00 to 16:00, members of the Geography Department only), Book Returns. Follow Website link below for more details on these services.",
-    "disabled_access": false,
-    "email_address": "library@geog.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "daylight",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "accessible_toilets",
-        "gender_neutral_toilets",
-        "bike_racks"
-    ],
-    "floor": "First floor",
-    "id": 45,
-    "image": "/assets/photos/000-260-resized_geogcomputer.jpg",
-    "imagealt": "Geography Library - Computer Area",
-    "lat": 52.2018,
-    "lng": 0.12378,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12378,52.2018]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        }
+  "facilities": [
+    "daylight",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "disciplined"
+  ],
+  "access": "Anyone (public)",
+  "lng": 0.12378,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
     },
-    "phone_number": "01223333391",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "geography-library-computer-area",
-    "space_type": "Library space",
-    "tags": [
-        "Utilitarian",
-        "Reservable workspaces",
-        "Fetching service available"
-    ],
-    "title": "Geography Library - Computer Area",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "monday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "saturday": {
-            "open": false,
-            "from": "08:45",
-            "to": "12:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        }
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
     },
-    "twitter_screen_name": "",
-    "url": "http://www.geog.cam.ac.uk/library/",
-    "url_text": "Visit the website",
-    "work": [
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    }
+  },
+  "slug": "geography-library-computer-area",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Geography Library - Computer Area",
+  "url": "http://www.geog.cam.ac.uk/library/",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "monday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "saturday": {
+      "open": false,
+      "from": "08:45",
+      "to": "12:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    }
+  },
+  "email_address": "library@geog.cam.ac.uk",
+  "work": [
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Geography Department Library",
+  "address": "Department of Geography\r\nDowning Place\r\nCambridge\r\nCB2 3EN",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12378,52.2018]}",
+  "facebook_url": "",
+  "title": "Geography Library - Computer Area",
+  "tags": [
+    "Utilitarian",
+    "Reservable workspaces",
+    "Fetching service available"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "01223333391",
+  "restricted": false,
+  "id": 45,
+  "image": "/assets/photos/000-260-resized_geogcomputer.jpg",
+  "description": "Services available include: Click & Collect (Mon, Tues, Thurs, Fri, 10:00 to 16:00, members of the Geography Department only), Book Returns. Follow Website link below for more details on these services.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.2018
 }
