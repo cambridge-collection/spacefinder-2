@@ -1,171 +1,172 @@
 {
-    "access": "Members of the University",
-    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
-    "atmosphere": [
-        "disciplined",
-        "modern"
-    ],
-    "building": "Radzinowicz Library, Institute of Criminology",
-    "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "crimlib@hermes.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/crimlib",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "gender_neutral_toilets"
-    ],
-    "floor": "Ground floor",
-    "id": 29,
-    "image": "/assets/photos/000-122-resized_6.jpg",
-    "imagealt": "Criminology - Ground floor",
-    "lat": 52.201452,
-    "lng": 0.110105,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "modern"
+  ],
+  "access": "Members of the University",
+  "lng": 0.110105,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "phone_number": "01223 335386",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "criminology-ground-floor",
-    "space_type": "Library space",
-    "tags": [
-        "no food",
-        "bottled water only",
-        "postgraduate",
-        "research",
-        "quiet"
-    ],
-    "title": "Criminology - Ground floor",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "https://www.crim.cam.ac.uk/library/services",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "slug": "criminology-ground-floor",
+  "floor": "Ground floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Criminology - Ground floor",
+  "url": "https://www.crim.cam.ac.uk/library/services",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "email_address": "crimlib@hermes.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Radzinowicz Library, Institute of Criminology",
+  "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
+  "facebook_url": "https://www.facebook.com/crimlib",
+  "title": "Criminology - Ground floor",
+  "tags": [
+    "no food",
+    "bottled water only",
+    "postgraduate",
+    "research",
+    "quiet"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 335386",
+  "restricted": false,
+  "id": 29,
+  "image": "/assets/photos/000-122-resized_6.jpg",
+  "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.201452
 }
