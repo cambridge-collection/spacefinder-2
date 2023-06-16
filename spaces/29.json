@@ -11,7 +11,6 @@
     "refreshments",
     "break",
     "wheelchair_accessible",
-    "blue_badge_parking",
     "accessible_toilets",
     "gender_neutral_toilets",
     "electronic_legal_deposit"
@@ -65,6 +64,7 @@
   "restriction": "",
   "published": true,
   "imagealt": "Criminology - Ground floor",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/institute-of-criminology#ad95cd14-b62e-4d47-87d9-c79cee40b015",
   "url": "https://www.crim.cam.ac.uk/library/services",
   "term_time_hours": {
     "friday": {
