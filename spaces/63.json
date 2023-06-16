@@ -36,16 +36,16 @@
     "opening_hours": {
         "friday": {
             "open": true,
-            "from": "09:00",
-            "to": "18:30"
+            "from": "10:30",
+            "to": "17:45"
         },
         "monday": {
             "open": true,
-            "from": "09:00",
-            "to": "18:30"
+            "from": "10:30",
+            "to": "17:45"
         },
         "saturday": {
-            "open": true,
+            "open": false,
             "from": "09:00",
             "to": "16:20"
         },
@@ -56,18 +56,18 @@
         },
         "thursday": {
             "open": true,
-            "from": "09:00",
-            "to": "18:30"
+            "from": "10:30",
+            "to": "17:45"
         },
         "tuesday": {
             "open": true,
-            "from": "09:00",
-            "to": "18:30"
+            "from": "10:30",
+            "to": "17:45"
         },
         "wednesday": {
             "open": true,
-            "from": "09:00",
-            "to": "18:30"
+            "from": "10:30",
+            "to": "17:45"
         }
     },
     "out_of_term_hours": {
