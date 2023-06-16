@@ -1,169 +1,169 @@
 {
-  "facilities": [
-    "daylight",
-    "views",
-    "free_wifi",
-    "laptops_allowed",
-    "sockets",
-    "signal",
-    "break",
-    "wheelchair_accessible",
-    "blue_badge_parking",
-    "accessible_toilets",
-    "bike_racks",
-    "baby_changing"
-  ],
-  "atmosphere": [
-    "disciplined",
-    "historic"
-  ],
-  "access": "Members of the University",
-  "lng": 0.121552,
-  "disabled_access": true,
-  "opening_hours": {
-    "friday": {
-      "open": false,
-      "from": "09:15",
-      "to": "17:00"
+    "facilities": [
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks",
+        "baby_changing"
+    ],
+    "atmosphere": [
+        "disciplined",
+        "historic"
+    ],
+    "access": "Members of the University",
+    "lng": 0.121552,
+    "disabled_access": true,
+    "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        }
     },
-    "monday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:00"
+    "slug": "haddon-mcburney-room",
+    "floor": "Second floor",
+    "restriction": "",
+    "published": true,
+    "imagealt": "Haddon: McBurney Room",
+    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-archaeology-archaeology-building#8f86d3fa-62a1-1d43-815d-baa4f6b03fa4",
+    "url": "http://haddon.archanth.cam.ac.uk/",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "08:45",
+            "to": "17:15"
+        },
+        "monday": {
+            "open": true,
+            "from": "08:45",
+            "to": "17:15"
+        },
+        "saturday": {
+            "open": false,
+            "from": "11:00",
+            "to": "17:15"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "08:45",
+            "to": "17:15"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "08:45",
+            "to": "17:15"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "08:45",
+            "to": "17:15"
+        }
     },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+    "email_address": "haddon-library@lists.cam.ac.uk",
+    "work": [
+        "close",
+        "friends",
+        "in_a_library",
+        "private"
+    ],
+    "twitter_screen_name": "HaddonLibrary",
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        }
     },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:00"
-    }
-  },
-  "slug": "haddon-mcburney-room",
-  "floor": "Second floor",
-  "restriction": "",
-  "published": true,
-  "imagealt": "Haddon: McBurney Room",
-  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-archaeology-archaeology-building#8f86d3fa-62a1-1d43-815d-baa4f6b03fa4",
-  "url": "http://haddon.archanth.cam.ac.uk/",
-  "term_time_hours": {
-    "friday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:15"
-    },
-    "monday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:15"
-    },
-    "saturday": {
-      "open": false,
-      "from": "11:00",
-      "to": "17:15"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:15"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:15"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:15"
-    }
-  },
-  "email_address": "haddon-library@lists.cam.ac.uk",
-  "work": [
-    "close",
-    "friends",
-    "in_a_library",
-    "private"
-  ],
-  "twitter_screen_name": "HaddonLibrary",
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:00"
-    }
-  },
-  "space_type": "Library space",
-  "building": "Haddon Library of Archaeology and Anthropology",
-  "address": "Downing Street\r\nCAMBRIDGE\r\nCB2 3DZ",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
-  "facebook_url": "",
-  "title": "Haddon: McBurney Room",
-  "tags": [
-    "temperature highly variable",
-    "outdoor space",
-    "Fetching service available"
-  ],
-  "noise": "Whispers",
-  "phone_number": "01223 333505",
-  "restricted": false,
-  "id": 42,
-  "image": "/assets/photos/000-192-resized_3.jpg",
-  "description": "T﻿he McBurney Room at the Haddon Library has 8 study spaces. \n\nFollow the Website link at the bottom of this listing for more details and updates.",
-  "url_text": "Visit the website",
-  "phone_text": "Phone the space",
-  "lat": 52.202906
+    "space_type": "Library space",
+    "building": "Haddon Library of Archaeology and Anthropology",
+    "address": "Downing Street\r\nCAMBRIDGE\r\nCB2 3DZ",
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
+    "facebook_url": "",
+    "title": "Haddon: McBurney Room",
+    "tags": [
+        "temperature highly variable",
+        "outdoor space",
+        "Fetching service available"
+    ],
+    "noise": "Whispers",
+    "phone_number": "01223 333505",
+    "restricted": false,
+    "id": 42,
+    "image": "/assets/photos/000-192-resized_3.jpg",
+    "description": "T﻿he McBurney Room at the Haddon Library has 8 study spaces. \n\nFollow the Website link at the bottom of this listing for more details and updates.",
+    "url_text": "Visit the website",
+    "phone_text": "Phone the space",
+    "lat": 52.202906
 }
