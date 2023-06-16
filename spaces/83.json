@@ -1,179 +1,180 @@
 {
-    "access": "Anyone (public)",
-    "address": "West Hub, \r\nJJ Thomson Avenue\r\nCambridge, CB3 0US",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring",
-        "social",
-        "friendly"
-    ],
-    "building": "West Hub Library",
-    "description": "The West Hub is open to everyone and features a range of workspaces across the top two floors that are open to all including areas for group work and discussion and more individual focused study. The ground floor has a range of catering options and shop with Post Office counter. ",
-    "disabled_access": false,
-    "email_address": "techlib@lib.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "whiteboards",
-        "outdoor_seating",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "adjustable_furniture",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "baby_changing"
-    ],
-    "floor": "",
-    "id": 83,
-    "image": "",
-    "imagealt": "West Hub ",
-    "lat": 52.21056,
-    "lng": 0.09023,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.09023,52.21056]}",
-    "noise": "Animated discussion",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        }
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "printers_copiers",
+    "whiteboards",
+    "outdoor_seating",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "adjustable_furniture",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "baby_changing",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "social",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
+  "lng": 0.09023,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
     },
-    "phone_number": "01223 762725",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "west-hub",
-    "space_type": "Library space",
-    "tags": [
-        "Everyone welcome",
-        "Open to all",
-        "Flexible spaces"
-    ],
-    "title": "West Hub ",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:00",
-            "to": "21:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "CamTechLibs",
-    "url": "https://libguides.cam.ac.uk/technologylibraries/hub",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    }
+  },
+  "slug": "west-hub",
+  "floor": "",
+  "restriction": "",
+  "published": true,
+  "imagealt": "West Hub ",
+  "url": "https://libguides.cam.ac.uk/technologylibraries/hub",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    }
+  },
+  "email_address": "techlib@lib.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "CamTechLibs",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "21:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "West Hub Library",
+  "address": "West Hub, \r\nJJ Thomson Avenue\r\nCambridge, CB3 0US",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.09023,52.21056]}",
+  "facebook_url": "",
+  "title": "West Hub ",
+  "tags": [
+    "Everyone welcome",
+    "Open to all",
+    "Flexible spaces"
+  ],
+  "noise": "Animated discussion",
+  "phone_number": "01223 762725",
+  "restricted": false,
+  "id": 83,
+  "image": "",
+  "description": "The West Hub is open to everyone and features a range of workspaces across the top two floors that are open to all including areas for group work and discussion and more individual focused study. The ground floor has a range of catering options and shop with Post Office counter. ",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.21056
 }
