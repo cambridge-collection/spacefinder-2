@@ -1,163 +1,164 @@
 {
-    "access": "Members of the University",
-    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge",
-    "atmosphere": [
-        "inspiring",
-        "friendly"
-    ],
-    "building": "Whipple Library",
-    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "hpslib@hermes.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "printers_copiers",
-        "toilets",
-        "bike_racks"
-    ],
-    "floor": "First floor",
-    "id": 21,
-    "image": "/assets/photos/000-193-resized_10.jpg",
-    "imagealt": "Whipple Old Library",
-    "lat": 52.20292,
-    "lng": 0.11937,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
-    "noise": "Strictly silent",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "printers_copiers",
+    "toilets",
+    "bike_racks"
+  ],
+  "atmosphere": [
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.11937,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
     },
-    "phone_number": "01223 334547",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "Booking required",
-    "slug": "whipple-old-library",
-    "space_type": "Library space",
-    "tags": [
-        "bottled water only",
-        "cool in summer"
-    ],
-    "title": "Whipple Old Library",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:30",
-            "to": "16:50"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "hpslib",
-    "url": "http://www.hps.cam.ac.uk/library/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    }
+  },
+  "slug": "whipple-old-library",
+  "floor": "First floor",
+  "restriction": "Booking required",
+  "published": true,
+  "imagealt": "Whipple Old Library",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/whipple-library",
+  "url": "http://www.hps.cam.ac.uk/library/",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    }
+  },
+  "email_address": "hpslib@hermes.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "hpslib",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:30",
+      "to": "16:50"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Whipple Library",
+  "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
+  "facebook_url": "",
+  "title": "Whipple Old Library",
+  "tags": [
+    "bottled water only",
+    "cool in summer"
+  ],
+  "noise": "Strictly silent",
+  "phone_number": "01223 334547",
+  "restricted": true,
+  "id": 21,
+  "image": "/assets/photos/000-193-resized_10.jpg",
+  "description": "The Whipple Library is open to all members of the University of Cambridge and to others with an interest in the History and Philosophy of Science.\n\nServices available from the Library include: Click & Collect and Book Returns.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20292
 }
