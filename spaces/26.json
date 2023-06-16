@@ -1,167 +1,168 @@
 {
-    "access": "Members of the University",
-    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "cosy"
-    ],
-    "building": "Radzinowicz Library, Institute of Criminology",
-    "description": "The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "crimlib@hermes.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/crimlib",
-    "facilities": [
-        "daylight",
-        "free_wifi",
-        "laptops_allowed",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "gender_neutral_toilets"
-    ],
-    "floor": "Ground floor",
-    "id": 26,
-    "image": "/assets/photos/000-134-resized_5.jpg",
-    "imagealt": "Criminology - The sitting room",
-    "lat": 52.201452,
-    "lng": 0.110105,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+  "facilities": [
+    "daylight",
+    "free_wifi",
+    "laptops_allowed",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "printers_copiers"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "cosy"
+  ],
+  "access": "Members of the University",
+  "lng": 0.110105,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "phone_number": "01223 335386",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "criminology-the-sitting-room",
-    "space_type": "Library space",
-    "tags": [
-        "no food",
-        "bottled water only",
-        "postgraduate",
-        "research"
-    ],
-    "title": "Criminology - The sitting room",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "https://www.crim.cam.ac.uk/library/services",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "slug": "criminology-the-sitting-room",
+  "floor": "Ground floor",
+  "restriction": "Admission to the library is by University of Cambridge card only.",
+  "published": true,
+  "imagealt": "Criminology - The sitting room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/institute-of-criminology#ad95cd14-b62e-4d47-87d9-c79cee40b015",
+  "url": "https://www.crim.cam.ac.uk/library/services",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "crimlib@hermes.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Radzinowicz Library, Institute of Criminology",
+  "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.110105,52.201452]}",
+  "facebook_url": "",
+  "title": "Criminology - The sitting room",
+  "tags": [
+    "no food",
+    "bottled water only",
+    "postgraduate",
+    "research"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 335386",
+  "restricted": true,
+  "id": 26,
+  "image": "/assets/photos/000-134-resized_5.jpg",
+  "description": "The Library offers: Book Returns. \n\nP﻿lease note that the library closes for lunch in vacation time, follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.201452
 }
