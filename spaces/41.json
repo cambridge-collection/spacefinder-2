@@ -1,171 +1,172 @@
 {
-    "access": "Members of the University",
-    "address": "Downing Street\r\nCAMBRIDGE \r\nCB2 3DZ",
-    "atmosphere": [
-        "disciplined",
-        "historic"
-    ],
-    "building": "Haddon Library of Archaeology and Anthropology",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "haddon-library@lists.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/Haddon-Library-of-Archaeology-and-Anthropology-566290340136530",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks",
-        "baby_changing"
-    ],
-    "floor": "First floor",
-    "id": 41,
-    "image": "/assets/photos/000-187-resized_6.jpg",
-    "imagealt": "Haddon: Main Reading Room",
-    "lat": 52.202906,
-    "lng": 0.121552,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:15",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "bike_racks",
+    "baby_changing"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "historic"
+  ],
+  "access": "Members of the University",
+  "lng": 0.121552,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:15",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:15",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 333505",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "haddon-main-reading-room",
-    "space_type": "Library space",
-    "tags": [
-        "outdoor space",
-        "Fetching service available"
-    ],
-    "title": "Haddon: Main Reading Room",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "11:00",
-            "to": "16:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "HaddonLibrary",
-    "url": "http://haddon.archanth.cam.ac.uk/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "haddon-main-reading-room",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Haddon: Main Reading Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-archaeology-archaeology-building",
+  "url": "http://haddon.archanth.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:15"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:15"
+    },
+    "saturday": {
+      "open": false,
+      "from": "11:00",
+      "to": "16:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:15"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:15"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:15"
+    }
+  },
+  "email_address": "haddon-library@lists.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "HaddonLibrary",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:15",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Haddon Library of Archaeology and Anthropology",
+  "address": "Downing Street\r\nCAMBRIDGE \r\nCB2 3DZ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.121552,52.202906]}",
+  "facebook_url": "",
+  "title": "Haddon: Main Reading Room",
+  "tags": [
+    "outdoor space",
+    "Fetching service available"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 333505",
+  "restricted": false,
+  "id": 41,
+  "image": "/assets/photos/000-187-resized_6.jpg",
+  "description": "T﻿he Main Reading Room at the Haddon Library has 42 study spaces. \n\nThe Library also offers: an acoustic booth.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.202906
 }
