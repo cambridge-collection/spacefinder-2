@@ -1,177 +1,178 @@
 {
-    "access": "Members of the University",
-    "address": "9 West Road, Cambridge, CB3 9DP",
-    "atmosphere": [
-        "disciplined",
-        "relaxed",
-        "modern",
-        "cosy"
-    ],
-    "building": "English Faculty Library",
-    "description": "Study space on Sidgwick site. For information on accessible space check https://www.robinson.cam.ac.uk/college-life/accessibility",
-    "disabled_access": false,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "accessible_toilets",
-        "adjustable_furniture",
-        "individual_study_space",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
-    ],
-    "floor": "",
-    "id": 12,
-    "image": "",
-    "imagealt": "English Faculty Library",
-    "lat": 52.202251,
-    "lng": 0.108416,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "adjustable_furniture",
+    "individual_study_space",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "smoking_area",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "relaxed",
+    "modern",
+    "cosy"
+  ],
+  "access": "Members of the University",
+  "lng": 0.108416,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
     },
-    "phone_number": "01223 335077",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "Booking required",
-    "slug": "english-faculty-library",
-    "space_type": "Library space",
-    "tags": [
-        "individual desks",
-        "near books",
-        "subject experts",
-        "large desks"
-    ],
-    "title": "English Faculty Library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "10:00",
-            "to": "18:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "10:00",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "eflcam",
-    "url": "https://libguides.cam.ac.uk/efl-covid/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    }
+  },
+  "slug": "english-faculty-library",
+  "floor": "",
+  "restriction": "Booking required",
+  "published": true,
+  "imagealt": "English Faculty Library",
+  "url": "https://libguides.cam.ac.uk/efl-covid/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    }
+  },
+  "email_address": "",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "eflcam",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "English Faculty Library",
+  "address": "9 West Road, Cambridge, CB3 9DP",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
+  "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
+  "title": "English Faculty Library",
+  "tags": [
+    "individual desks",
+    "near books",
+    "subject experts",
+    "large desks"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 335077",
+  "restricted": false,
+  "id": 12,
+  "image": "",
+  "description": "Study space on Sidgwick site. For information on accessible space check https://www.robinson.cam.ac.uk/college-life/accessibility",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.202251
 }
