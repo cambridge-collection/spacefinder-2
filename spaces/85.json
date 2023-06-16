@@ -1,168 +1,173 @@
 {
-    "access": "Members of the University",
-    "address": "184 Hills Road, Cambridge, CB2 8PQ",
-    "atmosphere": [
-        "modern",
-        "inspiring",
-        "cosy",
-        "social",
-        "friendly"
-    ],
-    "building": "Education Faculty Library",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks"
-    ],
-    "floor": "",
-    "id": 85,
-    "image": "/assets/photos/000-163-resized_Lily_Pad_1_-_1.jpg",
-    "imagealt": "Education Library - Lily Pad 1",
-    "lat": 52.186667,
-    "lng": 0.136944,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.136944,52.186667]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "bike_racks",
+    "views",
+    "adjustable_furniture",
+    "blue_badge_parking"
+  ],
+  "atmosphere": [
+    "modern",
+    "inspiring",
+    "cosy",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.136944,
+  "disabled_access": true,
+  "opening_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "phone_number": "01223 767700",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "education-library-lily-pad-1",
-    "space_type": "Library space",
-    "tags": [
-        "cosy",
-        "bottled water only",
-        "no bags",
-        "subject experts",
-        "spacious work area"
-    ],
-    "title": "Education Library - Lily Pad 1",
-    "term_time_hours": {
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "edfaclib",
-    "url": "http://www.educ.cam.ac.uk/library/",
-    "url_text": "Visit the website",
-    "work": [
-        "in_a_library"
-    ]
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "education-library-lily-pad-1",
+  "floor": "",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Education Library - Lily Pad 1",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/hills-road/access-guides/faculty-of-education-donald-mcintyre-building#211a1d8a-b912-3e4f-8819-68a6952d8049",
+  "url": "http://www.educ.cam.ac.uk/library/",
+  "term_time_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "email_address": "",
+  "work": [
+    "in_a_library",
+    "close"
+  ],
+  "twitter_screen_name": "edfaclib",
+  "out_of_term_hours": {
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Education Faculty Library",
+  "address": "184 Hills Road, Cambridge, CB2 8PQ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.136944,52.186667]}",
+  "facebook_url": "",
+  "title": "Education Library - Lily Pad 1",
+  "tags": [
+    "cosy",
+    "bottled water only",
+    "no bags",
+    "subject experts",
+    "spacious work area"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 767700",
+  "restricted": false,
+  "id": 85,
+  "image": "/assets/photos/000-163-resized_Lily_Pad_1_-_1.jpg",
+  "description": "T﻿he Education faculty library has over a hundred study spaces. The upper levels of the Library (called Lily Pads) provide some cosy study areas, with some overlooking the front of the building.  You’ll even come across the odd bean bag, too! If you find it more comfortable to stand, then there are 3 standing desks available.\n\nFor current Education Library opening hours, please email the Library team to check before your visit: library@educ.cam.ac.uk\n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.186667
 }
