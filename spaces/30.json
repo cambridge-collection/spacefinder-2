@@ -1,162 +1,162 @@
 {
-  "facilities": [
-    "daylight",
-    "free_wifi",
-    "computers",
-    "laptops_allowed",
-    "sockets",
-    "printers_copiers",
-    "toilets",
-    "bike_racks",
-    "electronic_legal_deposit"
-  ],
-  "atmosphere": [
-    "inspiring",
-    "friendly"
-  ],
-  "access": "Members of the University",
-  "lng": 0.11937,
-  "disabled_access": true,
-  "opening_hours": {
-    "friday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "printers_copiers",
+        "toilets",
+        "bike_racks",
+        "electronic_legal_deposit"
+    ],
+    "atmosphere": [
+        "inspiring",
+        "friendly"
+    ],
+    "access": "Members of the University",
+    "lng": 0.11937,
+    "disabled_access": true,
+    "opening_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        }
     },
-    "monday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+    "slug": "whipple-main-library-level-1",
+    "floor": "First floor",
+    "restriction": "",
+    "published": true,
+    "imagealt": "Whipple Main Library, Level 1",
+    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/whipple-library",
+    "url": "http://www.hps.cam.ac.uk/library/",
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:15",
+            "to": "19:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:15",
+            "to": "19:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:15",
+            "to": "19:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "19:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "19:00"
+        }
     },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+    "email_address": "hpslib@hermes.cam.ac.uk",
+    "work": [
+        "close",
+        "in_a_library"
+    ],
+    "twitter_screen_name": "hpslib",
+    "out_of_term_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:15",
+            "to": "17:00"
+        }
     },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
-    }
-  },
-  "slug": "whipple-main-library-level-1",
-  "floor": "First floor",
-  "restriction": "",
-  "published": true,
-  "imagealt": "Whipple Main Library, Level 1",
-  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/whipple-library",
-  "url": "http://www.hps.cam.ac.uk/library/",
-  "term_time_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:15",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:15",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:15",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:15",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:15",
-      "to": "19:00"
-    }
-  },
-  "email_address": "hpslib@hermes.cam.ac.uk",
-  "work": [
-    "close",
-    "in_a_library"
-  ],
-  "twitter_screen_name": "hpslib",
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:15",
-      "to": "17:00"
-    }
-  },
-  "space_type": "Library space",
-  "building": "Whipple Library",
-  "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
-  "facebook_url": "",
-  "title": "Whipple Main Library, Level 1",
-  "tags": [
-    "bottled water only"
-  ],
-  "noise": "Strictly silent",
-  "phone_number": "01223 334547",
-  "restricted": false,
-  "id": 30,
-  "image": "/assets/photos/000-195-resized_6.jpg",
-  "description": "The Whipple Library is open to all members of the University of Cambridge and to others with an interest in the History and Philosophy of Science.\n\nServices available from the Library include: Click & Collect and Book Returns.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
-  "url_text": "Visit the website",
-  "phone_text": "Phone the space",
-  "lat": 52.20292
+    "space_type": "Library space",
+    "building": "Whipple Library",
+    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.11937,52.20292]}",
+    "facebook_url": "",
+    "title": "Whipple Main Library, Level 1",
+    "tags": [
+        "bottled water only"
+    ],
+    "noise": "Strictly silent",
+    "phone_number": "01223 334547",
+    "restricted": false,
+    "id": 30,
+    "image": "/assets/photos/000-195-resized_6.jpg",
+    "description": "The Whipple Library is open to all members of the University of Cambridge and to others with an interest in the History and Philosophy of Science.\n\nServices available from the Library include: Click & Collect and Book Returns.\n\nFollow the Website link at the bottom of this listing for more details and updates.",
+    "url_text": "Visit the website",
+    "phone_text": "Phone the space",
+    "lat": 52.20292
 }
