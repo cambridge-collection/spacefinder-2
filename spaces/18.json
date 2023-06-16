@@ -1,167 +1,168 @@
 {
-    "access": "Anyone (public)",
-    "address": "Faculty of Classics\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
-    "atmosphere": [
-        "disciplined"
-    ],
-    "building": "Classical Faculty Library",
-    "description": "See the Library website (linked at bottom of this listing) for more details and updates.",
-    "disabled_access": false,
-    "email_address": "library@classics.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/classicalfacultylibrary",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "accessible_toilets",
-        "induction_loops",
-        "adjustable_furniture",
-        "individual_study_space",
-        "bike_racks"
-    ],
-    "floor": "Ground floor",
-    "id": 18,
-    "image": "/assets/photos/000-149-resized_1.jpg",
-    "imagealt": "Classics - Main Library Space",
-    "lat": 52.20063,
-    "lng": 0.11018,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.11018,52.20063]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "induction_loops",
+    "adjustable_furniture",
+    "individual_study_space",
+    "bike_racks",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "disciplined"
+  ],
+  "access": "Anyone (public)",
+  "lng": 0.11018,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "phone_number": "01223 335154",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "classics-main-library-space",
-    "space_type": "Library space",
-    "tags": [
-        "bottled water only",
-        "busy in term",
-        "research book collection"
-    ],
-    "title": "Classics - Main Library Space",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "14:00",
-            "to": "15:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "CFLcam",
-    "url": "http://www.classics.cam.ac.uk/library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "slug": "classics-main-library-space",
+  "floor": "Ground floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Classics - Main Library Space",
+  "url": "http://www.classics.cam.ac.uk/library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "14:00",
+      "to": "15:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    }
+  },
+  "email_address": "library@classics.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "CFLcam",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Classical Faculty Library",
+  "address": "Faculty of Classics\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.11018,52.20063]}",
+  "facebook_url": "https://www.facebook.com/classicalfacultylibrary",
+  "title": "Classics - Main Library Space",
+  "tags": [
+    "bottled water only",
+    "busy in term",
+    "research book collection"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 335154",
+  "restricted": false,
+  "id": 18,
+  "image": "/assets/photos/000-149-resized_1.jpg",
+  "description": "See the Library website (linked at bottom of this listing) for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20063
 }
