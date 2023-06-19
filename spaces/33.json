@@ -111,7 +111,7 @@
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "CamDivLib",
+  "twitter_screen_name": "@CamDivLib",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -152,7 +152,7 @@
   "space_type": "Library space",
   "building": "Divinity Faculty Library",
   "address": "West Road\r\nCambridge\r\nCB3 9BS",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10798,52.20178]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1079991,52.2017712]}",
   "facebook_url": "",
   "title": "Divinity Library - Entrance floor",
   "tags": [],
@@ -161,7 +161,7 @@
   "restricted": false,
   "id": 33,
   "image": "/assets/photos/000-016-resized_Divinity_Ground.jpg",
-  "description": "The physical Library space is open for studying. The Library is currently open: 9am to 1pm and 2pm to 5pm Monday to Friday during the long vacation. \r\n\r\nFollow the Website link at the bottom of the listing for more details and updates.",
+  "description": "The physical Library space is open for studying. The Library is currently open: 9am to 5pm Monday to Friday during the long vacation. \n\nFollow the Website link at the bottom of the listing for more details and updates.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20178
