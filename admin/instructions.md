@@ -19,13 +19,15 @@ layout: text-page
 
 ## Introduction
 
-> You will need a GitHub account in order to edit the data. If you don’t have one, signup at: <https://github.com/signup>. Please remember to follow all the instructions that GitHub sends you, including the one asks you to click on a link and enter a special code.
+> You will need a GitHub account in order to edit the data. If you don’t have one, signup at: <https://github.com/signup>. 
+> 
+> Please follow the instructions in all the emails that GitHub sends you, including the one asks you to click on a link and enter a code to validate your email address.
 >
-> Please contact us after you’ve signed up to us your github user name. We’ll then give you access to the spaces data repository.
+> After you have verified your email address in GitHub, please contact us with your GitHub username and we will give you access to the spaces data repository.
 
 The admin interface is available at: <https://spacefinder.lib.cam.ac.uk/admin>
 
-> Changes should be available on the site within a few minutes. You likely won’t see them yourself, however, due to the old data being cached in your browser. To see your changes, please wait 30 minutes and then [perform a full refresh of Spacefinder](#performing-a-full-refresh-of-spacefinder).
+> Changes should be available on the site within a few minutes. You likely won’t see them yourself because your browser will be using a locally cached version of the old data. To see your changes, please wait 30 minutes and then [perform a full refresh of Spacefinder](#performing-a-full-refresh-of-spacefinder).
 
 ## Logging In
 
