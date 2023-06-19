@@ -23,7 +23,7 @@ layout: text-page
 >
 > Please contact us after you’ve signed up to us your github user name. We’ll then give you access to the spaces data repository.
 
-The admin interface is available at: <https://spacefinder-2.lib.cam.ac.uk/admin>
+The admin interface is available at: <https://spacefinder.lib.cam.ac.uk/admin>
 
 > Changes should be available on the site within a few minutes. You likely won’t see them yourself, however, due to the old data being cached in your browser. To see your changes, please wait 30 minutes and then [perform a full refresh of Spacefinder](#performing-a-full-refresh-of-spacefinder).
 

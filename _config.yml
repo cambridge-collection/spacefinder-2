@@ -6,7 +6,7 @@ description: >-
   via a map.
 environment: production
 baseurl: "/"
-url: "https://spacefinder-2.lib.cam.ac.uk"
+url: "https://spacefinder.lib.cam.ac.uk"
 host: "localhost"
 google_analytics: ""
 photo_dir: "/assets/photos/"
