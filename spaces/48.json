@@ -1,170 +1,170 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "accessible_toilets",
-        "bike_racks",
-        "gender_neutral_toilets",
-        "printers_copiers"
-    ],
-    "atmosphere": [
-        "disciplined",
-        "historic",
-        "inspiring",
-        "friendly"
-    ],
-    "access": "Members of the University",
-    "lng": 0.12108,
-    "disabled_access": false,
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "accessible_toilets",
+    "bike_racks",
+    "gender_neutral_toilets",
+    "printers_copiers"
+  ],
+  "atmosphere": [
+    "disciplined",
+    "historic",
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.12108,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:30",
+      "to": "16:30"
     },
-    "slug": "balfour-newton-main-library",
-    "floor": "First floor",
-    "restriction": "Access is through a controlled reception area. Department members with card access can visit outside of opening hours. Summer Vacation opening hours vary - check the library website for details.",
-    "published": true,
-    "imagealt": "Zoology Library - Main Study Area",
-    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/department-of-zoology-zoology-building",
-    "url": "https://bio.lib.cam.ac.uk/zoology-library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
     },
-    "email_address": "library@zoo.cam.ac.uk",
-    "work": [
-        "close",
-        "in_a_library"
-    ],
-    "twitter_screen_name": "",
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "space_type": "Library space",
-    "building": "Zoology Library, Department of Zoology",
-    "address": "Department of Zoology, Downing Street, Cambridge, CB2 3EJ",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12108,52.20314]}",
-    "facebook_url": "",
-    "title": "Zoology Library - Main Study Area",
-    "tags": [
-        "bottled water only",
-        "traffic noise",
-        "mobile phones on silent"
-    ],
-    "noise": "Whispers",
-    "phone_number": "(01223) 336648",
-    "restricted": true,
-    "id": 48,
-    "image": "/assets/photos/000-086-resized_5.jpg",
-    "description": "Pleasant circular study space with a high domed ceiling and plenty of natural light. Open plan desk space with fluorescent reading lamp overhead. Six alcoves with individual desks between bookshelves.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20314
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "slug": "balfour-newton-main-library",
+  "floor": "First floor",
+  "restriction": "Access is through a controlled reception area. Department members with card access can visit outside of opening hours. Summer Vacation opening hours vary - check the library website for details.",
+  "published": true,
+  "imagealt": "Zoology Library - Main Study Area",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/department-of-zoology-zoology-building",
+  "url": "https://bio.lib.cam.ac.uk/zoology-library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "email_address": "library@zoo.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Zoology Library, Department of Zoology",
+  "address": "Downing Street, Cambridge, CB2 3EJ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12108,52.20314]}",
+  "facebook_url": "",
+  "title": "Zoology Library - Main Study Area",
+  "tags": [
+    "bottled water only",
+    "traffic noise",
+    "mobile phones on silent"
+  ],
+  "noise": "Whispers",
+  "phone_number": "(01223) 336648",
+  "restricted": true,
+  "id": 48,
+  "image": "/assets/photos/000-086-resized_5.jpg",
+  "description": "Pleasant circular study space with a high domed ceiling and plenty of natural light. Open plan desk space with fluorescent reading lamp overhead. Six alcoves with individual desks between bookshelves.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20314
 }
