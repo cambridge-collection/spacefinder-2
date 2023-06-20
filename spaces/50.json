@@ -1,167 +1,167 @@
 {
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "accessible_toilets",
-        "bike_racks",
-        "gender_neutral_toilets"
-    ],
-    "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly"
-    ],
-    "access": "Members of the University",
-    "lng": 0.12108,
-    "disabled_access": false,
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "accessible_toilets",
+    "bike_racks",
+    "gender_neutral_toilets"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.12108,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:30",
+      "to": "16:30"
     },
-    "slug": "balfour-newton-newton-room",
-    "floor": "First floor",
-    "restriction": "Access is through a controlled reception area. Department members with card access can visit outside of opening hours. Summer Vacation opening hours vary - see the library website for more details.",
-    "published": true,
-    "imagealt": "Zoology Library - Newton Room",
-    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/department-of-zoology-zoology-building",
-    "url": "https://bio.lib.cam.ac.uk/zoology-library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
     },
-    "email_address": "library@zoo.cam.ac.uk",
-    "work": [
-        "close",
-        "in_a_library"
-    ],
-    "twitter_screen_name": "",
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "space_type": "Library space",
-    "building": "Zoology Library, Department of Zoology",
-    "address": "Department of Zoology, Downing Street, Cambridge, CB2 3EJ",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12108,52.20314]}",
-    "facebook_url": "",
-    "title": "Zoology Library - Newton Room",
-    "tags": [
-        "traffic noise",
-        "mobile phones on silent",
-        "bottled water only"
-    ],
-    "noise": "Whispers",
-    "phone_number": "(01223) 336648",
-    "restricted": true,
-    "id": 50,
-    "image": "/assets/photos/000-083-resized_1.jpg",
-    "description": "Small study area with one large desk and four seats and two smaller desks with two seats each.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20314
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "slug": "balfour-newton-newton-room",
+  "floor": "First floor",
+  "restriction": "Access is through a controlled reception area. Department members with card access can visit outside of opening hours. Summer Vacation opening hours vary - see the library website for more details.",
+  "published": true,
+  "imagealt": "Zoology Library - Newton Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/new-museums-site/access-guides/department-of-zoology-zoology-building",
+  "url": "https://bio.lib.cam.ac.uk/zoology-library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "email_address": "library@zoo.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Zoology Library, Department of Zoology",
+  "address": "Downing Street, Cambridge, CB2 3EJ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12108,52.20314]}",
+  "facebook_url": "",
+  "title": "Zoology Library - Newton Room",
+  "tags": [
+    "traffic noise",
+    "mobile phones on silent",
+    "bottled water only"
+  ],
+  "noise": "Whispers",
+  "phone_number": "(01223) 336648",
+  "restricted": true,
+  "id": 50,
+  "image": "/assets/photos/000-083-resized_1.jpg",
+  "description": "Small study area with one large desk and four seats and two smaller desks with two seats each.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20314
 }
