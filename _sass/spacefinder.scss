@@ -19,7 +19,8 @@
   }
 }
 */
-[class^="icon-"]:before, [class*=" icon-"]:before {
+[class^="icon-"]:before, [class*=" icon-"]:before, [class^="icon-"]:after, [class*=" icon-"]:after {
+  /* After pseudoselector added to ensure that the close icon appears correctly when listing filters */
   font-family: "spacefinder";
   font-style: normal;
   font-weight: normal;
