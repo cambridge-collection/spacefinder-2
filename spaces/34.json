@@ -1,165 +1,165 @@
 {
-    "access": "Members of the University",
-    "address": "West Road\r\nCambridge\r\nCB3 9BS",
-    "atmosphere": [
-        "modern",
-        "inspiring",
-        "friendly"
-    ],
-    "building": "Divinity Faculty Library",
-    "description": "The physical Library space is opent for studying, browsing and borrowing. The Library is open 9am - 1pm and 2pm - 5pm during the Long Vacation.\r\n\r\nFollow the Website link at the bottom of the listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "library@divinity.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "Second floor",
-    "id": 34,
-    "image": "/assets/photos/000-020-resized_Divinity_Mezzanine.jpg",
-    "imagealt": "Divinity Library - Mezzanine",
-    "lat": 52.20178,
-    "lng": 0.10798,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10798,52.20178]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "atmosphere": [
+    "modern",
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.10798,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 763040",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "divinity-library-mezzanine",
-    "space_type": "Library space",
-    "tags": [],
-    "title": "Divinity Library - Mezzanine",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "18:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "CamDivLib",
-    "url": "www.divinity.cam.ac.uk/library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "divinity-library-mezzanine",
+  "floor": "Second floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Divinity Library - Mezzanine",
+  "url": "www.divinity.cam.ac.uk/library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    }
+  },
+  "email_address": "library@divinity.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "CamDivLib",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Divinity Faculty Library",
+  "address": "West Road\r\nCambridge\r\nCB3 9BS",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.107977,52.2017778]}",
+  "facebook_url": "",
+  "title": "Divinity Library - Mezzanine",
+  "tags": [],
+  "noise": "Whispers",
+  "phone_number": "01223 763040",
+  "restricted": false,
+  "id": 34,
+  "image": "/assets/photos/000-020-resized_Divinity_Mezzanine.jpg",
+  "description": "The physical Library space is opent for studying, browsing and borrowing. The Library is open 9am - 5pm during the Long Vacation.\n\nFollow the Website link at the bottom of the listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20178
 }
