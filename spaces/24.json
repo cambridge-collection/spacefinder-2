@@ -1,166 +1,166 @@
 {
-    "access": "Faculty",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "atmosphere": [
-        "historic"
-    ],
-    "building": "Pendlebury Library of Music",
-    "description": "Dedicated study space for Faculty of Music Graduate students",
-    "disabled_access": false,
-    "email_address": "Pendlebury@mus.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "toilets",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
-    ],
-    "floor": "Ground floor",
-    "id": 24,
-    "image": "",
-    "imagealt": "Music: Faculty Graduate Room",
-    "lat": 52.20216,
-    "lng": 0.10791,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "toilets",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "bike_racks"
+  ],
+  "atmosphere": [
+    "historic"
+  ],
+  "access": "Faculty",
+  "lng": 0.10791,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
     },
-    "phone_number": "01223335182",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "Faculty of Music Graduate students only",
-    "slug": "music-faculty-graduate-room",
-    "space_type": "Library space",
-    "tags": [
-        "keyboard",
-        "headphones"
-    ],
-    "title": "Music: Faculty Graduate Room",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "PendleburyLib",
-    "url": "http://pendlebury.mus.cam.ac.uk/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    }
+  },
+  "slug": "music-faculty-graduate-room",
+  "floor": "Ground floor",
+  "restriction": "Faculty of Music Graduate students only",
+  "published": true,
+  "imagealt": "Music: Faculty Graduate Room",
+  "url": "http://pendlebury.mus.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    }
+  },
+  "email_address": "Pendlebury@mus.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "PendleburyLib",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Pendlebury Library of Music",
+  "address": "11 West Road, Cambridge, CB3 9DP",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
+  "facebook_url": "https://www.facebook.com/Penlib",
+  "title": "Music: Faculty Graduate Room",
+  "tags": [
+    "keyboard",
+    "headphones"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223335182",
+  "restricted": true,
+  "id": 24,
+  "image": "/assets/photos/faculty-graduate-room-resized.jpg",
+  "description": "Dedicated study space for Faculty of Music Graduate students",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20216
 }
