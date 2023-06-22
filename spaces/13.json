@@ -1,175 +1,175 @@
 {
-    "access": "Members of the University",
-    "address": "9 West Road, Cambridge, CB3 9DP",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring"
-    ],
-    "building": "English Faculty Library",
-    "description": "Follow the Website link at the bottom of this listing for more details and updates. Contact the library staff to book this space.",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/English-Faculty-Library-University-of-Cambridge/28041366487?fref=ts",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "bookable",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "accessible_toilets",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "smoking_area"
-    ],
-    "floor": "First floor",
-    "id": 13,
-    "image": "/assets/photos/000-063-resized_Top_Floor_Computer_Room.jpg",
-    "imagealt": "English - IT Training Suite",
-    "lat": 52.202251,
-    "lng": 0.108416,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "bookable",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "printers_copiers"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring"
+  ],
+  "access": "Members of the University",
+  "lng": 0.108416,
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
     },
-    "phone_number": "01223 335077",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "Booking required",
-    "slug": "english-it-training-suite",
-    "space_type": "Library space",
-    "tags": [
-        "bookable",
-        "laptops",
-        "projectors",
-        "group study room",
-        "no food or drink allowed"
-    ],
-    "title": "English - IT Training Suite",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "10:00",
-            "to": "18:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "10:00",
-            "to": "18:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "eflcam",
-    "url": "https://libguides.cam.ac.uk/efl-covid/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:00"
+    }
+  },
+  "slug": "english-it-training-suite",
+  "floor": "First floor",
+  "restriction": "Booking required",
+  "published": true,
+  "imagealt": "English - IT Training Suite",
+  "url": "https://calendars.libraries.cam.ac.uk/calendar/english_studyspace?cid=7750&t=m&d=2022-11&cal=7750&inc=0",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "11:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "19:00"
+    }
+  },
+  "email_address": "",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "eflcam",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "English Faculty Library",
+  "address": "9 West Road, Cambridge, CB3 9DP",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.108416,52.202251]}",
+  "facebook_url": "",
+  "title": "English - IT Training Suite",
+  "tags": [
+    "bookable",
+    "laptops",
+    "projectors",
+    "group study room",
+    "no food or drink allowed"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "01223 335077",
+  "restricted": false,
+  "id": 13,
+  "image": "/assets/photos/000-063-resized_Top_Floor_Computer_Room.jpg",
+  "description": "Follow the Website link at the bottom of this listing for more details and updates. Contact the library staff to book this space.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.202251
 }
