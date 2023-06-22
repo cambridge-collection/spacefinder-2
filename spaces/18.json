@@ -12,9 +12,9 @@
     "accessible_toilets",
     "induction_loops",
     "adjustable_furniture",
-    "individual_study_space",
     "bike_racks",
-    "electronic_legal_deposit"
+    "electronic_legal_deposit",
+    "printers_copiers"
   ],
   "atmosphere": [
     "disciplined"
@@ -161,7 +161,7 @@
   "restricted": false,
   "id": 18,
   "image": "/assets/photos/000-149-resized_1.jpg",
-  "description": "See the Library website (linked at bottom of this listing) for more details and updates.",
+  "description": "See the Library website (linked in key facts section) for more details and updates.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20063
