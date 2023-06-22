@@ -111,13 +111,13 @@
   "out_of_term_hours": {
     "friday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:00"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "monday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:00"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "saturday": {
       "open": false,
@@ -131,18 +131,18 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:00"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:00"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:00"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     }
   },
   "space_type": "Library space",
