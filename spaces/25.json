@@ -1,163 +1,163 @@
 {
-    "access": "Faculty",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "atmosphere": [
-        "modern",
-        "inspiring"
-    ],
-    "building": "Pendlebury Library of Music",
-    "description": "The Dent Room houses the Early Music collections.",
-    "disabled_access": false,
-    "email_address": "Pendlebury@mus.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "facilities": [
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "toilets",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks"
-    ],
-    "floor": "Ground floor",
-    "id": 25,
-    "image": "/assets/photos/000-158-resized_4.jpg",
-    "imagealt": "Music: Dent Room",
-    "lat": 52.20216,
-    "lng": 0.10791,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-    "noise": "Strictly silent",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        }
+  "facilities": [
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "toilets",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "bike_racks"
+  ],
+  "atmosphere": [
+    "modern",
+    "inspiring"
+  ],
+  "access": "Faculty",
+  "lng": 0.10791,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
     },
-    "phone_number": "01223335182",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "Electronic door lock - restricted entry to Music Faculty staff and students via University card. Monitored by CCTV.",
-    "slug": "music-dent-room",
-    "space_type": "Library space",
-    "tags": [
-        "digital scanner for microfilms"
-    ],
-    "title": "Music: Dent Room",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:30",
-            "to": "12:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "MusiCB3t",
-    "url": "http://pendlebury.mus.cam.ac.uk/",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:00"
+    }
+  },
+  "slug": "music-dent-room",
+  "floor": "Ground floor",
+  "restriction": "Electronic door lock - restricted entry to Music Faculty staff and students via University card. Monitored by CCTV.",
+  "published": true,
+  "imagealt": "Music: Dent Room",
+  "url": "http://pendlebury.mus.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:30",
+      "to": "12:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    }
+  },
+  "email_address": "Pendlebury@mus.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "MusiCB3t",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Pendlebury Library of Music",
+  "address": "11 West Road, Cambridge, CB3 9DP",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
+  "facebook_url": "https://www.facebook.com/Penlib",
+  "title": "Music: Dent Room",
+  "tags": [
+    "digital scanner for microfilms"
+  ],
+  "noise": "Strictly silent",
+  "phone_number": "01223335182",
+  "restricted": true,
+  "id": 25,
+  "image": "/assets/photos/000-158-resized_4.jpg",
+  "description": "The Dent Room houses the Early Music collections.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20216
 }
