@@ -5,29 +5,30 @@ const fs = require('fs');
 const path = require('path');
 
 /* get a list of files from the spaces directory */
-const spacefiles = fs.readdirSync( path.resolve( __dirname, '../spaces' ), { encoding: 'utf8' } );
+const spacefiles = fs.readdirSync( path.resolve( __dirname, '../spaces' ), { encoding: 'utf8' } )
+    .filter(file => {
+        return path.extname(file).toLowerCase() === '.json';
+    });
 /* loop through the files */
 spacefiles.forEach( filename => {
-    if ( filename !== '.' && filename !== '..' ) {
-        /* read file */
-        let spaceData = fs.readFileSync( path.resolve( __dirname, '../spaces/', filename ) );
-        /* parse file contents */
-        const spaceJSON = JSON.parse( spaceData );
-        /* parse GeoJSON string in location */
-        let geoJSON = JSON.parse( spaceJSON.location );
+    /* read file */
+    let spaceData = fs.readFileSync(path.resolve(__dirname, '../spaces/', filename));
+    /* parse file contents */
+    const spaceJSON = JSON.parse(spaceData);
+    /* parse GeoJSON string in location */
+    let geoJSON = JSON.parse(spaceJSON.location);
 
-        /*--------------*/
-        /* process data */
-        /*--------------*/
+    /*--------------*/
+    /* process data */
+    /*--------------*/
 
-        /* write results to file */
-        fs.writeFile( path.resolve( __dirname, '../spaces/'+spaceJSON.id+'.json' ), JSON.stringify( spaceJSON, null, '    ' ), err => {
-            if (err) {
-                console.error( err );
-                return;
-            }
-        });
-    }
+    /* write results to file */
+    fs.writeFile(path.resolve(__dirname, '../spaces/' + spaceJSON.id + '.json'), JSON.stringify(spaceJSON, null, 2), err => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+    });
 });
 
 /**

@@ -17,41 +17,40 @@ fs.readFile( path.resolve( __dirname, '../_data/ucam-term-times.ics' ), "utf8", 
     const currentDateInFullTerm = isFullTerm( termEvents );
 
     // Get list of space files
-    const spaceFiles = fs.readdirSync(path.resolve(__dirname, '../spaces'), {encoding: 'utf8'});
+    const spaceFiles = fs.readdirSync(path.resolve(__dirname, '../spaces'), {encoding: 'utf8'})
+        .filter(file => {
+            return path.extname(file).toLowerCase() === '.json';
+        });
     console.log( "Space files: " + spaceFiles.length + ' files found.' );
 
     // Loop through each file and update opening hours
     spaceFiles.forEach(filename => {
-        if (filename !== '.' && filename !== '..') {
+        fs.readFile(path.resolve(__dirname, '../spaces/', filename), "utf8", (err, spaceData) => {
+            const spaceJson = JSON.parse(spaceData);
+            let update = false;
+            // Term opening hours
+            if (currentDateInFullTerm &&
+                !isOpeningHoursEqual(spaceJson.opening_hours, spaceJson.term_time_hours)) {
+                spaceJson.opening_hours = spaceJson.term_time_hours;
+                update = true;
+            }
+            // Out-of-term opening hours
+            else if (!currentDateInFullTerm &&
+                !isOpeningHoursEqual(spaceJson.opening_hours, spaceJson.out_of_term_hours)) {
+                spaceJson.opening_hours = spaceJson.out_of_term_hours
+                update = true;
+            }
 
-            fs.readFile( path.resolve(__dirname, '../spaces/', filename), "utf8", (err, spaceData) => {
-                const spaceJson = JSON.parse( spaceData );
-                let update = false;
-
-                // Term opening hours
-                if ( currentDateInFullTerm &&
-                        !isOpeningHoursEqual( spaceJson.opening_hours, spaceJson.term_time_hours ) ) {
-                    spaceJson.opening_hours = spaceJson.term_time_hours;
-                    update = true;
-                }
-                // Out-of-term opening hours
-                else if ( !currentDateInFullTerm &&
-                        !isOpeningHoursEqual( spaceJson.opening_hours, spaceJson.out_of_term_hours ) ) {
-                    spaceJson.opening_hours = spaceJson.out_of_term_hours
-                    update = true;
-                }
-
-                if ( update ) {
-                    fs.writeFile(path.resolve(__dirname, '../spaces/' + spaceJson.id + '.json'),
-                        JSON.stringify(spaceJson, null, '    '), err => {
-                            if (err) {
-                                console.error(err);
-                            }
-                        });
-                    console.log('Updated space file opening hours: ' + filename);
-                }
-            });
-        }
+            if (update) {
+                fs.writeFile(path.resolve(__dirname, '../spaces/' + spaceJson.id + '.json'),
+                    JSON.stringify(spaceJson, null, 2), err => {
+                        if (err) {
+                            console.error(err);
+                        }
+                    });
+                console.log('Updated space file opening hours: ' + filename);
+            }
+        });
     });
 });
 
