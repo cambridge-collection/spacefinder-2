@@ -1,171 +1,171 @@
 {
-    "access": "Members of the University",
-    "address": "Careers Service Library,\r\nStudent Services Centre,\r\nBene’t Street,\r\nCB2 3PT",
-    "atmosphere": [
-        "relaxed",
-        "historic",
-        "inspiring",
-        "friendly"
-    ],
-    "building": "",
-    "description": "Due to the implications of COVID-19, please contact the Careers Service Library direct regarding their current access arrangements.",
-    "disabled_access": false,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/unicamcareers",
-    "facilities": [
-        "daylight",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "baby_changing",
-        "prayer_room"
-    ],
-    "floor": "",
-    "id": 77,
-    "image": "/assets/photos/000-516-resized_32910930427_2e0c60c216_o.jpg",
-    "imagealt": "Careers Service Library",
-    "lat": 52.203867,
-    "lng": 0.119162,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.119162,52.203867]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "daylight",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "baby_changing",
+    "prayer_room"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "historic",
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.119162,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 746708",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "Please contact the Careers Service Library regarding their current access arrangements.",
-    "slug": "careers-service-library",
-    "space_type": "Library space",
-    "tags": [
-        "open",
-        "light",
-        "architecture"
-    ],
-    "title": "Careers Service Library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "unicamcareers",
-    "url": "https://www.careers.cam.ac.uk/library/index.asp",
-    "url_text": "Visit the website",
-    "work": [
-        "close"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "careers-service-library",
+  "floor": "",
+  "restriction": "Please contact the Careers Service Library regarding their current access arrangements.",
+  "published": false,
+  "imagealt": "Careers Service Library",
+  "url": "https://www.careers.cam.ac.uk/library/index.asp",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "",
+  "work": [
+    "close"
+  ],
+  "twitter_screen_name": "unicamcareers",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "",
+  "address": "Careers Service Library,\r\nStudent Services Centre,\r\nBene’t Street,\r\nCB2 3PT",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.119162,52.203867]}",
+  "facebook_url": "https://www.facebook.com/unicamcareers",
+  "title": "Careers Service Library",
+  "tags": [
+    "open",
+    "light",
+    "architecture"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 746708",
+  "restricted": false,
+  "id": 77,
+  "image": "/assets/photos/000-516-resized_32910930427_2e0c60c216_o.jpg",
+  "description": "Due to the implications of COVID-19, please contact the Careers Service Library direct regarding their current access arrangements.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.203867
 }
