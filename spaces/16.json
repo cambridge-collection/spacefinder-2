@@ -1,179 +1,179 @@
 {
-    "access": "Members of the University",
-    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
-    "atmosphere": [
-        "disciplined",
-        "relaxed",
-        "modern",
-        "inspiring",
-        "friendly"
-    ],
-    "building": "Cambridge Judge Business School Information Centre",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "Mezzanine",
-    "id": 16,
-    "image": "/assets/photos/000-027-resized_CJBS_Mezzanine_1.jpg",
-    "imagealt": "Cambridge Judge Business School Information Centre - Mezzanine",
-    "lat": 52.19998,
-    "lng": 0.12171,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12171,52.19998]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "access": "Members of the University",
+  "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
+  "atmosphere": [
+    "disciplined",
+    "relaxed",
+    "modern",
+    "inspiring",
+    "friendly"
+  ],
+  "building": "Cambridge Judge Business School Information Centre",
+  "description": "",
+  "disabled_access": true,
+  "email_address": "",
+  "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "floor": "Mezzanine",
+  "id": 16,
+  "image": "/assets/photos/000-027-resized_CJBS_Mezzanine_1.jpg",
+  "imagealt": "Cambridge Judge Business School Information Centre - Mezzanine",
+  "lat": 52.19998,
+  "lng": 0.12171,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12171,52.19998]}",
+  "noise": "Whispers",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 339599",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "cambridge-judge-business-school-information-centre-mezzanine",
-    "space_type": "Library space",
-    "tags": [
-        "quiet",
-        "warm",
-        "friendly",
-        "modern",
-        "light",
-        "silent solo work",
-        "toilets",
-        "disabled access",
-        "wifi",
-        "computing facilities",
-        "printing facilities",
-        "food and drink allowed"
-    ],
-    "title": "Cambridge Judge Business School Information Centre - Mezzanine",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:45",
-            "to": "18:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:45",
-            "to": "18:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:45",
-            "to": "18:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:45",
-            "to": "18:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:45",
-            "to": "18:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "CJBSInfoLib",
-    "url": "http://www.jbs.cam.ac.uk/infolib",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "phone_number": "01223 339599",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "cambridge-judge-business-school-information-centre-mezzanine",
+  "space_type": "Library space",
+  "tags": [
+    "quiet",
+    "warm",
+    "friendly",
+    "modern",
+    "light",
+    "silent solo work",
+    "toilets",
+    "disabled access",
+    "wifi",
+    "computing facilities",
+    "printing facilities",
+    "food and drink allowed"
+  ],
+  "title": "Cambridge Judge Business School Information Centre - Mezzanine",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:45",
+      "to": "18:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:45",
+      "to": "18:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:45",
+      "to": "18:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "18:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "18:00"
+    }
+  },
+  "twitter_screen_name": "CJBSInfoLib",
+  "url": "http://www.jbs.cam.ac.uk/infolib",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ]
 }

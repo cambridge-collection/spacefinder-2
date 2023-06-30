@@ -1,180 +1,180 @@
 {
-    "access": "Members of the University",
-    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring",
-        "social",
-        "friendly"
-    ],
-    "building": "Cambridge Judge Business School Information Centre",
-    "description": "",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "",
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "First floor",
-    "id": 14,
-    "image": "/assets/photos/000-026-resized_Common_Room.jpg",
-    "imagealt": "Cambridge Judge Business School Cafe",
-    "lat": 52.19998,
-    "lng": 0.12171,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12171,52.19998]}",
-    "noise": "Animated discussion",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        }
+  "access": "Members of the University",
+  "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "social",
+    "friendly"
+  ],
+  "building": "Cambridge Judge Business School Information Centre",
+  "description": "",
+  "disabled_access": true,
+  "email_address": "",
+  "facebook_url": "",
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "views",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "floor": "First floor",
+  "id": 14,
+  "image": "/assets/photos/000-026-resized_Common_Room.jpg",
+  "imagealt": "Cambridge Judge Business School Cafe",
+  "lat": 52.19998,
+  "lng": 0.12171,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12171,52.19998]}",
+  "noise": "Animated discussion",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
     },
-    "phone_number": "",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "cambridge-judge-business-school-cafe",
-    "space_type": "Café",
-    "tags": [
-        "food and drink",
-        "noise",
-        "busy",
-        "coffee",
-        "snacks",
-        "light",
-        "group work",
-        "comfy seating",
-        "sofas",
-        "toilets",
-        "disabled access",
-        "modern",
-        "wifi"
-    ],
-    "title": "Cambridge Judge Business School Cafe",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "08:30",
-            "to": "16:30"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/cafe-judge-business-school",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    }
+  },
+  "phone_number": "",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "cambridge-judge-business-school-cafe",
+  "space_type": "Café",
+  "tags": [
+    "food and drink",
+    "noise",
+    "busy",
+    "coffee",
+    "snacks",
+    "light",
+    "group work",
+    "comfy seating",
+    "sofas",
+    "toilets",
+    "disabled access",
+    "modern",
+    "wifi"
+  ],
+  "title": "Cambridge Judge Business School Cafe",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:30",
+      "to": "16:30"
+    }
+  },
+  "twitter_screen_name": "",
+  "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/cafe-judge-business-school",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library",
+    "private"
+  ]
 }

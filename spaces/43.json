@@ -1,183 +1,183 @@
 {
-    "access": "Anyone (public)",
-    "address": "Fitzwilliam Museum\r\nTrumpington Street\r\nCambridge \r\nCB2 1RB",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "inspiring",
-        "cosy",
-        "friendly"
-    ],
-    "building": "Fitzwilliam Museum Library.",
-    "description": "The Reference Library is open to all, and holds materials relating to the Fitzwilliam Museum's collections. A small space, close to the busy museum café but with views out to the garden of Grove Lodge, with lots of natural light.\r\n\r\nEveryone is welcome but booked spaces will take precedence over walk-ups. You can book in advance either by emailing the library or using the enquiry form on the website.",
-    "disabled_access": true,
-    "email_address": "fitzmuseum-library@lists.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "bookable",
-        "toilets",
-        "refreshments",
-        "break",
-        "wheelchair_accessible",
-        "accessible_toilets",
-        "adjustable_furniture",
-        "gender_neutral_toilets",
-        "bike_racks",
-        "baby_changing"
-    ],
-    "floor": "Ground floor",
-    "id": 43,
-    "image": "/assets/photos/000-489-resized_1237552_10100654596480570_1917270310_n.jpg",
-    "imagealt": "Fitzwilliam Museum Reference Library",
-    "lat": 52.19957,
-    "lng": 0.12033,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12033,52.19957]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        }
+  "access": "Anyone (public)",
+  "address": "Fitzwilliam Museum\r\nTrumpington Street\r\nCambridge \r\nCB2 1RB",
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "cosy",
+    "friendly"
+  ],
+  "building": "Fitzwilliam Museum Library.",
+  "description": "The Reference Library is open to all, and holds materials relating to the Fitzwilliam Museum's collections. A small space, close to the busy museum café but with views out to the garden of Grove Lodge, with lots of natural light.\r\n\r\nEveryone is welcome but booked spaces will take precedence over walk-ups. You can book in advance either by emailing the library or using the enquiry form on the website.",
+  "disabled_access": true,
+  "email_address": "fitzmuseum-library@lists.cam.ac.uk",
+  "facebook_url": "",
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "bookable",
+    "toilets",
+    "refreshments",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "adjustable_furniture",
+    "gender_neutral_toilets",
+    "bike_racks",
+    "baby_changing"
+  ],
+  "floor": "Ground floor",
+  "id": 43,
+  "image": "/assets/photos/000-489-resized_1237552_10100654596480570_1917270310_n.jpg",
+  "imagealt": "Fitzwilliam Museum Reference Library",
+  "lat": 52.19957,
+  "lng": 0.12033,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12033,52.19957]}",
+  "noise": "Background chatter",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        }
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "phone_number": "01223 764398 / 01223 332910",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": true,
-    "restriction": "If requesting materials you must book in advance. Walk-ups are permitted if there's space available.",
-    "slug": "fitzwilliam-museum-reference-library",
-    "space_type": "Library space",
-    "tags": [
-        "usually peaceful",
-        "secure",
-        "fitz",
-        "natural light",
-        "bottled water only",
-        "bags allowed",
-        "research",
-        "open plan",
-        "inclusive"
-    ],
-    "title": "Fitzwilliam Museum Reference Library",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "16:30"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "https://www.fitzmuseum.cam.ac.uk/research/reference-library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    }
+  },
+  "phone_number": "01223 764398 / 01223 332910",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": true,
+  "restriction": "If requesting materials you must book in advance. Walk-ups are permitted if there's space available.",
+  "slug": "fitzwilliam-museum-reference-library",
+  "space_type": "Library space",
+  "tags": [
+    "usually peaceful",
+    "secure",
+    "fitz",
+    "natural light",
+    "bottled water only",
+    "bags allowed",
+    "research",
+    "open plan",
+    "inclusive"
+  ],
+  "title": "Fitzwilliam Museum Reference Library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "16:30"
+    }
+  },
+  "twitter_screen_name": "",
+  "url": "https://www.fitzmuseum.cam.ac.uk/research/reference-library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ]
 }

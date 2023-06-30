@@ -1,172 +1,172 @@
 {
-    "access": "Anyone (public)",
-    "address": "Modern and Medieval Languages and Linguistics Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA\r\n",
-    "atmosphere": [
-        "disciplined",
-        "modern",
-        "friendly"
-    ],
-    "building": "Modern & Medieval Languages Library",
-    "description": "Light and airy space, open plan or desks for two people. Bookable room for group study (Room 224), ask at desk on first floor for booking.",
-    "disabled_access": true,
-    "email_address": "library@mmll.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "accessible_toilets",
-        "individual_study_space",
-        "gender_neutral_toilets"
-    ],
-    "floor": "Second floor",
-    "id": 37,
-    "image": "/assets/photos/000-108-resized_4.jpg",
-    "imagealt": "MMLL - Second floor",
-    "lat": 52.201439,
-    "lng": 0.109627,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.109627,52.201439]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "access": "Anyone (public)",
+  "address": "Modern and Medieval Languages and Linguistics Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA\r\n",
+  "atmosphere": [
+    "disciplined",
+    "modern",
+    "friendly"
+  ],
+  "building": "Modern & Medieval Languages Library",
+  "description": "Light and airy space, open plan or desks for two people. Bookable room for group study (Room 224), ask at desk on first floor for booking.",
+  "disabled_access": true,
+  "email_address": "library@mmll.cam.ac.uk",
+  "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "accessible_toilets",
+    "individual_study_space",
+    "gender_neutral_toilets"
+  ],
+  "floor": "Second floor",
+  "id": 37,
+  "image": "/assets/photos/000-108-resized_4.jpg",
+  "imagealt": "MMLL - Second floor",
+  "lat": 52.201439,
+  "lng": 0.109627,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.109627,52.201439]}",
+  "noise": "Whispers",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "01223 335041",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "Limited wheelchair access at present, access to this space during our opening hours, see our website for up to date information.",
-    "slug": "mmll-second-floor",
-    "space_type": "Library space",
-    "tags": [
-        "bottled water only",
-        "no food",
-        "quiet",
-        "open plan"
-    ],
-    "title": "MMLL - Second floor",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "11:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "mmllib",
-    "url": "http://www.mml.cam.ac.uk/library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "phone_number": "01223 335041",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "Limited wheelchair access at present, access to this space during our opening hours, see our website for up to date information.",
+  "slug": "mmll-second-floor",
+  "space_type": "Library space",
+  "tags": [
+    "bottled water only",
+    "no food",
+    "quiet",
+    "open plan"
+  ],
+  "title": "MMLL - Second floor",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "11:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "twitter_screen_name": "mmllib",
+  "url": "http://www.mml.cam.ac.uk/library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "group",
+    "in_a_library",
+    "private"
+  ]
 }

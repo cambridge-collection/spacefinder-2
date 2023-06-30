@@ -1,167 +1,167 @@
 {
-    "access": "Anyone (public)",
-    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-    "atmosphere": [
-        "relaxed",
-        "social"
-    ],
-    "building": "University Library",
-    "description": "North Wing Corridor is a cooler space near the open stacks and has several large desks available. Printers and scanners are nearby, and you are very close to the tearoom, toilets and the north courtyard.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
-    "disabled_access": true,
-    "email_address": "library@lib.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "First floor",
-    "id": 59,
-    "image": "/assets/photos/000-124-resized_PH-LIBRARY-MAP-NORTH-CORRIDOR-000-00002.jpg",
-    "imagealt": "UL - North Wing Corridor",
-    "lat": 52.20507,
-    "lng": 0.10824,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+  "access": "Anyone (public)",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "atmosphere": [
+    "relaxed",
+    "social"
+  ],
+  "building": "University Library",
+  "description": "North Wing Corridor is a cooler space near the open stacks and has several large desks available. Printers and scanners are nearby, and you are very close to the tearoom, toilets and the north courtyard.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "disabled_access": true,
+  "email_address": "library@lib.cam.ac.uk",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "floor": "First floor",
+  "id": 59,
+  "image": "/assets/photos/000-124-resized_PH-LIBRARY-MAP-NORTH-CORRIDOR-000-00002.jpg",
+  "imagealt": "UL - North Wing Corridor",
+  "lat": 52.20507,
+  "lng": 0.10824,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "noise": "Background chatter",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
     },
-    "phone_number": "+44 (0) 1223 333000",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "ul-north-wing-corridor",
-    "space_type": "Library space",
-    "tags": [
-        "view",
-        "busy",
-        "bottled water only",
-        "no bags",
-        "cooler"
-    ],
-    "title": "UL - North Wing Corridor",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "19:00"
-        }
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
     },
-    "twitter_screen_name": "theUL",
-    "url": "https://www.lib.cam.ac.uk/using-library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "phone_number": "+44 (0) 1223 333000",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "ul-north-wing-corridor",
+  "space_type": "Library space",
+  "tags": [
+    "view",
+    "busy",
+    "bottled water only",
+    "no bags",
+    "cooler"
+  ],
+  "title": "UL - North Wing Corridor",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "twitter_screen_name": "theUL",
+  "url": "https://www.lib.cam.ac.uk/using-library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ]
 }

@@ -1,163 +1,163 @@
 {
-    "access": "Anyone (public)",
-    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
-    "atmosphere": [
-        "disciplined",
-        "modern"
-    ],
-    "building": "Cambridge Central Public Library",
-    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
-    "facilities": [
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "signal",
-        "printers_copiers",
-        "toilets"
-    ],
-    "floor": "Second floor",
-    "id": 10,
-    "image": "/assets/photos/000-212-resized_Central_Library_3rd_floor.jpg",
-    "imagealt": "Cambridge Public Library - 3rd Floor",
-    "lat": 52.204396,
-    "lng": 0.120511,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.120511,52.204396]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        }
+  "access": "Anyone (public)",
+  "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
+  "atmosphere": [
+    "disciplined",
+    "modern"
+  ],
+  "building": "Cambridge Central Public Library",
+  "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
+  "disabled_access": true,
+  "email_address": "",
+  "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
+  "facilities": [
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "signal",
+    "printers_copiers",
+    "toilets"
+  ],
+  "floor": "Second floor",
+  "id": 10,
+  "image": "/assets/photos/000-212-resized_Central_Library_3rd_floor.jpg",
+  "imagealt": "Cambridge Public Library - 3rd Floor",
+  "lat": 52.204396,
+  "lng": 0.120511,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.120511,52.204396]}",
+  "noise": "Whispers",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
     },
-    "phone_number": "0345 045 5225",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "Study space currently closed",
-    "slug": "cambridge-public-library-3rd-floor",
-    "space_type": "Library space",
-    "tags": [
-        "nooks",
-        "bottled water only"
-    ],
-    "title": "Cambridge Public Library - 3rd Floor",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "12:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "10:00",
-            "to": "14:00"
-        }
+    "saturday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
     },
-    "twitter_screen_name": "cambslib",
-    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    }
+  },
+  "phone_number": "0345 045 5225",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "Study space currently closed",
+  "slug": "cambridge-public-library-3rd-floor",
+  "space_type": "Library space",
+  "tags": [
+    "nooks",
+    "bottled water only"
+  ],
+  "title": "Cambridge Public Library - 3rd Floor",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "12:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "10:00",
+      "to": "14:00"
+    }
+  },
+  "twitter_screen_name": "cambslib",
+  "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library",
+    "private"
+  ]
 }

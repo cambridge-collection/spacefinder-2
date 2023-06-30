@@ -1,166 +1,166 @@
 {
-    "access": "Anyone (public)",
-    "address": "Department of Geography\r\nDowning Place\r\nCambridge\r\nCB3 2EN",
-    "atmosphere": [
-        "disciplined"
-    ],
-    "building": "Geography Department Library",
-    "description": "Services available include: Click & Collect (Mon, Tues, Thurs, Fri, 10:00 to 16:00, members of the Geography Department only), Book Returns. Follow Website link below for more details on these services.",
-    "disabled_access": false,
-    "email_address": "library@geog.cam.ac.uk",
-    "facebook_url": "",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "accessible_toilets",
-        "gender_neutral_toilets",
-        "bike_racks"
-    ],
-    "floor": "",
-    "id": 46,
-    "image": "/assets/photos/000-263-resized_geogmain.jpg",
-    "imagealt": "Geography Library - Reading Room",
-    "lat": 52.2018,
-    "lng": 0.12378,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12378,52.2018]}",
-    "noise": "Strictly silent",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        }
+  "access": "Anyone (public)",
+  "address": "Department of Geography\r\nDowning Place\r\nCambridge\r\nCB3 2EN",
+  "atmosphere": [
+    "disciplined"
+  ],
+  "building": "Geography Department Library",
+  "description": "Services available include: Click & Collect (Mon, Tues, Thurs, Fri, 10:00 to 16:00, members of the Geography Department only), Book Returns. Follow Website link below for more details on these services.",
+  "disabled_access": false,
+  "email_address": "library@geog.cam.ac.uk",
+  "facebook_url": "",
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "bike_racks"
+  ],
+  "floor": "",
+  "id": 46,
+  "image": "/assets/photos/000-263-resized_geogmain.jpg",
+  "imagealt": "Geography Library - Reading Room",
+  "lat": 52.2018,
+  "lng": 0.12378,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12378,52.2018]}",
+  "noise": "Strictly silent",
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "15:30"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
     },
-    "phone_number": "01223-333391",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "geography-library-reading-room",
-    "space_type": "Library space",
-    "tags": [
-        "Formal",
-        "busy",
-        "bottled water only",
-        "Reservable worskspaces",
-        "Fetching service available"
-    ],
-    "title": "Geography Library - Reading Room",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "monday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "saturday": {
-            "open": false,
-            "from": "08:45",
-            "to": "12:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "08:45",
-            "to": "17:45"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "https://www.geog.cam.ac.uk/library/",
-    "url_text": "Visit the website",
-    "work": [
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "15:30"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    }
+  },
+  "phone_number": "01223-333391",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "geography-library-reading-room",
+  "space_type": "Library space",
+  "tags": [
+    "Formal",
+    "busy",
+    "bottled water only",
+    "Reservable worskspaces",
+    "Fetching service available"
+  ],
+  "title": "Geography Library - Reading Room",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "monday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "saturday": {
+      "open": false,
+      "from": "08:45",
+      "to": "12:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "08:45",
+      "to": "17:45"
+    }
+  },
+  "twitter_screen_name": "",
+  "url": "https://www.geog.cam.ac.uk/library/",
+  "url_text": "Visit the website",
+  "work": [
+    "in_a_library",
+    "private"
+  ]
 }

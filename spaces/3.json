@@ -1,173 +1,173 @@
 {
-    "access": "Anyone (public)",
-    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "cosy"
-    ],
-    "building": "University Library",
-    "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "",
-    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
-    "facilities": [
-        "daylight",
-        "views",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "printers_copiers",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "Fourth floor",
-    "id": 3,
-    "image": "/assets/photos/000-110-resized_PH-LIBRARY-MAP-NORTH-FOUR-000-00001.jpg",
-    "imagealt": "UL - West 4",
-    "lat": 52.20507,
-    "lng": 0.10824,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        }
+  "access": "Anyone (public)",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "cosy"
+  ],
+  "building": "University Library",
+  "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+  "disabled_access": true,
+  "email_address": "",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "facilities": [
+    "daylight",
+    "views",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "printers_copiers",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "floor": "Fourth floor",
+  "id": 3,
+  "image": "/assets/photos/000-110-resized_PH-LIBRARY-MAP-NORTH-FOUR-000-00001.jpg",
+  "imagealt": "UL - West 4",
+  "lat": 52.20507,
+  "lng": 0.10824,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "noise": "Whispers",
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
     },
-    "phone_number": "01223 333000",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "ul-west-4",
-    "space_type": "Library space",
-    "tags": [
-        "no large bags",
-        "corridor",
-        "reading lamps",
-        "spacious",
-        "height adjustable chairs",
-        "bottled water only",
-        "air conditioned"
-    ],
-    "title": "UL - West 4",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:45"
-        }
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:45"
     },
-    "twitter_screen_name": "theUL",
-    "url": "https://www.lib.cam.ac.uk/using-library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    }
+  },
+  "phone_number": "01223 333000",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "ul-west-4",
+  "space_type": "Library space",
+  "tags": [
+    "no large bags",
+    "corridor",
+    "reading lamps",
+    "spacious",
+    "height adjustable chairs",
+    "bottled water only",
+    "air conditioned"
+  ],
+  "title": "UL - West 4",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:45"
+    }
+  },
+  "twitter_screen_name": "theUL",
+  "url": "https://www.lib.cam.ac.uk/using-library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ]
 }

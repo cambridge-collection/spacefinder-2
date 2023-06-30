@@ -1,169 +1,169 @@
 {
-    "access": "Faculty",
-    "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
-    "atmosphere": [
-        "historic",
-        "inspiring",
-        "friendly"
-    ],
-    "building": "Scott Polar Research Institute Library",
-    "description": "Services available from the Library include: Zero-contact borrowing on request, Scan & Deliver, Book Returns. Follow the Website link for more details and updates. ",
-    "disabled_access": true,
-    "email_address": "library@spri.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/SPRILibrary",
-    "facilities": [
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "accessible_toilets",
-        "adjustable_furniture",
-        "individual_study_space",
-        "bike_racks"
-    ],
-    "floor": "First floor",
-    "id": 91,
-    "image": "/assets/photos/000-302-resized_Study_area.jpg",
-    "imagealt": "The Scott Polar Research Institute Library",
-    "lat": 52.198224,
-    "lng": 0.126301,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.126301,52.198224]}",
-    "noise": "Background chatter",
-    "opening_hours": {
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "access": "Faculty",
+  "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
+  "atmosphere": [
+    "historic",
+    "inspiring",
+    "friendly"
+  ],
+  "building": "Scott Polar Research Institute Library",
+  "description": "Services available from the Library include: Zero-contact borrowing on request, Scan & Deliver, Book Returns. Follow the Website link for more details and updates. ",
+  "disabled_access": true,
+  "email_address": "library@spri.cam.ac.uk",
+  "facebook_url": "https://www.facebook.com/SPRILibrary",
+  "facilities": [
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "accessible_toilets",
+    "adjustable_furniture",
+    "individual_study_space",
+    "bike_racks"
+  ],
+  "floor": "First floor",
+  "id": 91,
+  "image": "/assets/photos/000-302-resized_Study_area.jpg",
+  "imagealt": "The Scott Polar Research Institute Library",
+  "lat": 52.198224,
+  "lng": 0.126301,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.126301,52.198224]}",
+  "noise": "Background chatter",
+  "opening_hours": {
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "phone_number": "01223 336552",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "the-scott-polar-research-institute-library",
-    "space_type": "Library space",
-    "tags": [
-        "SPRI",
-        "Geography",
-        "bottled water only",
-        "Polar"
-    ],
-    "title": "The Scott Polar Research Institute Library",
-    "term_time_hours": {
-        "monday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "friday": {
-            "open": false,
-            "from": "10:00",
-            "to": "16:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
     },
-    "twitter_screen_name": "SPRI_Library",
-    "url": "https://libguides.cam.ac.uk/polar_studies/induction",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ]
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "out_of_term_hours": {
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "phone_number": "01223 336552",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "the-scott-polar-research-institute-library",
+  "space_type": "Library space",
+  "tags": [
+    "SPRI",
+    "Geography",
+    "bottled water only",
+    "Polar"
+  ],
+  "title": "The Scott Polar Research Institute Library",
+  "term_time_hours": {
+    "monday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "10:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "twitter_screen_name": "SPRI_Library",
+  "url": "https://libguides.cam.ac.uk/polar_studies/induction",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ]
 }

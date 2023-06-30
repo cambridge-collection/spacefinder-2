@@ -1,168 +1,168 @@
 {
-    "facilities": [
-        "food_drink",
-        "daylight",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "printers_copiers",
-        "gender_neutral_toilets",
-        "baby_changing"
-    ],
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
-    ],
-    "access": "Members of the University",
-    "lng": 0.12301,
-    "disabled_access": false,
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "food_drink",
+    "daylight",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "bike_racks",
+    "printers_copiers",
+    "gender_neutral_toilets",
+    "baby_changing"
+  ],
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.12301,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "slug": "psychology-common-room",
-    "floor": "First floor",
-    "restriction": "Access is through a controlled reception area. The reception is staffed 9am-12:30pm & 1:30pm-5pm on weekdays, department members with card access can visit outside of these hours.",
-    "published": true,
-    "imagealt": "Psychology - common room",
-    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-psychology-psychology-building#03f4eb8b-5988-f54f-847d-17a87d6bbed5",
-    "url": "http://www.library.psychol.cam.ac.uk/",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "email_address": "library@psychol.cam.ac.uk",
-    "work": [
-        "close",
-        "friends",
-        "group",
-        "in_a_library"
-    ],
-    "twitter_screen_name": "",
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "space_type": "Library space",
-    "building": "Department of Psychology Library",
-    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
-    "facebook_url": "",
-    "title": "Psychology - common room",
-    "tags": [],
-    "noise": "Animated discussion",
-    "phone_number": "01223 333554",
-    "restricted": true,
-    "id": 64,
-    "image": "/assets/photos/000-173-resized_5.jpg",
-    "description": "T﻿he Psych sanctuary is a student common room next to the Psychology Library on the first floor. Facilities available: water cooler, vending machine, hot drinks machine, sink, fridge, microwave, bean bags.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20205
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "psychology-common-room",
+  "floor": "First floor",
+  "restriction": "Access is through a controlled reception area. The reception is staffed 9am-12:30pm & 1:30pm-5pm on weekdays, department members with card access can visit outside of these hours.",
+  "published": true,
+  "imagealt": "Psychology - common room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-psychology-psychology-building#03f4eb8b-5988-f54f-847d-17a87d6bbed5",
+  "url": "http://www.library.psychol.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "library@psychol.cam.ac.uk",
+  "work": [
+    "close",
+    "friends",
+    "group",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Department of Psychology Library",
+  "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
+  "facebook_url": "",
+  "title": "Psychology - common room",
+  "tags": [],
+  "noise": "Animated discussion",
+  "phone_number": "01223 333554",
+  "restricted": true,
+  "id": 64,
+  "image": "/assets/photos/000-173-resized_5.jpg",
+  "description": "T﻿he Psych sanctuary is a student common room next to the Psychology Library on the first floor. Facilities available: water cooler, vending machine, hot drinks machine, sink, fridge, microwave, bean bags.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20205
 }

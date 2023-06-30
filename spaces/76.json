@@ -1,169 +1,169 @@
 {
-    "access": "Members of the University",
-    "address": "Woolf Institute Library\r\nMadingley Road\r\nCambridge\r\nCB3 0UB",
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "friendly"
-    ],
-    "building": "Woolf Institute Library",
-    "description": "",
-    "disabled_access": false,
-    "email_address": "library@woolf.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/WoolfInstitute",
-    "facilities": [
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "toilets",
-        "break",
-        "wheelchair_accessible",
-        "accessible_toilets",
-        "bike_racks",
-        "baby_changing",
-        "prayer_room"
-    ],
-    "floor": "Basement",
-    "id": 76,
-    "image": "/assets/photos/000-503-resized_IMG_1433.jpg",
-    "imagealt": "Woolf Institute Library - Basement Study Area",
-    "lat": 52.210752,
-    "lng": 0.111004,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.111004,52.210752]}",
-    "noise": "Whispers",
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "access": "Members of the University",
+  "address": "Woolf Institute Library\r\nMadingley Road\r\nCambridge\r\nCB3 0UB",
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "friendly"
+  ],
+  "building": "Woolf Institute Library",
+  "description": "",
+  "disabled_access": false,
+  "email_address": "library@woolf.cam.ac.uk",
+  "facebook_url": "https://www.facebook.com/WoolfInstitute",
+  "facilities": [
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "toilets",
+    "break",
+    "wheelchair_accessible",
+    "accessible_toilets",
+    "bike_racks",
+    "baby_changing",
+    "prayer_room"
+  ],
+  "floor": "Basement",
+  "id": 76,
+  "image": "/assets/photos/000-503-resized_IMG_1433.jpg",
+  "imagealt": "Woolf Institute Library - Basement Study Area",
+  "lat": 52.210752,
+  "lng": 0.111004,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.111004,52.210752]}",
+  "noise": "Whispers",
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "phone_number": "+44(0)1223 761984",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "woolf-institute-library-basement-study-area",
-    "space_type": "Library space",
-    "tags": [
-        "spacious",
-        "modern",
-        "calm",
-        "clean"
-    ],
-    "title": "Woolf Institute Library - Basement Study Area",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "twitter_screen_name": "",
-    "url": "https://www.woolf.cam.ac.uk/study/library",
-    "url_text": "Visit the website",
-    "work": [
-        "close",
-        "friends",
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "phone_number": "+44(0)1223 761984",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "woolf-institute-library-basement-study-area",
+  "space_type": "Library space",
+  "tags": [
+    "spacious",
+    "modern",
+    "calm",
+    "clean"
+  ],
+  "title": "Woolf Institute Library - Basement Study Area",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "twitter_screen_name": "",
+  "url": "https://www.woolf.cam.ac.uk/study/library",
+  "url_text": "Visit the website",
+  "work": [
+    "close",
+    "friends",
+    "in_a_library",
+    "private"
+  ]
 }

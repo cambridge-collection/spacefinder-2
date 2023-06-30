@@ -1,168 +1,168 @@
 {
-    "access": "Anyone (public)",
-    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-    "atmosphere": [
-        "disciplined",
-        "relaxed",
-        "modern",
-        "friendly"
-    ],
-    "building": "University Library",
-    "description": "East Asian Reading Room is a warm and welcoming study space, very quiet and provides a perfect environment for those wishing to study in a relaxed, warm and silent place. The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
-    "disabled_access": true,
-    "email_address": "chinese@lib.cam.ac.uk  japanese@lib.cam.ac.uk",
-    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
-    "facilities": [
-        "daylight",
-        "large_desks",
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break"
-    ],
-    "floor": "First floor",
-    "id": 57,
-    "image": "/assets/photos/000-056-resized_PH-LIBRARY-MAP-AOI-000-00002.jpg",
-    "imagealt": "UL - Aoi East Asian Reading Room",
-    "lat": 52.20507,
-    "lng": 0.10824,
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-    "noise": "Strictly silent",
-    "opening_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        }
+  "access": "Anyone (public)",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "atmosphere": [
+    "disciplined",
+    "relaxed",
+    "modern",
+    "friendly"
+  ],
+  "building": "University Library",
+  "description": "East Asian Reading Room is a warm and welcoming study space, very quiet and provides a perfect environment for those wishing to study in a relaxed, warm and silent place. The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+  "disabled_access": true,
+  "email_address": "chinese@lib.cam.ac.uk  japanese@lib.cam.ac.uk",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "facilities": [
+    "daylight",
+    "large_desks",
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break"
+  ],
+  "floor": "First floor",
+  "id": 57,
+  "image": "/assets/photos/000-056-resized_PH-LIBRARY-MAP-AOI-000-00002.jpg",
+  "imagealt": "UL - Aoi East Asian Reading Room",
+  "lat": 52.20507,
+  "lng": 0.10824,
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "noise": "Strictly silent",
+  "opening_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
     },
-    "out_of_term_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        }
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
     },
-    "phone_number": "01223 333155 01223 333038",
-    "phone_text": "Phone the space",
-    "published": true,
-    "restricted": false,
-    "restriction": "",
-    "slug": "ul-aoi-east-asian-reading-room",
-    "space_type": "Library space",
-    "tags": [
-        "cooler",
-        "quiet",
-        "less busy",
-        "bright",
-        "modern",
-        "spacious"
-    ],
-    "title": "UL - Aoi East Asian Reading Room",
-    "term_time_hours": {
-        "friday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "monday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "16:30"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "tuesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        },
-        "wednesday": {
-            "open": false,
-            "from": "09:00",
-            "to": "18:50"
-        }
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
     },
-    "twitter_screen_name": "theUL",
-    "url": "http://www.lib.cam.ac.uk/collections/departments/east-asian-reading-room",
-    "url_text": "Visit the website",
-    "work": [
-        "in_a_library",
-        "private"
-    ]
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "phone_number": "01223 333155 01223 333038",
+  "phone_text": "Phone the space",
+  "published": true,
+  "restricted": false,
+  "restriction": "",
+  "slug": "ul-aoi-east-asian-reading-room",
+  "space_type": "Library space",
+  "tags": [
+    "cooler",
+    "quiet",
+    "less busy",
+    "bright",
+    "modern",
+    "spacious"
+  ],
+  "title": "UL - Aoi East Asian Reading Room",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "twitter_screen_name": "theUL",
+  "url": "http://www.lib.cam.ac.uk/collections/departments/east-asian-reading-room",
+  "url_text": "Visit the website",
+  "work": [
+    "in_a_library",
+    "private"
+  ]
 }

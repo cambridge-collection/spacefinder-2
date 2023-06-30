@@ -1,167 +1,167 @@
 {
-    "facilities": [
-        "free_wifi",
-        "computers",
-        "laptops_allowed",
-        "sockets",
-        "outdoor_seating",
-        "toilets",
-        "break",
-        "wheelchair_accessible",
-        "blue_badge_parking",
-        "accessible_toilets",
-        "bike_racks",
-        "electronic_legal_deposit"
-    ],
-    "atmosphere": [
-        "modern"
-    ],
-    "access": "Members of the University",
-    "lng": 0.10791,
-    "disabled_access": false,
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        }
+  "facilities": [
+    "free_wifi",
+    "computers",
+    "laptops_allowed",
+    "sockets",
+    "outdoor_seating",
+    "toilets",
+    "break",
+    "wheelchair_accessible",
+    "blue_badge_parking",
+    "accessible_toilets",
+    "bike_racks",
+    "electronic_legal_deposit"
+  ],
+  "atmosphere": [
+    "modern"
+  ],
+  "access": "Members of the University",
+  "lng": 0.10791,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
-    "slug": "music-audio-room",
-    "floor": "Ground floor",
-    "restriction": "",
-    "published": true,
-    "imagealt": "Music: Audio Room",
-    "url": "https://libguides.cam.ac.uk/c.php?g=307750&p=4886156",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:30",
-            "to": "12:45"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
-    "email_address": "Pendlebury@mus.cam.ac.uk",
-    "work": [
-        "close",
-        "in_a_library",
-        "private"
-    ],
-    "twitter_screen_name": "MusiCB3t",
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30 - 13:00",
-            "to": "14:00 - 17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "space_type": "Library space",
-    "building": "Pendlebury Library of Music",
-    "address": "11 West Road, Cambridge, CB3 9DP",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-    "facebook_url": "https://www.facebook.com/Penlib",
-    "title": "Music: Audio Room",
-    "tags": [
-        "bottled water only",
-        "headphones",
-        "audio equipment",
-        "Wheelchair terminal for OPAC catalogue access"
-    ],
-    "noise": "Whispers",
-    "phone_number": "01223335182",
-    "restricted": false,
-    "id": 23,
-    "image": "/assets/photos/000-159-resized_2.jpg",
-    "description": "A small room with some study places.  Currently houses the photocopier/printer, Electronic Legal Deposit terminal, Yamaha keyboard and binding machine.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20216
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    }
+  },
+  "slug": "music-audio-room",
+  "floor": "Ground floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Music: Audio Room",
+  "url": "https://libguides.cam.ac.uk/c.php?g=307750&p=4886156",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:30",
+      "to": "12:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    }
+  },
+  "email_address": "Pendlebury@mus.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library",
+    "private"
+  ],
+  "twitter_screen_name": "MusiCB3t",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Pendlebury Library of Music",
+  "address": "11 West Road, Cambridge, CB3 9DP",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
+  "facebook_url": "https://www.facebook.com/Penlib",
+  "title": "Music: Audio Room",
+  "tags": [
+    "bottled water only",
+    "headphones",
+    "audio equipment",
+    "Wheelchair terminal for OPAC catalogue access"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223335182",
+  "restricted": false,
+  "id": 23,
+  "image": "/assets/photos/000-159-resized_2.jpg",
+  "description": "A small room with some study places.  Currently houses the photocopier/printer, Electronic Legal Deposit terminal, Yamaha keyboard and binding machine.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20216
 }

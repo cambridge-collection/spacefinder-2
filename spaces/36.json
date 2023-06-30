@@ -1,168 +1,168 @@
 {
-    "facilities": [
-        "large_desks",
-        "free_wifi",
-        "laptops_allowed",
-        "sockets",
-        "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "electronic_legal_deposit",
-        "daylight",
-        "printers_copiers",
-        "gender_neutral_toilets",
-        "baby_changing"
-    ],
-    "atmosphere": [
-        "cosy",
-        "friendly"
-    ],
-    "access": "Members of the University",
-    "lng": 0.12301,
-    "disabled_access": false,
-    "opening_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+  "facilities": [
+    "large_desks",
+    "free_wifi",
+    "laptops_allowed",
+    "sockets",
+    "signal",
+    "toilets",
+    "refreshments",
+    "break",
+    "bike_racks",
+    "electronic_legal_deposit",
+    "daylight",
+    "printers_copiers",
+    "gender_neutral_toilets",
+    "baby_changing"
+  ],
+  "atmosphere": [
+    "cosy",
+    "friendly"
+  ],
+  "access": "Members of the University",
+  "lng": 0.12301,
+  "disabled_access": false,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "slug": "psychology-traditional-study-rooms",
-    "floor": "First floor",
-    "restriction": "Access is through a controlled reception area. The reception is staffed 9am-12:30pm & 1:30pm-5pm on weekdays, department members with card access can visit outside of these hours. ",
-    "published": true,
-    "imagealt": "Psychology Library - traditional study rooms",
-    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-psychology-psychology-building#03f4eb8b-5988-f54f-847d-17a87d6bbed5",
-    "url": "https://bio.lib.cam.ac.uk/psychology-library/library-facilities-psychology",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "email_address": "library@psychol.cam.ac.uk",
-    "work": [
-        "close",
-        "in_a_library"
-    ],
-    "twitter_screen_name": "",
-    "out_of_term_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
-    "space_type": "Library space",
-    "building": "Department of Psychology Library",
-    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
-    "facebook_url": "",
-    "title": "Psychology Library - traditional study rooms",
-    "tags": [
-        "drinks allowed",
-        "often busy in term"
-    ],
-    "noise": "Whispers",
-    "phone_number": "01223 333554",
-    "restricted": true,
-    "id": 36,
-    "image": "/assets/photos/000-169-resized_1.jpg",
-    "description": "Comfortable library space on the first floor with wooden furniture, plants and lots of natural light. Two tables with 6 seats each, separated into study carrels, as well as a sofa corner. There’s a separate study room that can be booked for group work by department members – please contact the library to book. Follow the website link at the bottom of this listing for more details.",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": 52.20205
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "slug": "psychology-traditional-study-rooms",
+  "floor": "First floor",
+  "restriction": "Access is through a controlled reception area. The reception is staffed 9am-12:30pm & 1:30pm-5pm on weekdays, department members with card access can visit outside of these hours. ",
+  "published": true,
+  "imagealt": "Psychology Library - traditional study rooms",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-psychology-psychology-building#03f4eb8b-5988-f54f-847d-17a87d6bbed5",
+  "url": "https://bio.lib.cam.ac.uk/psychology-library/library-facilities-psychology",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "library@psychol.cam.ac.uk",
+  "work": [
+    "close",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Department of Psychology Library",
+  "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12301,52.20205]}",
+  "facebook_url": "",
+  "title": "Psychology Library - traditional study rooms",
+  "tags": [
+    "drinks allowed",
+    "often busy in term"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 333554",
+  "restricted": true,
+  "id": 36,
+  "image": "/assets/photos/000-169-resized_1.jpg",
+  "description": "Comfortable library space on the first floor with wooden furniture, plants and lots of natural light. Two tables with 6 seats each, separated into study carrels, as well as a sofa corner. There’s a separate study room that can be booked for group work by department members – please contact the library to book. Follow the website link at the bottom of this listing for more details.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20205
 }
