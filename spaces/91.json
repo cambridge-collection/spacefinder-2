@@ -1,16 +1,4 @@
 {
-  "access": "Faculty",
-  "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
-  "atmosphere": [
-    "historic",
-    "inspiring",
-    "friendly"
-  ],
-  "building": "Scott Polar Research Institute Library",
-  "description": "Services available from the Library include: Zero-contact borrowing on request, Scan & Deliver, Book Returns. Follow the Website link for more details and updates. ",
-  "disabled_access": true,
-  "email_address": "library@spri.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/SPRILibrary",
   "facilities": [
     "free_wifi",
     "computers",
@@ -25,14 +13,14 @@
     "individual_study_space",
     "bike_racks"
   ],
-  "floor": "First floor",
-  "id": 91,
-  "image": "/assets/photos/000-302-resized_Study_area.jpg",
-  "imagealt": "The Scott Polar Research Institute Library",
-  "lat": 52.198224,
+  "atmosphere": [
+    "historic",
+    "inspiring",
+    "friendly"
+  ],
+  "access": "Faculty",
   "lng": 0.126301,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.126301,52.198224]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "monday": {
       "open": false,
@@ -70,57 +58,12 @@
       "to": "24:00"
     }
   },
-  "out_of_term_hours": {
-    "monday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
-    },
-    "friday": {
-      "open": false,
-      "from": "10:00",
-      "to": "16:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    }
-  },
-  "phone_number": "01223 336552",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "the-scott-polar-research-institute-library",
-  "space_type": "Library space",
-  "tags": [
-    "SPRI",
-    "Geography",
-    "bottled water only",
-    "Polar"
-  ],
-  "title": "The Scott Polar Research Institute Library",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "The Scott Polar Research Institute Library",
+  "url": "https://libguides.cam.ac.uk/polar_studies/induction",
   "term_time_hours": {
     "monday": {
       "open": false,
@@ -158,12 +101,69 @@
       "to": "24:00"
     }
   },
-  "twitter_screen_name": "SPRI_Library",
-  "url": "https://libguides.cam.ac.uk/polar_studies/induction",
-  "url_text": "Visit the website",
+  "email_address": "library@spri.cam.ac.uk",
   "work": [
     "close",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "SPRI_Library",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Scott Polar Research Institute Library",
+  "address": "Scott Polar Research Institute\r\nLensfield Road\r\nCambridge\r\nCB2 1ER",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.126301,52.198224]}",
+  "facebook_url": "https://www.facebook.com/SPRILibrary",
+  "title": "The Scott Polar Research Institute Library",
+  "tags": [
+    "SPRI",
+    "Geography",
+    "bottled water only",
+    "Polar"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "01223 336552",
+  "restricted": false,
+  "id": 91,
+  "image": "/assets/photos/000-302-resized_Study_area.jpg",
+  "description": "The SPRI library is open to all students, researchers and staff of the University of Cambridge, the wider polar research community and anybody wishing to know more about the polar regions. Follow the [Website link](https://www.spri.cam.ac.uk/library) for more details and updates.\n\nT﻿he library is open 0900-1700 Monday to Friday but closes for lunch, between 1300-1400, each day.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.198224
 }
