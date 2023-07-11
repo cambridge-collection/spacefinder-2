@@ -150,12 +150,11 @@ These terms of use and all questions of construction, interpretation, validity a
 
 ## 3. Contact details <a id="13"></a>
 
-FutureLib Project Manager<br />
 Cambridge University Library
 West Road<br />
 United Kingdom<br />
 CB3 9DR<br />
-Email: <a href="mailto:futurelib@lib.cam.ac.uk">futurelib@lib.cam.ac.uk</a>
+Email: <a href="mailto:cul-spacefinder-feedback@lists.cam.ac.uk">cul-spacefinder-feedback@lists.cam.ac.uk</a>
 
 
 
