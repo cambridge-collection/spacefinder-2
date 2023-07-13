@@ -103,6 +103,8 @@ Contains the full URL to the space's (or building's) website. Please be sure to 
 
 ### Phone Number (optional)
 
+### Email address (optional)
+
 ### Twitter Screen Name (optional)
 
 ### Facebook URL (optional)

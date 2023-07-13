@@ -339,10 +339,10 @@ collections:
 #        name: 'phone_text'
 #        widget: 'string'
 #        required: false
-#      - label: 'Email address'
-#        name: 'email_address'
-#        widget: 'string'
-#        required: false
+      - label: 'Email address'
+        name: 'email_address'
+        widget: 'string'
+        required: false
       - label: 'Twitter screen name'
         name: 'twitter_screen_name'
         widget: 'string'
