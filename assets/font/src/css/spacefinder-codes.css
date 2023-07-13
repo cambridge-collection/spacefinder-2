@@ -32,7 +32,7 @@
 .icon-arrow-down:before { content: '\e620'; } /* '' */
 .icon-pencil:before { content: '\e621'; } /* '' */
 .icon-callout:before { content: '\e622'; } /* '' */
-.icon-drink:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e800'; } /* '' */
 .icon-disabled:before { content: '\e801'; } /* '' */
 .icon-access:before { content: '\e802'; } /* '' */
 .icon-user:before { content: '\e803'; } /* '' */
@@ -41,6 +41,7 @@
 .icon-info-circled:before { content: '\e806'; } /* '' */
 .icon-resize-small:before { content: '\e807'; } /* '' */
 .icon-bench:before { content: '\e822'; } /* '' */
+.icon-drink:before { content: '\e842'; } /* '' */
 .icon-public:before { content: '\e900'; } /* '' */
 .icon-adjustable-furniture:before { content: '\e901'; } /* '' */
 .icon-individual-space:before { content: '\e902'; } /* '' */

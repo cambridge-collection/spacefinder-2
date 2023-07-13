@@ -457,7 +457,7 @@
     {
       "uid": "649a11cb41d2c8310d5adeee08fecf7f",
       "css": "drink",
-      "code": 59392,
+      "code": 59458,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -780,6 +780,12 @@
       "uid": "8c0ffa714cecbf5144e022d9c3df4a1f",
       "css": "bank",
       "code": 61852,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
       "src": "fontawesome"
     },
     {

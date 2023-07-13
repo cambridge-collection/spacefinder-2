@@ -107,11 +107,14 @@ function getAdditionalInfo( space ) {
         }
     });
     spaceHTML += '</ul></section>';
-    if ( space.phone_number !== '' || space.twitter_screen_name !== '' || space.facebook_url !== '' ) {
+    if ( space.phone_number !== '' || space.email_address !== '' || space.twitter_screen_name !== '' || space.facebook_url !== '' ) {
         spaceHTML += '<section class="section-contact"><h4>Contact</h4><ul class="bulleticons">';
         if ( space.phone_number !== '' ) {
             let phoneattr = space.phone_number.replace( /[^0-9]+/g, '' ).replace( /^0/, '+44' );
             spaceHTML += '<li class="icon-phone"><a href="tel:' + phoneattr + '">' +space.phone_text + ' on ' + space.phone_number + '</a></li>';
+        }
+        if ( space.email_address !== '' ) {
+            spaceHTML += '<li class="icon-mail"><a href="mailto:' + space.email_address + '">' + space.email_address + '</a></li>';
         }
         if ( space.twitter_screen_name !== '' ) {
             spaceHTML += '<li class="icon-twitter"><a href="https://twitter.com/' + space.twitter_screen_name + '">Follow ' + space.twitter_screen_name + ' on twitter</a></li>';
