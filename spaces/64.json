@@ -16,7 +16,6 @@
   ],
   "atmosphere": [
     "relaxed",
-    "modern",
     "social",
     "friendly"
   ],
@@ -104,12 +103,11 @@
       "to": "17:00"
     }
   },
-  "email_address": "library@psychol.cam.ac.uk",
+  "email_address": "psychology@lib.cam.ac.uk",
   "work": [
     "close",
     "friends",
-    "group",
-    "in_a_library"
+    "group"
   ],
   "twitter_screen_name": "",
   "out_of_term_hours": {
