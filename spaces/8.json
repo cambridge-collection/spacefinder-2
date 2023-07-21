@@ -39,7 +39,7 @@
       "to": "17:00"
     },
     "saturday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "13:00"
     },
