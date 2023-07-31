@@ -1,0 +1,144 @@
+{
+    "id": 101,
+    "published": false,
+    "title": "School of Arts and Humanities new space 101",
+    "description": "Description of new space 101",
+    "space_type": "",
+    "slug": "new-space-101",
+    "address": "",
+    "building": "",
+    "floor": "",
+    "location": "{\"type\":\"Point\",\"coordinates\":[0.1253482,52.2061298]}",
+    "access": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": false,
+    "accessable_url": "",
+    "url": "",
+    "url_text": "Visit the website",
+    "phone_number": "",
+    "phone_text": "Phone the space",
+    "email_address": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "noise": "",
+    "facilities": [],
+    "work": [],
+    "atmosphere": [],
+    "tags": "",
+    "image": "/assets/photos/image1.jpg",
+    "imagealt": "",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "term_time_hours": {
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        }
+    },
+    "out_of_term_hours": {
+        "monday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "09:00",
+            "to": "17:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "00:00",
+            "to": "24:00"
+        }
+    },
+    "lng": "",
+    "lat": ""
+}
