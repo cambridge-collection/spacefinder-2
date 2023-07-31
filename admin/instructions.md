@@ -55,11 +55,11 @@ Scroll through the list and click on an item to edit it.
 
 The space editing form should be self-explanatory. Some fields allow you to enter text, others are toggle switches and some are dropdown menus. They generally behave as you would expect.
 
-### Space Name
+### Space Name (required)
 
 The name of the space
 
-### Description
+### Description (required)
 
 A space's description.
 
@@ -75,13 +75,13 @@ The building the space is in.
 
 The floor the space is on.
 
-### Location
+### Location (required)
 
 The location of the space shown on a map. A hollow blue circle marks the space's position. To set (or change) the position of a space, just click on the desired location on the map.
 
 **NB:** It's unlikely that this field will need to be edited on existing spaces since they're already located on the map.
 
-### Access Type
+### Access Type (required)
 
 A dropdown menu for indicating whether the space is open to ‘Anyone (public)’, ‘Faculty’, or ‘Members of the University’.
 
@@ -111,7 +111,7 @@ Contains the full URL to the space's (or building's) website. Please be sure to 
 
 Please be sure to include the full url, including the `https://` at the start.
 
-### Noise Level
+### Noise Level (required)
 
 A dropdown menu that lets you select the noise level of the space.
 
@@ -123,7 +123,7 @@ The values, from quietest to loudest, are:
 - Animated discussion
 - Music playing
 
-### Facilities
+### Facilities (required)
 
 A dropdown menu that lets you select the space's facilities. It is possible to select as many items as are applicable. To remove a facility from a space, click the 'x' to the right of the tag.
 
@@ -164,7 +164,7 @@ The following are available:
 
 Please be sure to include the full url, including the `https://` at the start.
 
-### Work Environment
+### Work Environment (required)
 
 A dropdown menu that lets you select all the tags that apply to the space. To remove a facility from a space, click the 'x' to the right of the tag.
 
@@ -176,7 +176,7 @@ The following options are available:
 - Where others are working
 - With friends
 
-### Atmosphere
+### Atmosphere (required)
 
 A dropdown menu that lets you select all the tags that apply to the space. To remove a facility from a space, click the 'x' to the right of the tag.
 
@@ -191,11 +191,11 @@ The following options are available:
 - Relaxed
 - Social
 
-### Image (optional)
+### Image (required)
 
 To add or change an image, click on the ‘Choose an image’ button. It will then present you with a preview list of all the images that have been uploaded. If the image you want is online, select it. Otherwise, you can upload a new image by clicking ‘Upload’ and finding and selecting it on your hard drive.
 
-### Term Hours and Out of Term Hours
+### Term Hours and Out of Term Hours (required)
 
 Edit opening/closing hours as you see fit.
 
