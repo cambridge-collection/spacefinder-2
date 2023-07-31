@@ -83,7 +83,7 @@ The location of the space shown on a map. A hollow blue circle marks the space's
 
 ### Access Type
 
-A dropdown menu for indicating whether the space is open to ‘Anyone (public)’ or ‘University Staff and Students’.
+A dropdown menu for indicating whether the space is open to ‘Anyone (public)’, ‘Faculty’, or ‘Members of the University’.
 
 ### Restricted Access? (optional)
 
@@ -115,9 +115,50 @@ Please be sure to include the full url, including the `https://` at the start.
 
 A dropdown menu that lets you select the noise level of the space.
 
+The values, from quietest to loudest, are:
+
+- Strictly silent 
+- Whispers
+- Background chatter
+- Animated discussion
+- Music playing
+
 ### Facilities
 
 A dropdown menu that lets you select the space's facilities. It is possible to select as many items as are applicable. To remove a facility from a space, click the 'x' to the right of the tag.
+
+The following are available:
+
+- Accessible toilets
+- Adjustable furniture
+- Attractive views out of the window
+- Baby changing facilities
+- Bike racks
+- Bookable
+- Close to a place to take a break
+- Close to refreshments
+- Computers
+- Designated smoking area
+- Electronic Legal Deposit
+- Food and drink allowed
+- Free Wifi
+- Gender-neutral toilets
+- Individual study space available
+- Induction loops
+- Laptops allowed
+- Large desks
+- Natural daylight
+- No WiFi
+- Outdoor seating
+- Parking for blue badge holders
+- Phone signal
+- Plug sockets
+- Prayer room
+- Printers and copiers
+- Projector
+- Toilets nearby
+- Wheelchair accessible
+- Whiteboards
 
 ### AccessAble URL (optional)
 
@@ -127,9 +168,28 @@ Please be sure to include the full url, including the `https://` at the start.
 
 A dropdown menu that lets you select all the tags that apply to the space. To remove a facility from a space, click the 'x' to the right of the tag.
 
+The following options are available:
+
+- Alone, in private
+- In a library
+- On a group project
+- Where others are working
+- With friends
+
 ### Atmosphere
 
 A dropdown menu that lets you select all the tags that apply to the space. To remove a facility from a space, click the 'x' to the right of the tag.
+
+The following options are available:
+
+- Cosy
+- Disciplined
+- Friendly
+- Historic
+- Inspiring
+- Modern
+- Relaxed
+- Social
 
 ### Image (optional)
 
