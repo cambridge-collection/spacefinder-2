@@ -117,9 +117,10 @@
     "close",
     "friends",
     "group",
-    "in_a_library"
+    "in_a_library",
+    "private"
   ],
-  "twitter_screen_name": "CamTechLibs",
+  "twitter_screen_name": "WestCamHub",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -158,9 +159,9 @@
     }
   },
   "space_type": "Library space",
-  "building": "West Hub Library",
+  "building": "West Hub",
   "address": "West Hub, \r\nJJ Thomson Avenue\r\nCambridge, CB3 0US",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.09023,52.21056]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.0899549,52.2102506]}",
   "facebook_url": "",
   "title": "West Hub ",
   "tags": [
@@ -168,12 +169,12 @@
     "Open to all",
     "Flexible spaces"
   ],
-  "noise": "Animated discussion",
+  "noise": "Background chatter",
   "phone_number": "01223 762725",
   "restricted": false,
   "id": 83,
-  "image": "",
-  "description": "The West Hub is open to everyone and features a range of workspaces across the top two floors that are open to all including areas for group work and discussion and more individual focused study. The ground floor has a range of catering options and shop with Post Office counter. ",
+  "image": "/assets/photos/techlibs-website-west-hub-library-page-promotional-image.png",
+  "description": "West Hub is the University of Cambridge’s first publicly open co-working hub, providing flexible spaces in which to learn, socialise and collaborate.\n\nWe are open to everyone and feature a range of work and social spaces across three floors. We support group study / discussion or more individual, focused work. There is also a range of catering options and a shop with Post Office counter.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.21056
