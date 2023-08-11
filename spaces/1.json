@@ -8,7 +8,8 @@
     "signal",
     "toilets",
     "refreshments",
-    "break"
+    "break",
+    "electronic_legal_deposit"
   ],
   "atmosphere": [
     "disciplined",
@@ -57,7 +58,7 @@
   },
   "slug": "ul-reading-room",
   "floor": "First floor",
-  "restriction": "No drinks allowed.",
+  "restriction": "No food or drinks allowed.",
   "published": true,
   "imagealt": "UL - Reading Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
