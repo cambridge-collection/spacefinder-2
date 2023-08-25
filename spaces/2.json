@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "relaxed",
-    "historic",
-    "inspiring",
-    "cosy"
-  ],
-  "building": "University Library",
-  "description": "The North Front Corridor is a bright wide space in an open shelving area where readers and staff will often walk by. It's a cooler area with easy access to both North Front and North Wing. There are no plug sockets on the tables, though electrical outlets are not far away.",
-  "disabled_access": true,
-  "email_address": "",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "large_desks",
@@ -24,14 +11,15 @@
     "wheelchair_accessible",
     "gender_neutral_toilets"
   ],
-  "floor": "First floor",
-  "id": 2,
-  "image": "/assets/photos/000-081-resized_PH-LIBRARY-FRONT-CORRIDORS-000-00002.jpg",
-  "imagealt": "UL - North Front Corridor",
-  "lat": 52.20507,
+  "atmosphere": [
+    "relaxed",
+    "historic",
+    "inspiring",
+    "cosy"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -69,56 +57,12 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333000",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": true,
-  "restriction": "Booking required to study at the UL",
   "slug": "ul-north-front-corridor",
-  "space_type": "Library space",
-  "tags": [
-    "no large bags",
-    "art",
-    "bottled water only"
-  ],
-  "title": "UL - North Front Corridor",
+  "floor": "First floor",
+  "restriction": "You must be a registered with the library to study at the UL ",
+  "published": true,
+  "imagealt": "UL - North Front Corridor",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -156,13 +100,69 @@
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "",
   "work": [
     "close",
     "friends",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - North Front Corridor",
+  "tags": [
+    "no large bags",
+    "art",
+    "bottled water only"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "+44 (0) 1223 333000",
+  "restricted": true,
+  "id": 2,
+  "image": "/assets/photos/000-081-resized_PH-LIBRARY-FRONT-CORRIDORS-000-00002.jpg",
+  "description": "The North Front Corridor is a bright wide space in an open shelving area where readers and staff will often walk by. It's a cooler area with easy access to both the North Front and the North Wing. There are no plug sockets on the tables, though electrical outlets are not far away. You are also free to work in the enclosure by the Tea Room and Map Room. The enclosure has two computers available for use and is a cosy study space.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
