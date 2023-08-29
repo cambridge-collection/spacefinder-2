@@ -1,144 +1,163 @@
 {
-    "id": 108,
-    "published": false,
-    "title": "Cory & Herbarium Libraries",
-    "description": "Description of new space 108",
-    "space_type": "",
-    "slug": "new-space-108",
-    "address": "",
-    "building": "",
-    "floor": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.1253482,52.2061298]}",
-    "access": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": false,
-    "accessable_url": "",
-    "url": "",
-    "url_text": "Visit the website",
-    "phone_number": "",
-    "phone_text": "Phone the space",
-    "email_address": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "noise": "",
-    "facilities": [],
-    "work": [],
-    "atmosphere": [],
-    "tags": "",
-    "image": "/assets/photos/image1.jpg",
-    "imagealt": "",
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "accessible_toilets",
+    "bike_racks",
+    "break",
+    "computers",
+    "free_wifi",
+    "gender_neutral_toilets",
+    "laptops_allowed",
+    "large_desks",
+    "signal",
+    "toilets",
+    "wheelchair_accessible"
+  ],
+  "atmosphere": [
+    "modern",
+    "inspiring",
+    "disciplined"
+  ],
+  "access": "Faculty",
+  "lng": "",
+  "disabled_access": true,
+  "opening_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "lng": "",
-    "lat": ""
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "new-space-108",
+  "floor": "Basement",
+  "restriction": "The Library is open to members of the Department of Plant Sciences, staff at the Botanic Garden, the Sainsbury Laboratory and those working in the University Herbarium from Monday to Friday, 8:00 – 17:00. Before your first visit to the Library, please get in touch with us so that we can arrange to introduce you to the space and collections, and set up access. All other non-members of the Department may access the Library by appointment, during staffed hours. ",
+  "published": true,
+  "imagealt": "Cory and Herbarium Libraries. There is one person looking at material on a large table on the left hand side and two people looking at material in a pull-out drawer of a plan chest on the right hand side. There are bookshelves behind them and another wooden desk with cardboard box files and books stacked in the left hand foreground. ",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/bateman-street/access-guides/department-of-plant-sciences-sainsbury-laboratory#e7ddc61d-f27e-7847-987b-a4b7728a133c",
+  "url": "https://bio.lib.cam.ac.uk/cory-and-herbarium-libraries",
+  "term_time_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "cory@lib.cam.ac.uk",
+  "work": [
+    "private",
+    "in_a_library"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "",
+  "building": "Sainsbury Laboratory",
+  "address": "47 Bateman Street, Cambridge, CB2 1LR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1284322,52.1944943]}",
+  "facebook_url": "",
+  "title": "Cory & Herbarium Libraries",
+  "tags": "",
+  "noise": "Whispers",
+  "phone_number": "",
+  "restricted": true,
+  "id": 108,
+  "image": "/assets/photos/cory_herbarium_library_banner_architect_photo.jpg",
+  "description": "Modern library space with horticultural and botanical collections. The space is quiet with large desks for individual work. There are very few plug sockets available and the space is temperature controlled so best to wear an extra layer when visiting.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": ""
 }
