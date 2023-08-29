@@ -27,7 +27,7 @@
       "to": "17:00"
     },
     "tuesday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "17:00"
     },
@@ -42,12 +42,12 @@
       "to": "17:00"
     },
     "friday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "17:00"
     },
     "saturday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "17:00"
     },
