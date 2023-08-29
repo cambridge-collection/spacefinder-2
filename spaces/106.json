@@ -32,7 +32,7 @@
   "disabled_access": true,
   "opening_hours": {
     "monday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "17:00"
     },
@@ -42,12 +42,12 @@
       "to": "17:00"
     },
     "wednesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "17:00"
     },
     "thursday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "17:00"
     },
@@ -57,7 +57,7 @@
       "to": "17:00"
     },
     "saturday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "17:00"
     },
@@ -70,7 +70,7 @@
   "slug": "new-space-106",
   "floor": "Ground Floor",
   "restriction": "Open 24/7 for current members of the Department and undergraduate students taking Part II Plant Sciences. Other NST-B students taking Part IB and Part II courses taught by the Department may also be given card access to the Library between the hours of 8am and 9pm after they have attended a Library induction. All other students and non-members of the Department or the University may visit during staffed hours only. Please contact the Library in advance to discuss arrangements.",
-  "published": false,
+  "published": true,
   "imagealt": "Plant Sciences Library. There are two large circular tables with four chairs surrounding each. On the left hand side there are wooden bookshelves and on the right is a yellow beanbag underneath a large whiteboard. Either side of the whiteboard there are desks looking in front two ceiling height windows that have plants hanging above them.",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-plant-sciences-botany-building",
   "url": "https://bio.lib.cam.ac.uk/plant-sciences-library ",
