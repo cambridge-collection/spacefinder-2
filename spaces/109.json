@@ -1,144 +1,167 @@
 {
-    "id": 109,
-    "published": false,
-    "title": "Genetics Library",
-    "description": "Description of new space 109",
-    "space_type": "",
-    "slug": "new-space-109",
-    "address": "",
-    "building": "",
-    "floor": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.1253482,52.2061298]}",
-    "access": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": false,
-    "accessable_url": "",
-    "url": "",
-    "url_text": "Visit the website",
-    "phone_number": "",
-    "phone_text": "Phone the space",
-    "email_address": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "noise": "",
-    "facilities": [],
-    "work": [],
-    "atmosphere": [],
-    "tags": "",
-    "image": "/assets/photos/image1.jpg",
-    "imagealt": "",
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "accessible_toilets",
+    "bike_racks",
+    "break",
+    "computers",
+    "electronic_legal_deposit",
+    "food_drink",
+    "free_wifi",
+    "individual_study_space",
+    "laptops_allowed",
+    "large_desks",
+    "daylight",
+    "sockets",
+    "printers_copiers",
+    "toilets",
+    "wheelchair_accessible"
+  ],
+  "atmosphere": [
+    "friendly",
+    "inspiring",
+    "modern"
+  ],
+  "access": "Faculty",
+  "lng": "",
+  "disabled_access": true,
+  "opening_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "lng": "",
-    "lat": ""
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "new-space-109",
+  "floor": "First",
+  "restriction": "Department of Genetics members can access the Library 24/7. Other University members wishing to visit may contact the Librarian to arrange entry during normal staffed hours.",
+  "published": true,
+  "imagealt": "Genetics Library",
+  "accessable_url": "",
+  "url": "https://bio.lib.cam.ac.uk/genetics-library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    }
+  },
+  "email_address": "genetics@lib.cam.ac.uk ",
+  "work": [
+    "in_a_library",
+    "close"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "",
+  "building": "Department of Genetics",
+  "address": "Downing Street, Cambridge, CB2 3EH",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.121958,52.2022403]}",
+  "facebook_url": "",
+  "title": "Genetics Library",
+  "tags": "",
+  "noise": "Whispers",
+  "phone_number": "01223 333973",
+  "restricted": true,
+  "id": 109,
+  "image": "",
+  "description": "The Genetics Library is open to department members only, unless by appointment. The Library is a modern space with plants and plenty of natural light. There are six individual study spaces, as well as a Windows PC, a Mac and an e-legal deposit terminal. The Library also contains a CO2 monitor and an air purifier, and windows can be opened easily. Follow the website link below for more information about access and facilities.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": ""
 }
