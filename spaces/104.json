@@ -1,144 +1,170 @@
 {
-    "id": 104,
-    "published": false,
-    "title": "PDN Library – Group work space",
-    "description": "Description of new space 104",
-    "space_type": "",
-    "slug": "new-space-104",
-    "address": "",
-    "building": "",
-    "floor": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.1253482,52.2061298]}",
-    "access": "",
-    "restricted": false,
-    "restriction": "",
-    "disabled_access": false,
-    "accessable_url": "",
-    "url": "",
-    "url_text": "Visit the website",
-    "phone_number": "",
-    "phone_text": "Phone the space",
-    "email_address": "",
-    "twitter_screen_name": "",
-    "facebook_url": "",
-    "noise": "",
-    "facilities": [],
-    "work": [],
-    "atmosphere": [],
-    "tags": "",
-    "image": "/assets/photos/image1.jpg",
-    "imagealt": "",
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "accessible_toilets",
+    "baby_changing",
+    "bike_racks",
+    "break",
+    "food_drink",
+    "free_wifi",
+    "gender_neutral_toilets",
+    "laptops_allowed",
+    "large_desks",
+    "daylight",
+    "signal",
+    "sockets",
+    "prayer_room",
+    "printers_copiers",
+    "toilets"
+  ],
+  "atmosphere": [
+    "cosy",
+    "friendly",
+    "modern",
+    "relaxed"
+  ],
+  "access": "Members of the University",
+  "lng": "",
+  "disabled_access": true,
+  "opening_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        }
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "out_of_term_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "saturday": {
-            "open": true,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "lng": "",
-    "lat": ""
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "slug": "new-space-104",
+  "floor": "Floor C",
+  "restriction": "The Library is open to students being taught in PDN as well as researchers and staff based in the Department. If you are from outside of the PDN Department and wish to visit the Library, then please contact us in advance to discuss arrangements. The Library is open 24/7 to department members with card access, or in line with the opening hours of the Physiology building (8:45-12:30, 13:30-17:00 Monday-Thursday, 16:00 on Friday).",
+  "published": false,
+  "imagealt": "PDN Library's Group Study Space",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-physiology-development-and-neuroscience-physiology-building#62998c82-609b-7145-bf16-6c40a1d850a0 ",
+  "url": "https://bio.lib.cam.ac.uk/pdn-library",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:45",
+      "to": "16:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "08:45",
+      "to": "13:15"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    }
+  },
+  "email_address": "pdn@lib.cam.ac.uk",
+  "work": [
+    "in_a_library",
+    "group",
+    "close",
+    "friends"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "08:45",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "",
+  "building": "Physiology Building",
+  "address": "The Library, Department of Physiology, Development and Neuroscience, Downing Street, Cambridge, CB2 3EG",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.123112,52.2021678]}",
+  "facebook_url": "",
+  "title": "PDN Library – Group work space",
+  "tags": "",
+  "noise": "Whispers",
+  "phone_number": "01223 765604",
+  "restricted": true,
+  "id": 104,
+  "image": "/assets/photos/pdn-group-work-space.jpg",
+  "description": "O﻿pen plan space with wooden workbenches with individual plug points and USB charging. Well-lit with large windows letting in lots of natural light as well as some overhead strip lighting. A sofa and beanbag area is also located in this space as is a larger table for group working. The room is separated into two zones by a number of fixed bookcases.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": ""
 }
