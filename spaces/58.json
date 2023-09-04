@@ -1,15 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "relaxed",
-    "historic"
-  ],
-  "building": "University Library",
-  "description": "The Reading Room South Corridor is a quiet corridor located next to the south courtyard. The supplementary catalogue is located here, and staff can be found in the Reading Room right next door. \r\n\r\nYou are within a short distance to the toilets and the tearoom is only a few minutes walk away. Though this is a corridor, it is a quieter corridor than some of the others and is usually not very busy.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
-  "disabled_access": true,
-  "email_address": "library@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -23,14 +12,13 @@
     "break",
     "wheelchair_accessible"
   ],
-  "floor": "First floor",
-  "id": 58,
-  "image": "/assets/photos/000-115-resized_RRSW.jpg",
-  "imagealt": "UL - Reading Room South Corridor",
-  "lat": 52.20507,
+  "atmosphere": [
+    "relaxed",
+    "historic"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -68,58 +56,13 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "19:59",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333000",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-reading-room-south-corridor",
-  "space_type": "Library space",
-  "tags": [
-    "view",
-    "bottled water only",
-    "no bags",
-    "cooler",
-    "near staff"
-  ],
-  "title": "UL - Reading Room South Corridor",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - Reading Room South Corridor",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -157,11 +100,69 @@
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "library@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "19:59",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - Reading Room South Corridor",
+  "tags": [
+    "view",
+    "bottled water only",
+    "no bags",
+    "cooler",
+    "near staff"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "+44 (0) 1223 333000",
+  "restricted": false,
+  "id": 58,
+  "image": "/assets/photos/000-115-resized_RRSW.jpg",
+  "description": "The Reading Room South Corridor is a quiet corridor located next to the south courtyard. The supplementary catalogue is located here, and staff can be found in the Reading Room right next door. There is a printer/scanner located in the corridor and another by the Beta staircase.\n\nYou are within a short distance to the toilets and the tearoom is only a few minutes walk away. Though this is a corridor, it is a quieter corridor than some of the others and is usually not very busy.\n\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
