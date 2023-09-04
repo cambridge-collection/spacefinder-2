@@ -1,16 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "relaxed",
-    "modern",
-    "cosy"
-  ],
-  "building": "University Library",
-  "description": "This is a bookable room, within the Group Study Room, equipied with height adjustable furniture. ",
-  "disabled_access": false,
-  "email_address": "readerservices@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
   "facilities": [
     "food_drink",
     "daylight",
@@ -33,14 +21,14 @@
     "smoking_area",
     "baby_changing"
   ],
-  "floor": "Third floor",
-  "id": 81,
-  "image": "",
-  "imagealt": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
-  "lat": 52.204756,
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "cosy"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.107323,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
-  "noise": "Whispers",
+  "disabled_access": false,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -78,57 +66,13 @@
       "to": "18:45"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
-    }
-  },
-  "phone_number": "01223 333030",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-south-wing-3-study-hub-individual-accessibility-bookable-study-room",
-  "space_type": "Library space",
-  "tags": [
-    "study",
-    "light",
-    "warm",
-    "bookable"
-  ],
-  "title": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+  "floor": "Third floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -166,11 +110,68 @@
       "to": "18:45"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk",
-  "url_text": "Visit the website",
+  "email_address": "readerservices@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
+  "title": "UL - South Wing 3 Study Hub - Individual Accessibility Bookable Study Room",
+  "tags": [
+    "study",
+    "light",
+    "warm",
+    "bookable"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 333030",
+  "restricted": false,
+  "id": 81,
+  "image": "",
+  "description": "This is a bookable room, within the Group Study Room, equipied with height adjustable furniture. ",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.204756
 }
