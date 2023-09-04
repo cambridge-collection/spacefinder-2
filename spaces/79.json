@@ -1,19 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library,\r\nWest Road,\r\nCambridge,\r\nCB3 9DR",
-  "atmosphere": [
-    "relaxed",
-    "modern",
-    "inspiring",
-    "cosy",
-    "social",
-    "friendly"
-  ],
-  "building": "University Library",
-  "description": "The Group Study Room is a new bookable space for groups to meet and discuss their studies. It is located on the third floor, signposted from the nearby Beta staircase.\r\n\r\nOnline bookings can be made for up to 8 people for a session lasting 90 minutes. Only one person per group needs to make the booking. \r\n\r\nEach booking runs for 90 minutes during standard opening hours Monday-Saturday, with a 30 minute break between booked sessions.\r\n\r\nAt present, only one group can book to use the space for each available session. There are two tables available, each with five chairs.\r\n\r\nWe have actively risk assessed all spaces and space usage in accordance with University guidance on Covid-19, and have further safety measures in place including high quality mechanical ventilation in most areas of the building and a CO2 monitoring program.\r\n\r\nWe have deliberately factored in 30 minute breaks between each booking, to give a clear break between occupation - you are allowed to open the windows in the room but please remember to close them before you vacate at the end of your booking.\r\n\r\nOur Student Experience Team will be in touch after your booking with a short survey to ask you about your experience booking and using this room.",
-  "disabled_access": false,
-  "email_address": "readerservices@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
   "facilities": [
     "daylight",
     "views",
@@ -34,14 +19,17 @@
     "smoking_area",
     "baby_changing"
   ],
-  "floor": "Third floor",
-  "id": 79,
-  "image": "",
-  "imagealt": "UL - South Wing 3 Study Hub - Group Study Room ",
-  "lat": 52.20473,
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "cosy",
+    "social",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.107258,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.107258,52.20473]}",
-  "noise": "Animated discussion",
+  "disabled_access": false,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -79,59 +67,13 @@
       "to": "18:30"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:30"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:30"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:15"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:30"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:30"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:30"
-    }
-  },
-  "phone_number": "01223 333030",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-south-wing-3-study-hub-group-study-room",
-  "space_type": "Library space",
-  "tags": [
-    "group",
-    "study",
-    "discussion",
-    "light",
-    "warm",
-    "bookable"
-  ],
-  "title": "UL - South Wing 3 Study Hub - Group Study Room ",
+  "floor": "Third floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - South Wing 3 Study Hub - Group Study Room ",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library/group-study-room",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -169,13 +111,72 @@
       "to": "18:30"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library/group-study-room",
-  "url_text": "Visit the website",
+  "email_address": "readerservices@lib.cam.ac.uk",
   "work": [
     "friends",
     "group",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:30"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:15"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:30"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library,\r\nWest Road,\r\nCambridge,\r\nCB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.107258,52.20473]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary/",
+  "title": "UL - South Wing 3 Study Hub - Group Study Room ",
+  "tags": [
+    "group",
+    "study",
+    "discussion",
+    "light",
+    "warm",
+    "bookable"
+  ],
+  "noise": "Animated discussion",
+  "phone_number": "01223 333030",
+  "restricted": false,
+  "id": 79,
+  "image": "",
+  "description": "The Group Study Room is a new bookable space for groups to meet and discuss their studies. It is located on the third floor, signposted from the nearby Beta staircase.\r\n\r\nOnline bookings can be made for up to 8 people for a session lasting 90 minutes. Only one person per group needs to make the booking. \r\n\r\nEach booking runs for 90 minutes during standard opening hours Monday-Saturday, with a 30 minute break between booked sessions.\r\n\r\nAt present, only one group can book to use the space for each available session. There are two tables available, each with five chairs.\r\n\r\nWe have actively risk assessed all spaces and space usage in accordance with University guidance on Covid-19, and have further safety measures in place including high quality mechanical ventilation in most areas of the building and a CO2 monitoring program.\r\n\r\nWe have deliberately factored in 30 minute breaks between each booking, to give a clear break between occupation - you are allowed to open the windows in the room but please remember to close them before you vacate at the end of your booking.\r\n\r\nOur Student Experience Team will be in touch after your booking with a short survey to ask you about your experience booking and using this room.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20473
 }
