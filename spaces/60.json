@@ -1,15 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "relaxed",
-    "social"
-  ],
-  "building": "University Library",
-  "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
-  "disabled_access": true,
-  "email_address": "library@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -21,14 +10,13 @@
     "refreshments",
     "break"
   ],
-  "floor": "First floor",
-  "id": 60,
-  "image": "/assets/photos/000-126-resized_PH-LIBRARY-MAP-SOUTH-WING-000-00001.jpg",
-  "imagealt": "UL - South Wing Corridor",
-  "lat": 52.20507,
+  "atmosphere": [
+    "relaxed",
+    "social"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": false,
@@ -66,57 +54,13 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": false,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": false,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "09:00",
-      "to": "19:00"
-    }
-  },
-  "phone_number": "01223 333000",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-south-wing-corridor",
-  "space_type": "Library space",
-  "tags": [
-    "view",
-    "busy",
-    "bottled water only",
-    "no bags"
-  ],
-  "title": "UL - South Wing Corridor",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - South Wing Corridor",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": false,
@@ -154,11 +98,68 @@
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "library@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - South Wing Corridor",
+  "tags": [
+    "view",
+    "busy",
+    "bottled water only",
+    "no bags"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "01223 333000",
+  "restricted": false,
+  "id": 60,
+  "image": "/assets/photos/000-126-resized_PH-LIBRARY-MAP-SOUTH-WING-000-00001.jpg",
+  "description": "The Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
