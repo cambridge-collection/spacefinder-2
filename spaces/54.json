@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "disciplined",
-    "modern",
-    "inspiring",
-    "cosy"
-  ],
-  "building": "University Library",
-  "description": "The Rare Books Reading Room is a quiet and comfortable space, warmer than some others and open to everyone for the consultation of the UL’s collections of items printed before 1950 and other printed material that is rare or needs careful handling. \r\n\r\nOpening Times for the Rare Books Reading Room are below, however, the Rare Books Department relocates to the Manuscripts Department on the third floor from 1700 to 1850 Monday to Thursday, 1645 to 1850 on Friday and 0900 to 1630 on Saturdays.",
-  "disabled_access": true,
-  "email_address": "rarebooks@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -27,14 +14,15 @@
     "break",
     "wheelchair_accessible"
   ],
-  "floor": "First floor",
-  "id": 54,
-  "image": "/assets/photos/000-094-resized_PH-LIBRARY-MAP-RARE-BOOKS-000-00003.jpg",
-  "imagealt": "UL - Rare Books Room",
-  "lat": 52.20507,
+  "atmosphere": [
+    "disciplined",
+    "modern",
+    "inspiring",
+    "cosy"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Whispers",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -72,61 +60,13 @@
       "to": "16:45"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "saturday": {
-      "open": false,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333122",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-rare-books-room",
-  "space_type": "Library space",
-  "tags": [
-    "warmer",
-    "specialist reading room",
-    "subject specialists",
-    "librarians",
-    "large space",
-    "high ceilings",
-    "comfy chairs",
-    "large desks"
-  ],
-  "title": "UL - Rare Books Room",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - Rare Books Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -164,12 +104,73 @@
       "to": "16:45"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "rarebooks@lib.cam.ac.uk",
   "work": [
     "close",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - Rare Books Room",
+  "tags": [
+    "warmer",
+    "specialist reading room",
+    "subject specialists",
+    "librarians",
+    "large space",
+    "high ceilings",
+    "comfy chairs",
+    "large desks"
+  ],
+  "noise": "Whispers",
+  "phone_number": "+44 (0) 1223 333122",
+  "restricted": false,
+  "id": 54,
+  "image": "/assets/photos/000-094-resized_PH-LIBRARY-MAP-RARE-BOOKS-000-00003.jpg",
+  "description": "The Rare Books Reading Room is a quiet and comfortable space, warmer than some others and open to everyone for the consultation of the UL’s collections of items printed before 1950 and other printed material that is rare or needs careful handling. \r\n\r\nOpening Times for the Rare Books Reading Room are below, however, the Rare Books Department relocates to the Manuscripts Department on the third floor from 1700 to 1850 Monday to Thursday, 1645 to 1850 on Friday and 0900 to 1630 on Saturdays.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
