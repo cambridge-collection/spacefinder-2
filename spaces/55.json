@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "disciplined",
-    "historic",
-    "cosy",
-    "friendly"
-  ],
-  "building": "University Library",
-  "description": "Reading room open to everyone for the consultation of the UL’s archive and manuscript collections. Material is fetched on request. It’s not necessary to make an appointment but it is helpful to contact the manuscripts team in advance to let them know when you want to come and what you want to see. Details of most archival collections are available on <a href=\"https://archivesearch.lib.cam.ac.uk/\">ArchiveSearch</a>.\r\nMore details: <a href=\"https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives/visiting\">Visiting the Manuscripts Reading Room</a>.\r\n\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
-  "disabled_access": true,
-  "email_address": "mss@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -27,14 +14,15 @@
     "refreshments",
     "break"
   ],
-  "floor": "Third floor",
-  "id": 55,
-  "image": "/assets/photos/000-075-resized_PH-LIBRARY-MAP-MANUSCRIPTS-000-00001.jpg",
-  "imagealt": "UL - Manuscripts Reading Room",
-  "lat": 52.20507,
+  "atmosphere": [
+    "disciplined",
+    "historic",
+    "cosy",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Whispers",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -72,66 +60,13 @@
       "to": "18:50"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333143",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-manuscripts-reading-room",
-  "space_type": "Library space",
-  "tags": [
-    "specialist reading room",
-    "subject specialists",
-    "librarians",
-    "large space",
-    "high ceilings",
-    "comfy chairs",
-    "large desks",
-    "no water",
-    "no food",
-    "no pens",
-    "no bags",
-    "no outdoor clothing",
-    "warmer"
-  ],
-  "title": "UL - Manuscripts Reading Room",
+  "floor": "Third floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - Manuscripts Reading Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "http://www.lib.cam.ac.uk/deptserv/manuscripts/Using.html",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -169,12 +104,78 @@
       "to": "18:50"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "http://www.lib.cam.ac.uk/deptserv/manuscripts/Using.html",
-  "url_text": "Visit the website",
+  "email_address": "mss@lib.cam.ac.uk",
   "work": [
     "close",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - Manuscripts Reading Room",
+  "tags": [
+    "specialist reading room",
+    "subject specialists",
+    "librarians",
+    "large space",
+    "high ceilings",
+    "comfy chairs",
+    "large desks",
+    "no water",
+    "no food",
+    "no pens",
+    "no bags",
+    "no outdoor clothing",
+    "warmer"
+  ],
+  "noise": "Whispers",
+  "phone_number": "+44 (0) 1223 333143",
+  "restricted": false,
+  "id": 55,
+  "image": "/assets/photos/000-075-resized_PH-LIBRARY-MAP-MANUSCRIPTS-000-00001.jpg",
+  "description": "Reading room open to everyone for the consultation of the UL’s archive and manuscript collections. Material is fetched on request. It’s not necessary to make an appointment but it is helpful to contact the manuscripts team in advance to let them know when you want to come and what you want to see. Details of most archival collections are available on <a href=\"https://archivesearch.lib.cam.ac.uk/\">ArchiveSearch</a>.\r\nMore details: <a href=\"https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives/visiting\">Visiting the Manuscripts Reading Room</a>.\r\n\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
