@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "disciplined",
-    "relaxed",
-    "historic",
-    "inspiring"
-  ],
-  "building": "University Library",
-  "description": "A well-lit space in a very quiet part of the University Library. Plug sockets are available and there is a good view out of the window. Tables are smaller, air is cooler and there are rarely many people around.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
-  "disabled_access": true,
-  "email_address": "library@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -21,14 +8,15 @@
     "sockets",
     "signal"
   ],
-  "floor": "Fifth floor",
-  "id": 53,
-  "image": "/assets/photos/000-231-resized_DSCN0114.jpg",
-  "imagealt": "UL - South Front 5 ",
-  "lat": 52.20507,
+  "atmosphere": [
+    "disciplined",
+    "relaxed",
+    "historic",
+    "inspiring"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Strictly silent",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -66,60 +54,13 @@
       "to": "18:50"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333000",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-south-front-5",
-  "space_type": "Library space",
-  "tags": [
-    "no large bags",
-    "bottled water only",
-    "books",
-    "silent",
-    "good views",
-    "people watching",
-    "cooler"
-  ],
-  "title": "UL - South Front 5 ",
+  "floor": "Fifth floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - South Front 5 ",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -157,11 +98,71 @@
       "to": "18:50"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "library@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - South Front 5 ",
+  "tags": [
+    "no large bags",
+    "bottled water only",
+    "books",
+    "silent",
+    "good views",
+    "people watching",
+    "cooler"
+  ],
+  "noise": "Strictly silent",
+  "phone_number": "+44 (0) 1223 333000",
+  "restricted": false,
+  "id": 53,
+  "image": "/assets/photos/000-231-resized_DSCN0114.jpg",
+  "description": "A well-lit space in a very quiet part of the University Library. Plug sockets are available and there is a good view out of the window. Tables are smaller, air is cooler and there are rarely many people around.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
