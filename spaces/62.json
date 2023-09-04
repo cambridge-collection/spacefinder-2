@@ -1,15 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "modern",
-    "friendly"
-  ],
-  "building": "University Library",
-  "description": "A large cool room with huge tables for consulting maps. Seats around 10 people and can be accessed by anybody with a library card.",
-  "disabled_access": true,
-  "email_address": "maps@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -22,14 +11,13 @@
     "refreshments",
     "break"
   ],
-  "floor": "First floor",
-  "id": 62,
-  "image": "/assets/photos/000-080-resized_PH-LIBRARY-MAP-MAPROOM-000-00002.jpg",
-  "imagealt": "UL - Map Room",
-  "lat": 52.20507,
+  "atmosphere": [
+    "modern",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -67,60 +55,13 @@
       "to": "17:10"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:50"
-    },
-    "monday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:10"
-    },
-    "saturday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:10"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "17:10"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "09:00",
-      "to": "17:10"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333041 ",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "ul-map-room",
-  "space_type": "Library space",
-  "tags": [
-    "large benches",
-    "light",
-    "relaxing",
-    "north facing",
-    "trees",
-    "cooler",
-    "standing desks"
-  ],
-  "title": "UL - Map Room",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "UL - Map Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "http://www.lib.cam.ac.uk/collections/departments/maps",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -158,11 +99,71 @@
       "to": "17:10"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "http://www.lib.cam.ac.uk/collections/departments/maps",
-  "url_text": "Visit the website",
+  "email_address": "maps@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:50"
+    },
+    "monday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:10"
+    },
+    "saturday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:10"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "17:10"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:10"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - Map Room",
+  "tags": [
+    "large benches",
+    "light",
+    "relaxing",
+    "north facing",
+    "trees",
+    "cooler",
+    "standing desks"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "+44 (0) 1223 333041 ",
+  "restricted": false,
+  "id": 62,
+  "image": "/assets/photos/000-080-resized_PH-LIBRARY-MAP-MAPROOM-000-00002.jpg",
+  "description": "A large cool room with huge tables for consulting maps. Seats around 10 people and can be accessed by anybody with a library card.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
