@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "disciplined",
-    "modern",
-    "social",
-    "friendly"
-  ],
-  "building": "University Library",
-  "description": "The North Reading Room is a spacious room with multiple computers and plenty of desk space for laptops. There are printers and scanners nearby, the help desk is right next door, and you are in equal distance to both the Main Reading Room and the Readers Services Desk.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
-  "disabled_access": true,
-  "email_address": "library@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "facilities": [
     "daylight",
     "views",
@@ -23,14 +10,15 @@
     "refreshments",
     "break"
   ],
-  "floor": "First floor",
-  "id": 52,
-  "image": "/assets/photos/000-391-resized_20160217_090829.jpg",
-  "imagealt": "UL - North Reading Room",
-  "lat": 52.20507,
+  "atmosphere": [
+    "disciplined",
+    "modern",
+    "social",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -68,59 +56,13 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    }
-  },
-  "phone_number": "+44 (0) 1223 333000",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": true,
-  "restriction": "Booking required to study at the UL",
   "slug": "ul-north-reading-room",
-  "space_type": "Library space",
-  "tags": [
-    "friendly",
-    "light",
-    "modern",
-    "airy",
-    "no large bags",
-    "bottled water only"
-  ],
-  "title": "UL - North Reading Room",
+  "floor": "First floor",
+  "restriction": "Booking required to study at the UL",
+  "published": true,
+  "imagealt": "UL - North Reading Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -158,11 +100,70 @@
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "theUL",
-  "url": "https://www.lib.cam.ac.uk/using-library",
-  "url_text": "Visit the website",
+  "email_address": "library@lib.cam.ac.uk",
   "work": [
     "close",
     "in_a_library"
-  ]
+  ],
+  "twitter_screen_name": "theUL",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:45"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "19:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+  "title": "UL - North Reading Room",
+  "tags": [
+    "friendly",
+    "light",
+    "modern",
+    "airy",
+    "no large bags",
+    "bottled water only"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "+44 (0) 1223 333000",
+  "restricted": true,
+  "id": 52,
+  "image": "/assets/photos/000-391-resized_20160217_090829.jpg",
+  "description": "The North Reading Room is a spacious room with multiple computers and plenty of desk space for laptops. There are printers and scanners nearby in the South Reading Room corridor, the help desk is right next door on the 1st floor landing, and you are in equal distance to both the Main Reading Room and the Readers Services Desk.\n\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
