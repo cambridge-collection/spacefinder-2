@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "atmosphere": [
-    "historic",
-    "inspiring",
-    "cosy",
-    "friendly"
-  ],
-  "building": "University Library",
-  "description": "The Anderson Room is open to everyone for the consultation of the UL’s collections of printed music and books about music printed after 1900. Earlier materials will be fetched to Rare Books or Manuscripts as appropriate.  The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (music collections expertise). ",
-  "disabled_access": true,
-  "email_address": "music@lib.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/Penlib",
   "facilities": [
     "daylight",
     "views",
@@ -21,14 +8,15 @@
     "break",
     "wheelchair_accessible"
   ],
-  "floor": "First floor",
-  "id": 56,
-  "image": "/assets/photos/000-049-resized_PH-LIBRARY-MAP-AOI-000-00006.jpg",
-  "imagealt": "UL - Anderson Music Room",
-  "lat": 52.20507,
+  "atmosphere": [
+    "historic",
+    "inspiring",
+    "cosy",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.10824,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
-  "noise": "Whispers",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -66,63 +54,13 @@
       "to": "18:50"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:50"
-    }
-  },
-  "phone_number": "01223 333072",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
   "slug": "ul-anderson-music-room",
-  "space_type": "Library space",
-  "tags": [
-    "no food",
-    "No drinks other than water",
-    "specialist reading room",
-    "subject specialists",
-    "librarians",
-    "Large desks CD player",
-    "Cassette player",
-    "Online musical resources",
-    "Computers",
-    "Warmer."
-  ],
-  "title": "UL - Anderson Music Room",
+  "floor": "First floor",
+  "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+  "published": true,
+  "imagealt": "UL - Anderson Music Room",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "http://www.lib.cam.ac.uk/deptserv/music/",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -160,12 +98,75 @@
       "to": "18:50"
     }
   },
-  "twitter_screen_name": "MusiCB3t",
-  "url": "http://www.lib.cam.ac.uk/deptserv/music/",
-  "url_text": "Visit the website",
+  "email_address": "music@lib.cam.ac.uk",
   "work": [
     "close",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "MusiCB3t",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "saturday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:50"
+    }
+  },
+  "space_type": "Library space",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "facebook_url": "https://www.facebook.com/Penlib",
+  "title": "UL - Anderson Music Room",
+  "tags": [
+    "no food",
+    "No drinks other than water",
+    "specialist reading room",
+    "subject specialists",
+    "librarians",
+    "Large desks CD player",
+    "Cassette player",
+    "Online musical resources",
+    "Computers",
+    "Warmer."
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 333072",
+  "restricted": false,
+  "id": 56,
+  "image": "/assets/photos/000-049-resized_PH-LIBRARY-MAP-AOI-000-00006.jpg",
+  "description": "The Anderson Room is open to everyone for the consultation of the UL’s collections of printed music and books about music printed after 1900. Earlier materials will be fetched to Rare Books or Manuscripts as appropriate.  The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (music collections expertise). ",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20507
 }
