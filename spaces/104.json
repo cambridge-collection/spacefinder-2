@@ -65,7 +65,7 @@
   "slug": "new-space-104",
   "floor": "Floor C",
   "restriction": "The Library is open to students being taught in PDN as well as researchers and staff based in the Department. If you are from outside of the PDN Department and wish to visit the Library, then please contact us in advance to discuss arrangements. The Library is open 24/7 to department members with card access, or in line with the opening hours of the Physiology building (8:45-12:30, 13:30-17:00 Monday-Thursday, 16:00 on Friday).",
-  "published": false,
+  "published": true,
   "imagealt": "PDN Library's Group Study Space",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-physiology-development-and-neuroscience-physiology-building#62998c82-609b-7145-bf16-6c40a1d850a0 ",
   "url": "https://bio.lib.cam.ac.uk/pdn-library",
