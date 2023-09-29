@@ -70,27 +70,27 @@
   "url": "http://www.educ.cam.ac.uk/library/",
   "term_time_hours": {
     "monday": {
-      "open": true,
+      "open": false,
       "from": "00:00",
       "to": "24:00"
     },
     "tuesday": {
-      "open": true,
+      "open": false,
       "from": "00:00",
       "to": "24:00"
     },
     "wednesday": {
-      "open": true,
+      "open": false,
       "from": "00:00",
       "to": "24:00"
     },
     "thursday": {
-      "open": true,
+      "open": false,
       "from": "00:00",
       "to": "24:00"
     },
     "friday": {
-      "open": true,
+      "open": false,
       "from": "00:00",
       "to": "24:00"
     },
