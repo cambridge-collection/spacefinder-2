@@ -68,29 +68,29 @@
   "url": "http://www.educ.cam.ac.uk/library/",
   "term_time_hours": {
     "monday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:15",
+      "to": "17:30"
     },
     "tuesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:15",
+      "to": "17:30"
     },
     "wednesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:15",
+      "to": "17:30"
     },
     "thursday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:15",
+      "to": "17:30"
     },
     "friday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:15",
+      "to": "17:30"
     },
     "saturday": {
       "open": false,
@@ -166,7 +166,7 @@
   "restricted": false,
   "id": 86,
   "image": "/assets/photos/000-167-resized_Lily_Pad_2_-_1.jpg",
-  "description": "T﻿he Education faculty library has over a hundred study spaces. The upper levels of the Library (called Lily Pads) provide some cosy study areas, with some overlooking the front of the building.  You’ll even come across the odd bean bag, too! If you find it more comfortable to stand, then there are 3 standing desks available.\n\nFor current Education Library opening hours, please email the Library team to check before your visit: library@educ.cam.ac.uk\n\nFollow the Website link at the bottom of this listing for more details and updates. You can also find the library on [Instagram](https://www.instagram.com/edfaclib/).",
+  "description": "T﻿he Education faculty library has over a hundred study spaces. The upper levels of the Library (called Lily Pads) provide some cosy study areas, with some overlooking the front of the building.  You’ll even come across the odd bean bag, too! If you find it more comfortable to stand, then there are 3 standing desks available.\n\n***For current Education Library opening hours, please email the Library team to check before your visit, particularly during vacations as times will change: [library@educ.cam.ac.uk](mailto:library@educ.cam.ac.uk)***\n\nFollow the Website link at the bottom of this listing for more details and updates. You can also find the library on [Instagram](https://www.instagram.com/edfaclib/).",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.186667
