@@ -1,174 +1,174 @@
 {
-    "facilities": [
-        "accessible_toilets",
-        "views",
-        "bike_racks",
-        "break",
-        "refreshments",
-        "computers",
-        "electronic_legal_deposit",
-        "free_wifi",
-        "gender_neutral_toilets",
-        "laptops_allowed",
-        "large_desks",
-        "daylight",
-        "signal",
-        "sockets",
-        "toilets",
-        "wheelchair_accessible",
-        "whiteboards"
-    ],
-    "atmosphere": [
-        "cosy",
-        "friendly",
-        "historic",
-        "inspiring",
-        "relaxed",
-        "social"
-    ],
-    "access": "Members of the University",
-    "lng": "",
-    "disabled_access": true,
-    "opening_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+  "facilities": [
+    "accessible_toilets",
+    "views",
+    "bike_racks",
+    "break",
+    "refreshments",
+    "computers",
+    "electronic_legal_deposit",
+    "free_wifi",
+    "gender_neutral_toilets",
+    "laptops_allowed",
+    "large_desks",
+    "daylight",
+    "signal",
+    "sockets",
+    "toilets",
+    "wheelchair_accessible",
+    "whiteboards"
+  ],
+  "atmosphere": [
+    "cosy",
+    "friendly",
+    "historic",
+    "inspiring",
+    "relaxed",
+    "social"
+  ],
+  "access": "Members of the University",
+  "lng": "",
+  "disabled_access": true,
+  "opening_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
     },
-    "slug": "new-space-110",
-    "floor": "Ground floor and Basement floor",
-    "restriction": "Open to visitors by appointment, please see our Visitor Policy Information. ",
-    "published": false,
-    "imagealt": "Large desk in the AHA Library ground floor",
-    "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/trumpington-street-and-lensfield-road/access-guides/faculty-of-architecture-and-history-of-art-1-5-scroope-terrace",
-    "url": "https://www.aha.cam.ac.uk/",
-    "term_time_hours": {
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "17:30"
-        }
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
     },
-    "email_address": "library@aha.cam.ac.uk",
-    "work": [
-        "in_a_library",
-        "group",
-        "close",
-        "friends"
-    ],
-    "twitter_screen_name": "@AHALibCam",
-    "out_of_term_hours": {
-        "monday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "tuesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "wednesday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "thursday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "friday": {
-            "open": true,
-            "from": "09:30",
-            "to": "16:30"
-        },
-        "saturday": {
-            "open": false,
-            "from": "09:00",
-            "to": "17:00"
-        },
-        "sunday": {
-            "open": false,
-            "from": "00:00",
-            "to": "24:00"
-        }
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
     },
-    "space_type": "",
-    "building": "Faculty of Architecture and History of Art",
-    "address": "1-5 Scroope Terrace\nCambridge\nCB2 1PX\n",
-    "location": "{\"type\":\"Point\",\"coordinates\":[0.12159,52.198369]}",
-    "facebook_url": "",
-    "title": "New AHA Space",
-    "tags": "",
-    "noise": "Whispers",
-    "phone_number": "01223 332950",
-    "restricted": true,
-    "id": 110,
-    "image": "/assets/photos/aha-ground.jpg",
-    "description": "Description of new space 110",
-    "url_text": "Visit the website",
-    "phone_text": "Phone the space",
-    "lat": ""
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    }
+  },
+  "slug": "new-space-110",
+  "floor": "Ground floor and Basement floor",
+  "restriction": "Open to visitors by appointment, please see our Visitor Policy Information. ",
+  "published": false,
+  "imagealt": "Large desk in the AHA Library ground floor",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/trumpington-street-and-lensfield-road/access-guides/faculty-of-architecture-and-history-of-art-1-5-scroope-terrace",
+  "url": "https://www.aha.cam.ac.uk/",
+  "term_time_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "17:30"
+    }
+  },
+  "email_address": "library@aha.cam.ac.uk",
+  "work": [
+    "in_a_library",
+    "group",
+    "close",
+    "friends"
+  ],
+  "twitter_screen_name": "@AHALibCam",
+  "out_of_term_hours": {
+    "monday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:30"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:30"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:30"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:30"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:30",
+      "to": "16:30"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "",
+  "building": "Faculty of Architecture and History of Art",
+  "address": "1-5 Scroope Terrace\nCambridge\nCB2 1PX\n",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.12159,52.198369]}",
+  "facebook_url": "",
+  "title": "New AHA Space",
+  "tags": "",
+  "noise": "Whispers",
+  "phone_number": "01223 332950",
+  "restricted": true,
+  "id": 110,
+  "image": "/assets/photos/aha-ground.jpg",
+  "description": "Description of new space 110",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": ""
 }
