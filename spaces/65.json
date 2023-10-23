@@ -1,16 +1,4 @@
 {
-  "access": "Members of the University",
-  "address": "Faculty of History \r\nWest Road \r\nCambridge UK \r\nCB3 9EF ",
-  "atmosphere": [
-    "relaxed",
-    "social",
-    "friendly"
-  ],
-  "building": "Seeley Library",
-  "description": "",
-  "disabled_access": true,
-  "email_address": "seeley@hist.cam.ac.uk",
-  "facebook_url": "",
   "facilities": [
     "food_drink",
     "daylight",
@@ -25,14 +13,14 @@
     "adjustable_furniture",
     "bike_racks"
   ],
-  "floor": "First floor",
-  "id": 65,
-  "image": "/assets/photos/000-247-resized_JCR.jpg",
-  "imagealt": "JCR",
-  "lat": 52.20205,
+  "atmosphere": [
+    "relaxed",
+    "social",
+    "friendly"
+  ],
+  "access": "Members of the University",
   "lng": 0.10859,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10859,52.20205]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -70,60 +58,12 @@
       "to": "24:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "saturday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "00:00",
-      "to": "24:00"
-    }
-  },
-  "phone_number": "01223 335335",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "jcr",
-  "space_type": "Café",
-  "tags": [
-    "busy",
-    "food and drink",
-    "Water",
-    "Group discussion",
-    "wifi",
-    "Fetching service available",
-    "Automatic Doors"
-  ],
-  "title": "JCR",
+  "floor": "First floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "JCR",
+  "url": "",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -161,13 +101,73 @@
       "to": "24:00"
     }
   },
-  "twitter_screen_name": "TheSeeleyLib",
-  "url": "",
-  "url_text": "Visit the website",
+  "email_address": "",
   "work": [
     "close",
     "friends",
     "group",
     "in_a_library"
-  ]
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Café",
+  "building": "Seeley Library",
+  "address": "Faculty of History \r\nWest Road \r\nCambridge UK \r\nCB3 9EF ",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.10859,52.20205]}",
+  "facebook_url": "",
+  "title": "JCR",
+  "tags": [
+    "busy",
+    "food and drink",
+    "Water",
+    "Group discussion",
+    "wifi",
+    "Fetching service available",
+    "Automatic Doors"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "",
+  "restricted": false,
+  "id": 65,
+  "image": "/assets/photos/000-247-resized_JCR.jpg",
+  "description": "J﻿CR",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20205
 }
