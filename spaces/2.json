@@ -149,7 +149,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1082865,52.2053204]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - North Front Corridor",
   "tags": [
@@ -162,7 +162,7 @@
   "restricted": true,
   "id": 2,
   "image": "/assets/photos/000-081-resized_PH-LIBRARY-FRONT-CORRIDORS-000-00002.jpg",
-  "description": "The North Front Corridor is a bright wide space in an open shelving area where readers and staff will often walk by. It's a cooler area with easy access to both the North Front and the North Wing. There are no plug sockets on the tables, though electrical outlets are not far away. You are also free to work in the enclosure by the Tea Room and Map Room. The enclosure has two computers available for use and is a cosy study space.",
+  "description": "The North Front Corridor is a bright wide space in an open shelving area where readers and staff will often walk by. It's a cooler area with easy access to both the North Front and the North Wing. There are no plug sockets on the tables, though electrical outlets are not far away on the wall opposite. You are also free to work in the enclosure by the Tea Room and Map Room. The enclosure has two computers available for use and is a cosy study space. You can also access the North Courtyard, where food and drink can be taken.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
