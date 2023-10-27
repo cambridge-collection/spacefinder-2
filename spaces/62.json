@@ -58,7 +58,7 @@
   "slug": "ul-map-room",
   "floor": "First floor",
   "restriction": "",
-  "published": false,
+  "published": true,
   "imagealt": "UL - Map Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
   "url": "http://www.lib.cam.ac.uk/collections/departments/maps",
