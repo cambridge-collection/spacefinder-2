@@ -20,12 +20,12 @@
   "disabled_access": true,
   "opening_hours": {
     "friday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "16:50"
     },
     "monday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "17:10"
     },
