@@ -146,7 +146,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1077814,52.2048697]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - Reading Room South Corridor",
   "tags": [
@@ -161,7 +161,7 @@
   "restricted": false,
   "id": 58,
   "image": "/assets/photos/000-115-resized_RRSW.jpg",
-  "description": "The Reading Room South Corridor is a quiet corridor located next to the south courtyard. The supplementary catalogue is located here, and staff can be found in the Reading Room right next door. There is a printer/scanner located in the corridor and another by the Beta staircase.\n\nYou are within a short distance to the toilets and the tearoom is only a few minutes walk away. Though this is a corridor, it is a quieter corridor than some of the others and is usually not very busy.\n\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "description": "<!--StartFragment-->\n\nThe Reading Room South Corridor is a quiet corridor located next to the south courtyard. The supplementary catalogue is located here and staff can be found in the Reading Room right next door. \n\n<!--StartFragment-->\n\n<br>\n\n<!--EndFragment-->\n\nThere is a networked printer available for printing, scanning and copying. \n\n<!--StartFragment-->\n\n<br>\n\n<!--EndFragment-->\n\nThe Library also offers Click & Collect, Scan & Deliver and Virtual Reading Room services.\n\n<!--StartFragment-->\n\n<br>\n\n<!--EndFragment-->\n\nFor more details on these services please go to [Zero Contact Services](<https://www.lib.cam.ac.uk/using-library/zero-contact-services>) (https://www.lib.cam.ac.uk/using-library/zero-contact-services)\n\n<!--EndFragment-->",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
