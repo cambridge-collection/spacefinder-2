@@ -17,7 +17,6 @@
   "atmosphere": [
     "disciplined",
     "historic",
-    "cosy",
     "friendly"
   ],
   "access": "Anyone (public)",
@@ -151,7 +150,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1072208,52.2052344]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - Manuscripts Reading Room",
   "tags": [
@@ -174,7 +173,7 @@
   "restricted": false,
   "id": 55,
   "image": "/assets/photos/000-075-resized_PH-LIBRARY-MAP-MANUSCRIPTS-000-00001.jpg",
-  "description": "T﻿he Manuscripts Reading Room is open to r﻿eaders for the consultation of the UL’s archive and manuscript collections. Material is fetched on request. It’s not necessary to make an appointment but it is helpful to contact the manuscripts team in advance to let them know when you want to come and what you want to see. Details of most archival collections are available on <a href=\"https://archivesearch.lib.cam.ac.uk/\">ArchiveSearch</a>.\r\nMore details, including material fetching times and handling guidelines, are available on: <a href=\"https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives/visiting\">Visiting the Manuscripts Reading Room</a>.\n\n",
+  "description": "T﻿he Manuscripts Reading Room is open to r﻿eaders for the consultation of the UL’s archive and manuscript collections ﻿with material available on request.It’s not necessary to make an appointment but it is helpful to contact the manuscripts team in advance to let them know when you want to come and what you want to see. Staff are on hand to help with ordering items and enquiries. Only pencils and laptop computers may be used in the Reading Room.  All readers to the Manuscripts Reading Room are required to register when entering the room, and must leave prohibited items in the lockers provided.\n\n<br />\n\n<br />\n\nYou can find details of what is available in the UL's archival collections by using <a href=\"https://archivesearch.lib.cam.ac.uk/\">ArchiveSearch</a>.\n\n\r <br />\n\n<br />\n\nMore details, including material fetching times and handling guidelines, are available on: <a href=\"https://www.lib.cam.ac.uk/collections/departments/archives-modern-and-medieval-manuscripts-and-university-archives/visiting\">Visiting the Manuscripts Reading Room</a>.\n",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
