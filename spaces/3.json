@@ -64,17 +64,17 @@
   "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:45"
     },
     "monday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:45"
     },
     "saturday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "16:45"
     },
@@ -84,17 +84,17 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:45"
     },
     "tuesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:45"
     },
     "wednesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:45"
     }
