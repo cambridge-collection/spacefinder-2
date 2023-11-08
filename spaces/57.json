@@ -65,17 +65,17 @@
   "url": "http://www.lib.cam.ac.uk/collections/departments/east-asian-reading-room",
   "term_time_hours": {
     "friday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:50"
     },
     "monday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:50"
     },
     "saturday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "16:30"
     },
@@ -85,17 +85,17 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:50"
     },
     "tuesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:50"
     },
     "wednesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:50"
     }
