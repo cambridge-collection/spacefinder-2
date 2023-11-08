@@ -58,7 +58,7 @@
   },
   "slug": "ul-north-reading-room",
   "floor": "First floor",
-  "restriction": "Booking required to study at the UL",
+  "restriction": "You must be a registered reader at the UL to use this space",
   "published": true,
   "imagealt": "UL - North Reading Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
@@ -146,7 +146,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.10824,52.20507]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1080221,52.2050902]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - North Reading Room",
   "tags": [
@@ -161,8 +161,8 @@
   "phone_number": "+44 (0) 1223 333000",
   "restricted": true,
   "id": 52,
-  "image": "/assets/photos/000-391-resized_20160217_090829.jpg",
-  "description": "The North Reading Room is a spacious room with multiple computers and plenty of desk space for laptops. There are printers and scanners nearby in the Reading Room South corridor, the help desk is right next door on the 1st floor landing, and you are in equal distance to both the Main Reading Room and the Readers Services Desk. \n\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "image": "/assets/photos/north-reading-room.jpg",
+  "description": "\r\nThe North Reading Room is a spacious room with multiple computers, iDiscover terminals and plenty of desk space for laptops. There are also three height adjustable desks. There are printers and scanners nearby in the Reading Room South corridor, the help desk is right next door on the 1st floor landing, and you are in equal distance to both the Main Reading Room and the Readers Services Desk.  \n\nFor more information on library services, such as Click & Collect and Scan & Deliver, see our <a href=\"https://www.lib.cam.ac.uk/using-library/zero-contact-services\">Zero-Contact services webpages</a>.  ",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
