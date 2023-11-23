@@ -9,7 +9,10 @@
     "refreshments",
     "break",
     "wheelchair_accessible",
-    "individual_study_space"
+    "individual_study_space",
+    "accessible_toilets",
+    "gender_neutral_toilets",
+    "printers_copiers"
   ],
   "atmosphere": [
     "relaxed",
