@@ -3,20 +3,18 @@
     "daylight",
     "views",
     "large_desks",
-    "no_wifi",
     "laptops_allowed",
     "sockets",
-    "signal"
+    "signal",
+    "free_wifi"
   ],
   "atmosphere": [
     "disciplined",
-    "relaxed",
-    "historic",
-    "inspiring"
+    "modern"
   ],
   "access": "Anyone (public)",
   "lng": 0.10824,
-  "disabled_access": true,
+  "disabled_access": false,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -56,7 +54,7 @@
   },
   "slug": "ul-south-front-5",
   "floor": "Fifth floor",
-  "restriction": "",
+  "restriction": "You must be a registered reader at the UL to access this space. ",
   "published": true,
   "imagealt": "UL - South Front 5 ",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
@@ -158,10 +156,10 @@
   ],
   "noise": "Strictly silent",
   "phone_number": "+44 (0) 1223 333000",
-  "restricted": false,
+  "restricted": true,
   "id": 53,
   "image": "/assets/photos/000-231-resized_DSCN0114.jpg",
-  "description": "A well-lit space in a very quiet part of the University Library. Plug sockets are available and there is a good view out of the window. Tables are smaller, air is cooler and there are rarely many people around.\r\n\r\nThe Library also offers: Book a Visit (to consult collections), Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates. https://www.lib.cam.ac.uk/using-library/zero-contact-services",
+  "description": "A well-lit space in a very quiet part of the University Library. Plug sockets are available, there is a good view out of the window and the air is cooler. The tables are small, with one or two chairs, and there are rarely many people around, idealisolated focus time. There are study spaces like this throughout the open book shelves. To reach this space, follow signs to the South Staircase and take the stairs/lift to the fifth floor. There is lift access available, however the space between the tables and the book shelves is extremely narrow. \n \n<br>\n<br>\n\nI﻿f you would like to find out more about what the University Library has to offer, see <a href=\"https://www.lib.cam.ac.uk/using-library\">'Our Services at a glance' webpage</a>. ",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
