@@ -12,7 +12,8 @@
     "toilets",
     "refreshments",
     "break",
-    "wheelchair_accessible"
+    "wheelchair_accessible",
+    "accessible_toilets"
   ],
   "atmosphere": [
     "disciplined",
