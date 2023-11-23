@@ -58,7 +58,7 @@
   },
   "slug": "ul-aoi-east-asian-reading-room",
   "floor": "First floor",
-  "restriction": "",
+  "restriction": "You will need to be a registered reader at the UL to use this space. ",
   "published": true,
   "imagealt": "UL - Aoi East Asian Reading Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
@@ -100,7 +100,7 @@
       "to": "18:50"
     }
   },
-  "email_address": "chinese@lib.cam.ac.uk  japanese@lib.cam.ac.uk",
+  "email_address": "chinese@lib.cam.ac.uk/japanese@lib.cam.ac.uk",
   "work": [
     "in_a_library",
     "private"
@@ -146,7 +146,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.1079098,52.204513]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1078999,52.2045099]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - Aoi East Asian Reading Room",
   "tags": [
@@ -157,12 +157,12 @@
     "modern",
     "spacious"
   ],
-  "noise": "Strictly silent",
-  "phone_number": "01223 333155 01223 333038",
-  "restricted": false,
+  "noise": "Whispers",
+  "phone_number": "01223 333155/01223 333038",
+  "restricted": true,
   "id": 57,
   "image": "/assets/photos/000-056-resized_PH-LIBRARY-MAP-AOI-000-00002.jpg",
-  "description": "The East Asian Reading Room (Aoi Pavilion) is a warm and welcoming study space, very quiet and provides a perfect environment for those wishing to study in a relaxed, warm and silent place. The reference books in Chinese, Japanese and Korean are located in the East Asian Reading Room and welcome users to use onsite. In addition to the East Asian Reading Room on the first floor, the Aoi Pavilion contains the Library's collections of Chinese, Japanese and Korean material in two bookstacks on the Ground Floor (open stacks) and Basement (close stacks), together with two Seminar Rooms, and two offices for the staff of the Library's Chinese Section and Japanese and Korean Section. You can consult subjects experts on Chinese, Japanese and Korean language materials.\n\n\n\n<br>\n\n\n\nT﻿his space is staffed from 9am to 5:10pm Monday to Thursday, 9am to 16:50pm on Fridays and is not staffed (but open) on Saturday. For more information on opening hours and fetching times, please see the  <a href=\"https://www.lib.cam.ac.uk/collections/departments/east-asian-reading-room \">East Asian Reading Room webpage</a>.",
+  "description": "The East Asian Reading Room (Aoi Pavilion) is a warm and welcoming study space, very quiet and provides a perfect environment for those wishing to study in a relaxed, warm and silent place. T﻿here are computers available for browsing the UL's online resources.The reference books in Chinese, Japanese and Korean are located in the East Asian Reading Room and u﻿sers are welcome to use them when onsite. \n<br>\n\n<br>\n\nIn addition to the East Asian Reading Room on the first floor, the Aoi Pavilion contains the Library's collections of Chinese, Japanese and Korean material in two bookstacks on the Ground Floor (open stacks) and Basement (close stacks), together with two Seminar Rooms, and two offices for the staff of the Library's Chinese Section and Japanese and Korean Section. You can consult subjects experts on Chinese, Japanese and Korean language materials.\n<br>\n\n<br>\n\nT﻿his space is staffed from 9am to 5:10pm Monday to Thursday, 9am to 16:50pm on Fridays and is not staffed (but open) on Saturday. For more information on opening hours and fetching times, please see the  <a href=\"https://www.lib.cam.ac.uk/collections/departments/east-asian-reading-room \">East Asian Reading Room webpage</a>.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
