@@ -56,7 +56,7 @@
   },
   "slug": "ul-anderson-music-room",
   "floor": "First floor",
-  "restriction": "For information on how to access the UL, please see: http://www.lib.cam.ac.uk/plan-your-visit/admissions/who-can-use",
+  "restriction": "You will need to be a registered reader at the UL to access this space.",
   "published": true,
   "imagealt": "UL - Anderson Music Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
@@ -101,8 +101,7 @@
   "email_address": "music@lib.cam.ac.uk",
   "work": [
     "close",
-    "in_a_library",
-    "private"
+    "in_a_library"
   ],
   "twitter_screen_name": "MusiCB3t",
   "out_of_term_hours": {
@@ -145,7 +144,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.1084262,52.2045119]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1084243,52.2045117]}",
   "facebook_url": "https://www.facebook.com/Penlib",
   "title": "UL - Anderson Music Room",
   "tags": [
@@ -165,7 +164,7 @@
   "restricted": false,
   "id": 56,
   "image": "/assets/photos/000-049-resized_PH-LIBRARY-MAP-AOI-000-00006.jpg",
-  "description": "The Anderson Room is open to everyone for the consultation of the UL’s collections of printed music and books about music printed after 1900. Earlier materials will be fetched to Rare Books or Manuscripts as appropriate.  The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (music collections expertise). ",
+  "description": "The Anderson Room is open to everyone for the consultation of the UL’s collections of printed music and books about music printed after 1900. Earlier materials will be fetched to Rare Books or Manuscripts as appropriate. There are wide tables for the consultation of materials and an electronic piano available to play through scores. \n\nFor more information on the collections, opening hours and fetching times, see the <a href=\"https://www.lib.cam.ac.uk/collections/departments/music\">Music Department webpages</a>. Staff are on hand to assist between 9-5:10pm Monday to Thursday and 9-4:50pm on Fridays. The Anderson Room office is closed on Saturdays. ",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
