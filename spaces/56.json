@@ -6,7 +6,9 @@
     "laptops_allowed",
     "toilets",
     "break",
-    "wheelchair_accessible"
+    "wheelchair_accessible",
+    "large_desks",
+    "signal"
   ],
   "atmosphere": [
     "historic",
