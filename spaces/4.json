@@ -146,7 +146,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.1081351,52.2049872]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1081403,52.2050086]}",
   "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
   "title": "UL - Fourth Floor Landing",
   "tags": [
@@ -161,7 +161,7 @@
   "restricted": true,
   "id": 4,
   "image": "/assets/photos/000-235-resized_DSCN0103.jpg",
-  "description": "The Fourth Floor Landing provides a very quiet space with a very small level of footfall. There is a large table with eight chairs, so this would be a good place to work with friends. Warm, spacious and cosy. This space can be accessed via the Stone Staircase from the first-floor landing. If step free access is required, there is a staff operated lift that can be taken to this space, please enquire at the Reader Services desk on the ground floor.",
+  "description": "The Fourth Floor Landing provides a very quiet space with a very small level of footfall. There is a large table with eight chairs, so this would be a good place to work with friends. This space can be accessed via the Stone Staircase from the first-floor landing. If step free access is required, there is a staff operated lift that can be taken to this space, please enquire at the Reader Services desk on the ground floor.\n\n<br>\n\n<br>\n\nI﻿f you would like to find out more about what the University Library has to offer, see <a href=\"https://www.lib.cam.ac.uk/using-library\">Our Services at a glance' webpage</a>'. \r\n\r\n ",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20507
