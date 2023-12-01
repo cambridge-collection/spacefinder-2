@@ -24,18 +24,18 @@
   "opening_hours": {
     "friday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "monday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "saturday": {
-      "open": true,
-      "from": "09:30",
-      "to": "12:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "sunday": {
       "open": false,
@@ -44,18 +44,18 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     }
   },
   "slug": "music-reading-room",
