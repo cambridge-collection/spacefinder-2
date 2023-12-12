@@ -64,9 +64,9 @@
   "url": "",
   "term_time_hours": {
     "friday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
     },
     "monday": {
       "open": true,
@@ -84,19 +84,19 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
     },
     "tuesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
     },
     "wednesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
+      "open": true,
+      "from": "09:00",
+      "to": "18:45"
     }
   },
   "email_address": "",
@@ -144,7 +144,7 @@
   "space_type": "Library space",
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.204756]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1071808,52.2047569]}",
   "facebook_url": "",
   "title": "UL - South Wing 3 Study Hub",
   "tags": [],
@@ -153,7 +153,7 @@
   "restricted": false,
   "id": 80,
   "image": "",
-  "description": "The South Wing 3 Study Hub is a suite of rooms that allow you to find the study space that suits you. Comprised of; the group study room, individual accessibility bookable study room, individual bookable study room for online zoom calls/supervisions etc, Commonwealth Reading Room (no booking required for this space), and bookable desks and lockers for PhD students in the Commonwealth Room, we hope you can find a space that is right for you. ",
+  "description": "The South Wing 3 Study Hub is a suite of rooms that allow you to find the study space that suits you. Comprised of; the group study room, individual accessibility bookable study room, individual bookable study room for online zoom calls/supervisions etc, Commonwealth Reading Room (no booking required for this space), and bookable desks and lockers for PhD students in the Commonwealth Room, we hope you can find a space that is right for you. \n\n\n\nF﻿or more information on the options for using the Sudy Hub please look at the separate entries for the areas.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.204756
