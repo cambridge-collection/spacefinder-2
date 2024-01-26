@@ -1,17 +1,4 @@
 {
-  "access": "Anyone (public)",
-  "address": "The Language Centre, University of Cambridge\r\n5, Downing Place\r\nCambridge\r\nCB2 3EL",
-  "atmosphere": [
-    "relaxed",
-    "inspiring",
-    "social",
-    "friendly"
-  ],
-  "building": "",
-  "description": "IMPORTANT: Due to the implications of COVID-19 please check with the Language Centre directly as to their current access arrangements.",
-  "disabled_access": true,
-  "email_address": "enquiries@langcen.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/pages/University-of-Cambridge-Language-Centre/157482730970936",
   "facilities": [
     "daylight",
     "free_wifi",
@@ -24,14 +11,15 @@
     "refreshments",
     "break"
   ],
-  "floor": "Ground floor",
-  "id": 39,
-  "image": "/assets/photos/000-182-resized_1.jpg",
-  "imagealt": "Language Centre: The John Trim Centre (Old Music School)",
-  "lat": 52.20295,
+  "atmosphere": [
+    "relaxed",
+    "inspiring",
+    "social",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.12298,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.12298,52.20295]}",
-  "noise": "Background chatter",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -69,65 +57,21 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    }
-  },
-  "phone_number": "01223335058",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": true,
-  "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
   "slug": "language-centre-the-john-trim-centre-old-music-school",
-  "space_type": "Other",
-  "tags": [
-    "always space",
-    "quirky staff",
-    "advice on hand"
-  ],
-  "title": "Language Centre: The John Trim Centre (Old Music School)",
+  "floor": "Ground floor",
+  "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
+  "published": true,
+  "imagealt": "The University of Cambridge Language Centre: The John Trim Centre",
+  "url": "http://www.langcen.cam.ac.uk/advising/explore-resources.html",
   "term_time_hours": {
     "friday": {
       "open": true,
-      "from": "08:45",
+      "from": "09:00",
       "to": "19:00"
     },
     "monday": {
       "open": true,
-      "from": "08:45",
+      "from": "09:00",
       "to": "19:00"
     },
     "saturday": {
@@ -142,27 +86,83 @@
     },
     "thursday": {
       "open": true,
-      "from": "08:45",
+      "from": "09:00",
       "to": "19:00"
     },
     "tuesday": {
       "open": true,
-      "from": "08:45",
+      "from": "09:00",
       "to": "19:00"
     },
     "wednesday": {
       "open": true,
-      "from": "08:45",
+      "from": "09:00",
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "",
-  "url": "http://www.langcen.cam.ac.uk/lc/advising/explore-resources.html",
-  "url_text": "Visit the website",
+  "email_address": "enquiries@langcen.cam.ac.uk",
   "work": [
     "close",
     "friends",
     "group",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "18:00"
+    }
+  },
+  "space_type": "Other",
+  "building": "The Old Music School",
+  "address": "The Language Centre, University of Cambridge\r\n5, Downing Place\r\nCambridge\r\nCB2 3EL",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1229451,52.2029053]}",
+  "facebook_url": "https://www.facebook.com/uclangcen/",
+  "title": "The University of Cambridge Language Centre: The John Trim Centre",
+  "tags": [
+    "always space",
+    "quirky staff",
+    "advice on hand"
+  ],
+  "noise": "Animated discussion",
+  "phone_number": "01223335058",
+  "restricted": true,
+  "id": 39,
+  "image": "/assets/photos/carousel-60.png",
+  "description": "# T﻿he John Trim (JTC) Centre \n\nThe **new JTC facilities** are specifically designed for language learning and offer a variety of seating options. The main area has grey booth desks, a large table, and an L-shaped sofa for different learning preferences. The alcove/audio room area provides access to a wide collection of language films and documentaries. Borrowable DVDs, portable DVD players, and an Apple disc drive for Mac users are available. The two supervision booths have ample space for group activities, including the option to book computer monitor slots. Reception can assist with booking various language learning activities.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20295
 }
