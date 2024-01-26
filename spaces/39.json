@@ -147,10 +147,10 @@
   },
   "space_type": "Other",
   "building": "The Old Music School",
-  "address": "The Language Centre, University of Cambridge\r\n5, Downing Place\r\nCambridge\r\nCB2 3EL",
+  "address": "The University of Cambridge Language Centre\nDowning Place\nCambridge\nCB2 3EL",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.1229451,52.2029053]}",
   "facebook_url": "https://www.facebook.com/uclangcen/",
-  "title": "The University of Cambridge Language Centre: The John Trim Centre",
+  "title": "The University of Cambridge Language Centre: The John Trim Centre (JTC)",
   "tags": [
     "always space",
     "quirky staff",
@@ -161,7 +161,7 @@
   "restricted": true,
   "id": 39,
   "image": "/assets/photos/carousel-60.png",
-  "description": "# T﻿he John Trim (JTC) Centre \n\nThe **new JTC facilities** are specifically designed for language learning and offer a variety of seating options. The main area has grey booth desks, a large table, and an L-shaped sofa for different learning preferences. The alcove/audio room area provides access to a wide collection of language films and documentaries. Borrowable DVDs, portable DVD players, and an Apple disc drive for Mac users are available. The two supervision booths have ample space for group activities, including the option to book computer monitor slots. Reception can assist with booking various language learning activities.",
+  "description": "The new JTC facilities are specifically designed for language learning and offer a variety of seating options. The main area has grey booth desks, a large table, and an L-shaped sofa for different learning preferences. The alcove/audio room area provides access to a wide collection of language films and documentaries. Borrowable DVDs, portable DVD players, and an Apple disc drive for Mac users are available. The two supervision booths have ample space for group activities, including the option to book computer monitor slots. Reception can assist with booking various language learning activities.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20295
