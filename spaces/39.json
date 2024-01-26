@@ -9,13 +9,21 @@
     "printers_copiers",
     "toilets",
     "refreshments",
-    "break"
+    "break",
+    "bookable",
+    "induction_loops",
+    "wheelchair_accessible",
+    "whiteboards",
+    "accessible_toilets",
+    "bike_racks"
   ],
   "atmosphere": [
     "relaxed",
     "inspiring",
     "social",
-    "friendly"
+    "friendly",
+    "cosy",
+    "modern"
   ],
   "access": "Anyone (public)",
   "lng": 0.12298,
@@ -62,6 +70,7 @@
   "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
   "published": true,
   "imagealt": "The University of Cambridge Language Centre: The John Trim Centre",
+  "accessable_url": "https://www.virtualtour.study.cam.ac.uk/explore/facilities/university-language-centre-facility/information/open-days-university-language-centre-information",
   "url": "http://www.langcen.cam.ac.uk/advising/explore-resources.html",
   "term_time_hours": {
     "friday": {
@@ -107,7 +116,7 @@
     "group",
     "private"
   ],
-  "twitter_screen_name": "",
+  "twitter_screen_name": "https://twitter.com/uclangcen",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -156,7 +165,7 @@
     "quirky staff",
     "advice on hand"
   ],
-  "noise": "Animated discussion",
+  "noise": "Background chatter",
   "phone_number": "01223335058",
   "restricted": true,
   "id": 39,
