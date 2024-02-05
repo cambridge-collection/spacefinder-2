@@ -69,9 +69,9 @@
   "floor": "Ground floor",
   "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
   "published": true,
-  "imagealt": "The University of Cambridge Language Centre: The John Trim Centre",
+  "imagealt": "The University of Cambridge Language Centre: The John Trim Centre (JTC)",
   "accessable_url": "https://www.virtualtour.study.cam.ac.uk/explore/facilities/university-language-centre-facility/information/open-days-university-language-centre-information",
-  "url": "http://www.langcen.cam.ac.uk/advising/explore-resources.html",
+  "url": "https://www.langcen.cam.ac.uk/advising/explore-resources.html",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -156,7 +156,7 @@
   },
   "space_type": "Other",
   "building": "The Old Music School",
-  "address": "The University of Cambridge Language Centre\nDowning Place\nCambridge\nCB2 3EL",
+  "address": "The University of Cambridge Language Centre,\nDowning Place,\nCambridge\nCB2 3EL",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.1229451,52.2029053]}",
   "facebook_url": "https://www.facebook.com/uclangcen/",
   "title": "Language Centre: The John Trim Centre (JTC)",
