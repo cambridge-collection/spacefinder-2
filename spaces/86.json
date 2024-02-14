@@ -69,27 +69,27 @@
   "term_time_hours": {
     "monday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:30",
       "to": "17:30"
     },
     "tuesday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:30",
       "to": "17:30"
     },
     "wednesday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:30",
       "to": "17:30"
     },
     "thursday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:30",
       "to": "17:30"
     },
     "friday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:30",
       "to": "17:00"
     },
     "saturday": {
