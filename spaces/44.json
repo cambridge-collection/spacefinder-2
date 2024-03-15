@@ -28,37 +28,37 @@
     "friday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "17:00"
     },
     "monday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "17:00"
     },
     "saturday": {
-      "open": true,
-      "from": "12:00",
-      "to": "18:00"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "sunday": {
-      "open": true,
-      "from": "13:00",
-      "to": "17:00"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "thursday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "17:00"
     },
     "tuesday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "17:00"
     },
     "wednesday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "17:00"
     }
   },
   "slug": "seeley-library",
