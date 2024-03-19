@@ -114,27 +114,27 @@
   "out_of_term_hours": {
     "monday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "friday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "saturday": {
