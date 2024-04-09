@@ -33,7 +33,7 @@ The admin interface is available at: <https://spacefinder.lib.cam.ac.uk/admin>
 
 When you visit the page, it will ask you to login. You can do so by clicking on the **Login with GitHub button**.
 
-If you are logged into Github, it should redirect you to the administration interface. If you aren’t logged into Github, it will open a window containing a GitHub login prompt before taking you to the administration interface. 
+If you are logged into Github, it should redirect you to the administration interface. If you aren’t logged into Github, it will open a window containing a GitHub login prompt before taking you to the administration interface. The first time you sign in, it will ask if you want to Authorise spacefinder-2. Please do so by clicking on the 'Authorise cambridge-collection' button.
 
 ## The Administration Interface
 
