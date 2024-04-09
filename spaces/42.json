@@ -11,7 +11,8 @@
     "blue_badge_parking",
     "accessible_toilets",
     "bike_racks",
-    "baby_changing"
+    "baby_changing",
+    "gender_neutral_toilets"
   ],
   "atmosphere": [
     "disciplined",
@@ -63,17 +64,17 @@
   "published": true,
   "imagealt": "Haddon: McBurney Room",
   "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/downing-site/access-guides/department-of-archaeology-archaeology-building#8f86d3fa-62a1-1d43-815d-baa4f6b03fa4",
-  "url": "http://haddon.archanth.cam.ac.uk/",
+  "url": "https://www.haddon.lib.cam.ac.uk/",
   "term_time_hours": {
     "friday": {
       "open": true,
-      "from": "08:45",
-      "to": "17:15"
+      "from": "09:00",
+      "to": "17:00"
     },
     "monday": {
       "open": true,
-      "from": "08:45",
-      "to": "17:15"
+      "from": "09:00",
+      "to": "17:00"
     },
     "saturday": {
       "open": false,
@@ -87,32 +88,32 @@
     },
     "thursday": {
       "open": true,
-      "from": "08:45",
-      "to": "17:15"
+      "from": "09:00",
+      "to": "17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "08:45",
-      "to": "17:15"
+      "from": "09:00",
+      "to": "17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "08:45",
-      "to": "17:15"
+      "from": "09:00",
+      "to": "17:00"
     }
   },
-  "email_address": "haddon-library@lists.cam.ac.uk",
+  "email_address": "haddon@lib.cam.ac.uk ",
   "work": [
     "close",
     "friends",
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "HaddonLibrary",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
-      "from": "09:15",
+      "from": "09:00",
       "to": "17:00"
     },
     "monday": {
@@ -158,11 +159,11 @@
     "Fetching service available"
   ],
   "noise": "Whispers",
-  "phone_number": "01223 333505",
+  "phone_number": " +44 (0)1223 339374 ",
   "restricted": false,
   "id": 42,
   "image": "/assets/photos/000-192-resized_3.jpg",
-  "description": "T﻿he McBurney Room at the Haddon Library has 8 study spaces. \n\nFollow the Website link at the bottom of this listing for more details and updates.",
+  "description": "The McBurney Room at the Haddon Library has 8 study spaces as well as a bookable acoustic booth. See our website for more information.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.202906
