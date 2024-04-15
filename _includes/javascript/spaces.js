@@ -173,7 +173,7 @@ function updateListFilterMessage() {
                 f.value.forEach( term => {
                     termlist.push( '<button class="search-term icon-remove" data-searchtext="' + term + '">' + term + '</button>' );
                 });
-                searchmessage += termlist.join( ' or ' ) + '</p>';
+                searchmessage += termlist.join( ' and ' ) + '</p>';
             } else {
                 let filterdata = getFilterData( f.name );
                 if ( filterdata.options.length === 1 ) {
