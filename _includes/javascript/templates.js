@@ -17,26 +17,27 @@ function getSpaceHTML( space ) {
     spaceContainer.setAttribute( 'id', 'space' + space.id );
     spaceContainer.setAttribute( 'data-sortalpha', space.sortKey );
     spaceContainer.setAttribute( 'class', getClassList( space ) );
+    // Space added before every code fragment so that text filter works on entire words
     let spaceHTML = '<div class="space-summary"><h3><button data-slug="' + space.slug + '" class="accordion-trigger space-title load-info" aria-expanded="false" aria-controls="additionalInfo' + space.id + '" data-spaceid="' + space.id + '">' + space.title + '</button></h3>';
-    spaceHTML += '<p class="space-info"><span class="space-type space-type-' + space.space_type.replace( /[^0-9a-zA-Z]/g, '').toLowerCase() + '">' + space.space_type + '<span class="distance" id="distance' + space.id +'"></span></span>';
+    spaceHTML += ' <p class="space-info"><span class="space-type space-type-' + space.space_type.replace( /[^0-9a-zA-Z]/g, '').toLowerCase() + '">' + space.space_type + '<span class="distance" id="distance' + space.id +'"></span></span>';
     spaceHTML += '';
     let loc = '';
     if ( space.floor !== '' ) {
-        loc += '<span class="address-floor">' + space.floor + '</span>, ';
+        loc += ' <span class="address-floor">' + space.floor + '</span>, ';
     }
     if ( space.building !== '' ) {
-        loc += '<span class="address-building">' + space.building + '</span>, ';
+        loc += ' <span class="address-building">' + space.building + '</span>, ';
     }
     if ( space.address !== '' ) {
-        loc += '<span class="address-location">' + space.address + '</span>';
+        loc += ' <span class="address-location">' + space.address + '</span>';
     }
-    spaceHTML += '<span class="address">' + loc + '</span></p>';
-    spaceHTML += '<div class="space-details">';
+    spaceHTML += ' <span class="address">' + loc + '</span></p>';
+    spaceHTML += ' <div class="space-details">';
     if ( space.image != '' ) {
         spaceHTML += '<img src="' + spacefinder.imageBaseURL + space.image + '" class="space-image" loading="lazy" alt="' + space.imagealt + '">';
     }
-    spaceHTML += '<p class="description">' + space.description + '</p></div></div>';
-    spaceHTML += '<div class="additionalInfo" id="additionalInfo' + space.id + '"></div>';
+    spaceHTML += ' <p class="description">' + space.description + '</p></div></div>';
+    spaceHTML += ' <div class="additionalInfo" id="additionalInfo' + space.id + '"></div>';
     spaceHTML += '</div>';
     spaceContainer.innerHTML = spaceHTML;
     return spaceContainer;
