@@ -106,8 +106,8 @@ function applyFilters() {
                 if ( filtergroup.name == 'search' ) {
                     let foundKw = false;
                     foundKw = filtergroup.value.every(term => {
-                            let regex = new RegExp("\\b" + term.toLowerCase() + "\\b");
-                            return regex.test(el.textContent.toLowerCase())
+                            let regex = new RegExp("\\b" + term + "\\b", 'i');
+                            return regex.test(el.textContent)
                     });
                     if ( ! foundKw ) {
                         showEl = false;
