@@ -1,19 +1,22 @@
 {
   "access": "Members of the University",
-  "address": "Cambridge University Students' Union and Graduate Union Building\r\n17 Mill Lane\r\nCambridge\r\nCB2 1RX",
+  "address": "The University Centre, Granta Place, Cambridge, CB2 1RU",
   "atmosphere": [
+    "friendly",
     "relaxed",
     "social",
-    "friendly"
+    "modern"
   ],
-  "building": "Cambridge University Students' Union and Graduate Union Building",
-  "description": "",
+  "building": "University Centre",
+  "description": "Reception is open 9am-5pm Monday-Friday.",
   "disabled_access": false,
-  "email_address": "enquiries@cusu.cam.ac.uk",
-  "facebook_url": "",
+  "email_address": "enquiries@cambridgesu.co.uk",
+  "facebook_url": "www.facebook.com/yourcambridgesu",
   "facilities": [
+    "views",
     "food_drink",
     "daylight",
+    "bookable",
     "free_wifi",
     "laptops_allowed",
     "sockets",
@@ -25,26 +28,27 @@
     "wheelchair_accessible",
     "accessible_toilets",
     "adjustable_furniture",
-    "gender_neutral_toilets"
+    "gender_neutral_toilets",
+    "bike_racks"
   ],
-  "floor": "Ground floor",
+  "floor": "Third floor",
   "id": 73,
   "image": "/assets/photos/000-455-resized_20160526_085545.jpg",
-  "imagealt": "SU Lounge",
+  "imagealt": "Student Union Lounge with large panoramic windows as well as  tables and chairs throughout the space for studying.",
   "lat": 52.20197,
   "lng": 0.11738,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.11738,52.20197]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.116217,52.201127]}",
   "noise": "Background chatter",
   "opening_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "saturday": {
       "open": false,
@@ -58,30 +62,30 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     }
   },
   "out_of_term_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "saturday": {
       "open": false,
@@ -95,21 +99,21 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     }
   },
-  "phone_number": "+44(0)1223 333313",
+  "phone_number": "0808 1641 222",
   "phone_text": "Phone the space",
   "published": true,
   "restricted": false,
@@ -129,13 +133,13 @@
   "term_time_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "saturday": {
       "open": false,
@@ -149,22 +153,22 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
-      "to": "17:00"
+      "from": "08:00",
+      "to": "19:00"
     }
   },
-  "twitter_screen_name": "CUSUonline",
-  "url": "http://www.cusu.co.uk http://www.gradunion.cam.ac.uk",
+  "twitter_screen_name": "yourcambridgesu",
+  "url": "https://www.cambridgesu.co.uk",
   "url_text": "Visit the website",
   "work": [
     "close",
