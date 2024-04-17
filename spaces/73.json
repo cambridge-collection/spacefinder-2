@@ -1,17 +1,4 @@
 {
-  "access": "Members of the University",
-  "address": "The University Centre, Granta Place, Cambridge, CB2 1RU",
-  "atmosphere": [
-    "friendly",
-    "relaxed",
-    "social",
-    "modern"
-  ],
-  "building": "University Centre",
-  "description": "Reception is open 9am-5pm Monday-Friday.",
-  "disabled_access": false,
-  "email_address": "enquiries@cambridgesu.co.uk",
-  "facebook_url": "www.facebook.com/yourcambridgesu",
   "facilities": [
     "views",
     "food_drink",
@@ -31,14 +18,15 @@
     "gender_neutral_toilets",
     "bike_racks"
   ],
-  "floor": "Third floor",
-  "id": 73,
-  "image": "/assets/photos/000-455-resized_20160526_085545.jpg",
-  "imagealt": "Student Union Lounge with large panoramic windows as well as  tables and chairs throughout the space for studying.",
-  "lat": 52.20197,
+  "atmosphere": [
+    "friendly",
+    "relaxed",
+    "social",
+    "modern"
+  ],
+  "access": "Members of the University",
   "lng": 0.11738,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.116217,52.201127]}",
-  "noise": "Background chatter",
+  "disabled_access": false,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -76,60 +64,12 @@
       "to": "19:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "08:00",
-      "to": "19:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "08:00",
-      "to": "19:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "08:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "08:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "08:00",
-      "to": "19:00"
-    }
-  },
-  "phone_number": "0808 1641 222",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "su-lounge",
-  "space_type": "Meeting room",
-  "tags": [
-    "comfy seating",
-    "coffee",
-    "modern",
-    "busy",
-    "cusu",
-    "gu",
-    "students"
-  ],
-  "title": "SU Lounge",
+  "floor": "Third floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Student Union Lounge with large panoramic windows as well as  tables and chairs throughout the space for studying.",
+  "url": "https://www.cambridgesu.co.uk",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -167,14 +107,74 @@
       "to": "19:00"
     }
   },
-  "twitter_screen_name": "yourcambridgesu",
-  "url": "https://www.cambridgesu.co.uk",
-  "url_text": "Visit the website",
+  "email_address": "enquiries@cambridgesu.co.uk",
   "work": [
     "close",
     "friends",
     "group",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "yourcambridgesu",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "08:00",
+      "to": "19:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "08:00",
+      "to": "19:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:00",
+      "to": "19:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "19:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "08:00",
+      "to": "19:00"
+    }
+  },
+  "space_type": "Meeting room",
+  "building": "University Centre",
+  "address": "The University Centre, Granta Place, Cambridge, CB2 1RU",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.116217,52.201127]}",
+  "facebook_url": "www.facebook.com/yourcambridgesu",
+  "title": "SU Lounge",
+  "tags": [
+    "comfy seating",
+    "coffee",
+    "modern",
+    "busy",
+    "cusu",
+    "gu",
+    "students"
+  ],
+  "noise": "Background chatter",
+  "phone_number": "0808 1641 222",
+  "restricted": false,
+  "id": 73,
+  "image": "/assets/photos/000-455-resized_20160526_085545.jpg",
+  "description": "Reception is open 9am-5pm Monday-Friday in and out of term time. Study space available 8am-7pm Monday-Friday.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20197
 }
