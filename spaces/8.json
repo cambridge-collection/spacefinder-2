@@ -31,15 +31,15 @@
     "friday": {
       "open": true,
       "from": "09:00",
-      "to": "17:00"
+      "to": "21:00"
     },
     "monday": {
       "open": true,
       "from": "09:00",
-      "to": "17:00"
+      "to": "21:00"
     },
     "saturday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "13:00"
     },
@@ -51,17 +51,17 @@
     "thursday": {
       "open": true,
       "from": "09:00",
-      "to": "17:00"
+      "to": "21:00"
     },
     "tuesday": {
       "open": true,
       "from": "09:00",
-      "to": "17:00"
+      "to": "21:00"
     },
     "wednesday": {
       "open": true,
       "from": "09:00",
-      "to": "17:00"
+      "to": "21:00"
     }
   },
   "slug": "moore-library-2nd-floor",
