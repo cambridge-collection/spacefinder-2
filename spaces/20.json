@@ -73,13 +73,13 @@
   "term_time_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:00"
+      "from": "09:30",
+      "to": "17:30"
     },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:00"
+      "from": "09:30",
+      "to": "17:30"
     },
     "saturday": {
       "open": true,
@@ -93,18 +93,18 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:00"
+      "from": "09:30",
+      "to": "17:30"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:00"
+      "from": "09:30",
+      "to": "17:30"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:00"
+      "from": "09:30",
+      "to": "17:30"
     }
   },
   "email_address": "philosophy@lib.cam.ac.uk",
@@ -115,7 +115,7 @@
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "lewylib",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -169,7 +169,7 @@
   "restricted": false,
   "id": 20,
   "image": "/assets/photos/000-276-resized_philcomparea.jpg",
-  "description": "We can be tricky to find, so take a look at the [Get Directions link](https://www.phil.cam.ac.uk/library/finding-us) before your first visit.\n\n In this area you'll find one student PC, a screen to plug into your own device, a non-print legal deposit machine, photocopier/scanner/printer and height-adjustable desks.  There is also a small sofa in this area.  Located next to the library reception desk, this area may suit those who prefer working with some background noise. Visit our website for more information about our services, facilities (including location of toilets) and opening hours (this can vary, especially during the vacations).",
+  "description": "We can be tricky to find, so take a look at our 'Finding us page' (<https://www.phil.cam.ac.uk/library/finding-us>) before your first visit. In this area you'll find one student PC, a screen, keyboard and mouse to connect your own device to, a non-print legal deposit machine, photocopier/scanner/printer and height-adjustable desks. There is also a small sofa in this area. Located next to the library desk, this area may suit those who prefer working with some background noise. Visit our website (see link below) for more information about our services, facilities and current opening hours (these can vary, especially during the vacations).",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20109
