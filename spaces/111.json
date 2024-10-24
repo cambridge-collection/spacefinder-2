@@ -7,10 +7,10 @@
     "sockets",
     "signal",
     "toilets",
-    "wheelchair_accessible",
     "accessible_toilets",
     "gender_neutral_toilets",
     "bike_racks",
+    "wheelchair_accessible",
     "refreshments",
     "printers_copiers"
   ],
