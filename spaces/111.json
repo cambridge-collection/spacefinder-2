@@ -25,18 +25,18 @@
   "opening_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:50"
+      "from": "09:30",
+      "to": "17:00"
     },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:50"
+      "from": "09:30",
+      "to": "17:00"
     },
     "saturday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "sunday": {
       "open": false,
@@ -45,18 +45,18 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:50"
+      "from": "09:30",
+      "to": "17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:50"
+      "from": "09:30",
+      "to": "17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:00",
-      "to": "18:50"
+      "from": "09:30",
+      "to": "17:00"
     }
   },
   "slug": "centre-of-african-studies-library",
