@@ -1,28 +1,12 @@
 {
-  "access": "Anyone (public)",
-  "address": "Cambridge Centre for Christianity Worldwide\r\nWestminster College\r\nMadingley Road\r\nCambridge\r\nCB3 0AA",
-  "atmosphere": [
-    "relaxed",
-    "modern",
-    "inspiring",
-    "cosy",
-    "friendly"
-  ],
-  "building": "",
-  "description": "Due to the implications of COVID-19 please check with the CCCW Library direct regarding their current access arrangements.",
-  "disabled_access": false,
-  "email_address": "library@cccw.cam.ac.uk",
-  "facebook_url": "https://www.facebook.com/CCCWCentre",
   "facilities": [
     "daylight",
     "views",
-    "large_desks",
     "free_wifi",
     "computers",
     "laptops_allowed",
     "sockets",
     "signal",
-    "printers_copiers",
     "toilets",
     "refreshments",
     "break",
@@ -33,14 +17,16 @@
     "gender_neutral_toilets",
     "bike_racks"
   ],
-  "floor": "Ground floor",
-  "id": 74,
-  "image": "/assets/photos/000-496-resized_temp1.jpg",
-  "imagealt": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
-  "lat": 52.210537,
+  "atmosphere": [
+    "relaxed",
+    "modern",
+    "inspiring",
+    "cosy",
+    "friendly"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.11212,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.11212,52.210537]}",
-  "noise": "Whispers",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": true,
@@ -78,64 +64,12 @@
       "to": "16:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "13:00"
-    },
-    "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "sunday": {
-      "open": false,
-      "from": "09:00",
-      "to": "16:30"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "16:00"
-    }
-  },
-  "phone_number": "+44 (0)1223 330640",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": true,
-  "restriction": "Please check with the library for current arrangements",
   "slug": "cambridge-centre-for-christianity-worldwide-cccw-library",
-  "space_type": "Library space",
-  "tags": [
-    "Recently built",
-    "period windows",
-    "white bookshelves",
-    "white carrels",
-    "comfy seating",
-    "archive research table",
-    "library research help",
-    "subject expert",
-    "librarian",
-    "archivist",
-    "self-issue"
-  ],
-  "title": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+  "floor": "Ground floor",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+  "url": "https://www.cccw.cam.ac.uk/",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -173,11 +107,75 @@
       "to": "16:00"
     }
   },
-  "twitter_screen_name": "CCCWLibrary",
-  "url": "https://www.cccw.cam.ac.uk/",
-  "url_text": "Visit the website",
+  "email_address": "library@cccw.cam.ac.uk",
   "work": [
     "close",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "CCCWLibrary",
+  "out_of_term_hours": {
+    "friday": {
+      "open": true,
+      "from": "09:00",
+      "to": "13:00"
+    },
+    "monday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "sunday": {
+      "open": false,
+      "from": "09:00",
+      "to": "16:30"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00",
+      "to": "16:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "",
+  "address": "Cambridge Centre for Christianity Worldwide\r\nWestminster College\r\nMadingley Road\r\nCambridge\r\nCB3 0AA",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.11212,52.210537]}",
+  "facebook_url": "https://www.facebook.com/CCCWCentre",
+  "title": "Cambridge Centre for Christianity Worldwide (CCCW) Library",
+  "tags": [
+    "Recently built",
+    "period windows",
+    "white bookshelves",
+    "white carrels",
+    "comfy seating",
+    "archive research table",
+    "library research help",
+    "subject expert",
+    "librarian",
+    "archivist",
+    "self-issue"
+  ],
+  "noise": "Whispers",
+  "phone_number": "+44 (0)1223 330640",
+  "restricted": false,
+  "id": 74,
+  "image": "/assets/photos/000-496-resized_temp1.jpg",
+  "description": "The library is open to all members of the public during our [regular opening hours](https://www.cccw.cam.ac.uk/about-us/visit-us/). The library is a welcoming place to browse and read, and there are study carrels for those who wish to work in the library. We have four small carrels with lights, usb points and plugs, and one fairly large desk, and additional soft seating.\n\nMembers of Cambridge University and the Cambridge Theological Federation are permitted to borrow up to ten books after a simple registration process. Registration is free. Bring along your University Library card.\n\nExternal researchers and members of the public may also now join the library for free. An ID is required for external registration. Bring along a University Library card, if you have one. If not, the registration will take a bit longer and you will be given a CCCW library card for CCCW use only.\n\n\n\nDuring July and August we are open mornings only 9:00-1300 and seasonal closures apply - Good Friday, Easter Monday, Christmas and New Year.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.210537
 }
