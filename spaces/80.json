@@ -20,14 +20,14 @@
   "disabled_access": false,
   "opening_hours": {
     "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "monday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "saturday": {
       "open": false,
@@ -40,19 +40,19 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     },
     "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "18:45"
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     }
   },
   "slug": "ul-south-wing-3-study-hub",

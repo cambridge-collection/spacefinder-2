@@ -32,15 +32,15 @@
     "friday": {
       "open": true,
       "from": "09:00",
-      "to": "21:00"
+      "to": "17:00"
     },
     "monday": {
       "open": true,
       "from": "09:00",
-      "to": "21:00"
+      "to": "17:00"
     },
     "saturday": {
-      "open": true,
+      "open": false,
       "from": "09:00",
       "to": "13:00"
     },
@@ -52,17 +52,17 @@
     "thursday": {
       "open": true,
       "from": "09:00",
-      "to": "21:00"
+      "to": "17:00"
     },
     "tuesday": {
       "open": true,
       "from": "09:00",
-      "to": "21:00"
+      "to": "17:00"
     },
     "wednesday": {
       "open": true,
       "from": "09:00",
-      "to": "21:00"
+      "to": "17:00"
     }
   },
   "slug": "moore-library-lower-ground-floor",
