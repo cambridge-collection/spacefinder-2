@@ -22,7 +22,7 @@
     "friendly"
   ],
   "access": "Members of the University",
-  "lng": 0.10859,
+  "lng": 0.107323,
   "disabled_access": true,
   "opening_hours": {
     "friday": {
@@ -62,12 +62,12 @@
     }
   },
   "slug": "seeley-library",
-  "floor": "Ground floor",
+  "floor": "First floor",
   "restriction": "",
   "published": true,
   "imagealt": "Seeley Library",
-  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/faculty-of-history-history-building#4a803279-e3a4-8b46-8bd9-5294cf0b59fb",
-  "url": "http://www.hist.cam.ac.uk/seeley-library",
+  "accessable_url": "https://www.accessable.co.uk/university-of-cambridge/sidgwick-site/access-guides/university-library",
+  "url": "https://www.lib.cam.ac.uk/using-library",
   "term_time_hours": {
     "friday": {
       "open": true,
@@ -150,11 +150,11 @@
     }
   },
   "space_type": "Library space",
-  "building": "Seeley Library",
-  "address": "Faculty of History\r\nWest Road\r\nCambridge\r\nCB3 9EF",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.108575,52.2020452]}",
+  "building": "University Library",
+  "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.107323,52.2050436]}",
   "facebook_url": "",
-  "title": "Seeley Library",
+  "title": "UL - West Room - Seeley Library",
   "tags": [
     "busy",
     "friendly",
@@ -172,8 +172,8 @@
   "restricted": false,
   "id": 44,
   "image": "/assets/photos/seeley-library-interior-by-alice-boagey.jpg",
-  "description": "The Seeley Library is located within the Faculty of History building on Sidgwick Site. With over 300 study spaces, you can choose to sit amongst the book stacks, with your friends on large tables, or enjoy the views looking out over the Sidgwick Site.\n\nPlease follow the Website link at the bottom of this listing for more details and updates.",
+  "description": "The Seeley Library is located within the Faculty of History building on Sidgwick Site. With over 300 study spaces, you can choose to sit amongst the book stacks, with your friends on large tables, or enjoy the views looking out over the Sidgwick Site. From 21 Jan 2024, the Library will be located in the West Room of the University Library.\n\nPlease follow the Website link at the bottom of this listing for more details and updates.",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
-  "lat": 52.20205
+  "lat": 52.2050436
 }
