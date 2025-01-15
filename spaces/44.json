@@ -72,12 +72,12 @@
     "friday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "18:50"
     },
     "monday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "18:50"
     },
     "saturday": {
       "open": true,
@@ -85,24 +85,24 @@
       "to": "18:00"
     },
     "sunday": {
-      "open": true,
-      "from": "13:00",
-      "to": "17:00"
+      "open": false,
+      "from": "09:00",
+      "to": "16:45"
     },
     "thursday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "18:50"
     },
     "tuesday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "18:50"
     },
     "wednesday": {
       "open": true,
       "from": "09:00",
-      "to": "18:45"
+      "to": "18:50"
     }
   },
   "email_address": "seeley@hist.cam.ac.uk",
