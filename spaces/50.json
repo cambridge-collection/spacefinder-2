@@ -22,7 +22,7 @@
   "disabled_access": false,
   "opening_hours": {
     "friday": {
-      "open": false,
+      "open": true,
       "from": "08:30",
       "to": "16:30"
     },

@@ -19,14 +19,14 @@
   "disabled_access": true,
   "opening_hours": {
     "friday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "monday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "saturday": {
       "open": false,
@@ -39,19 +39,19 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "tuesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     },
     "wednesday": {
-      "open": false,
-      "from": "09:30",
-      "to": "16:50"
+      "open": true,
+      "from": "09:15",
+      "to": "19:00"
     }
   },
   "slug": "whipple-main-library-levels-3-4",
