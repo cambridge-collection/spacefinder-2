@@ -67,7 +67,7 @@
   },
   "slug": "language-centre-the-john-trim-centre-old-music-school",
   "floor": "Ground floor",
-  "restriction": "Please check with the Language Centre directly as to their current access arrangements.",
+  "restriction": "Free to members of the University. Non-University members can join for a small fee. Please check with the Language Centre directly as to their current access arrangements.",
   "published": true,
   "imagealt": "The University of Cambridge Language Centre: The John Trim Centre (JTC)",
   "accessable_url": "https://www.virtualtour.study.cam.ac.uk/",
@@ -157,7 +157,7 @@
   "space_type": "Other",
   "building": "The Old Music School",
   "address": "The University of Cambridge Language Centre,\nDowning Place,\nCambridge\nCB2 3EL",
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.1229451,52.2029053]}",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.1229559,52.2029067]}",
   "facebook_url": "https://www.facebook.com/uclangcen/",
   "title": "Language Centre: The John Trim Centre (JTC)",
   "tags": [
