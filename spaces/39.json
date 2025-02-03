@@ -119,12 +119,12 @@
   "twitter_screen_name": "uclangcen",
   "out_of_term_hours": {
     "friday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:00"
     },
     "monday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:00"
     },
@@ -139,17 +139,17 @@
       "to": "24:00"
     },
     "thursday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:00"
     },
     "tuesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:00"
     },
     "wednesday": {
-      "open": false,
+      "open": true,
       "from": "09:00",
       "to": "18:00"
     }
