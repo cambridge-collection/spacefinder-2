@@ -58,7 +58,7 @@ Access to personal data. For the purpose of the UK Data Protection Act 1998, the
 The University is also Data Controller in respect of any personal data served as content directly by this site.
 
 ## 5. Access to information (data protection policy) <a id="5"></a>
-Please see the <a href="www.admin.cam.ac.uk/univ/information/">University of Cambridge Information Compliance homepage.</a>
+Please see the <a href="https://www.admin.cam.ac.uk/univ/information/">University of Cambridge Information Compliance homepage.</a>
 
 ## 6. Accessing our site <a id="6"></a>
 Access to the site is permitted on a temporary basis and the University reserves the right to withdraw or amend the services provided on the site without notice. The University will not be liable if for any reason the site is unavailable at any time or for any period.
