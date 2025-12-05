@@ -29,15 +29,30 @@
   "lng": "",
   "disabled_access": true,
   "opening_hours": {
-    "friday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
     "monday": {
       "open": true,
-      "from": "09:00",
-      "to": "19:00"
+      "from": "09:00 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "tuesday": {
+      "open": true,
+      "from": "09:00 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "wednesday": {
+      "open": true,
+      "from": "09:00 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "09:00 - 13:00",
+      "to": "14:00 - 17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "09:00 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "saturday": {
       "open": false,
@@ -48,21 +63,6 @@
       "open": false,
       "from": "00:00",
       "to": "24:00"
-    },
-    "thursday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "tuesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
-    },
-    "wednesday": {
-      "open": true,
-      "from": "09:00",
-      "to": "19:00"
     }
   },
   "slug": "new-space-101",
