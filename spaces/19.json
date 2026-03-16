@@ -117,12 +117,12 @@
   "out_of_term_hours": {
     "friday": {
       "open": true,
-      "from": "10:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "monday": {
       "open": true,
-      "from": "10:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "saturday": {
@@ -137,17 +137,17 @@
     },
     "thursday": {
       "open": true,
-      "from": "10:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "10:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "10:00",
+      "from": "9:30",
       "to": "17:00"
     }
   },
@@ -168,7 +168,7 @@
   "restricted": false,
   "id": 19,
   "image": "/assets/photos/000-096-resized_1.jpg",
-  "description": "We can be tricky to find, so take a look at our 'Finding us page' (<https://www.phil.cam.ac.uk/library/finding-us>) before your first visit.  In our small, but cosy, reading room you'll find large shared desks, four individual study spaces, a height-adjustable desk (with a screen, keyboard and mouse to connect your own device to), bean bags and cushions, and an iDiscover terminal. This area may suit those who prefer working in a calm and quiet space. Visit our website (see link below) for more information about our services, facilities and current opening hours (these can vary, especially during the vacations).",
+  "description": "In this space you'll find: large shared desks, four individual study spaces, a height-adjustable desk (with a screen/keyboard/mouse to connect your own device to), bean bags, cushions and an iDiscover terminal. The lighting above each desk can be adjusted or switch off. This area may suit those who prefer working in a small, cosy and quiet space. See our website for current opening hours (these can vary, especially during the vacations).",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20109
