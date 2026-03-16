@@ -119,12 +119,12 @@
   "out_of_term_hours": {
     "friday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "monday": {
       "open": true,
-      "from": "11:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "saturday": {
@@ -139,17 +139,17 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:00",
+      "from": "09:30",
       "to": "17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "11:00",
+      "from": "9:30",
       "to": "17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "11:00",
+      "from": "9:30",
       "to": "17:00"
     }
   },
@@ -158,7 +158,7 @@
   "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.10917,52.20109]}",
   "facebook_url": "",
-  "title": "Philosophy - Computer Area",
+  "title": "Philosophy - IT Area",
   "tags": [
     "light",
     "drop in",
@@ -169,7 +169,7 @@
   "restricted": false,
   "id": 20,
   "image": "/assets/photos/000-276-resized_philcomparea.jpg",
-  "description": "We can be tricky to find, so take a look at our 'Finding us page' (<https://www.phil.cam.ac.uk/library/finding-us>) before your first visit. In this area you'll find one student PC, a screen, keyboard and mouse to connect your own device to, a non-print legal deposit machine, photocopier/scanner/printer and height-adjustable desks. There is also a small sofa in this area. Located next to the library desk, this area may suit those who prefer working with some background noise. Visit our website (see link below) for more information about our services, facilities and current opening hours (these can vary, especially during the vacations).",
+  "description": "In this space you'll find: one student PC, a screen/keyboard/mouse to connect your own device to, an electronic legal deposit terminal, photocopier/scanner/printer, height-adjustable desks and a small sofa. The lighting above each desk can be adjusted or switched off. Located within the reception area, this space may suit those who prefer working with some background noise. See our website for current opening hours (these can vary, especially during the vacations).",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20109
