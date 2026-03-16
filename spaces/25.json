@@ -104,7 +104,7 @@
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "MusiCB3t",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -146,7 +146,7 @@
   "building": "Pendlebury Library of Music",
   "address": "11 West Road, Cambridge, CB3 9DP",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-  "facebook_url": "https://www.facebook.com/Penlib",
+  "facebook_url": "",
   "title": "Music: Dent Room",
   "tags": [
     "digital scanner for microfilms"
@@ -156,7 +156,7 @@
   "restricted": true,
   "id": 25,
   "image": "/assets/photos/000-158-resized_4.jpg",
-  "description": "The Dent Room houses the Early Music collections.",
+  "description": "'The Dent Room houses the early music and facsimiles collections, and has an audio station, Yamaha keyboard, and microfilm reader/scanner.'",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20216
