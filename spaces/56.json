@@ -105,7 +105,7 @@
     "close",
     "in_a_library"
   ],
-  "twitter_screen_name": "MusiCB3t",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -147,7 +147,7 @@
   "building": "University Library",
   "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.1084243,52.2045117]}",
-  "facebook_url": "https://www.facebook.com/Penlib",
+  "facebook_url": "",
   "title": "UL - Anderson Music Room",
   "tags": [
     "no food",
