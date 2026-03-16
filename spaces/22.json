@@ -107,7 +107,7 @@
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "MusiCB3t",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -149,7 +149,7 @@
   "building": "Pendlebury Library of Music",
   "address": "11 West Road, Cambridge, CB3 9DP",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-  "facebook_url": "https://www.facebook.com/Penlib",
+  "facebook_url": "",
   "title": "Music: Reading Room",
   "tags": [
     "bottled water only",
