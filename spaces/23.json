@@ -105,7 +105,7 @@
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "MusiCB3t",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
@@ -147,7 +147,7 @@
   "building": "Pendlebury Library of Music",
   "address": "11 West Road, Cambridge, CB3 9DP",
   "location": "{\"type\":\"Point\",\"coordinates\":[0.10791,52.20216]}",
-  "facebook_url": "https://www.facebook.com/Penlib",
+  "facebook_url": "",
   "title": "Music: Audio Room",
   "tags": [
     "bottled water only",
@@ -160,7 +160,7 @@
   "restricted": false,
   "id": 23,
   "image": "/assets/photos/000-159-resized_2.jpg",
-  "description": "A small room with some study places.  Currently houses the photocopier/printer, Electronic Legal Deposit terminal, Yamaha keyboard and binding machine.",
+  "description": "'A small room with some study spaces. Currently houses the photocopier/scanner/printer, Electronic Legal Deposit terminal, two computers, flat-bed scanner, and binding machine.'",
   "url_text": "Visit the website",
   "phone_text": "Phone the space",
   "lat": 52.20216
