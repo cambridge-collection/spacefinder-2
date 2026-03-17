@@ -101,7 +101,7 @@
       "to": "18:00"
     }
   },
-  "email_address": "library@divinity.cam.ac.uk",
+  "email_address": "divinity@lib.cam.ac.uk",
   "work": [
     "close",
     "friends",
@@ -154,7 +154,7 @@
   "title": "Divinity Library - Mezzanine",
   "tags": [],
   "noise": "Whispers",
-  "phone_number": "01223 763040",
+  "phone_number": "01223 763043",
   "restricted": false,
   "id": 34,
   "image": "/assets/photos/000-020-resized_Divinity_Mezzanine.jpg",
