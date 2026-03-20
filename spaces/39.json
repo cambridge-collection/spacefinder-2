@@ -31,12 +31,12 @@
     "friday": {
       "open": true,
       "from": "09:00",
-      "to": "19:00"
+      "to": "18:00"
     },
     "monday": {
       "open": true,
       "from": "09:00",
-      "to": "19:00"
+      "to": "18:00"
     },
     "saturday": {
       "open": false,
@@ -51,17 +51,17 @@
     "thursday": {
       "open": true,
       "from": "09:00",
-      "to": "19:00"
+      "to": "18:00"
     },
     "tuesday": {
       "open": true,
       "from": "09:00",
-      "to": "19:00"
+      "to": "18:00"
     },
     "wednesday": {
       "open": true,
       "from": "09:00",
-      "to": "19:00"
+      "to": "18:00"
     }
   },
   "slug": "language-centre-the-john-trim-centre-old-music-school",

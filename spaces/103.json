@@ -25,27 +25,7 @@
   "lng": "",
   "disabled_access": true,
   "opening_hours": {
-    "friday": {
-      "open": true,
-      "from": "08:45",
-      "to": "16:00"
-    },
     "monday": {
-      "open": true,
-      "from": "08:45",
-      "to": "17:00"
-    },
-    "saturday": {
-      "open": true,
-      "from": "08:45",
-      "to": "13:15"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
       "open": true,
       "from": "08:45",
       "to": "17:00"
@@ -59,6 +39,26 @@
       "open": true,
       "from": "08:45",
       "to": "17:00"
+    },
+    "thursday": {
+      "open": true,
+      "from": "08:45",
+      "to": "17:00"
+    },
+    "friday": {
+      "open": true,
+      "from": "08:45",
+      "to": "16:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "09:00",
+      "to": "17:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
     }
   },
   "slug": "new-space-103",
