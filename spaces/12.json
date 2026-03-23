@@ -110,14 +110,14 @@
       "to": "19:00"
     }
   },
-  "email_address": "",
+  "email_address": "english@lib.cam.ac.uk",
   "work": [
     "close",
     "friends",
     "in_a_library",
     "private"
   ],
-  "twitter_screen_name": "eflcam",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
       "open": true,
