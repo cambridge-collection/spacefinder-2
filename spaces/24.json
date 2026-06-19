@@ -21,13 +21,13 @@
   "opening_hours": {
     "friday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "monday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "saturday": {
       "open": false,
@@ -41,18 +41,18 @@
     },
     "thursday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "tuesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     },
     "wednesday": {
       "open": true,
-      "from": "09:30",
-      "to": "17:30"
+      "from": "09:30 - 13:00",
+      "to": "14:00 - 17:00"
     }
   },
   "slug": "music-faculty-graduate-room",
