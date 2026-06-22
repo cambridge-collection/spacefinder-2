@@ -112,7 +112,7 @@
   "twitter_screen_name": "",
   "out_of_term_hours": {
     "friday": {
-      "open": true,
+      "open": false,
       "from": "08:30",
       "to": "16:30"
     },
