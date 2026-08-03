@@ -107,12 +107,12 @@
       "to": "24:00"
     }
   },
-  "email_address": "",
+  "email_address": "library@educ.cam.ac.uk",
   "work": [
     "in_a_library",
     "close"
   ],
-  "twitter_screen_name": "edfaclib",
+  "twitter_screen_name": "",
   "out_of_term_hours": {
     "monday": {
       "open": true,
