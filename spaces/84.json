@@ -14,7 +14,9 @@
     "break",
     "bike_racks",
     "blue_badge_parking",
-    "adjustable_furniture"
+    "adjustable_furniture",
+    "electronic_legal_deposit",
+    "wheelchair_accessible"
   ],
   "atmosphere": [
     "modern",
