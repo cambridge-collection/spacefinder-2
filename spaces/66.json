@@ -1,37 +1,37 @@
 {
-  "access": "Anyone (public)",
-  "address": "1st Floor\r\nBragg Building\r\nCavendish Laboratory \r\n19 J J Thomson Avenue \r\nCambridge \r\nCB3 0HE ",
+  "facilities": [
+    "accessible_toilets",
+    "baby_changing",
+    "bike_racks",
+    "break",
+    "refreshments",
+    "computers",
+    "electronic_legal_deposit",
+    "free_wifi",
+    "individual_study_space",
+    "laptops_allowed",
+    "large_desks",
+    "daylight",
+    "outdoor_seating",
+    "blue_badge_parking",
+    "signal",
+    "sockets",
+    "prayer_room",
+    "printers_copiers",
+    "toilets",
+    "wheelchair_accessible",
+    "whiteboards"
+  ],
   "atmosphere": [
     "disciplined",
     "relaxed",
-    "friendly"
+    "friendly",
+    "modern",
+    "cosy"
   ],
-  "building": "Rayleigh Library (Physics)",
-  "description": "",
-  "disabled_access": false,
-  "email_address": "librarian@phy.cam.ac.uk ",
-  "facebook_url": "https://www.facebook.com/Rayleigh-Library-Cavendish-Laboratory-University-of-Cambridge-1464557683856342/",
-  "facilities": [
-    "free_wifi",
-    "laptops_allowed",
-    "signal",
-    "toilets",
-    "refreshments",
-    "break",
-    "wheelchair_accessible",
-    "blue_badge_parking",
-    "individual_study_space",
-    "bike_racks",
-    "smoking_area"
-  ],
-  "floor": "",
-  "id": 66,
-  "image": "/assets/photos/000-248-resized_IMG_3644.jpg",
-  "imagealt": "Rayleigh Library: Common Reading Area",
-  "lat": 52.20922,
+  "access": "Anyone (public)",
   "lng": 0.09248,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
-  "noise": "Whispers",
+  "disabled_access": false,
   "opening_hours": {
     "friday": {
       "open": false,
@@ -69,54 +69,12 @@
       "to": "24:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "monday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    }
-  },
-  "phone_number": "01223 337414",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "rayleigh-library-common-reading-area",
-  "space_type": "Library space",
-  "tags": [
-    "Fetching service available"
-  ],
-  "title": "Rayleigh Library: Common Reading Area",
+  "floor": "",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Rayleigh Library: Study area",
+  "url": "https://libguides.cam.ac.uk/physics",
   "term_time_hours": {
     "friday": {
       "open": false,
@@ -154,12 +112,66 @@
       "to": "17:00"
     }
   },
-  "twitter_screen_name": "RayLibCam",
-  "url": "https://libguides.cam.ac.uk/physics",
-  "url_text": "Visit the website",
+  "email_address": "librarian@phy.cam.ac.uk ",
   "work": [
     "close",
     "in_a_library",
     "private"
-  ]
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Rayleigh Library (Physics)",
+  "address": "Rayleigh Library\nRay Dolby Centre, \nCavendish Laboratory,\nDepartment of Physics\nJJ Thomson Avenue,\nCambridge \nCB3 0US",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
+  "facebook_url": "",
+  "title": "Rayleigh Library: Study spaces",
+  "tags": [
+    "Fetching service available"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 768158",
+  "restricted": false,
+  "id": 66,
+  "image": "/assets/photos/2026-rayleigh-000-00010-2-1-.jpg",
+  "description": "We have 38 study spaces available for quiet study. There are additional seating areas outside each end of the library. These are ideal for study breaks and collaborative working.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20922
 }
