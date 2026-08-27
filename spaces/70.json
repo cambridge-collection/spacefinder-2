@@ -1,15 +1,4 @@
 {
-  "access": "Members of the University",
-  "address": "1st Floor\r\nBragg Building\r\nCavendish Laboratory \r\n19 J J Thomson Avenue \r\nCambridge \r\nCB3 0HE ",
-  "atmosphere": [
-    "disciplined",
-    "friendly"
-  ],
-  "building": "Rayleigh Library (Physics)",
-  "description": "",
-  "disabled_access": true,
-  "email_address": "https://libguides.cam.ac.uk/physics",
-  "facebook_url": "https://www.facebook.com/Rayleigh-Library-Cavendish-Laboratory-University-of-Cambridge-1464557683856342/",
   "facilities": [
     "daylight",
     "views",
@@ -29,14 +18,13 @@
     "bike_racks",
     "smoking_area"
   ],
-  "floor": "",
-  "id": 70,
-  "image": "/assets/photos/000-259-resized_IMG_3660.jpg",
-  "imagealt": "Rayleigh Library: Computer Desks",
-  "lat": 52.20922,
+  "atmosphere": [
+    "friendly",
+    "modern"
+  ],
+  "access": "Anyone (public)",
   "lng": 0.09248,
-  "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
-  "noise": "Whispers",
+  "disabled_access": true,
   "opening_hours": {
     "friday": {
       "open": false,
@@ -74,54 +62,12 @@
       "to": "24:00"
     }
   },
-  "out_of_term_hours": {
-    "friday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "monday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "saturday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "sunday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "thursday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "tuesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    },
-    "wednesday": {
-      "open": false,
-      "from": "00:00",
-      "to": "24:00"
-    }
-  },
-  "phone_number": "01223 337414",
-  "phone_text": "Phone the space",
-  "published": true,
-  "restricted": false,
-  "restriction": "",
   "slug": "rayleigh-library-computer-desks",
-  "space_type": "Library space",
-  "tags": [
-    "Fetching service available"
-  ],
-  "title": "Rayleigh Library: Computer Desks",
+  "floor": "",
+  "restriction": "",
+  "published": true,
+  "imagealt": "Rayleigh Library: Individual Study Spaces",
+  "url": "http://www.phy.cam.ac.uk/internal_resources/library",
   "term_time_hours": {
     "friday": {
       "open": false,
@@ -159,11 +105,66 @@
       "to": "17:00"
     }
   },
-  "twitter_screen_name": "RayLibCam",
-  "url": "http://www.phy.cam.ac.uk/internal_resources/library",
-  "url_text": "Visit the website",
+  "email_address": "https://libguides.cam.ac.uk/physics",
   "work": [
     "in_a_library",
-    "private"
-  ]
+    "private",
+    "close"
+  ],
+  "twitter_screen_name": "",
+  "out_of_term_hours": {
+    "friday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "monday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "saturday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "sunday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "thursday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "tuesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    },
+    "wednesday": {
+      "open": false,
+      "from": "00:00",
+      "to": "24:00"
+    }
+  },
+  "space_type": "Library space",
+  "building": "Rayleigh Library (Physics)",
+  "address": "Rayleigh Library\nRay Dolby Centre, \nCavendish Laboratory,\nDepartment of Physics\nJJ Thomson Avenue,\nCambridge \nCB3 0US",
+  "location": "{\"type\":\"Point\",\"coordinates\":[0.09248,52.20922]}",
+  "facebook_url": "",
+  "title": "Rayleigh Library: Individual Study Spaces",
+  "tags": [
+    "Fetching service available"
+  ],
+  "noise": "Whispers",
+  "phone_number": "01223 768158",
+  "restricted": false,
+  "id": 70,
+  "image": "/assets/photos/2026-rayleigh-000-00015-1-.jpg",
+  "description": "Individual study desks by the window, ideal for focused work with plenty of natural light.",
+  "url_text": "Visit the website",
+  "phone_text": "Phone the space",
+  "lat": 52.20922
 }
