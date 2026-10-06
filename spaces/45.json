@@ -21,18 +21,18 @@
   "opening_hours": {
     "friday": {
       "open": false,
-      "from": "09:00",
-      "to": "15:30"
+      "from": "08:45",
+      "to": "17:45"
     },
     "monday": {
       "open": false,
-      "from": "09:00",
-      "to": "16:30"
+      "from": "08:45",
+      "to": "17:45"
     },
     "saturday": {
       "open": false,
-      "from": "09:00",
-      "to": "15:30"
+      "from": "08:45",
+      "to": "12:45"
     },
     "sunday": {
       "open": false,
@@ -41,18 +41,18 @@
     },
     "thursday": {
       "open": false,
-      "from": "09:00",
-      "to": "16:30"
+      "from": "08:45",
+      "to": "17:45"
     },
     "tuesday": {
       "open": false,
-      "from": "09:00",
-      "to": "16:30"
+      "from": "08:45",
+      "to": "17:45"
     },
     "wednesday": {
       "open": false,
-      "from": "09:00",
-      "to": "16:30"
+      "from": "08:45",
+      "to": "17:45"
     }
   },
   "slug": "geography-library-computer-area",
